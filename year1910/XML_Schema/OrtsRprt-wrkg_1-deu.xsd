@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="polBezirke"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="polBezirke">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="polBezirk"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="polBezirk">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="gerichtsBezirke"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gerichtsBezirke">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="gerichtsBezirk"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gerichtsBezirk">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="gemeinden"/>
+      </xs:sequence>
+      <xs:attribute name="n" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gemeinden">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="gemeinde"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gemeinde">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="orte"/>
+      </xs:sequence>
+      <xs:attribute name="n" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="orte">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ort"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ort">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="geo"/>
+        <xs:element minOccurs="0" ref="teile"/>
+      </xs:sequence>
+      <xs:attribute name="n" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="teile">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="teil"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="teil">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="geo"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="placeName">
+    <xs:complexType mixed="true">
+      <xs:attribute name="key" type="xs:integer"/>
+      <xs:attribute name="lang">
+        <xs:simpleType>
+          <xs:restriction base="xs:language">
+            <xs:enumeration value="slv">
+              <xs:annotation>
+                <xs:documentation>slovenščina</xs:documentation>
+              </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="deu">
+              <xs:annotation>
+                <xs:documentation>nemščina</xs:documentation>
+              </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ita">
+              <xs:annotation>
+                <xs:documentation>italijanščina</xs:documentation>
+              </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="hun">
+              <xs:annotation>
+                <xs:documentation>madžarščina</xs:documentation>
+              </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="hrv">
+              <xs:annotation>
+                <xs:documentation>hrvaščina</xs:documentation>
+              </xs:annotation>
+            </xs:enumeration>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="geo" type="xs:string"/>
+</xs:schema>
