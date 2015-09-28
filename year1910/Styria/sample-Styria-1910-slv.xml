@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text xml:lang="slv">
+      <body>
+         <div>
+            <listPlace>
+               <head>Politični okraj</head>
+               <place xml:id="po1">
+                  <label>Pol. okr.</label>
+                  <placeName xml:lang="slv">Brežice</placeName>
+                  <placeName xml:lang="deu">Rann</placeName>
+                  <terrain>
+                     <label>Površina v hektarih</label>
+                     <desc>61349</desc>
+                  </terrain>
+                  <terrain>
+                     <label>Število hiš</label>
+                     <desc>9935</desc>
+                  </terrain>
+                  <population>
+                     <label>Navzoče prebivalstvo</label>
+                     <population>
+                        <population>
+                           <label>skupaj</label>
+                           <desc>50329</desc>
+                        </population>
+                        <population>
+                           <label>moško</label>
+                           <desc>24507</desc>
+                        </population>
+                        <population>
+                           <label>žensko</label>
+                           <desc>25822</desc>
+                        </population>
+                     </population>
+                     <population>
+                        <population>
+                           <label>katoliško</label>
+                           <desc>50270</desc>
+                        </population>
+                        <population>
+                           <label>evangelsko</label>
+                           <desc>52</desc>
+                        </population>
+                        <population>
+                           <label>izraelitsko</label>
+                           <desc>2</desc>
+                        </population>
+                        <population>
+                           <label>drugo</label>
+                           <desc>5</desc>
+                        </population>
+                     </population>
+                     <population>
+                        <population>
+                           <label>Občevalni jezik avstrijskih državljanov</label>
+                           <population>
+                              <label>nemški</label>
+                              <desc>1090</desc>
+                           </population>
+                           <population>
+                              <label>slovenski</label>
+                              <desc>48344</desc>
+                           </population>
+                           <population>
+                              <label>drugi</label>
+                              <desc>29</desc>
+                           </population>
+                        </population>
+                        <population>
+                           <label>Inozemci</label>
+                           <desc>866</desc>
+                        </population>
+                     </population>
+                  </population>
+                  <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                     <ref></ref>
+                  </desc>
+                  <terrain>
+                     <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                     <desc></desc>
+                  </terrain>
+                  <population>
+                     <label>med tem vojaštva</label>
+                     <population>
+                        <population>
+                           <label>skupaj</label>
+                           <desc>1</desc>
+                        </population>
+                        <population>
+                           <label>moško</label>
+                           <desc>1</desc>
+                        </population>
+                        <population>
+                           <label>žensko</label>
+                           <desc></desc>
+                        </population>
+                     </population>
+                     <population>
+                        <population>
+                           <label>katoliško</label>
+                           <desc>1</desc>
+                        </population>
+                        <population>
+                           <label>evangelsko</label>
+                           <desc></desc>
+                        </population>
+                        <population>
+                           <label>izraelitsko</label>
+                           <desc></desc>
+                        </population>
+                        <population>
+                           <label>drugo</label>
+                           <desc></desc>
+                        </population>
+                     </population>
+                     <population>
+                        <population>
+                           <label>Občevalni jezik avstrijskih državljanov</label>
+                           <population>
+                              <label>nemški</label>
+                              <desc></desc>
+                           </population>
+                           <population>
+                              <label>slovenski</label>
+                              <desc>1</desc>
+                           </population>
+                           <population>
+                              <label>drugi</label>
+                              <desc></desc>
+                           </population>
+                        </population>
+                        <population>
+                           <label>Inozemci</label>
+                           <desc></desc>
+                        </population>
+                     </population>
+                  </population>
+                  <note>3 sodni okraji, 58 krajevnih občin, 202 kraja, mdt. 1 mesto, 7 trgov</note>
+                  <listPlace>
+                     <head>sodni okraj</head>
+                     <place xml:id="po1.so1" n="I.">
+                        <label>sodni okraj</label>
+                        <placeName xml:lang="slv">Brežice</placeName>
+                        <placeName xml:lang="deu">Rann</placeName>
+                        <terrain>
+                           <label>Površina v hektarih</label>
+                           <desc>20466</desc>
+                        </terrain>
+                        <terrain>
+                           <label>Število hiš</label>
+                           <desc>3752</desc>
+                        </terrain>
+                        <population>
+                           <label>Navzoče prebivalstvo</label>
+                           <population>
+                              <population>
+                                 <label>skupaj</label>
+                                 <desc>20488</desc>
+                              </population>
+                              <population>
+                                 <label>moško</label>
+                                 <desc>10010</desc>
+                              </population>
+                              <population>
+                                 <label>žensko</label>
+                                 <desc>10478</desc>
+                              </population>
+                           </population>
+                           <population>
+                              <population>
+                                 <label>katoliško</label>
+                                 <desc>20451</desc>
+                              </population>
+                              <population>
+                                 <label>evangelsko</label>
+                                 <desc>32</desc>
+                              </population>
+                              <population>
+                                 <label>izraelitsko</label>
+                                 <desc>2</desc>
+                              </population>
+                              <population>
+                                 <label>drugo</label>
+                                 <desc>3</desc>
+                              </population>
+                           </population>
+                           <population>
+                              <population>
+                                 <label>Občevalni jezik avstrijskih državljanov</label>
+                                 <population>
+                                    <label>nemški</label>
+                                    <desc>870</desc>
+                                 </population>
+                                 <population>
+                                    <label>slovenski</label>
+                                    <desc>19221</desc>
+                                 </population>
+                                 <population>
+                                    <label>drugi</label>
+                                    <desc>20</desc>
+                                 </population>
+                              </population>
+                              <population>
+                                 <label>Inozemci</label>
+                                 <desc>377</desc>
+                              </population>
+                           </population>
+                        </population>
+                        <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                           <ref></ref>
+                        </desc>
+                        <terrain>
+                           <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                           <desc></desc>
+                        </terrain>
+                        <population>
+                           <label>med tem vojaštva</label>
+                           <population>
+                              <population>
+                                 <label>skupaj</label>
+                                 <desc>1</desc>
+                              </population>
+                              <population>
+                                 <label>moško</label>
+                                 <desc>1</desc>
+                              </population>
+                              <population>
+                                 <label>žensko</label>
+                                 <desc></desc>
+                              </population>
+                           </population>
+                           <population>
+                              <population>
+                                 <label>katoliško</label>
+                                 <desc>1</desc>
+                              </population>
+                              <population>
+                                 <label>evangelsko</label>
+                                 <desc></desc>
+                              </population>
+                              <population>
+                                 <label>izraelitsko</label>
+                                 <desc></desc>
+                              </population>
+                              <population>
+                                 <label>drugo</label>
+                                 <desc></desc>
+                              </population>
+                           </population>
+                           <population>
+                              <population>
+                                 <label>Občevalni jezik avstrijskih državljanov</label>
+                                 <population>
+                                    <label>nemški</label>
+                                    <desc></desc>
+                                 </population>
+                                 <population>
+                                    <label>slovenski</label>
+                                    <desc>1</desc>
+                                 </population>
+                                 <population>
+                                    <label>drugi</label>
+                                    <desc></desc>
+                                 </population>
+                              </population>
+                              <population>
+                                 <label>Inozemci</label>
+                                 <desc></desc>
+                              </population>
+                           </population>
+                        </population>
+                        <note>18 krajevnih občin, 74 krajev, mdt. 1 mesto</note>
+                        <listPlace>
+                           <head>krajevna občina</head>
+                           <place xml:id="po1.so1.ob1" n="1">
+                              <placeName xml:lang="slv">Artiče</placeName>
+                              <placeName xml:lang="deu">Artitsch</placeName>
+                              <terrain>
+                                 <label>Površina v hektarih</label>
+                                 <desc>1333</desc>
+                              </terrain>
+                              <terrain>
+                                 <label>Število hiš</label>
+                                 <desc>336</desc>
+                              </terrain>
+                              <population>
+                                 <label>Navzoče prebivalstvo</label>
+                                 <population>
+                                    <population>
+                                       <label>skupaj</label>
+                                       <desc>1846</desc>
+                                    </population>
+                                    <population>
+                                       <label>moško</label>
+                                       <desc>878</desc>
+                                    </population>
+                                    <population>
+                                       <label>žensko</label>
+                                       <desc>968</desc>
+                                    </population>
+                                 </population>
+                                 <population>
+                                    <population>
+                                       <label>katoliško</label>
+                                       <desc>1846</desc>
+                                    </population>
+                                    <population>
+                                       <label>evangelsko</label>
+                                       <desc></desc>
+                                    </population>
+                                    <population>
+                                       <label>izraelitsko</label>
+                                       <desc></desc>
+                                    </population>
+                                    <population>
+                                       <label>drugo</label>
+                                       <desc></desc>
+                                    </population>
+                                 </population>
+                                 <population>
+                                    <population>
+                                       <label>Občevalni jezik avstrijskih državljanov</label>
+                                       <population>
+                                          <label>nemški</label>
+                                          <desc></desc>
+                                       </population>
+                                       <population>
+                                          <label>slovenski</label>
+                                          <desc>1827</desc>
+                                       </population>
+                                       <population>
+                                          <label>drugi</label>
+                                          <desc>20</desc>
+                                       </population>
+                                    </population>
+                                    <population>
+                                       <label>Inozemci</label>
+                                       <desc>19</desc>
+                                    </population>
+                                 </population>
+                              </population>
+                              <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                 <ref></ref>
+                              </desc>
+                              <terrain>
+                                 <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                 <desc></desc>
+                              </terrain>
+                              <listPlace>
+                                 <head>kraj</head>
+                                 <place xml:id="po1.so1.ob1.kr1" n="1">
+                                    <placeName xml:lang="slv">Arnova Sela</placeName>
+                                    <placeName xml:lang="deu">Arnovasela</placeName>
+                                    <location>
+                                       <geo></geo>
+                                    </location>
+                                    <state>
+                                       <label>katastrska občina</label>
+                                       <desc>(<ref target="#po1.so1.ob1.kr1">1</ref>,
+                                          <ref target="#po1.so1.ob1.kr2">2 d.</ref>, <ref target="#po1.so1.ob1.kr6">6 d.</ref>)</desc>
+                                    </state>
+                                    <terrain>
+                                       <label>Število hiš</label>
+                                       <desc>63</desc>
+                                    </terrain>
+                                    <population>
+                                       <label>Navzoče prebivalstvo</label>
+                                       <population>
+                                          <population>
+                                             <label>skupaj</label>
+                                             <desc>345</desc>
+                                          </population>
+                                          <population>
+                                             <label>moško</label>
+                                             <desc>161</desc>
+                                          </population>
+                                          <population>
+                                             <label>žensko</label>
+                                             <desc>184</desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>katoliško</label>
+                                             <desc>345</desc>
+                                          </population>
+                                          <population>
+                                             <label>evangelsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>izraelitsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>drugo</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>Občevalni jezik avstrijskih državljanov</label>
+                                             <population>
+                                                <label>nemški</label>
+                                                <desc></desc>
+                                             </population>
+                                             <population>
+                                                <label>slovenski</label>
+                                                <desc>345</desc>
+                                             </population>
+                                             <population>
+                                                <label>drugi</label>
+                                                <desc></desc>
+                                             </population>
+                                          </population>
+                                          <population>
+                                             <label>Inozemci</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                    </population>
+                                    <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                       <ref target="#po1.so1.puzp1">1)</ref>
+                                    </desc>
+                                    <terrain>
+                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref> 2</desc>
+                                    </terrain>
+                                    <listPlace>
+                                       <head>Krajevni deli</head>
+                                       <place xml:id="po1.so1.ob1.kr1.kd1">
+                                          <placeName xml:lang="slv" key="geonameId:8987036">Arnova Sela</placeName>
+                                          <placeName xml:lang="deu">Arnovasela</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>soseska</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>30</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>163</desc>
+                                          </population>
+                                       </place>
+                                       <place xml:id="po1.so1.ob1.kr1.kd2">
+                                          <placeName xml:lang="slv" key="geonameId:10793830">Mrzlak</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>raztresene hiše</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>21</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>93</desc>
+                                          </population>
+                                       </place>
+                                       <place xml:id="po1.so1.ob1.kr1.kd3">
+                                          <placeName xml:lang="slv" key="geonameId:10793831">Ivanje Selo</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>raztresene hiše</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>5</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>40</desc>
+                                          </population>
+                                       </place>
+                                       <place xml:id="po1.so1.ob1.kr1.kd4">
+                                          <placeName xml:lang="slv">Roviše</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>raztresene hiše</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>7</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>49</desc>
+                                          </population>
+                                       </place>
+                                    </listPlace>
+                                 </place>
+                                 <place xml:id="po1.so1.ob1.kr2" n="2">
+                                    <placeName xml:lang="slv">Artiče</placeName>
+                                    <placeName xml:lang="deu">Artitsch</placeName>
+                                    <location>
+                                       <geo></geo>
+                                    </location>
+                                    <state>
+                                       <label>katastrska občina</label>
+                                       <desc>(<ref target="#po1.so1.ob1.kr2">2 d</ref>, <ref target="#po1.so1.ob1.kr5">5</ref>)</desc>
+                                    </state>
+                                    <terrain>
+                                       <label>Število hiš</label>
+                                       <desc>43</desc>
+                                    </terrain>
+                                    <population>
+                                       <label>Navzoče prebivalstvo</label>
+                                       <population>
+                                          <population>
+                                             <label>skupaj</label>
+                                             <desc>229</desc>
+                                          </population>
+                                          <population>
+                                             <label>moško</label>
+                                             <desc>110</desc>
+                                          </population>
+                                          <population>
+                                             <label>žensko</label>
+                                             <desc>119</desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>katoliško</label>
+                                             <desc>229</desc>
+                                          </population>
+                                          <population>
+                                             <label>evangelsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>izraelitsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>drugo</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>Občevalni jezik avstrijskih državljanov</label>
+                                             <population>
+                                                <label>nemški</label>
+                                                <desc></desc>
+                                             </population>
+                                             <population>
+                                                <label>slovenski</label>
+                                                <desc>225</desc>
+                                             </population>
+                                             <population>
+                                                <label>drugi</label>
+                                                <desc></desc>
+                                             </population>
+                                          </population>
+                                          <population>
+                                             <label>Inozemci</label>
+                                             <desc>4</desc>
+                                          </population>
+                                       </population>
+                                    </population>
+                                    <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                       <ref target="#po1.so1.puzp1">1)</ref>
+                                    </desc>
+                                    <terrain>
+                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.25">1 1/4</num></desc>
+                                    </terrain>
+                                    <listPlace>
+                                       <head>Krajevni deli</head>
+                                       <place xml:id="po1.so1.ob1.kr2.kd1">
+                                          <placeName xml:lang="slv" key="geonameId:3204766">Artiče</placeName>
+                                          <placeName xml:lang="deu">Artitsch</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>soseska</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>37</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>199</desc>
+                                          </population>
+                                       </place>
+                                       <place xml:id="po1.so1.ob1.kr2.kd2">
+                                          <placeName xml:lang="slv">Kralovec</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>raztresene hiše</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>6</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>30</desc>
+                                          </population>
+                                       </place>
+                                    </listPlace>
+                                 </place>
+                                 <place xml:id="po1.so1.ob1.kr3" n="3">
+                                    <placeName xml:lang="slv">Dečna Sela</placeName>
+                                    <placeName xml:lang="deu">Detschnasela</placeName>
+                                    <location>
+                                       <geo></geo>
+                                    </location>
+                                    <state>
+                                       <label>katastrska občina</label>
+                                       <desc>(<ref target="#po1.so1.ob1.kr2">2 d</ref>, <ref target="#po1.so1.ob1.kr3">3</ref>)</desc>
+                                    </state>
+                                    <terrain>
+                                       <label>Število hiš</label>
+                                       <desc>51</desc>
+                                    </terrain>
+                                    <population>
+                                       <label>Navzoče prebivalstvo</label>
+                                       <population>
+                                          <population>
+                                             <label>skupaj</label>
+                                             <desc>325</desc>
+                                          </population>
+                                          <population>
+                                             <label>moško</label>
+                                             <desc>150</desc>
+                                          </population>
+                                          <population>
+                                             <label>žensko</label>
+                                             <desc>175</desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>katoliško</label>
+                                             <desc>325</desc>
+                                          </population>
+                                          <population>
+                                             <label>evangelsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>izraelitsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>drugo</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>Občevalni jezik avstrijskih državljanov</label>
+                                             <population>
+                                                <label>nemški</label>
+                                                <desc></desc>
+                                             </population>
+                                             <population>
+                                                <label>slovenski</label>
+                                                <desc>324</desc>
+                                             </population>
+                                             <population>
+                                                <label>drugi</label>
+                                                <desc></desc>
+                                             </population>
+                                          </population>
+                                          <population>
+                                             <label>Inozemci</label>
+                                             <desc>1</desc>
+                                          </population>
+                                       </population>
+                                    </population>
+                                    <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                       <ref target="#po1.so1.puzp1">1)</ref>
+                                    </desc>
+                                    <terrain>
+                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                    </terrain>
+                                    <listPlace>
+                                       <head>Krajevni deli</head>
+                                       <place xml:id="po1.so1.ob1.kr3.kd1">
+                                          <placeName xml:lang="slv" key="geonameId:">Brezje</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>selo, zaselje (3-9 hiš)</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>4</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>33</desc>
+                                          </population>
+                                       </place>
+                                       <place xml:id="po1.so1.ob1.kr3.kd2">
+                                          <placeName xml:lang="slv" key="geonameId:3202127">Dečna Sela</placeName>
+                                          <placeName xml:lang="deu">Detschnasela</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>soseska</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>47</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>292</desc>
+                                          </population>
+                                       </place>
+                                    </listPlace>
+                                 </place>
+                                 <place xml:id="po1.so1.ob1.kr4" n="4">
+                                    <placeName xml:lang="slv">Dolenja Vas</placeName>
+                                    <placeName xml:lang="deu">Niederdorf</placeName>
+                                    <location>
+                                       <geo></geo>
+                                    </location>
+                                    <state>
+                                       <label>katastrska občina</label>
+                                       <desc>(<ref target="#po1.so1.ob1.kr4">4</ref>, <ref target="#po1.so1.ob1.kr6">6 d</ref> &amp; <ref>od krajevne občine 17, 6 d.</ref>)</desc>
+                                    </state>
+                                    <terrain>
+                                       <label>Število hiš</label>
+                                       <desc>63</desc>
+                                    </terrain>
+                                    <population>
+                                       <label>Navzoče prebivalstvo</label>
+                                       <population>
+                                          <population>
+                                             <label>skupaj</label>
+                                             <desc>293</desc>
+                                          </population>
+                                          <population>
+                                             <label>moško</label>
+                                             <desc>134</desc>
+                                          </population>
+                                          <population>
+                                             <label>žensko</label>
+                                             <desc>159</desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>katoliško</label>
+                                             <desc>293</desc>
+                                          </population>
+                                          <population>
+                                             <label>evangelsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>izraelitsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>drugo</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>Občevalni jezik avstrijskih državljanov</label>
+                                             <population>
+                                                <label>nemški</label>
+                                                <desc></desc>
+                                             </population>
+                                             <population>
+                                                <label>slovenski</label>
+                                                <desc>285</desc>
+                                             </population>
+                                             <population>
+                                                <label>drugi</label>
+                                                <desc></desc>
+                                             </population>
+                                          </population>
+                                          <population>
+                                             <label>Inozemci</label>
+                                             <desc>8</desc>
+                                          </population>
+                                       </population>
+                                    </population>
+                                    <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                       <ref target="#po1.so1.puzp1">1)</ref>
+                                    </desc>
+                                    <terrain>
+                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                    </terrain>
+                                  <listPlace>
+                                       <head>Krajevni deli</head>
+                                       <place xml:id="po1.so1.ob1.kr4.kd1">
+                                          <placeName xml:lang="slv" key="geonameId:10793836">Čela</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>raztresene hiše</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>10</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>19</desc>
+                                          </population>
+                                       </place>
+                                       <place xml:id="po1.so1.ob1.kr4.kd2">
+                                          <placeName xml:lang="slv" key="geonameId:8987180">Dolenja Vas</placeName>
+                                          <placeName xml:lang="deu">Niederdorf</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>vas</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>29</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>163</desc>
+                                          </population>
+                                       </place>
+                                       <place sameAs="#po1.so1.ob1.kr4.kd2">
+                                          <label>raztresene hiše</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>24</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>111</desc>
+                                          </population>
+                                       </place>
+                                    </listPlace>  
+                                 </place>
+                                 <place xml:id="po1.so1.ob1.kr5" n="5">
+                                    <placeName xml:lang="slv" key="geonameId:8987603">Glogov Brod</placeName>
+                                    <label>raztresene hiše</label>
+                                    <location>
+                                       <geo></geo>
+                                    </location>
+                                    <terrain>
+                                       <label>Število hiš</label>
+                                       <desc>20</desc>
+                                    </terrain>
+                                    <population>
+                                       <label>Navzoče prebivalstvo</label>
+                                       <population>
+                                          <population>
+                                             <label>skupaj</label>
+                                             <desc>126</desc>
+                                          </population>
+                                          <population>
+                                             <label>moško</label>
+                                             <desc>57</desc>
+                                          </population>
+                                          <population>
+                                             <label>žensko</label>
+                                             <desc>69</desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>katoliško</label>
+                                             <desc>126</desc>
+                                          </population>
+                                          <population>
+                                             <label>evangelsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>izraelitsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>drugo</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>Občevalni jezik avstrijskih državljanov</label>
+                                             <population>
+                                                <label>nemški</label>
+                                                <desc></desc>
+                                             </population>
+                                             <population>
+                                                <label>slovenski</label>
+                                                <desc>121</desc>
+                                             </population>
+                                             <population>
+                                                <label>drugi</label>
+                                                <desc></desc>
+                                             </population>
+                                          </population>
+                                          <population>
+                                             <label>Inozemci</label>
+                                             <desc>5</desc>
+                                          </population>
+                                       </population>
+                                    </population>
+                                    <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                       <ref target="#po1.so1.puzp1">1)</ref>
+                                    </desc>
+                                    <terrain>
+                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                    </terrain>
+                                 </place>
+                                 <place xml:id="po1.so1.ob1.kr6" n="6">
+                                    <placeName xml:lang="slv">Spodnja Pohanca</placeName>
+                                    <placeName xml:lang="deu">Unterpochanza</placeName>
+                                    <location>
+                                       <geo></geo>
+                                    </location>
+                                    <terrain>
+                                       <label>Število hiš</label>
+                                       <desc>21</desc>
+                                    </terrain>
+                                    <population>
+                                       <label>Navzoče prebivalstvo</label>
+                                       <population>
+                                          <population>
+                                             <label>skupaj</label>
+                                             <desc>118</desc>
+                                          </population>
+                                          <population>
+                                             <label>moško</label>
+                                             <desc>62</desc>
+                                          </population>
+                                          <population>
+                                             <label>žensko</label>
+                                             <desc>56</desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>katoliško</label>
+                                             <desc>118</desc>
+                                          </population>
+                                          <population>
+                                             <label>evangelsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>izraelitsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>drugo</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>Občevalni jezik avstrijskih državljanov</label>
+                                             <population>
+                                                <label>nemški</label>
+                                                <desc></desc>
+                                             </population>
+                                             <population>
+                                                <label>slovenski</label>
+                                                <desc>117</desc>
+                                             </population>
+                                             <population>
+                                                <label>drugi</label>
+                                                <desc></desc>
+                                             </population>
+                                          </population>
+                                          <population>
+                                             <label>Inozemci</label>
+                                             <desc>1</desc>
+                                          </population>
+                                       </population>
+                                    </population>
+                                    <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                       <ref target="#po1.so1.puzp1">1)</ref>
+                                    </desc>
+                                    <terrain>
+                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.25">1 1/4</num></desc>
+                                    </terrain>
+                                    <listPlace>
+                                       <head>Krajevni deli</head>
+                                       <place xml:id="po1.so1.ob1.kr6.kd1">
+                                          <placeName xml:lang="slv" key="geonameId:3190240">Spodnja Pohanca</placeName>
+                                          <placeName xml:lang="deu">Unterpochanza</placeName>
+                                          <location>
+                                             <geo></geo>
+                                          </location>
+                                          <label>soseska</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>11</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>63</desc>
+                                          </population>
+                                       </place>
+                                       <place sameAs="#po1.so1.ob1.kr6.kd1">
+                                          <label>raztresene hiše</label>
+                                          <terrain>
+                                             <label>Število hiš</label>
+                                             <desc>10</desc>
+                                          </terrain>
+                                          <population>
+                                             <label>Število prebivalcev</label>
+                                             <desc>55</desc>
+                                          </population>
+                                       </place>
+                                    </listPlace>
+                                 </place>
+                                 <place xml:id="po1.so1.ob1.kr7" n="7">
+                                    <placeName xml:lang="slv" key="geonameId:8987097">Trebež</placeName>
+                                    <placeName xml:lang="deu">Trebesch</placeName>
+                                    <location>
+                                       <geo></geo>
+                                    </location>
+                                    <label>raztresene hiše</label>
+                                    <state>
+                                       <label>katastrska občina</label>
+                                       <desc>
+                                          <placeName xml:lang="slv">Brezina II</placeName>
+                                          <placeName xml:lang="deu">Bresina II</placeName>
+                                       </desc>
+                                       <desc>(<ref target="#po1.so1.ob1.kr7">7 d</ref>)</desc>
+                                    </state>
+                                    <terrain>
+                                       <label>Število hiš</label>
+                                       <desc>41</desc>
+                                    </terrain>
+                                    <population>
+                                       <label>Navzoče prebivalstvo</label>
+                                       <population>
+                                          <population>
+                                             <label>skupaj</label>
+                                             <desc>215</desc>
+                                          </population>
+                                          <population>
+                                             <label>moško</label>
+                                             <desc>109</desc>
+                                          </population>
+                                          <population>
+                                             <label>žensko</label>
+                                             <desc>106</desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>katoliško</label>
+                                             <desc>215</desc>
+                                          </population>
+                                          <population>
+                                             <label>evangelsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>izraelitsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>drugo</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>Občevalni jezik avstrijskih državljanov</label>
+                                             <population>
+                                                <label>nemški</label>
+                                                <desc></desc>
+                                             </population>
+                                             <population>
+                                                <label>slovenski</label>
+                                                <desc>215</desc>
+                                             </population>
+                                             <population>
+                                                <label>drugi</label>
+                                                <desc></desc>
+                                             </population>
+                                          </population>
+                                          <population>
+                                             <label>Inozemci</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                    </population>
+                                    <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                       <ref target="#po1.so1.puzp1">1)</ref>
+                                    </desc>
+                                    <terrain>
+                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                    </terrain>
+                                 </place>
+                                 <place xml:id="po1.so1.ob1.kr8" n="8">
+                                    <placeName xml:lang="slv" key="geonameId:8987321">Zgornji Obrež</placeName>
+                                    <placeName xml:lang="deu">Oberobresch</placeName>
+                                    <location>
+                                       <geo></geo>
+                                    </location>
+                                    <label>soseska</label>
+                                    <state>
+                                       <label>katastrska občina</label>
+                                    </state>
+                                    <terrain>
+                                       <label>Število hiš</label>
+                                       <desc>27</desc>
+                                    </terrain>
+                                    <population>
+                                       <label>Navzoče prebivalstvo</label>
+                                       <population>
+                                          <population>
+                                             <label>skupaj</label>
+                                             <desc>163</desc>
+                                          </population>
+                                          <population>
+                                             <label>moško</label>
+                                             <desc>79</desc>
+                                          </population>
+                                          <population>
+                                             <label>žensko</label>
+                                             <desc>84</desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>katoliško</label>
+                                             <desc>163</desc>
+                                          </population>
+                                          <population>
+                                             <label>evangelsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>izraelitsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>drugo</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>Občevalni jezik avstrijskih državljanov</label>
+                                             <population>
+                                                <label>nemški</label>
+                                                <desc></desc>
+                                             </population>
+                                             <population>
+                                                <label>slovenski</label>
+                                                <desc>163</desc>
+                                             </population>
+                                             <population>
+                                                <label>drugi</label>
+                                                <desc></desc>
+                                             </population>
+                                          </population>
+                                          <population>
+                                             <label>Inozemci</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                    </population>
+                                    <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                       <ref target="#po1.so1.puzp1">1)</ref>
+                                    </desc>
+                                    <terrain>
+                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                    </terrain>
+                                 </place>
+                                 <place xml:id="po1.so1.ob1.kr9" n="9" sameAs="">
+                                    <placeName xml:lang="slv" key="geonameId:8987167">Zverinjak</placeName>
+                                    <placeName xml:lang="deu">Thiergarten</placeName>
+                                    <location>
+                                       <geo></geo>
+                                    </location>
+                                    <desc>1. del (glej <ref>18</ref>)</desc>
+                                    <label>raztresene hiše</label>
+                                    <state>
+                                       <label>katastrska občina</label>
+                                       <desc>
+                                          <placeName xml:lang="slv">Sveti Lenart II</placeName>
+                                          <placeName xml:lang="deu">Sankt Leonhard II</placeName>
+                                       </desc>
+                                       <desc>(<ref target="#po1.so1.ob1.kr7">7 d.</ref>, <ref target="#po1.so1.ob1.kr9">9</ref>).</desc>
+                                    </state>
+                                    <terrain>
+                                       <label>Število hiš</label>
+                                       <desc>7</desc>
+                                    </terrain>
+                                    <population>
+                                       <label>Navzoče prebivalstvo</label>
+                                       <population>
+                                          <population>
+                                             <label>skupaj</label>
+                                             <desc>32</desc>
+                                          </population>
+                                          <population>
+                                             <label>moško</label>
+                                             <desc>16</desc>
+                                          </population>
+                                          <population>
+                                             <label>žensko</label>
+                                             <desc>16</desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>katoliško</label>
+                                             <desc>32</desc>
+                                          </population>
+                                          <population>
+                                             <label>evangelsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>izraelitsko</label>
+                                             <desc></desc>
+                                          </population>
+                                          <population>
+                                             <label>drugo</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                       <population>
+                                          <population>
+                                             <label>Občevalni jezik avstrijskih državljanov</label>
+                                             <population>
+                                                <label>nemški</label>
+                                                <desc></desc>
+                                             </population>
+                                             <population>
+                                                <label>slovenski</label>
+                                                <desc>32</desc>
+                                             </population>
+                                             <population>
+                                                <label>drugi</label>
+                                                <desc></desc>
+                                             </population>
+                                          </population>
+                                          <population>
+                                             <label>Inozemci</label>
+                                             <desc></desc>
+                                          </population>
+                                       </population>
+                                    </population>
+                                    <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
+                                       <ref target="#po1.so1.puzp1">2)</ref>
+                                    </desc>
+                                    <terrain>
+                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                    </terrain>
+                                 </place>
+                              </listPlace>
+                           </place>
+                        </listPlace>
+                     </place>
+                  </listPlace>
+               </place>
+            </listPlace>
+            <div>
+               <listOrg xml:id="po1.so1.puzp">
+                  <head><pb n="4"/>Poštni urad in železniška postaja sodnega okraja Brežice:</head>
+                  <org xml:id="po1.so1.puzp1">
+                     <orgName>
+                        <placeName xml:lang="slv">Artiče pri Brežicah</placeName>
+                     </orgName>
+                  </org>
+                  <org xml:id="po1.so1.puzp2">
+                     <orgName>
+                        <placeName xml:lang="slv">Brežice</placeName>
+                     </orgName>
+                  </org>
+               </listOrg>
+            </div>
+            <div>
+               <listOrg xml:id="po1.so1.org">
+                  <head>Uradi, zavodi itd. v sodnem okraju Brežice:</head>
+                  <listOrg corresp="#po1.so1.ob1.kr2">
+                     <org>
+                        <label>rimsko-katoliška župnija.</label>
+                        <location>
+                           <measure unit="m">217</measure>
+                        </location>
+                     </org>
+                     <org>
+                        <label>ljudska šola.</label>
+                        <desc>
+                           <label>število oddelkov (razredov in vzporednic)</label>
+                           <num value="5">V</num>
+                        </desc>
+                     </org>
+                     <org>
+                        <label>registrovana pridobitna in gospodarska zadruga</label>
+                        <label>posojilnica sistema Raiffeisen</label>
+                     </org>
+                     <org>
+                        <label>poštni urad.</label>
+                        <placeName>Artiče pri Brežicah</placeName>
+                     </org>
+                  </listOrg>
+                  <listOrg corresp="#po1.so1.ob1.kr4">
+                     <org>
+                        <label>rimsko-katoliška župnija.</label>
+                        <location>
+                           <measure unit="m">164</measure>
+                        </location>
+                     </org>
+                  </listOrg>
+               </listOrg>
+            </div>
+         </div>
+         <div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>
