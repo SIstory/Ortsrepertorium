@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../XML_Schema/OrtsRprt-wrkg_1-slv.xsd">
+   <polOkraji>
+      <polOkraj>
+         <placeName>Brežice</placeName>
+         <placeName lang="deu">Rann</placeName>
+         <sodniOkraji>
+            <sodniOkraj n="1">
+               <placeName>Brežice</placeName>
+               <placeName lang="deu">Rann</placeName>
+               <obcine>
+                  <obcina n="1">
+                     <placeName>Artiče</placeName>
+                     <placeName lang="deu">Artitsch</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName>Arnova Sela</placeName>
+                           <placeName lang="deu">Arnovasela</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv" key="8987036">Arnova Sela</placeName>
+                                 <placeName lang="deu">Arnovasela</placeName>
+                                 <geo>45.96059, 15.57106</geo>
+                              </del>
+                              <del>
+                                 <placeName key="10793830">Mrzlak</placeName>
+                                 <geo>45.96386, 15.57394</geo>
+                              </del>
+                              <del>
+                                 <placeName key="10793831">Ivanje Selo</placeName>
+                                 <geo>45.95873, 15.57647</geo>
+                              </del>
+                              <del>
+                                 <placeName>Roviše</placeName>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName>Artiče</placeName>
+                           <placeName lang="deu">Artitsch</placeName>
+                           <deli>
+                              <del>
+                                 <placeName key="3204766">Artiče</placeName>
+                                 <placeName lang="deu">Artitsch</placeName>
+                                 <geo>45.95389, 15.58778</geo>
+                              </del>
+                              <del>
+                                 <placeName>Kralovec</placeName>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="3">
+                           <placeName>Dečna Sela</placeName>
+                           <placeName lang="deu">Detschnasela</placeName>
+                           <deli>
+                              <del>
+                                 <placeName>Brezje</placeName>
+                              </del>
+                              <del>
+                                 <placeName key="3202127">Dečna Sela</placeName>
+                                 <placeName lang="deu">Detschnasela</placeName>
+                                 <geo>45.95225, 15.60595</geo>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="4">
+                           <placeName>Dolenja Vas</placeName>
+                           <placeName lang="deu">Niederdorf</placeName>
+                           <deli>
+                              <del>
+                                 <placeName key="10793836">Čela</placeName>
+                                 <geo>45.96595, 15.5575</geo>
+                              </del>
+                              <del>
+                                 <placeName key="8987180">Dolenja Vas</placeName>
+                                 <placeName lang="deu">Niederdorf</placeName>
+                                 <geo>45.95249, 15.5495</geo>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="5">
+                           <placeName key="8987603">Glogov Brod</placeName>
+                           <geo>45.94555, 15.59545</geo>
+                        </kraj>
+                        <kraj n="6">
+                           <placeName>Spodnja Pohanca</placeName>
+                           <placeName lang="deu">Unterpochanza</placeName>
+                           <deli>
+                              <del>
+                                 <placeName key="3190240">Spodnja Pohanca</placeName>
+                                 <placeName lang="deu">Unterpochanza</placeName>
+                                 <geo>45.94778, 15.5657</geo>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="7">
+                           <placeName key="8987097">Trebež</placeName>
+                           <placeName lang="deu">Trebesch</placeName>
+                           <geo>45.94092, 15.58179</geo>
+                        </kraj>
+                        <kraj n="8">
+                           <placeName key="8987321">Zgornji Obrež</placeName>
+                           <placeName lang="deu">Oberobresch</placeName>
+                           <geo>45.93898, 15.56429</geo>
+                        </kraj>
+                        <kraj n="9">
+                           <placeName key="8987167">Zverinjak</placeName>
+                           <placeName lang="deu">Thiergarten</placeName>
+                           <geo>45.92067, 15.57332</geo>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+               </obcine>
+            </sodniOkraj>
+         </sodniOkraji>
+      </polOkraj>
+   </polOkraji>
+</root>
