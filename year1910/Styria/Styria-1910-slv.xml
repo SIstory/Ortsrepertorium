@@ -120,19 +120,22 @@
                            <placeName lang="deu">Wiselldorf</placeName>
                            <deli>
                               <del>
-                                 <placeName>Bizeljsko</placeName>
+                                 <placeName key="3204025">Bizeljsko</placeName>
                                  <placeName lang="deu">Wisel</placeName>
+                                 <geo>46.01333, 15.69667</geo>
                               </del>
                               <del>
-                                 <placeName>Bizeljska Vas</placeName>
+                                 <placeName key="3204026">Bizeljska Vas</placeName>
                                  <placeName lang="deu">Wiselldorf</placeName>
+                                 <geo>46.04231, 15.69423</geo>
                               </del>
                               <del>
                                  <placeName>Cigonca</placeName>
                                  <placeName lang="deu">Ziegelstätte</placeName>
                               </del>
                               <del>
-                                 <placeName>Prekošnica</placeName>
+                                 <placeName key="10793929">Prekošnica</placeName>
+                                 <geo>46.03833, 15.69191</geo>
                               </del>
                            </deli>
                         </kraj>
@@ -141,12 +144,14 @@
                            <placeName lang="deu">Bratschendorf</placeName>
                            <deli>
                               <del>
-                                 <placeName>Bračna Vas</placeName>
+                                 <placeName key="8988461">Bračna Vas</placeName>
                                  <placeName lang="deu">Bratschendorf</placeName>
+                                 <geo>8988461</geo>
                               </del>
                               <del>
-                                 <placeName>Sveti Lovrenc</placeName>
+                                 <placeName key="10793930">Sveti Lovrenc</placeName>
                                  <placeName lang="deu">Sankt Lorenzen</placeName>
+                                 <geo>46.01529, 15.69732</geo>
                               </del>
                            </deli>
                         </kraj>
