@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Title</title>
@@ -15,8 +15,8 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text xml:lang="slv">
+   </teiHeader>
+   <text xml:lang="slv">
       <body>
          <div>
             <listPlace>
@@ -90,11 +90,12 @@
                      </population>
                   </population>
                   <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
-                     <ref></ref>
+                     <ref/>
                   </desc>
                   <terrain>
-                     <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                     <desc></desc>
+                     <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah
+                        hoje</label>
+                     <desc/>
                   </terrain>
                   <population>
                      <label>med tem vojaštva</label>
@@ -109,7 +110,7 @@
                         </population>
                         <population>
                            <label>žensko</label>
-                           <desc></desc>
+                           <desc/>
                         </population>
                      </population>
                      <population>
@@ -119,15 +120,15 @@
                         </population>
                         <population>
                            <label>evangelsko</label>
-                           <desc></desc>
+                           <desc/>
                         </population>
                         <population>
                            <label>izraelitsko</label>
-                           <desc></desc>
+                           <desc/>
                         </population>
                         <population>
                            <label>drugo</label>
-                           <desc></desc>
+                           <desc/>
                         </population>
                      </population>
                      <population>
@@ -135,7 +136,7 @@
                            <label>Občevalni jezik avstrijskih državljanov</label>
                            <population>
                               <label>nemški</label>
-                              <desc></desc>
+                              <desc/>
                            </population>
                            <population>
                               <label>slovenski</label>
@@ -143,12 +144,12 @@
                            </population>
                            <population>
                               <label>drugi</label>
-                              <desc></desc>
+                              <desc/>
                            </population>
                         </population>
                         <population>
                            <label>Inozemci</label>
-                           <desc></desc>
+                           <desc/>
                         </population>
                      </population>
                   </population>
@@ -224,11 +225,12 @@
                            </population>
                         </population>
                         <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
-                           <ref></ref>
+                           <ref/>
                         </desc>
                         <terrain>
-                           <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                           <desc></desc>
+                           <label>Bližja železniška postaja (železniško postajališče), oddaljenost v
+                              urah hoje</label>
+                           <desc/>
                         </terrain>
                         <population>
                            <label>med tem vojaštva</label>
@@ -243,7 +245,7 @@
                               </population>
                               <population>
                                  <label>žensko</label>
-                                 <desc></desc>
+                                 <desc/>
                               </population>
                            </population>
                            <population>
@@ -253,15 +255,15 @@
                               </population>
                               <population>
                                  <label>evangelsko</label>
-                                 <desc></desc>
+                                 <desc/>
                               </population>
                               <population>
                                  <label>izraelitsko</label>
-                                 <desc></desc>
+                                 <desc/>
                               </population>
                               <population>
                                  <label>drugo</label>
-                                 <desc></desc>
+                                 <desc/>
                               </population>
                            </population>
                            <population>
@@ -269,7 +271,7 @@
                                  <label>Občevalni jezik avstrijskih državljanov</label>
                                  <population>
                                     <label>nemški</label>
-                                    <desc></desc>
+                                    <desc/>
                                  </population>
                                  <population>
                                     <label>slovenski</label>
@@ -277,12 +279,12 @@
                                  </population>
                                  <population>
                                     <label>drugi</label>
-                                    <desc></desc>
+                                    <desc/>
                                  </population>
                               </population>
                               <population>
                                  <label>Inozemci</label>
-                                 <desc></desc>
+                                 <desc/>
                               </population>
                            </population>
                         </population>
@@ -323,15 +325,15 @@
                                     </population>
                                     <population>
                                        <label>evangelsko</label>
-                                       <desc></desc>
+                                       <desc/>
                                     </population>
                                     <population>
                                        <label>izraelitsko</label>
-                                       <desc></desc>
+                                       <desc/>
                                     </population>
                                     <population>
                                        <label>drugo</label>
-                                       <desc></desc>
+                                       <desc/>
                                     </population>
                                  </population>
                                  <population>
@@ -339,7 +341,7 @@
                                        <label>Občevalni jezik avstrijskih državljanov</label>
                                        <population>
                                           <label>nemški</label>
-                                          <desc></desc>
+                                          <desc/>
                                        </population>
                                        <population>
                                           <label>slovenski</label>
@@ -357,11 +359,12 @@
                                  </population>
                               </population>
                               <desc><!-- Poštni dostavni okraj - glej spodaj poseben listPlace -->
-                                 <ref></ref>
+                                 <ref/>
                               </desc>
                               <terrain>
-                                 <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                                 <desc></desc>
+                                 <label>Bližja železniška postaja (železniško postajališče),
+                                    oddaljenost v urah hoje</label>
+                                 <desc/>
                               </terrain>
                               <listPlace>
                                  <head>kraj</head>
@@ -369,12 +372,13 @@
                                     <placeName xml:lang="slv">Arnova Sela</placeName>
                                     <placeName xml:lang="deu">Arnovasela</placeName>
                                     <location>
-                                       <geo></geo>
+                                       <geo/>
                                     </location>
                                     <state>
                                        <label>katastrska občina</label>
-                                       <desc>(<ref target="#po1.so1.ob1.kr1">1</ref>,
-                                          <ref target="#po1.so1.ob1.kr2">2 d.</ref>, <ref target="#po1.so1.ob1.kr6">6 d.</ref>)</desc>
+                                       <desc>(<ref target="#po1.so1.ob1.kr1">1</ref>, <ref
+                                             target="#po1.so1.ob1.kr2">2 d.</ref>, <ref
+                                             target="#po1.so1.ob1.kr6">6 d.</ref>)</desc>
                                     </state>
                                     <terrain>
                                        <label>Število hiš</label>
@@ -403,15 +407,15 @@
                                           </population>
                                           <population>
                                              <label>evangelsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>izraelitsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>drugo</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                        <population>
@@ -419,7 +423,7 @@
                                              <label>Občevalni jezik avstrijskih državljanov</label>
                                              <population>
                                                 <label>nemški</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                              <population>
                                                 <label>slovenski</label>
@@ -427,12 +431,12 @@
                                              </population>
                                              <population>
                                                 <label>drugi</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                           </population>
                                           <population>
                                              <label>Inozemci</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                     </population>
@@ -440,16 +444,18 @@
                                        <ref target="#po1.so1.puzp1">1)</ref>
                                     </desc>
                                     <terrain>
-                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
+                                       <label>Bližja železniška postaja (železniško postajališče),
+                                          oddaljenost v urah hoje</label>
                                        <desc><ref target="#po1.so1.puzp2">2)</ref> 2</desc>
                                     </terrain>
                                     <listPlace>
                                        <head>Krajevni deli</head>
                                        <place xml:id="po1.so1.ob1.kr1.kd1">
-                                          <placeName xml:lang="slv" key="geonameId:8987036">Arnova Sela</placeName>
+                                          <placeName xml:lang="slv" key="geonameId:8987036">Arnova
+                                             Sela</placeName>
                                           <placeName xml:lang="deu">Arnovasela</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>soseska</label>
                                           <terrain>
@@ -462,9 +468,10 @@
                                           </population>
                                        </place>
                                        <place xml:id="po1.so1.ob1.kr1.kd2">
-                                          <placeName xml:lang="slv" key="geonameId:10793830">Mrzlak</placeName>
+                                          <placeName xml:lang="slv" key="geonameId:10793830"
+                                             >Mrzlak</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>raztresene hiše</label>
                                           <terrain>
@@ -477,9 +484,10 @@
                                           </population>
                                        </place>
                                        <place xml:id="po1.so1.ob1.kr1.kd3">
-                                          <placeName xml:lang="slv" key="geonameId:10793831">Ivanje Selo</placeName>
+                                          <placeName xml:lang="slv" key="geonameId:10793831">Ivanje
+                                             Selo</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>raztresene hiše</label>
                                           <terrain>
@@ -494,7 +502,7 @@
                                        <place xml:id="po1.so1.ob1.kr1.kd4">
                                           <placeName xml:lang="slv">Roviše</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>raztresene hiše</label>
                                           <terrain>
@@ -512,11 +520,12 @@
                                     <placeName xml:lang="slv">Artiče</placeName>
                                     <placeName xml:lang="deu">Artitsch</placeName>
                                     <location>
-                                       <geo></geo>
+                                       <geo/>
                                     </location>
                                     <state>
                                        <label>katastrska občina</label>
-                                       <desc>(<ref target="#po1.so1.ob1.kr2">2 d</ref>, <ref target="#po1.so1.ob1.kr5">5</ref>)</desc>
+                                       <desc>(<ref target="#po1.so1.ob1.kr2">2 d</ref>, <ref
+                                             target="#po1.so1.ob1.kr5">5</ref>)</desc>
                                     </state>
                                     <terrain>
                                        <label>Število hiš</label>
@@ -545,15 +554,15 @@
                                           </population>
                                           <population>
                                              <label>evangelsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>izraelitsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>drugo</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                        <population>
@@ -561,7 +570,7 @@
                                              <label>Občevalni jezik avstrijskih državljanov</label>
                                              <population>
                                                 <label>nemški</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                              <population>
                                                 <label>slovenski</label>
@@ -569,7 +578,7 @@
                                              </population>
                                              <population>
                                                 <label>drugi</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                           </population>
                                           <population>
@@ -582,16 +591,19 @@
                                        <ref target="#po1.so1.puzp1">1)</ref>
                                     </desc>
                                     <terrain>
-                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.25">1 1/4</num></desc>
+                                       <label>Bližja železniška postaja (železniško postajališče),
+                                          oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref>
+                                          <num value="1.25">1 1/4</num></desc>
                                     </terrain>
                                     <listPlace>
                                        <head>Krajevni deli</head>
                                        <place xml:id="po1.so1.ob1.kr2.kd1">
-                                          <placeName xml:lang="slv" key="geonameId:3204766">Artiče</placeName>
+                                          <placeName xml:lang="slv" key="geonameId:3204766"
+                                             >Artiče</placeName>
                                           <placeName xml:lang="deu">Artitsch</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>soseska</label>
                                           <terrain>
@@ -606,7 +618,7 @@
                                        <place xml:id="po1.so1.ob1.kr2.kd2">
                                           <placeName xml:lang="slv">Kralovec</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>raztresene hiše</label>
                                           <terrain>
@@ -624,11 +636,12 @@
                                     <placeName xml:lang="slv">Dečna Sela</placeName>
                                     <placeName xml:lang="deu">Detschnasela</placeName>
                                     <location>
-                                       <geo></geo>
+                                       <geo/>
                                     </location>
                                     <state>
                                        <label>katastrska občina</label>
-                                       <desc>(<ref target="#po1.so1.ob1.kr2">2 d</ref>, <ref target="#po1.so1.ob1.kr3">3</ref>)</desc>
+                                       <desc>(<ref target="#po1.so1.ob1.kr2">2 d</ref>, <ref
+                                             target="#po1.so1.ob1.kr3">3</ref>)</desc>
                                     </state>
                                     <terrain>
                                        <label>Število hiš</label>
@@ -657,15 +670,15 @@
                                           </population>
                                           <population>
                                              <label>evangelsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>izraelitsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>drugo</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                        <population>
@@ -673,7 +686,7 @@
                                              <label>Občevalni jezik avstrijskih državljanov</label>
                                              <population>
                                                 <label>nemški</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                              <population>
                                                 <label>slovenski</label>
@@ -681,7 +694,7 @@
                                              </population>
                                              <population>
                                                 <label>drugi</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                           </population>
                                           <population>
@@ -694,15 +707,18 @@
                                        <ref target="#po1.so1.puzp1">1)</ref>
                                     </desc>
                                     <terrain>
-                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                       <label>Bližja železniška postaja (železniško postajališče),
+                                          oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref>
+                                          <num value="1.5">1 1/2</num></desc>
                                     </terrain>
                                     <listPlace>
                                        <head>Krajevni deli</head>
                                        <place xml:id="po1.so1.ob1.kr3.kd1">
-                                          <placeName xml:lang="slv" key="geonameId:">Brezje</placeName>
+                                          <placeName xml:lang="slv" key="geonameId:"
+                                             >Brezje</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>selo, zaselje (3-9 hiš)</label>
                                           <terrain>
@@ -715,10 +731,11 @@
                                           </population>
                                        </place>
                                        <place xml:id="po1.so1.ob1.kr3.kd2">
-                                          <placeName xml:lang="slv" key="geonameId:3202127">Dečna Sela</placeName>
+                                          <placeName xml:lang="slv" key="geonameId:3202127">Dečna
+                                             Sela</placeName>
                                           <placeName xml:lang="deu">Detschnasela</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>soseska</label>
                                           <terrain>
@@ -736,11 +753,13 @@
                                     <placeName xml:lang="slv">Dolenja Vas</placeName>
                                     <placeName xml:lang="deu">Niederdorf</placeName>
                                     <location>
-                                       <geo></geo>
+                                       <geo/>
                                     </location>
                                     <state>
                                        <label>katastrska občina</label>
-                                       <desc>(<ref target="#po1.so1.ob1.kr4">4</ref>, <ref target="#po1.so1.ob1.kr6">6 d</ref> &amp; <ref>od krajevne občine 17, 6 d.</ref>)</desc>
+                                       <desc>(<ref target="#po1.so1.ob1.kr4">4</ref>, <ref
+                                             target="#po1.so1.ob1.kr6">6 d</ref> &amp; <ref>od
+                                             krajevne občine 17, 6 d.</ref>)</desc>
                                     </state>
                                     <terrain>
                                        <label>Število hiš</label>
@@ -769,15 +788,15 @@
                                           </population>
                                           <population>
                                              <label>evangelsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>izraelitsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>drugo</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                        <population>
@@ -785,7 +804,7 @@
                                              <label>Občevalni jezik avstrijskih državljanov</label>
                                              <population>
                                                 <label>nemški</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                              <population>
                                                 <label>slovenski</label>
@@ -793,7 +812,7 @@
                                              </population>
                                              <population>
                                                 <label>drugi</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                           </population>
                                           <population>
@@ -806,15 +825,18 @@
                                        <ref target="#po1.so1.puzp1">1)</ref>
                                     </desc>
                                     <terrain>
-                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                       <label>Bližja železniška postaja (železniško postajališče),
+                                          oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref>
+                                          <num value="1.5">1 1/2</num></desc>
                                     </terrain>
-                                  <listPlace>
+                                    <listPlace>
                                        <head>Krajevni deli</head>
                                        <place xml:id="po1.so1.ob1.kr4.kd1">
-                                          <placeName xml:lang="slv" key="geonameId:10793836">Čela</placeName>
+                                          <placeName xml:lang="slv" key="geonameId:10793836"
+                                             >Čela</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>raztresene hiše</label>
                                           <terrain>
@@ -827,10 +849,11 @@
                                           </population>
                                        </place>
                                        <place xml:id="po1.so1.ob1.kr4.kd2">
-                                          <placeName xml:lang="slv" key="geonameId:8987180">Dolenja Vas</placeName>
+                                          <placeName xml:lang="slv" key="geonameId:8987180">Dolenja
+                                             Vas</placeName>
                                           <placeName xml:lang="deu">Niederdorf</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>vas</label>
                                           <terrain>
@@ -853,13 +876,14 @@
                                              <desc>111</desc>
                                           </population>
                                        </place>
-                                    </listPlace>  
+                                    </listPlace>
                                  </place>
                                  <place xml:id="po1.so1.ob1.kr5" n="5">
-                                    <placeName xml:lang="slv" key="geonameId:8987603">Glogov Brod</placeName>
+                                    <placeName xml:lang="slv" key="geonameId:8987603">Glogov
+                                       Brod</placeName>
                                     <label>raztresene hiše</label>
                                     <location>
-                                       <geo></geo>
+                                       <geo/>
                                     </location>
                                     <terrain>
                                        <label>Število hiš</label>
@@ -888,15 +912,15 @@
                                           </population>
                                           <population>
                                              <label>evangelsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>izraelitsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>drugo</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                        <population>
@@ -904,7 +928,7 @@
                                              <label>Občevalni jezik avstrijskih državljanov</label>
                                              <population>
                                                 <label>nemški</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                              <population>
                                                 <label>slovenski</label>
@@ -912,7 +936,7 @@
                                              </population>
                                              <population>
                                                 <label>drugi</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                           </population>
                                           <population>
@@ -925,15 +949,17 @@
                                        <ref target="#po1.so1.puzp1">1)</ref>
                                     </desc>
                                     <terrain>
-                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                       <label>Bližja železniška postaja (železniško postajališče),
+                                          oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref>
+                                          <num value="1.5">1 1/2</num></desc>
                                     </terrain>
                                  </place>
                                  <place xml:id="po1.so1.ob1.kr6" n="6">
                                     <placeName xml:lang="slv">Spodnja Pohanca</placeName>
                                     <placeName xml:lang="deu">Unterpochanza</placeName>
                                     <location>
-                                       <geo></geo>
+                                       <geo/>
                                     </location>
                                     <terrain>
                                        <label>Število hiš</label>
@@ -962,15 +988,15 @@
                                           </population>
                                           <population>
                                              <label>evangelsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>izraelitsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>drugo</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                        <population>
@@ -978,7 +1004,7 @@
                                              <label>Občevalni jezik avstrijskih državljanov</label>
                                              <population>
                                                 <label>nemški</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                              <population>
                                                 <label>slovenski</label>
@@ -986,7 +1012,7 @@
                                              </population>
                                              <population>
                                                 <label>drugi</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                           </population>
                                           <population>
@@ -999,16 +1025,19 @@
                                        <ref target="#po1.so1.puzp1">1)</ref>
                                     </desc>
                                     <terrain>
-                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.25">1 1/4</num></desc>
+                                       <label>Bližja železniška postaja (železniško postajališče),
+                                          oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref>
+                                          <num value="1.25">1 1/4</num></desc>
                                     </terrain>
                                     <listPlace>
                                        <head>Krajevni deli</head>
                                        <place xml:id="po1.so1.ob1.kr6.kd1">
-                                          <placeName xml:lang="slv" key="geonameId:3190240">Spodnja Pohanca</placeName>
+                                          <placeName xml:lang="slv" key="geonameId:3190240">Spodnja
+                                             Pohanca</placeName>
                                           <placeName xml:lang="deu">Unterpochanza</placeName>
                                           <location>
-                                             <geo></geo>
+                                             <geo/>
                                           </location>
                                           <label>soseska</label>
                                           <terrain>
@@ -1034,10 +1063,11 @@
                                     </listPlace>
                                  </place>
                                  <place xml:id="po1.so1.ob1.kr7" n="7">
-                                    <placeName xml:lang="slv" key="geonameId:8987097">Trebež</placeName>
+                                    <placeName xml:lang="slv" key="geonameId:8987097"
+                                       >Trebež</placeName>
                                     <placeName xml:lang="deu">Trebesch</placeName>
                                     <location>
-                                       <geo></geo>
+                                       <geo/>
                                     </location>
                                     <label>raztresene hiše</label>
                                     <state>
@@ -1075,15 +1105,15 @@
                                           </population>
                                           <population>
                                              <label>evangelsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>izraelitsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>drugo</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                        <population>
@@ -1091,7 +1121,7 @@
                                              <label>Občevalni jezik avstrijskih državljanov</label>
                                              <population>
                                                 <label>nemški</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                              <population>
                                                 <label>slovenski</label>
@@ -1099,12 +1129,12 @@
                                              </population>
                                              <population>
                                                 <label>drugi</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                           </population>
                                           <population>
                                              <label>Inozemci</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                     </population>
@@ -1112,15 +1142,18 @@
                                        <ref target="#po1.so1.puzp1">1)</ref>
                                     </desc>
                                     <terrain>
-                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                       <label>Bližja železniška postaja (železniško postajališče),
+                                          oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref>
+                                          <num value="1.5">1 1/2</num></desc>
                                     </terrain>
                                  </place>
                                  <place xml:id="po1.so1.ob1.kr8" n="8">
-                                    <placeName xml:lang="slv" key="geonameId:8987321">Zgornji Obrež</placeName>
+                                    <placeName xml:lang="slv" key="geonameId:8987321">Zgornji
+                                       Obrež</placeName>
                                     <placeName xml:lang="deu">Oberobresch</placeName>
                                     <location>
-                                       <geo></geo>
+                                       <geo/>
                                     </location>
                                     <label>soseska</label>
                                     <state>
@@ -1153,15 +1186,15 @@
                                           </population>
                                           <population>
                                              <label>evangelsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>izraelitsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>drugo</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                        <population>
@@ -1169,7 +1202,7 @@
                                              <label>Občevalni jezik avstrijskih državljanov</label>
                                              <population>
                                                 <label>nemški</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                              <population>
                                                 <label>slovenski</label>
@@ -1177,12 +1210,12 @@
                                              </population>
                                              <population>
                                                 <label>drugi</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                           </population>
                                           <population>
                                              <label>Inozemci</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                     </population>
@@ -1190,15 +1223,18 @@
                                        <ref target="#po1.so1.puzp1">1)</ref>
                                     </desc>
                                     <terrain>
-                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                       <label>Bližja železniška postaja (železniško postajališče),
+                                          oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref>
+                                          <num value="1.5">1 1/2</num></desc>
                                     </terrain>
                                  </place>
                                  <place xml:id="po1.so1.ob1.kr9" n="9" sameAs="">
-                                    <placeName xml:lang="slv" key="geonameId:8987167">Zverinjak</placeName>
+                                    <placeName xml:lang="slv" key="geonameId:8987167"
+                                       >Zverinjak</placeName>
                                     <placeName xml:lang="deu">Thiergarten</placeName>
                                     <location>
-                                       <geo></geo>
+                                       <geo/>
                                     </location>
                                     <desc>1. del (glej <ref>18</ref>)</desc>
                                     <label>raztresene hiše</label>
@@ -1208,7 +1244,8 @@
                                           <placeName xml:lang="slv">Sveti Lenart II</placeName>
                                           <placeName xml:lang="deu">Sankt Leonhard II</placeName>
                                        </desc>
-                                       <desc>(<ref target="#po1.so1.ob1.kr7">7 d.</ref>, <ref target="#po1.so1.ob1.kr9">9</ref>).</desc>
+                                       <desc>(<ref target="#po1.so1.ob1.kr7">7 d.</ref>, <ref
+                                             target="#po1.so1.ob1.kr9">9</ref>).</desc>
                                     </state>
                                     <terrain>
                                        <label>Število hiš</label>
@@ -1237,15 +1274,15 @@
                                           </population>
                                           <population>
                                              <label>evangelsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>izraelitsko</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                           <population>
                                              <label>drugo</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                        <population>
@@ -1253,7 +1290,7 @@
                                              <label>Občevalni jezik avstrijskih državljanov</label>
                                              <population>
                                                 <label>nemški</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                              <population>
                                                 <label>slovenski</label>
@@ -1261,12 +1298,12 @@
                                              </population>
                                              <population>
                                                 <label>drugi</label>
-                                                <desc></desc>
+                                                <desc/>
                                              </population>
                                           </population>
                                           <population>
                                              <label>Inozemci</label>
-                                             <desc></desc>
+                                             <desc/>
                                           </population>
                                        </population>
                                     </population>
@@ -1274,8 +1311,10 @@
                                        <ref target="#po1.so1.puzp1">2)</ref>
                                     </desc>
                                     <terrain>
-                                       <label>Bližja železniška postaja (železniško postajališče), oddaljenost v urah hoje</label>
-                                       <desc><ref target="#po1.so1.puzp2">2)</ref> <num value="1.5">1 1/2</num></desc>
+                                       <label>Bližja železniška postaja (železniško postajališče),
+                                          oddaljenost v urah hoje</label>
+                                       <desc><ref target="#po1.so1.puzp2">2)</ref>
+                                          <num value="1.5">1 1/2</num></desc>
                                     </terrain>
                                  </place>
                               </listPlace>
@@ -1338,8 +1377,250 @@
             </div>
          </div>
          <div>
-            
+            <head>Abecedno kazalo</head>
+            <p>Abecedno kazalo obsega:</p>
+
+            <listPlace>
+               <listPlace>
+                  <head>A.</head>
+                  <place xml:id="abcd.1">
+                     <placeName>Abbrenn</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>96</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.2">
+                     <placeName>Absberg</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>132</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.3">
+                     <placeName>Absetz</placeName>
+                     <region>
+                        <placeName>Fehring</placeName>
+                     </region>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>43</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.4">
+                     <placeName>Absetz</placeName>
+                     <region>
+                        <placeName>Feldbach</placeName>
+                     </region>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>45</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.5">
+                     <placeName>Absitz</placeName>
+                     <location>
+                        <measure quantity="2">dvakrat</measure>
+                     </location>
+                  </place>
+                  <place xml:id="abcd.6">
+                     <placeName>Abstall</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>135</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.7">
+                     <placeName>Abstram</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>38</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.8">
+                     <placeName>Abtissendorf</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>55</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.9">
+                     <placeName>Abtov Zid</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>100</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.10">
+                     <placeName>Achelzeil</placeName>
+                     <desc>
+                        <label>glej</label>
+                        <placeName sameAs="#abcd.63">Aichelzeil</placeName>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.11">
+                     <placeName>Achleiten</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>149</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.12">
+                     <placeName>Achneralpe</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>92</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.13">
+                     <placeName>Achrigel</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>124</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.14">
+                     <placeName>Achthof</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>51</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.15">
+                     <placeName>Ackerl</placeName>
+                     <region>
+                        <placeName>Bad Aussee</placeName>
+                     </region>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>61</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.16">
+                     <placeName>Ackerl</placeName>
+                     <region>
+                        <placeName>Loeben</placeName>
+                     </region>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>92</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.17">
+                     <placeName>Adelsberg</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>117</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.18">
+                     <placeName>Adelsdorf</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>82</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.">
+                     <placeName>Adendorf</placeName>
+                     <label>
+                        <figure>
+                           <graphic url="../Pictures/katastrska_obcina.png"/>
+                        </figure> in <figure>
+                           <graphic url="../Pictures/krajevni_del.png"/>
+                        </figure>
+                     </label>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>117</ref>
+                     </desc>
+                  </place>
+                  <place xml:id="abcd.63">
+                     <placeName>Aichelzeil</placeName>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>48</ref>
+                     </desc>
+                  </place>
+                  
+                  <place>
+                     <placeName>Baierdorf</placeName>
+                     <region>
+                        <placeName>Birkfeld</placeName>
+                     </region>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>147</ref>
+                     </desc>
+                  </place>
+                  <place>
+                     <placeName>Baierdorf</placeName>
+                     <region>
+                        <placeName xml:lang="slv">Gradec Okol.</placeName>
+                        <placeName xml:lang="deu">Graz Ugb.</placeName>
+                     </region>
+                     <event>
+                        <desc>
+                           <date when="1906">1906</date>
+                           <label>spoj. z <figure>
+                                 <graphic url="../Pictures/kraj.png"/>
+                              </figure><placeName>Eggenberg</placeName>
+                           </label>
+                        </desc>
+                     </event>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>55</ref>
+                     </desc>
+                  </place>
+                  <place>
+                     <placeName>Baierdorf</placeName>
+                     <label>
+                        <figure>
+                           <graphic url="../Pictures/katastrska_obcina.png"/>
+                        </figure>
+                     </label>
+                     <region>
+                        <placeName xml:lang="slv">Gradec Okol.</placeName>
+                        <placeName xml:lang="deu">Graz Ugb.</placeName>
+                     </region>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>55</ref>
+                     </desc>
+                  </place>
+                  <place>
+                     <placeName>Baierdorf</placeName>
+                     <region>
+                        <placeName>Judenburg</placeName>
+                     </region>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>72</ref>
+                     </desc>
+                  </place>
+                  <place>
+                     <placeName>Baierdorf</placeName>
+                     <region>
+                        <placeName>Murau</placeName>
+                     </region>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>117</ref>
+                     </desc>
+                  </place>
+                  <place>
+                     <placeName>Baierdorf</placeName>
+                     <region>
+                        <placeName>Neumarkt</placeName>
+                     </region>
+                     <desc>
+                        <label>Stran</label>
+                        <ref>117</ref>
+                     </desc>
+                  </place>
+               </listPlace>
+            </listPlace>
          </div>
       </body>
-  </text>
+   </text>
 </TEI>
