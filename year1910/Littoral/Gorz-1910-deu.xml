@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../XML_Schema/OrtsRprt-wrkg_1-deu.xsd">
+    <polBezirke>
+        <polBezirk>
+            <placeName lang="deu">Görz</placeName>
+            <gerichtsBezirke>
+                <gerichtsBezirk n="1">
+                    <placeName></placeName>
+                    
+                    <gemeinden>
+                        <gemeinde n="1">
+                            <placeName lang="slv" key="3204859">Ajba</placeName>
+                            <orte>
+                                <ort>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3204859">Ajba</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>22</hise>
+                                            <prebivalci>132</prebivalci>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>4</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                    </gemeinden>
+                </gerichtsBezirk>
+            </gerichtsBezirke>
+        </polBezirk>
+    </polBezirke>
+</root>
