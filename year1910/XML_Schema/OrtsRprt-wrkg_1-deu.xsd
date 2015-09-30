@@ -83,9 +83,17 @@
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
         <xs:element minOccurs="0" ref="geo"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="vrsta"/>
+          <xs:element ref="hise"/>
+          <xs:element ref="prebivalci"/>
+        </xs:choice>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+  <xs:element name="vrsta" type="xs:string"/>
+  <xs:element name="hise" type="xs:integer"/>
+  <xs:element name="prebivalci" type="xs:integer"/>
   <xs:element name="placeName">
     <xs:complexType mixed="true">
       <xs:attribute name="key" type="xs:integer"/>
