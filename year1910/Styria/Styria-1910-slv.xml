@@ -1430,12 +1430,673 @@
                         </kraj>
                      </kraji>
                   </obcina>
+                  <obcina n="20">
+                     <placeName lang="slv">Sveti Jurij na Ščavnici</placeName>
+                     <placeName lang="deu">Sankt Georgen an der Stainz</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Biserjan</placeName>
+                           <placeName lang="deu">Wisserian</placeName>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Blaguš</placeName>
+                           <placeName lang="deu">Wlagusch</placeName>
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Brezje</placeName>
+                           <placeName lang="deu">Wresje</placeName> 
+                        </kraj>
+                        <kraj n="4">
+                           <placeName lang="slv">Čakova</placeName>
+                           <placeName lang="deu">Tschakova</placeName> 
+                        </kraj>
+                        <kraj n="5">
+                           <placeName lang="slv">Jamna</placeName>
+                           <placeName lang="deu">Jandorf</placeName>
+                           <deli>
+                              <del>
+                                 <vrsta>vas</vrsta>
+                                 <hise>20</hise>
+                                 <prebivalci>81</prebivalci>
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>4</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="6">
+                           <placeName lang="slv">Vidma</placeName>
+                           <placeName lang="deu">Widem</placeName>
+                           <deli>
+                              <del>
+                                 <vrsta>vas</vrsta>
+                                 <hise>18</hise>
+                                 <prebivalci>112</prebivalci> 
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>2</hise>
+                                 <prebivalci>9</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="21">
+                     <placeName lang="slv">Ščavnica</placeName>
+                     <placeName lang="deu">Stainzthal</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Plitvički Vrh</placeName>
+                           <placeName lang="deu">Plippitzberg</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Aženski Vrh</placeName>
+                                 <placeName lang="deu">Hasenberg</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>9</hise>
+                                 <prebivalci>42</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Plitvički Vrh</placeName>
+                                 <placeName lang="deu">Plippitzberg</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>10</hise>
+                                 <prebivalci>38</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Ščavnica</placeName>
+                           <placeName lang="deu">Stainzthal</placeName>
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Zagajski Vrh</placeName>
+                           <placeName lang="deu">Sagaiberg</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Bačkova</placeName>
+                                 <placeName lang="deu">Watschkoberg</placeName> 
+                                 <vrsta>selo</vrsta>
+                                 <hise>3</hise>
+                                 <prebivalci>10</prebivalci>  
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Zagajski Vrh</placeName>
+                                 <placeName lang="deu">Sagaiberg</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>33</hise>
+                                 <prebivalci>181</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="22">
+                     <placeName lang="slv">Šratovci</placeName>
+                     <placeName lang="deu">Schrottendorf</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Mele (Melovje)</placeName>
+                           <placeName lang="deu">Kellerdorf</placeName> 
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Šratovci</placeName>
+                           <placeName lang="deu">Schrottendorf</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Šratovci</placeName>
+                                 <placeName lang="deu">Schrottendorf</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>20</hise>
+                                 <prebivalci>111</prebivalci>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>3</hise>
+                                 <prebivalci>12</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="23">
+                     <placeName lang="slv">Terbegovci</placeName>
+                     <placeName lang="deu">Terbegofzen</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Sovjak</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Gornji Sovjak</placeName>
+                                 <placeName lang="deu">Obersovjak</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>32</hise>
+                                 <prebivalci>89</prebivalci>  
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Hrenova Gasa</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>11</hise>
+                                 <prebivalci>38</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Kamen</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>20</hise>
+                                 <prebivalci>41</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Kuzmina</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>8</hise>
+                                 <prebivalci>23</prebivalci>  
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Pesek</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>16</hise>
+                                 <prebivalci>27</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Veliki Sovjak (Spodnji Sovjak)</placeName>
+                                 <placeName lang="deu">Großsovjak (Untersovjak)</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>50</hise>
+                                 <prebivalci>106</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Ženik</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>53</hise>
+                                 <prebivalci>146</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Stara Gora</placeName>
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Terbegovci</placeName>
+                           <placeName lang="deu">Terbegofzen</placeName>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="24">
+                     <placeName lang="slv">Zbigovci</placeName>
+                     <placeName lang="deu">Weigelsberg</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Lastomerci</placeName>
+                           <placeName lang="deu">Lastomerzen</placeName>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Zbigovci</placeName>
+                           <placeName lang="deu">Weigelsberg</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Kandišak</placeName>
+                                 <placeName lang="deu">Kandlberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>29</hise>
+                                 <prebivalci>122</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Zbigovci</placeName>
+                                 <placeName lang="deu">Weigelsberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>54</hise>
+                                 <prebivalci>215</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+               </obcine>
+            </sodniOkraj>
+            <sodniOkraj n="2">
+               <placeName lang="slv">Ljutomer</placeName>
+               <placeName lang="deu">Luttenberg</placeName>
+               <obcine>
+                  <obcina n="1">
+                     <placeName lang="slv">Bolehneci</placeName>
+                     <placeName lang="deu">Wollachnetzen</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Berkovci</placeName>
+                           <placeName lang="deu">Werkofzen</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Berkovci</placeName>
+                                 <placeName lang="deu">Werkofzen</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>34</hise>
+                                 <prebivalci>185</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Berkovski Prelogi</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>12</hise>
+                                 <prebivalci>61</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Bolehneci</placeName>
+                           <placeName lang="deu">Wollachnetzen</placeName>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="2">
+                     <placeName lang="slv">Boreci</placeName>
+                     <placeName lang="deu">Woretzen</placeName>
+                  </obcina>
+                  <obcina n="3">
+                     <placeName lang="slv">Branoslavci</placeName>
+                     <placeName lang="deu">Malleggendorf</placeName>
+                    <kraji>
+                       <kraj>
+                          <deli>
+                             <del>
+                                <placeName lang="slv">Branek</placeName>
+                                <placeName lang="deu">Malleg</placeName>
+                                <vrsta>grad</vrsta>
+                                <hise>2</hise>
+                                <prebivalci>5</prebivalci>
+                             </del>
+                             <del>
+                                <placeName lang="slv">Branoslavci</placeName>
+                                <placeName lang="deu">Malleggendorf</placeName>
+                                <vrsta>vas</vrsta>
+                                <hise>15</hise>
+                                <prebivalci>80</prebivalci>
+                             </del>
+                             <del>
+                                <placeName lang="slv">Vitanovci</placeName>
+                                <placeName lang="deu">Witanofzen</placeName>
+                                <vrsta>soseska</vrsta>
+                                <hise>13</hise>
+                                <prebivalci>52</prebivalci> 
+                             </del>
+                             <del>
+                                <placeName lang="slv">Vogričovci</placeName>
+                                <placeName lang="deu">Wogritschofzen</placeName>
+                                <vrsta>soseska</vrsta>
+                                <hise>41</hise>
+                                <prebivalci>175</prebivalci>
+                             </del>
+                          </deli>
+                       </kraj>
+                    </kraji>
+                  </obcina>
+                  <obcina n="4">
+                     <placeName lang="slv">Bučečovci</placeName>
+                     <placeName lang="deu">Wudischofzen</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Bučečovci</placeName>
+                                 <placeName lang="deu">Wudischofzen</placeName> 
+                                 <vrsta>vas</vrsta>
+                                 <hise>43</hise>
+                                 <prebivalci>234</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Gorica</placeName> 
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>7</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Na Bregu</placeName> 
+                                 <vrsta>selo</vrsta>
+                                 <hise>4</hise>
+                                 <prebivalci>29</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="5">
+                     <placeName lang="slv">Bunčani</placeName>
+                     <placeName lang="deu">Wantschen</placeName>
+                  </obcina>
+                  <obcina n="6">
+                     <placeName lang="slv">Cezanjevci</placeName>
+                     <placeName lang="deu">Zesendorf</placeName> 
+                  </obcina>
+                  <obcina n="7">
+                     <placeName lang="slv">Cven</placeName>
+                     <placeName lang="deu">Zween</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Cven</placeName>
+                           <placeName lang="deu">Zween</placeName> 
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Cven</placeName>
+                                 <placeName lang="deu">Zween</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>65</hise>
+                                 <prebivalci>412</prebivalci>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>4</hise>
+                                 <prebivalci>32</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Krapje</placeName>
+                           <placeName lang="deu">Krapping</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Gornje Krapje</placeName>
+                                 <placeName lang="deu">Oberkrapping</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>32</hise>
+                                 <prebivalci>182</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Spodnje Krapje</placeName>
+                                 <placeName lang="deu">Unterkrapping</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>26</hise>
+                                 <prebivalci>149</prebivalci> 
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>2</hise>
+                                 <prebivalci>10</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Mota</placeName>
+                           <placeName lang="deu">Mauthdorf</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Mota</placeName>
+                                 <placeName lang="deu">Mauthdorf</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>42</hise>
+                                 <prebivalci>263</prebivalci> 
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>4</hise>
+                                 <prebivalci>17</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="8">
+                     <placeName lang="slv">Godemarci</placeName>
+                     <placeName lang="deu">Godomerzen</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Bodislavci</placeName>
+                           <placeName lang="deu">Wodislafzen</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Bodislavci</placeName>
+                                 <placeName lang="deu">Wodislafzen</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>10</hise>
+                                 <prebivalci>40</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Brumnovščak</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>7</hise>
+                                 <prebivalci>32</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Cerkevnjak</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>9</hise>
+                                 <prebivalci>31</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Ermanjščak</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>13</hise>
+                                 <prebivalci>64</prebivalci>  
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Vinščak</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>11</hise>
+                                 <prebivalci>44</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Godemarci</placeName>
+                           <placeName lang="deu">Godomerzen</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Brumnovčak</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>4</hise>
+                                 <prebivalci>16</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Godemarci</placeName>
+                                 <placeName lang="deu">Godomerzen</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>18</hise>
+                                 <prebivalci>106</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Kranjšovčak</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>13</hise>
+                                 <prebivalci>50</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Marinščak</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>14</hise>
+                                 <prebivalci>68</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="9">
+                     <placeName lang="slv">Grlova</placeName>
+                     <placeName lang="deu">Gerlova</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Banovci</placeName>
+                           <placeName lang="deu">Wanofzen</placeName> 
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Grlova</placeName>
+                           <placeName lang="deu">Gerlova</placeName>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="10">
+                     <placeName lang="slv">Iljašovci</placeName>
+                     <placeName lang="deu">Igelsdorf</placeName>
+                  </obcina>
+                  <obcina n="11">
+                     <placeName lang="slv">Kamenščak</placeName>
+                     <placeName lang="deu">Steinberg</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Kamenščak</placeName>
+                           <placeName lang="deu">Steinberg</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Gornji Kamenščak</placeName>
+                                 <placeName lang="deu">Obersteinberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>26</hise>
+                                 <prebivalci>123</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Pogorišče</placeName>
+                                 <vrsta>selo</vrsta>
+                                 <hise>4</hise>
+                                 <prebivalci>21</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Rajžihar</placeName>
+                                 <placeName lang="deu">Raiguschberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>5</hise>
+                                 <prebivalci>31</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Spodnji Kamenščak</placeName>
+                                 <placeName lang="deu">Untersteinberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>60</hise>
+                                 <prebivalci>308</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Radomerje</placeName>
+                           <placeName lang="deu">Picheldorf</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Radomerje</placeName>
+                                 <placeName lang="deu">Picheldorf</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>20</hise>
+                                 <prebivalci>90</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Radomerščak</placeName>
+                                 <placeName lang="deu">Pichelberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>46</hise>
+                                 <prebivalci>212</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">V Grmačih</placeName>
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>2</hise>
+                                 <prebivalci>8</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Žerovinščak</placeName>
+                                 <placeName lang="deu">Grünau</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>17</hise>
+                                 <prebivalci>66</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="12">
+                     <placeName lang="slv">Ključarovci</placeName>
+                     <placeName lang="deu">Schlüsseldorf</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Grabe</placeName>
+                           <placeName lang="deu">Grabendorf</placeName> 
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Gomila</placeName>
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>7</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Grabe</placeName>
+                                 <placeName lang="deu">Grabendorf</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>22</hise>
+                                 <prebivalci>129</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Ključarovci</placeName>
+                           <placeName lang="deu">Schlüsseldorf</placeName>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="13">
+                     <placeName lang="slv">Krištanci</placeName>
+                     <placeName lang="deu">Kristanzen</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Krištanci</placeName>
+                                 <placeName lang="deu">Kristanzen</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>15</hise>
+                                 <prebivalci>88</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Šalinci</placeName>
+                                 <placeName lang="deu">Schalladein</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>24</hise>
+                                 <prebivalci>111</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="14">
+                     <placeName lang="slv">Križovci</placeName>
+                     <placeName lang="deu">Kreuzdorf</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Mali Križovci</placeName>
+                                 <placeName lang="deu">Kleinkreuzdorf</placeName>
+                                 <vrsta>selo</vrsta>
+                                 <hise>8</hise>
+                                 <prebivalci>52</prebivalci>  
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Veliki Križovci</placeName>
+                                 <placeName lang="deu">Großkreuzdorf</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>44</hise>
+                                 <prebivalci>258</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="15">
+                     <placeName lang="slv">Ljutomer</placeName>
+                     <placeName lang="deu">Luttenberg</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Ljutomer</placeName>
+                                 <placeName lang="deu">Luttenberg</placeName>
+                                 <vrsta>trg</vrsta>
+                                 <hise>163</hise>
+                                 <prebivalci>1262</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Na Kamenščaku</placeName>
+                                 <placeName lang="deu">Am Steinberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>5</hise>
+                                 <prebivalci>19</prebivalci> 
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>3</hise>
+                                 <prebivalci>21</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
                   
-     
+                  
+                  
                   
                   
                </obcine>
-         
             </sodniOkraj>
             
          </sodniOkraji>
