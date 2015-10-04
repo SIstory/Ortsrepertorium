@@ -356,7 +356,8 @@
                                             <prebivalci>77</prebivalci>
                                         </teil>
                                         <teil>
-                                            <placeName lang="slv" key="3193225">Plava, Plave na desnem bregu Soče</placeName>
+                                            <placeName lang="ita" key="3193225">Plava</placeName>
+                                            <placeName lang="slv" key="3193225">Plave na desnem bregu Soče</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>28</hise>
                                             <prebivalci>181</prebivalci>
@@ -1051,6 +1052,128 @@
                                      </teile>
                                 </ort>
                             </orte>
+                        </gemeinde>
+                        <gemeinde n="7">
+                         <placeName lang="slv">Deskle</placeName>
+                         <placeName lang="deu">Desela</placeName>
+                         <placeName lang="ita">Desela</placeName>
+                           <orte>
+                               <ort>
+                                    <teile>
+                                      <teil>
+                                        <placeName lang="slv">Bavterca</placeName>
+                                        <vrsta>posamezna hiša</vrsta>
+                                        <hise>1</hise>
+                                        <prebivalci>0</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Belnovo</placeName>
+                                        <vrsta>posamezna hiša</vrsta>
+                                        <hise>1</hise>
+                                        <prebivalci>8</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Britof</placeName>
+                                        <vrsta>vas</vrsta>
+                                        <hise>35</hise>
+                                        <prebivalci>205</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Deskle</placeName>
+                                        <placeName lang="deu">Desela</placeName>
+                                        <placeName lang="ita">Desela</placeName>
+                                        <vrsta>vas</vrsta>
+                                        <hise>55</hise>
+                                        <prebivalci>323</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Dolga njiva</placeName>
+                                        <vrsta>soseska</vrsta>
+                                        <hise>3</hise>
+                                        <prebivalci>13</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Gabrije</placeName>
+                                        <vrsta>soseska</vrsta>
+                                        <hise>2</hise>
+                                        <prebivalci>12</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Globna</placeName>
+                                        <vrsta>vas</vrsta>
+                                        <hise>10</hise>
+                                        <prebivalci>60</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Griljevšče</placeName>
+                                        <vrsta>soseska</vrsta>
+                                        <hise>2</hise>
+                                        <prebivalci>14</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Lastivnica</placeName>
+                                        <vrsta>soseska</vrsta>
+                                        <hise>3</hise>
+                                        <prebivalci>22</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Most</placeName>
+                                        <vrsta>soseska</vrsta>
+                                        <hise>2</hise>
+                                        <prebivalci>14</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Paljevo</placeName>
+                                        <vrsta>selo</vrsta>
+                                        <hise>9</hise>
+                                        <prebivalci>41</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Plave na levem bregu Soče</placeName>
+                                        <placeName lang="ita">Plava</placeName>
+                                        <vrsta>vas</vrsta>
+                                        <hise>19</hise>
+                                        <prebivalci>115</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Podbrdo</placeName>
+                                        <vrsta>selo</vrsta>
+                                        <hise>6</hise>
+                                        <prebivalci>29</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Rodež</placeName>
+                                        <vrsta>selo</vrsta>
+                                        <hise>5</hise>
+                                        <prebivalci>11</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Rutaršče</placeName>
+                                        <vrsta>posamezna hiša</vrsta>
+                                        <hise>1</hise>
+                                        <prebivalci>0</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Vodice</placeName>
+                                        <vrsta>posamezna hiša</vrsta>
+                                        <hise>1</hise>
+                                        <prebivalci>8</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Zagomila</placeName>
+                                        <vrsta>soseska</vrsta>
+                                        <hise>3</hise>
+                                        <prebivalci>19</prebivalci>
+                                      </teil>
+                                      <teil>
+                                        <placeName lang="slv">Zagora</placeName>
+                                        <vrsta>vas</vrsta>
+                                        <hise>11</hise>
+                                        <prebivalci>62</prebivalci>
+                                      </teil>
+                                    </teile>
+                               </ort>
+                           </orte>
                         </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
