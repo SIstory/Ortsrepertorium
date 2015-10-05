@@ -2212,6 +2212,147 @@
                         </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
+                <gerichtsBezirk n="2">
+                  <placeName lang="slv">Gorica</placeName>
+                  <placeName lang="deu">Görz</placeName>
+                  <placeName lang="ita">Gorizia</placeName>
+                    <gemeinden>
+                      <gemeinde n="1">
+                        <placeName lang="slv">Bilje</placeName>
+                        <placeName lang="ita">Biglia</placeName>
+                          <orte>
+                            <ort n="1">
+                               <placeName lang="slv">Bilje</placeName>
+                               <placeName lang="ita">Biglia</placeName>
+                                 <teile>
+                                   <teil>
+                                      <placeName lang="slv">Bilje</placeName>
+                                      <placeName lang="ita">Biglia</placeName>
+                                      <vrsta>vas</vrsta>
+                                      <hise>63</hise>
+                                      <prebivalci>276</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Britof</placeName>
+                                      <vrsta>vas</vrsta>
+                                      <hise>32</hise>
+                                      <prebivalci>130</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Fornaža</placeName>
+                                      <vrsta>vas</vrsta>
+                                      <hise>41</hise>
+                                      <prebivalci>170</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Fornažica</placeName>
+                                      <vrsta>samišče</vrsta>
+                                      <hise>2</hise>
+                                      <prebivalci>14</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Laz</placeName>
+                                      <vrsta>vas</vrsta>
+                                      <hise>21</hise>
+                                      <prebivalci>106</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Margetenca</placeName>
+                                      <vrsta>samišče</vrsta>
+                                      <hise>2</hise>
+                                      <prebivalci>16</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Margovnik</placeName>
+                                      <vrsta>soseska</vrsta>
+                                      <hise>2</hise>
+                                      <prebivalci>3</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Mlin</placeName>
+                                      <vrsta>vas</vrsta>
+                                      <hise>20</hise>
+                                      <prebivalci>66</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Oberš</placeName>
+                                      <vrsta>selo</vrsta>
+                                      <hise>9</hise>
+                                      <prebivalci>34</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Počivale</placeName>
+                                      <vrsta>vas</vrsta>
+                                      <hise>11</hise>
+                                      <prebivalci>45</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Pri Pilju</placeName>
+                                      <vrsta>selo</vrsta>
+                                      <hise>7</hise>
+                                      <prebivalci>46</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Pristava</placeName>
+                                      <vrsta>selo</vrsta>
+                                      <hise>7</hise>
+                                      <prebivalci>38</prebivalci>
+                                    </teil>
+                                 </teile>
+                            </ort>
+                            <ort n="2">
+                              <placeName lang="slv">Orehovlje</placeName>
+                              <placeName lang="ita">Raccogliano</placeName>
+                                <teile>
+                                  <teil>
+                                      <placeName lang="slv">Breg</placeName>
+                                      <vrsta>soseska</vrsta>
+                                      <hise>3</hise>
+                                      <prebivalci>19</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Britof</placeName>
+                                      <vrsta>soseska</vrsta>
+                                      <hise>4</hise>
+                                      <prebivalci>23</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Fabrika</placeName>
+                                      <vrsta>soseska</vrsta>
+                                      <hise>3</hise>
+                                      <prebivalci>16</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Mandrija</placeName>
+                                      <vrsta>selo</vrsta>
+                                      <hise>7</hise>
+                                      <prebivalci>29</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Na Vrtojbici</placeName>
+                                      <vrsta>posamična hiša</vrsta>
+                                      <hise>1</hise>
+                                      <prebivalci>6</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Otok</placeName>
+                                      <vrsta>vas</vrsta>
+                                      <hise>23</hise>
+                                      <prebivalci>108</prebivalci>
+                                    </teil>
+                                    <teil>
+                                      <placeName lang="slv">Orehovlje</placeName>
+                                      <placeName lang="ita">Raccogliano</placeName>
+                                      <vrsta>vas</vrsta>
+                                      <hise>37</hise>
+                                      <prebivalci>210</prebivalci>
+                                    </teil>
+                                </teile>
+                            </ort>
+                          </orte>
+                      </gemeinde>
+                    </gemeinden>
+                </gerichtsBezirk>
             </gerichtsBezirke>
         </polBezirk>
     </polBezirke>
