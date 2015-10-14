@@ -2193,33 +2193,33 @@
           </gemeinden>
         </gerichtsBezirk>
         <gerichtsBezirk n="2">
-          <placeName lang="slv">Gorica</placeName>
-          <placeName lang="deu">Görz</placeName>
-          <placeName lang="ita">Gorizia</placeName>
+          <placeName lang="slv" key="3175986">Gorica</placeName>
+          <placeName lang="deu" key="3175986">Görz</placeName>
+          <placeName lang="ita" key="3175986">Gorizia</placeName>
           <gemeinden>
             <gemeinde n="1">
-              <placeName lang="slv">Bilje</placeName>
-              <placeName lang="ita">Biglia</placeName>
+              <placeName lang="slv" key="3204144">Bilje</placeName>
+              <placeName lang="ita" key="3204144">Biglia</placeName>
               <orte>
                 <ort n="1">
-                  <placeName lang="slv">Bilje</placeName>
-                  <placeName lang="ita">Biglia</placeName>
+                  <placeName lang="slv" key="3204144">Bilje</placeName>
+                  <placeName lang="ita" key="3204144">Biglia</placeName>
                   <teile>
                     <teil>
-                      <placeName lang="slv">Bilje</placeName>
-                      <placeName lang="ita">Biglia</placeName>
+                      <placeName lang="slv" key="3204144">Bilje</placeName>
+                      <placeName lang="ita" key="3204144">Biglia</placeName>
                       <vrsta>vas</vrsta>
                       <hise>63</hise>
                       <prebivalci>276</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Britof</placeName>
+                      <placeName lang="slv" key="10858845">Britof</placeName>
                       <vrsta>vas</vrsta>
                       <hise>32</hise>
                       <prebivalci>130</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Fornaža</placeName>
+                      <placeName lang="slv" key="10858840">Fornaža</placeName>
                       <vrsta>vas</vrsta>
                       <hise>41</hise>
                       <prebivalci>170</prebivalci>
@@ -2231,7 +2231,7 @@
                       <prebivalci>14</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Laz</placeName>
+                      <placeName lang="slv" key="10858845">Laz</placeName>
                       <vrsta>vas</vrsta>
                       <hise>21</hise>
                       <prebivalci>106</prebivalci>
@@ -2261,7 +2261,7 @@
                       <prebivalci>34</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Počivale</placeName>
+                      <placeName lang="slv" key="10858841">Počivale</placeName>
                       <vrsta>vas</vrsta>
                       <hise>11</hise>
                       <prebivalci>45</prebivalci>
@@ -2281,11 +2281,11 @@
                   </teile>
                 </ort>
                 <ort n="2">
-                  <placeName lang="slv">Orehovlje</placeName>
-                  <placeName lang="ita">Raccogliano</placeName>
+                  <placeName lang="slv" key="3343550">Orehovlje</placeName>
+                  <placeName lang="ita" key="3343550">Raccogliano</placeName>
                   <teile>
                     <teil>
-                      <placeName lang="slv">Breg</placeName>
+                      <placeName lang="slv" key="10858847">Breg</placeName>
                       <vrsta>soseska</vrsta>
                       <hise>3</hise>
                       <prebivalci>19</prebivalci>
@@ -2309,20 +2309,20 @@
                       <prebivalci>29</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Na Vrtojbici</placeName>
+                      <placeName lang="slv" key="10858847">Na Vrtojbici</placeName>
                       <vrsta>posamična hiša</vrsta>
                       <hise>1</hise>
                       <prebivalci>6</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Otok</placeName>
+                      <placeName lang="slv" key="10858849">Otok</placeName>
                       <vrsta>vas</vrsta>
                       <hise>23</hise>
                       <prebivalci>108</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Orehovlje</placeName>
-                      <placeName lang="ita">Raccogliano</placeName>
+                      <placeName lang="slv" key="3343550">Orehovlje</placeName>
+                      <placeName lang="ita" key="3343550">Raccogliano</placeName>
                       <vrsta>vas</vrsta>
                       <hise>37</hise>
                       <prebivalci>210</prebivalci>
