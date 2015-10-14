@@ -1729,7 +1729,7 @@
                       <prebivalci>18</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Gorjup</placeName>
+                      <placeName lang="slv" key="10858836">Gorjup</placeName>
                       <vrsta>samišče</vrsta>
                       <hise>2</hise>
                       <prebivalci>18</prebivalci>
@@ -1778,7 +1778,7 @@
                       <prebivalci>16</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Kolenec</placeName>
+                      <placeName lang="slv" key="10858835">Kolenec</placeName>
                       <vrsta>posamezna hiša</vrsta>
                       <hise>1</hise>
                       <prebivalci>7</prebivalci>
@@ -1826,7 +1826,7 @@
                       <prebivalci>21</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Lozine</placeName>
+                      <placeName lang="slv" key="10858823">Lozine</placeName>
                       <vrsta>posamezna hiša</vrsta>
                       <hise>1</hise>
                       <prebivalci>1</prebivalci>
@@ -1928,7 +1928,7 @@
                       <prebivalci>30</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Preval</placeName>
+                      <placeName lang="slv" key="10858821">Preval</placeName>
                       <vrsta>selo</vrsta>
                       <hise>3</hise>
                       <prebivalci>15</prebivalci>
@@ -2054,7 +2054,7 @@
               <placeName lang="ita">Ronzina</placeName>
               <orte>
                 <ort n="1">
-                  <placeName lang="slv">Doblar</placeName>
+                  <placeName lang="slv" key="3201987">Doblar</placeName>
                   <teile>
                     <teil>
                       <placeName lang="slv">Bernki</placeName>
@@ -2063,7 +2063,7 @@
                       <prebivalci>7</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Doblar</placeName>
+                      <placeName lang="slv" key="3201987">Doblar</placeName>
                       <vrsta>vas</vrsta>
                       <hise>10</hise>
                       <prebivalci>68</prebivalci>
@@ -2087,7 +2087,7 @@
                       <prebivalci>2</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Maček</placeName>
+                      <placeName lang="slv" key="10858838">Maček</placeName>
                       <vrsta>posamezna hiša</vrsta>
                       <hise>1</hise>
                       <prebivalci>8</prebivalci>
@@ -2118,8 +2118,8 @@
                       <prebivalci>4</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Snežetce</placeName>
-                      <placeName lang="slv">Senožečar</placeName>
+                      <placeName lang="slv" key="10858839">Snežetce</placeName>
+                      <placeName lang="slv" key="10858839">Senožečar</placeName>
                       <vrsta>posamezna hiša</vrsta>
                       <hise>1</hise>
                       <prebivalci>6</prebivalci>
@@ -2151,8 +2151,8 @@
                   </teile>
                 </ort>
                 <ort n="2">
-                  <placeName lang="slv">Ročinj</placeName>
-                  <placeName lang="ita">Ronzina</placeName>
+                  <placeName lang="slv" key="3191598">Ročinj</placeName>
+                  <placeName lang="ita" key="3191598">Ronzina</placeName>
                   <teile>
                     <teil>
                       <placeName lang="slv">Bukovlje</placeName>
@@ -2180,8 +2180,8 @@
                       <prebivalci>0</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Ročinj</placeName>
-                      <placeName lang="ita">Ronzina</placeName>
+                      <placeName lang="slv" key="3191598">Ročinj</placeName>
+                      <placeName lang="ita" key="3191598">Ronzina</placeName>
                       <vrsta>vas</vrsta>
                       <hise>139</hise>
                       <prebivalci>631</prebivalci>
