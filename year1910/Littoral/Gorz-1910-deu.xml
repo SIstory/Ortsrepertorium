@@ -2344,7 +2344,7 @@
                       <prebivalci>358</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Draga</placeName>
+                      <placeName lang="slv" key="10858866">Draga</placeName>
                       <vrsta>soseska</vrsta>
                       <hise>7</hise>
                       <prebivalci>46</prebivalci>
@@ -2379,13 +2379,13 @@
                       <prebivalci>110</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Frata</placeName>
+                      <placeName lang="slv" key="10858870">Frata</placeName>
                       <vrsta>selo</vrsta>
                       <hise>7</hise>
                       <prebivalci>33</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Grivarji</placeName>
+                      <placeName lang="slv" key="10858873">Grivarji</placeName>
                       <vrsta>selo</vrsta>
                       <hise>3</hise>
                       <prebivalci>25</prebivalci>
@@ -2403,13 +2403,13 @@
                       <prebivalci>12</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Občine</placeName>
+                      <placeName lang="slv" key="10858869">Občine</placeName>
                       <vrsta>posamezna hiša</vrsta>
                       <hise>1</hise>
                       <prebivalci>8</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Podčepovna</placeName>
+                      <placeName lang="slv" key="10858868">Podčepovna</placeName>
                       <vrsta>selo</vrsta>
                       <hise>9</hise>
                       <prebivalci>42</prebivalci>
@@ -2421,7 +2421,7 @@
                       <prebivalci>21</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Robe</placeName>
+                      <placeName lang="slv" key="10858867">Robe</placeName>
                       <vrsta>soseska</vrsta>
                       <hise>4</hise>
                       <prebivalci>22</prebivalci>
@@ -2433,13 +2433,13 @@
                       <prebivalci>17</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Šuligoji</placeName>
+                      <placeName lang="slv" key="10858871">Šuligoji</placeName>
                       <vrsta>selo</vrsta>
                       <hise>5</hise>
                       <prebivalci>26</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Tesno</placeName>
+                      <placeName lang="slv" key="10858865">Tesno</placeName>
                       <vrsta>vas</vrsta>
                       <hise>11</hise>
                       <prebivalci>68</prebivalci>
@@ -2451,7 +2451,7 @@
                       <prebivalci>41</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Vrata</placeName>
+                      <placeName lang="slv" key="10858872">Vrata</placeName>
                       <vrsta>vas</vrsta>
                       <hise>11</hise>
                       <prebivalci>59</prebivalci>
@@ -2483,7 +2483,7 @@
                   </teile>
                 </ort>
                 <ort n="3">
-                  <placeName lang="slv">Puštale</placeName>
+                  <placeName lang="slv" key="10858863">Puštale</placeName>
                   <teile>
                     <teil>
                       <placeName lang="slv">Gorenji Konec</placeName>
@@ -2492,8 +2492,8 @@
                       <prebivalci>111</prebivalci>
                     </teil>
                     <teil>
-                      <placeName lang="slv">Pičulini</placeName>
-                      <placeName lang="slv">Dolenji Konec</placeName>
+                      <placeName lang="slv" key="10858864">Pičulini</placeName>
+                      <placeName lang="slv" key="10858864">Dolenji Konec</placeName>
                       <vrsta>vas</vrsta>
                       <hise>15</hise>
                       <prebivalci>75</prebivalci>
