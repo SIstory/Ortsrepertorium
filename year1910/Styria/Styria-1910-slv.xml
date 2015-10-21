@@ -5148,8 +5148,61 @@
                         </kraj>
                      </kraji>
                   </obcina>
-                  
-                  
+                  <obcina n="35">
+                     <placeName lang="slv">Plač</placeName>
+                     <placeName lang="deu">Platsch</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Plač</placeName>
+                           <placeName lang="deu">Platsch</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Plač</placeName>
+                                 <placeName lang="deu">Platsch</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>33</hise>
+                                 <prebivalci>229</prebivalci>
+                              </del>
+                              <del>
+                              <placeName lang="slv">Svičina</placeName>
+                              <placeName lang="deu">Witschein</placeName>
+                              <vrsta>selo</vrsta>
+                              <hise>6</hise>
+                              <prebivalci>34</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Podigrac</placeName>
+                           <placeName lang="deu">Podigraz</placeName>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="36">
+                     <placeName lang="slv">Ploderšnica</placeName>
+                     <placeName lang="deu">Ploderberg</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Jurski dola</placeName>
+                           <placeName lang="deu">Georgenthal</placeName>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Spodnja Ploderšnica</placeName>
+                           <placeName lang="deu">Unterploderberg</placeName>
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Šambert</placeName>
+                           <placeName lang="deu">Schönwarth</placeName>
+                        </kraj>
+                        <kraj n="4">
+                           <placeName lang="slv">Zgornje Gradiše</placeName>
+                           <placeName lang="deu">Obergradiše</placeName>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+ 
+ 
+ 
                </obcine>
             </sodniOkraj>
          </sodniOkraji>
