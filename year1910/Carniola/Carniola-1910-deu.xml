@@ -765,6 +765,47 @@
                                 </ort>
                             </orte>
                         </gemeinde>
+                        <gemeinde n="3">
+                            <placeName lang="deu">Grafenbrunn</placeName>
+                            <placeName lang="slv">Knežak</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv">Bač</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Bač</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>156</hise>
+                                            <prebivalci>763</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Steinberg</placeName>
+                                            <placeName lang="slv">Kalec</placeName>
+                                            <vrsta>sela</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>0</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu">Grafenbrunn</placeName>
+                                    <placeName lang="slv">Knežak</placeName> 
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu">Jurschitz</placeName>
+                                    <placeName lang="slv">Juršiče</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="slv">Koritnice</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="slv">Podtabor</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="slv">Šembije</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
             </gerichtsBezirke>
