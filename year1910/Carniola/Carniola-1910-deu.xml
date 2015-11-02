@@ -914,6 +914,80 @@
                         <gemeinde n="8">
                             <placeName lang="slv" key="3192524">Prem</placeName>
                         </gemeinde>
+                        <gemeinde n="9">
+                            <placeName lang="slv" key="3191887">Ratečevo Brdo</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv" key="3200284">Gorenje Bitnje</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3200284">Gorenje Bitnje</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>10</hise>
+                                            <prebivalci>58</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Thurn-Radelsegg</placeName>
+                                            <placeName lang="slv">Turn</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>23</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv" key="3191887">Ratečevo Brdo</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3191887">Ratečevo Brdo</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <prebivalci>103</prebivalci>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="10">
+                            <placeName lang="deu" key="3186909">Sagorje</placeName>
+                            <placeName lang="slv" key="3186909">Zagorje</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv" key="3201149">Drskovče</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv" key="3193625">Parje</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3186909">Sagorje</placeName>
+                                    <placeName lang="slv" key="3186909">Zagorje</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="8989295">Schillertabor</placeName>
+                                    <placeName lang="slv" key="8989295">Šilen Tabor</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="11">
+                            <placeName lang="slv" key="3190434">Smerje</placeName>
+                            <orte>
+                                <ort>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3190434">Smerje</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>60</hise>
+                                            <prebivalci>335</prebivalci>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>6</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
             </gerichtsBezirke>
