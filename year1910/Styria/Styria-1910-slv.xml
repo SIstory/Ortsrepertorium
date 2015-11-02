@@ -9331,9 +9331,719 @@
                         </kraj>
                      </kraji>
                   </obcina>
-                  
-                  
-                  
+                  <obcina n="22">
+                     <placeName lang="slv">Spodnji Gasteraj</placeName>
+                     <placeName lang="deu">Untergasterei</placeName> 
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Grünthal</placeName> 
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>10</hise>
+                                 <prebivalci>54</prebivalci>  
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Hlapje</placeName>
+                                 <placeName lang="deu">Klappenberg</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>9</hise>
+                                 <prebivalci>47</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Jelški Vrh</placeName>
+                                 <placeName lang="deu">Jauschenberg</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>25</hise>
+                                 <prebivalci>123</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Kremberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>14</hise>
+                                 <prebivalci>67</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Rosenthal</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>12</hise>
+                                 <prebivalci>41</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Slatenik</placeName>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>12</hise>
+                                 <prebivalci>46</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Welga</placeName> 
+                                 <vrsta>selo</vrsta>
+                                 <hise>3</hise>
+                                 <prebivalci>18</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="23">
+                     <placeName lang="slv">Spodnji Porčič</placeName>
+                     <placeName lang="deu">Unterburgstall</placeName> 
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Mali Porčički Vrh</placeName>
+                                 <placeName lang="deu">Kleinburgstallberg</placeName> 
+                                 <vrsta>selo</vrsta>
+                                 <hise>4</hise>
+                                 <prebivalci>12</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Porčička Ves</placeName>
+                                 <placeName lang="deu">Burgstall</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>17</hise>
+                                 <prebivalci>103</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Spodnji Porčič</placeName>
+                                 <placeName lang="deu">Unterburgstall</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>45</hise>
+                                 <prebivalci>185</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="24">
+                     <placeName lang="slv">Spodnji Žerjavci</placeName>
+                     <placeName lang="deu">Unterscheriafzen</placeName> 
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Cenkova</placeName>
+                                 <placeName lang="deu">Zensenberg</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>15</hise>
+                                 <prebivalci>44</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Kobilje</placeName>
+                                 <placeName lang="deu">Kobilaberg</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>15</hise>
+                                 <prebivalci>75</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Ročica</placeName>
+                                 <placeName lang="deu">Rothschützen</placeName> 
+                                 <vrsta>selo</vrsta>
+                                 <hise>7</hise>
+                                 <prebivalci>22</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Spodnji Žerjavci</placeName>
+                                 <placeName lang="deu">Unterscheriafzen</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>47</hise>
+                                 <prebivalci>134</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="25">
+                     <placeName lang="slv">Srednji Gasteraj</placeName>
+                     <placeName lang="deu">Mittergasterei</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Srednji Gasteraj</placeName>
+                           <placeName lang="deu">Mittergasterei</placeName> 
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Zgornji Gasteraj</placeName>
+                           <placeName lang="deu">Obergasterei</placeName> 
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="26">
+                     <placeName lang="slv">Sveta Trojica v Slovenskih Goricah</placeName>
+                     <placeName lang="deu">Heiligendreifaltigkeit in Windischbüheln</placeName> 
+                  </obcina>
+                  <obcina n="27">
+                     <placeName lang="slv">Sveti Anton v Slovenskih Goricah</placeName>
+                     <placeName lang="deu">Sankt Anton in Windischbüheln</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Cerkevnjak</placeName>
+                           <placeName lang="deu">Kirchberg</placeName> 
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Cerkevnjak</placeName>
+                                 <placeName lang="deu">Kirchberg</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>30</hise>
+                                 <prebivalci>69</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Sveti Anton v Slovenskih Goricah</placeName>
+                                 <placeName lang="deu">Sankt Anton in Windischbüheln</placeName> 
+                                 <vrsta>selo</vrsta>
+                                 <hise>5</hise>
+                                 <prebivalci>21</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Kadrenci</placeName>
+                           <placeName lang="deu">Kadrenzen</placeName> 
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Stanetinci</placeName>
+                           <placeName lang="deu">Stanetinzen</placeName> 
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="28">
+                     <placeName lang="slv">Sveti Benedikt v Slovenskih Goricah</placeName>
+                     <placeName lang="deu">Sankt Benedikten in Windischbüheln</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Obrat</placeName>
+                           <placeName lang="deu">Obratten</placeName> 
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Obrat</placeName>
+                                 <placeName lang="deu">Obratten</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>11</hise>
+                                 <prebivalci>54</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Slačka Ves</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>13</hise>
+                                 <prebivalci>50</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Sveti Benedikt v Slovenskih Goricah</placeName>
+                           <placeName lang="deu">Sankt Benedikten in Windischbüheln</placeName> 
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Spodnja Ročica</placeName>
+                                 <placeName lang="deu">Unterrothschützen</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>11</hise>
+                                 <prebivalci>53</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Sveti Benedikt v Slovenskih Goricah</placeName>
+                                 <placeName lang="deu">Sankt Benedikten in Windischbüheln</placeName> 
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>78</hise>
+                                 <prebivalci>317</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Ženjak</placeName>
+                           <placeName lang="deu">Schönjak</placeName> 
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="29">
+                     <placeName lang="slv">Sveti Jurij v Slovenskih Goricah</placeName>
+                     <placeName lang="deu">Sankt Georgen in Windischbüheln</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Jurski Dol</placeName>
+                           <placeName lang="deu">Georgenthal</placeName> 
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Navarda</placeName>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="30">
+                     <placeName lang="slv">Sveti Lenart v Slovenskih Goricah</placeName>
+                     <placeName lang="deu">Sankt Leonhard in Windischbüheln</placeName> 
+                  </obcina>
+                  <obcina n="31">
+                     <placeName lang="slv">Sveti Trije Kralji v Slovenskih Goricah</placeName>
+                     <placeName lang="deu">Heiligendreikönig in Windischbüheln</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Negovski Vrh</placeName>
+                           <placeName lang="deu">Negauberg</placeName> 
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Sveti Trije Kralji v Slovenskih Goricah</placeName>
+                           <placeName lang="deu">Heiligendreikönig in Windischbüheln</placeName> 
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Štangrov</placeName>
+                           <placeName lang="deu">Stangelberg</placeName> 
+                        </kraj>
+                        <kraj n="4">
+                           <placeName lang="slv">Trstenik</placeName>
+                           <placeName lang="deu">Trixenberg</placeName> 
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="32">
+                     <placeName lang="slv">Šetarova-Radehova</placeName>
+                     <placeName lang="deu">Schiltern-Radach</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Radehova</placeName>
+                           <placeName lang="deu">Radach</placeName> 
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Šetarova</placeName>
+                           <placeName lang="deu">Schiltern</placeName> 
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="33">
+                     <placeName lang="slv">Trotkova</placeName>
+                     <placeName lang="deu">Tronkau</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Ločki Vrh</placeName>
+                           <placeName lang="deu">Lotschitschberg</placeName> 
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Stara Gora</placeName>
+                           <placeName lang="deu">Altenberg</placeName> 
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Trotkova</placeName>
+                           <placeName lang="deu">Tronkau</placeName> 
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="34">
+                     <placeName lang="slv">Verjane</placeName>
+                     <placeName lang="deu">Hanau</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Spodnje Verjane</placeName>
+                           <placeName lang="deu">Unterhanau</placeName> 
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Zgornje Verjane</placeName>
+                           <placeName lang="deu">Oberhanau</placeName> 
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Ročica</placeName>
+                                 <placeName lang="deu">Rothschützen</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>10</hise>
+                                 <prebivalci>46</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Zgornje Verjane</placeName>
+                                 <placeName lang="deu">Oberhanau</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>30</hise>
+                                 <prebivalci>131</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="35">
+                     <placeName lang="slv">Zamarkova</placeName>
+                     <placeName lang="deu">Samarko</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Lormanje</placeName>
+                           <placeName lang="deu">Armsdorf</placeName> 
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Delce</placeName>
+                                 <placeName lang="deu">Sadauziwiesen</placeName> 
+                                 <vrsta>selo</vrsta>
+                                 <hise>4</hise>
+                                 <prebivalci>15</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Lormanje</placeName>
+                                 <placeName lang="deu">Armsdorf</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>24</hise>
+                                 <prebivalci>106</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Zamarkova</placeName>
+                           <placeName lang="deu">Samarko</placeName> 
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="36">
+                     <placeName lang="slv">Zgornja Ročica</placeName>
+                     <placeName lang="deu">Oberrothschützen</placeName> 
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Frole</placeName>
+                           <placeName lang="deu">Frolach</placeName> 
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="deu">Kriechenberg</placeName> 
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Bogati Kot</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>5</hise>
+                                 <prebivalci>22</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Kriechenberg</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>16</hise>
+                                 <prebivalci>49</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Sveta Ana</placeName>
+                                 <placeName lang="deu">Sankt Anna</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>4</hise>
+                                 <prebivalci>13</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Zgornja Ročica</placeName>
+                           <placeName lang="deu">Oberrothschützen</placeName> 
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Benediški Vrh</placeName>
+                                 <placeName lang="deu">Benediktenberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>9</hise>
+                                 <prebivalci>23</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Terbušak</placeName>
+                                 <placeName lang="deu">Terbuschag</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>12</hise>
+                                 <prebivalci>54</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Večince</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>9</hise>
+                                 <prebivalci>48</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Zgornja Ročica</placeName>
+                                 <placeName lang="deu">Oberrothschützen</placeName> 
+                                 <vrsta>soseska</vrsta>
+                                 <hise>28</hise>
+                                 <prebivalci>136</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="37">
+                     <placeName lang="slv">Zgornja Veličina</placeName>
+                     <placeName lang="deu">Oberwellitschen</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Berkova</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>6</hise>
+                                 <prebivalci>16</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Breska Gora</placeName>
+                                 <placeName lang="deu">Breskaberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>26</hise>
+                                 <prebivalci>107</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Črne</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>9</hise>
+                                 <prebivalci>38</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Gorca</placeName>
+                                 <placeName lang="deu">Gorza</placeName>
+                                 <vrsta>selo</vrsta>
+                                 <hise>5</hise>
+                                 <prebivalci>33</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Holm</placeName>
+                                 <placeName lang="deu">Humberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>10</hise>
+                                 <prebivalci>42</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Hrastovec</placeName>
+                                 <placeName lang="deu">Gutenhaag</placeName>
+                                 <vrsta>selo</vrsta>
+                                 <hise>7</hise>
+                                 <prebivalci>26</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Lorbekov Mlin</placeName>
+                                 <placeName lang="deu">Lorbegmühle</placeName>
+                                 <vrsta>mlin</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>7</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Pesjak</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>10</hise>
+                                 <prebivalci>43</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Pulverstampfe</placeName>
+                                 <vrsta>selo</vrsta>
+                                 <hise>7</hise>
+                                 <prebivalci>31</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Pušenca</placeName>
+                                 <placeName lang="deu">Budschenetz</placeName>
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>1</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Strlec</placeName>
+                                 <vrsta>selo</vrsta>
+                                 <hise>5</hise>
+                                 <prebivalci>29</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Zgornja Veličina</placeName>
+                                 <placeName lang="deu">Oberwellitschen</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>23</hise>
+                                 <prebivalci>142</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="38">
+                     <placeName lang="slv">Zgornji Porčič</placeName>
+                     <placeName lang="deu">Oberburgstall</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Porčički Vrh</placeName>
+                                 <placeName lang="deu">Burgstallberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>55</hise>
+                                 <prebivalci>179</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Ročica</placeName>
+                                 <placeName lang="deu">Rothschützen</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>21</hise>
+                                 <prebivalci>91</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Zgornji Porčič</placeName>
+                                 <placeName lang="deu">Oberburgstall</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>31</hise>
+                                 <prebivalci>85</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="39">
+                     <placeName lang="slv">Zgornji Žerjavci</placeName>
+                     <placeName lang="deu">Oberscheriafzen</placeName>
+                  </obcina>
+                  <obcina n="40">
+                     <placeName lang="slv">Zimnica</placeName>
+                     <placeName lang="deu">Wintersbach</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Gočice</placeName>
+                                 <placeName lang="deu">Gotschitzberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>22</hise>
+                                 <prebivalci>124</prebivalci>  
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Mala Zimnica</placeName>
+                                 <placeName lang="deu">Kleinwintersbach</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>33</hise>
+                                 <prebivalci>143</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Velika Zimnica</placeName>
+                                 <placeName lang="deu">Großwintersbach</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>41</hise>
+                                 <prebivalci>195</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="41">
+                     <placeName lang="slv">Žice</placeName>
+                     <placeName lang="deu">Schützen</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Črnetina</placeName>
+                                 <placeName lang="deu">Schwarzberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>15</hise>
+                                 <prebivalci>57</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Kamenšak</placeName>
+                                 <placeName lang="deu">Steinberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>17</hise>
+                                 <prebivalci>74</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Žice</placeName>
+                                 <placeName lang="deu">Schützen</placeName>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>32</hise>
+                                 <prebivalci>183</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="42">
+                     <placeName lang="slv">Žikarci</placeName>
+                     <placeName lang="deu">Schikarzen</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Dolga Njiva</placeName>
+                           <placeName lang="deu">Langenacker</placeName>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Žikarci</placeName>
+                           <placeName lang="deu">Schikarzen</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Apence</placeName>
+                                 <placeName lang="deu">Patschenberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>24</hise>
+                                 <prebivalci>93</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Karčovina</placeName>
+                                 <placeName lang="deu">Kartschowina</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>12</hise>
+                                 <prebivalci>57</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Novi Vrh</placeName>
+                                 <placeName lang="deu">Neubruch</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>13</hise>
+                                 <prebivalci>44</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Prentenberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>24</hise>
+                                 <prebivalci>113</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Pučenca</placeName>
+                                 <placeName lang="deu">Wolfsgraben</placeName>
+                                 <vrsta>selo</vrsta>
+                                 <hise>7</hise>
+                                 <prebivalci>34</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Žikarci</placeName>
+                                 <placeName lang="deu">Schikarzen</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>9</hise>
+                                 <prebivalci>41</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="43">
+                     <placeName lang="slv">Žitence</placeName>
+                     <placeName lang="deu">Schittanzen</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Plajderšnica</placeName>
+                                 <placeName lang="deu">Bleiderberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>11</hise>
+                                 <prebivalci>49</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Žitence</placeName>
+                                 <placeName lang="deu">Schittanzen</placeName>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>71</hise>
+                                 <prebivalci>324</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="44">
+                     <placeName lang="slv">Župetinci</placeName>
+                     <placeName lang="deu">Supetinzen</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Brezovjak</placeName>
+                                 <placeName lang="deu">Wresovjak</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>13</hise>
+                                 <prebivalci>78</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Župetinci</placeName>
+                                 <placeName lang="deu">Supetinzen</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>41</hise>
+                                 <prebivalci>182</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina> 
                </obcine>
             </sodniOkraj>
          </sodniOkraji>
@@ -9345,8 +10055,60 @@
          <placeName lang="deu">Murau</placeName>
       </polOkraj>
       <polOkraj>
-         <placeName>Ptuj</placeName>
+         <placeName lang="slv">Ptuj</placeName>
          <placeName lang="deu">Pettau</placeName>
+         <sodniOkraji>
+            <sodniOkraj n="1">
+               <placeName lang="slv">Ormož</placeName>
+               <placeName lang="deu">Friedau</placeName>
+               <obcine>
+                  <obcina n="1">
+                     <placeName lang="slv">Bratonečice</placeName>
+                     <placeName lang="deu">Wratoneschitz</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="slv">Bratonečice</placeName>
+                           <placeName lang="deu">Wratoneschitz</placeName>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="slv">Gradiše</placeName>
+                           <placeName lang="deu">Gradische</placeName>
+                        </kraj>
+                        <kraj n="3">
+                           <placeName lang="slv">Mala Ves</placeName>
+                           <placeName lang="deu">Malaves</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Mala Ves</placeName>
+                                 <placeName lang="deu">Malaves</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>5</hise>
+                                 <prebivalci>26</prebivalci> 
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Malavina</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>34</hise>
+                                 <prebivalci>120</prebivalci> 
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="4">
+                           <placeName lang="slv">Ritmerk</placeName>
+                           <placeName lang="deu">Rittenberg</placeName>
+                        </kraj>
+                        <kraj n="5">
+                           <placeName lang="slv">Sejanci</placeName>
+                           <placeName lang="deu">Seanzen</placeName>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  
+               </obcine>
+            </sodniOkraj>
+         </sodniOkraji>
+         
+         
       </polOkraj>
       <polOkraj>
          <placeName>Radgona</placeName>
