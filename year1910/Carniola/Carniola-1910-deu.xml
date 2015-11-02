@@ -990,6 +990,472 @@
                         </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
+                <gerichtsBezirk n="3">
+                    <placeName lang="deu" key="3191043">Senosetsch</placeName>
+                    <placeName lang="slv" key="3191043">Senožeče</placeName>
+                    <gemeinden>
+                        <gemeinde n="1">
+                            <placeName lang="slv" key="3187237">Britof</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv" key="3187237">Britof</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3187237">Brotif</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>30</hise>
+                                            <prebivalci>164</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Pri Fari</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>11</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3201769">Unterurem</placeName>
+                                    <placeName lang="slv" key="3201769">Dolenje Vreme</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3201769">Unterurem</placeName>
+                                            <placeName lang="slv" key="3201769">Dolenje Vreme</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>45</hise>
+                                            <prebivalci>115</prebivalci>
+                                            <vrsta>raztresene hiše</vrsta>
+                                            <hise>5</hise>
+                                            <prebivalci>12</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="2">
+                            <placeName lang="slv" key="3200872">Famlje</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv" key="3200872">Famlje</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3200872">Famlje</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>35</hise>
+                                            <prebivalci>182</prebivalci>
+                                            <vrsta>raztresene hiše</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>10</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv" key="3200317">Goriče</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3200317">Goriče</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>14</hise>
+                                            <prebivalci>86</prebivalci>
+                                            <vrsta>raztresene hiše</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="3">
+                            <placeName lang="deu" key="3199276">Hrenowitz</placeName>
+                            <placeName lang="slv" key="3199276">Hrenovice</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv" key="8988566">Brezje</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3189633">Bründl</placeName>
+                                    <placeName lang="slv" key="3189633">Studenec</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="slv" key="3218952">Čermelice</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="slv" key="3200319">Goriče</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3200319">Goriče</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>28</hise>
+                                            <prebivalci>129</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="8987490">Pri Dilcah</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>8</hise>
+                                            <prebivalci>34</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu" key="3188269">Großberdo</placeName>
+                                    <placeName lang="slv" key="3188269">Veliko Brdo</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3188269">Großberdo</placeName>
+                                            <placeName lang="slv" key="3188269">Veliko Brdo</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>16</hise>
+                                            <prebivalci>80</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Schickelhof</placeName>
+                                            <placeName lang="slv">Šuklje</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="deu" key="3219002">Großubelsko</placeName>
+                                    <placeName lang="slv" key="3219002">Veliko Ubeljsko</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3219002">Großubelsko</placeName>
+                                            <placeName lang="slv" key="3219002">Veliko Ubeljsko</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>47</hise>
+                                            <prebivalci>80</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Pri Čenčku</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="deu" key="3199276">Hrenowitz</placeName>
+                                    <placeName lang="slv" key="3199276">Hrenovice</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3199276">Hrenowitz</placeName>
+                                            <placeName lang="slv" key="3199276">Hrenovice</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>35</hise>
+                                            <prebivalci>128</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="10860605">Pri Fari</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>7</hise>
+                                            <prebivalci>43</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Pri Cesti</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>10</hise>
+                                            <prebivalci>42</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="8">
+                                    <placeName lang="slv" key="3199249">Hruševje</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3199249">Hruševje</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>43</hise>
+                                            <prebivalci>235</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Pri Čadežu</placeName>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="9">
+                                    <placeName lang="deu" key="3195873">Kleinberdo</placeName>
+                                    <placeName lang="slv" key="3195873">Malo Brdo</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3195873">Kleinberdo</placeName>
+                                            <placeName lang="slv" key="3195873">Malo Brdo</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>14</hise>
+                                            <prebivalci>70</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Marmont</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>19</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="10">
+                                    <placeName lang="deu" key="3195559">Kleinubelsko</placeName>
+                                    <placeName lang="slv" key="3195559">Malo Ubeljsko</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Dreihäuser</placeName>
+                                            <placeName lang="slv">Pri Treh Hišah</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>18</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="3195559">Kleinubelsko</placeName>
+                                            <placeName lang="slv" key="3195559">Malo Ubeljsko</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>17</hise>
+                                            <prebivalci>86</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="11">
+                                    <placeName lang="slv" key="3196778">Landol</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3218970">Brinje</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>22</hise>
+                                            <prebivalci>124</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="3196778">Landol</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>20</hise>
+                                            <prebivalci>138</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="12">
+                                    <placeName lang="deu" key="3191786">Präwald</placeName>
+                                    <placeName lang="slv" key="3191786">Razdrto</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3191786">Präwald</placeName>
+                                            <placeName lang="slv" key="3191786">Razdrto</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>57</hise>
+                                            <prebivalci>241</prebivalci>
+                                            <vrsta>raztresene hiše</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>15</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="13">
+                                    <placeName lang="slv" key="3191984">Rakulik</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Mežnarija</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="3191984">Rakulik</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>17</hise>
+                                            <prebivalci>76</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="14">
+                                    <placeName lang="slv" key="3191353">Sajevče</placeName>
+                                </ort>
+                                <ort n="15">
+                                    <placeName lang="deu" key="3190488">Sankt Michael</placeName>
+                                    <placeName lang="slv" key="3190488">Šmihel</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3190488">Sankt Michael</placeName>
+                                            <placeName lang="slv" key="3190488">Šmihel</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>72</hise>
+                                            <prebivalci>368</prebivalci>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>7</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="16">
+                                    <placeName lang="slv" key="3190596">Slavinje</placeName>
+                                </ort>
+                                <ort n="17">
+                                    <placeName lang="slv" key="3189777">Strane</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="4">
+                            <placeName lang="slv" key="3196731">Laže</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv" key="3196731">Laže</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Ključ v Smolevem</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="3196731">Laže</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>32</hise>
+                                            <prebivalci>178</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv" key="key="3191353"">Sajevče, del</placeName>*
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Na Hribu</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>14</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="5">
+                            <placeName lang="deu" key="3201848">Niederdorf</placeName>
+                            <placeName lang="slv" key="3201848">Dolenja Vas</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3201848">Niederdorf</placeName>
+                                    <placeName lang="slv" key="3201848">Dolenja Vas</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Na hribu</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>29</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="3201848">Niederdorf</placeName>
+                                            <placeName lang="slv" key="3201848">Dolenja Vas</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>48</hise>
+                                            <prebivalci>241</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="10860609">Pri Malnih</placeName>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>23</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Pri Mlinarju</placeName>
+                                            <vrsta>pristava</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>4</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv" key="3192655">Potoče</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3219003">Witousche</placeName>
+                                    <placeName lang="slv" key="3219003">Otošče</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Pri Sušati</placeName>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>0</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="3219003">Witousche</placeName>
+                                            <placeName lang="slv" key="3219003">Otošče</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>9</hise>
+                                            <prebivalci>50</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="6">
+                            <placeName lang="deu" key="3200067">Oberurem</placeName>
+                            <placeName lang="slv" key="3200067">Gorenje Vreme</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3200114">Oberlesetsche</placeName>
+                                    <placeName lang="slv" key="3200114">Gorenje Ležeče</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3200067">Oberurem</placeName>
+                                    <placeName lang="slv" key="3200067">Gorenje Vreme</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="7">
+                            <placeName lang="deu" key="3191043">Senosetsch</placeName>
+                            <placeName lang="slv" key="3191043">Senožeče</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv" key="3200795">Gabrče</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3191043">Senosetsch</placeName>
+                                    <placeName lang="slv" key="3191043">Senožeče</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Na Smolevem</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>13</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="3191043">Senosetsch</placeName>
+                                            <placeName lang="slv" key="3191043">Senožeče</placeName>
+                                            <vrsta>trg</vrsta>
+                                            <hise>156</hise>
+                                            <prebivalci>740</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="8">
+                            <placeName lang="slv" key="3191061">Sinadole</placeName>
+                            <orte>
+                                <ort>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Na Gabrku</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Pri Bajti</placeName>
+                                            <vrsta>gostilna</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>13</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="3191061">Sinadole</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>28</hise>
+                                            <prebivalci>145</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                    </gemeinden>
+                </gerichtsBezirk>
             </gerichtsBezirke>
         </polBezirk>
     </polBezirke>
