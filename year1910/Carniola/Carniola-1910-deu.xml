@@ -2189,6 +2189,225 @@
                 </gerichtsBezirk>
             </gerichtsBezirke>
         </polBezirk>
+        <polBezirk>
+            <placeName lang="deu" key="3197942">Gottschee</placeName>
+            <placeName lang="slv" key="3197942">Kočevje</placeName>
+            <gerichtsBezirke>
+                <gerichtsBezirk n="1">
+                    <placeName lang="deu" key="3197942">Gottschee</placeName>
+                    <placeName lang="slv" key="3197942">Kočevje</placeName>
+                    <gemeinden>
+                        <gemeinde n="1">
+                            <placeName lang="deu" key="3189954">Altag</placeName>
+                            <placeName lang="slv" key="3189954">Stari Log</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3189954">Altag</placeName>
+                                    <placeName lang="slv" key="3189954">Stari Log</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="8989427">Hohenberg</placeName>
+                                    <placeName lang="slv" key="8989427">Na Pogledu</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="10860690">Neulag</placeName>
+                                    <placeName lang="slv" key="10860690">Novi Log</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="10860693">Oberstein</placeName>
+                                    <placeName lang="slv" key="10860693">Žiben</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu">Schönberg</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="deu" key="10860692">Weißenstein</placeName>
+                                    <placeName lang="slv" key="10860692">Beli Kamen</placeName>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="deu" key="10860691">Winkel</placeName>
+                                    <placeName lang="slv" key="10860690">Cesta</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="2">
+                            <placeName lang="slv" key="3204544">Banja Loka</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3204858">Aibel</placeName>
+                                    <placeName lang="slv" key="3204858">Ajbel</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv" key="3204544">Banja Loka</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="slv" key="8989653">Briga</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="8989653">Briga</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>6</hise>
+                                            <prebivalci>27</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Friškova Draga</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>3</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="8989391">Dresnik</placeName>
+                                    <placeName lang="slv" key="8989391">Drežnik</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="slv" key="8989404">Jesenov Vrt</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="slv" key="8989171">Kaptol</placeName>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="slv" key="8358613">Kostel</placeName>
+                                </ort>
+                                <ort n="8">
+                                    <placeName lang="slv">Matoz</placeName>
+                                </ort>
+                                <ort n="9">
+                                    <placeName lang="slv" key="3194411">Nova Sela</placeName>
+                                </ort>
+                                <ort n="10">
+                                    <placeName lang="deu" key="8989417">Oberpotok</placeName>
+                                    <placeName lang="slv" key="8989417">Gorenji Potok</placeName>
+                                </ort>
+                                <ort n="11">
+                                    <placeName lang="deu" key="8989301">Oberschaga</placeName>
+                                    <placeName lang="slv" key="8989301">Gorenja Žaga</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Loge</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>11</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="8989301">Oberschaga</placeName>
+                                            <placeName lang="slv" key="8989301">Gorenja Žaga</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>28</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="12">
+                                    <placeName lang="slv" key="3192916">Podstene</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="8989676">Mittelpotok</placeName>
+                                            <placeName lang="slv" key="8989676">Srednji Potok</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>17</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="3192916">Podstene</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>15</hise>
+                                            <prebivalci>44</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="8989675">Unterpotok</placeName>
+                                            <placeName lang="slv" key="8989675">Dolenji Potok</placeName>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="13">
+                                    <placeName lang="slv" key="3214653">Puc</placeName>
+                                </ort>
+                                <ort n="14">
+                                    <placeName lang="slv" key="10860695">Rački Potok</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="10860695">Rački Potok</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>6</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="8989418">Raka</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>13</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="15">
+                                    <placeName lang="slv" key="8989377">Rajšele</placeName>
+                                </ort>
+                                <ort n="16">
+                                    <placeName lang="slv" key="8989674">Selo</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="8989674">Selo</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>10</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="8989673">Lipovac</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>18</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="17">
+                                    <placeName lang="slv" key="8989438">Stelnik</placeName>
+                                </ort>
+                                <ort n="18">
+                                    <placeName lang="slv" key="8989439">Stružnica</placeName>
+                                </ort>
+                                <ort n="19">
+                                    <placeName lang="deu" key="8989440">Suchor</placeName>
+                                    <placeName lang="slv" key="8989440">Suhor</placeName>
+                                </ort>
+                                <ort n="20">
+                                    <placeName lang="deu" key="8989679">Unterschaga</placeName>
+                                    <placeName lang="slv" key="8989679">Spodnja Žaga</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Lobič</placeName>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Reber</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>15</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="8989679">Unterschaga</placeName>
+                                            <placeName lang="slv" key="8989679">Spodnja Žaga</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="21">
+                                    <placeName lang="slv" key="8989406">Vimol</placeName>
+                                </ort>
+                                <ort n="22">
+                                    <placeName lang="slv" key="8989669">Zapuže</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                    </gemeinden>
+                </gerichtsBezirk>
+            </gerichtsBezirke>
+        </polBezirk>
     </polBezirke>
 </root>    
 
