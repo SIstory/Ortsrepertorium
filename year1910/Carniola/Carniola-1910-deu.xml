@@ -2404,6 +2404,181 @@
                                 </ort>
                             </orte>
                         </gemeinde>
+                        <gemeinde n="3">
+                            <placeName lang="deu" key="3192768">Ebenthal</placeName>
+                            <placeName lang="slv" key="3192768">Polom</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3192768">Ebenthal</placeName>
+                                    <placeName lang="slv" key="3192768">Polom</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3218585">Kukendort</placeName>
+                                    <placeName lang="slv" key="3218585">Kukovo</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3191187">Setsch</placeName>
+                                    <placeName lang="slv" key="3191187">Seč</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="3187268">Tiefenthal</placeName>
+                                    <placeName lang="slv" key="3187268">Vrbovec</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="4">
+                            <placeName lang="slv" key="3200870">Fara</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="8989340">Boden</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv" key="8989402">Delač</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="slv" key="8989023">Dren</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="slv" key="3200870">Fara</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="slv" key="8989437">Gladloka</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="slv" key="8989694">Grivac</placeName>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="slv" key="8989668">Hrib</placeName>
+                                </ort>
+                                <ort n="8">
+                                    <placeName lang="deu" key="8989202">Jakschitz</placeName>
+                                    <placeName lang="slv" key="8989202">Jaksič</placeName>
+                                </ort>
+                                <ort n="9">
+                                    <placeName lang="slv" key="8988982">Krkovo</placeName>
+                                </ort>
+                                <ort n="10">
+                                    <placeName lang="deu" key="8990168">Kuschel</placeName>
+                                    <placeName lang="slv" key="8990168">Kuželj</placeName>
+                                </ort>
+                                <ort n="11">
+                                    <placeName lang="slv" key="8989680">Kuželjič</placeName>
+                                </ort>
+                                <ort n="12">
+                                    <placeName lang="slv">Laze-Ograja</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="8989223">Laze</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>9</hise>
+                                            <prebivalci>43</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="10860746">Ograja</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>15</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="13">
+                                    <placeName lang="slv" key="8989365">Maverc</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="8989364">Breznik</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>14</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="8989365">Maverc</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>5</hise>
+                                            <prebivalci>27</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="14">
+                                    <placeName lang="slv">Oškert-Gotenc</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="8989284">Gotenc</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>7</hise>
+                                            <prebivalci>28</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="8989172">Oškert</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>5</hise>
+                                            <prebivalci>21</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="15">
+                                    <placeName lang="deu" key="8989670">Padua</placeName>
+                                    <placeName lang="slv" key="8989670">Padova</placeName>
+                                </ort>
+                                <ort n="16">
+                                    <placeName lang="slv" key="8989710">Petrina</placeName>
+                                </ort>
+                                <ort n="17">
+                                    <placeName lang="slv" key="8989173">Pirče</placeName>
+                                </ort>
+                                <ort n="18">
+                                    <placeName lang="slv" key="8989319">Planina</placeName>
+                                </ort>
+                                <ort n="19">
+                                    <placeName lang="slv" key="8989539">Potok</placeName>
+                                </ort>
+                                <ort n="20">
+                                    <placeName lang="slv" key="3191284">Sapnik</placeName>
+                                </ort>
+                                <ort n="21">
+                                    <placeName lang="slv" key="8989063">Slavski Laz</placeName>
+                                </ort>
+                                <ort n="22">
+                                    <placeName lang="slv" key="8989378">Štajer</placeName>
+                                </ort>
+                                <ort n="23">
+                                    <placeName lang="slv" key="8989405">Tišenpol</placeName>
+                                </ort>
+                                <ort n="24">
+                                    <placeName lang="slv" key="3188352">Vas</placeName>
+                                </ort>
+                                <ort n="25">
+                                    <placeName lang="deu" key="3187181">Werch</placeName>
+                                    <placeName lang="slv" key="3187181">Vrh</placeName>
+                                </ort>
+                                <ort n="26">
+                                    <placeName lang="deu" key="8989201">Zollnern</placeName>
+                                    <placeName lang="slv" key="8989201">Colnarji</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="5">
+                            <placeName lang="deu" key="3218576">Göttenitz</placeName>
+                            <placeName lang="slv" key="3218576">Gotenica</placeName>
+                            <orte>
+                                <ort>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3218576">Göttenitz</placeName>
+                                            <placeName lang="slv" key="3218576">Gotenica</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>97</hise>
+                                            <prebivalci>354</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Kaltenbrunn</placeName>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>5</hise>
+                                            <prebivalci>23</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
             </gerichtsBezirke>
