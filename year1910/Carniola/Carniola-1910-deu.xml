@@ -2579,6 +2579,92 @@
                                 </ort>
                             </orte>
                         </gemeinde>
+                        <gemeinde n="6">
+                           <placeName lang="deu" key="3197943">Gottschee</placeName>
+                           <placeName lang="slv" key="3197943">Kočevje</placeName>
+                         </gemeinde>
+                         <gemeinde n="7">
+                           <placeName lang="deu" key="3197992">Graflinden</placeName>
+                           <placeName lang="slv" key="3197992">Knježja Lipa</placeName>
+                             <orte>
+                               <ort n="1">
+                                 <placeName lang="deu" key="3197992">Graflinden</placeName>
+                                 <placeName lang="slv" key="3197992">Knježja Lipa</placeName>
+                               </ort>
+                               <ort n="2">
+                                 <placeName lang="deu">Ramsriegel</placeName>
+                               </ort>
+                               <ort n="3">
+                                 <placeName lang="deu">Römergrund</placeName>
+                               </ort>
+                               <ort n="4">
+                                 <placeName lang="deu">Thurn</placeName>
+                               </ort>
+                             </orte>
+                         </gemeinde>
+                         <gemeinde n="8">
+                         <placeName lang="deu" key="3194368">Hinterberg</placeName>
+                         <placeName lang="slv" key="3194368">Novi Lazi</placeName>
+                         <orte>
+                           <ort n="1">
+                             <placeName lang="deu" key="3194368">Hinterberg</placeName>
+                             <placeName lang="slv" key="3194368">Novi Lazi</placeName>
+                           </ort>
+                           <ort n="2">
+                           <placeName lang="deu" key="3198706">Hirschgruben</placeName>
+                           <placeName lang="slv" key="3198706">Jelenja Vas</placeName>
+                           </ort>
+                           <ort n="3">
+                           <placeName lang="deu" key="3191575">Hornberg</placeName>
+                           <placeName lang="slv" key="3191575">Rogati Hrib</placeName>
+                           </ort>
+                           <ort n="4">
+                             <placeName lang="deu" key="3194875">Mrauen</placeName>
+                             <placeName lang="slv" key="3194875">Morava</placeName>
+                             <teile>
+                             <teil>
+                             <placeName lang="deu">Moschelnik</placeName>
+                             <vrsta>samišče</vrsta>
+                             <hise>2</hise>
+                             <prebivalci>10</prebivalci>
+                             </teil>
+                             <teil>
+                             <placeName lang="deu" key="3194875">Mrauen</placeName>
+                             <placeName lang="slv" key="3194875">Morava</placeName>
+                             <vrsta>vas</vrsta>
+                             <hise>45</hise>
+                             <prebivalci>158</prebivalci>
+                             </teil>
+                             </teile>
+                           </ort>
+                           <ort n="5">
+                           <placeName lang="deu" key="3190060">Stalzern</placeName>
+                           <placeName lang="slv" key="3190060">Štalcarji</placeName>
+                           </ort>
+                           <ort n="6">
+                           <placeName lang="deu" key="8989426">Suchenreuther</placeName>
+                           <placeName lang="slv" key="8989426">Na Gradu</placeName>
+                           <placeName lang="slv" key="8989426">Ograja</placeName>
+                           </ort>
+                         </orte>
+                         </gemeinde>
+                         <gemeinde n="9">
+                           <placeName lang="deu" key="3197948">Kotschen</placeName>
+                           <placeName lang="slv" key="3197948">Koče</placeName>
+                           <orte>
+                           <ort n="1">
+                             <placeName lang="deu">Handlern</placeName>
+                           </ort>
+                           <ort n="2">
+                           <placeName lang="deu" key="3197948">Kotschen</placeName>
+                           <placeName lang="slv" key="3197948">Koče</placeName>
+                           </ort>
+                           <ort n="3">
+                             <placeName lang="deu" key="3194978">Moos</placeName>
+                             <placeName lang="deu" key="3194978">Mlaka</placeName>
+                           </ort>
+                           </orte>
+                         </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
             </gerichtsBezirke>
