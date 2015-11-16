@@ -2746,6 +2746,236 @@
                                 </ort>
                             </orte>
                         </gemeinde>
+                        <gemeinde n="10">
+                            <placeName lang="deu" key="3196409">Lienfeld</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3201809">Grafenfeld</placeName>
+                                    <placeName lang="slv" key="3201809">Dolga Vas</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3196409">Lienfeld</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="11">
+                            <placeName lang="deu" key="3195852">Malgern</placeName>
+                            <placeName lang="slv" key="3195852">Mala Gora</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3189977">Altbacher</placeName>
+                                    <placeName lang="slv" key="3189977">Stari Breg</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="10941988">Grintowitz</placeName>
+                                    <placeName lang="slv" key="10941988">Grintovec</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3198096">Kletsch</placeName>
+                                    <placeName lang="slv" key="3198096">Kleče</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="3195852">Malgern</placeName>
+                                    <placeName lang="slv" key="3195852">Mala Gora</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu" key="3203465">Neubacher</placeName>
+                                    <placeName lang="slv" key="3203465">Novi Breg</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="deu">Riegel</placeName>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="deu" key="8989369">Tiefenreuther</placeName>
+                                    <placeName lang="slv" key="8989369">Trnovec</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="12">
+                            <placeName lang="deu" key="3190022">Mitterdorf</placeName>
+                            <placeName lang="slv" key="3190022">Stara Cerkev</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3194979">Kerndorf</placeName>
+                                    <placeName lang="slv" key="3194979">Mlaka</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3197953">Kotlern</placeName>
+                                    <placeName lang="slv" key="3197953">Kovlerji</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="8988598">Gschwend</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>23</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="3197953">Kotlern</placeName>
+                                            <placeName lang="slv" key="3197953">Kovlerji</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>48</hise>
+                                            <prebivalci>186</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3190022">Mitterdorf</placeName>
+                                    <placeName lang="slv" key="3190022">Stara Cerkev</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="3194394">Neuloschin</placeName>
+                                    <placeName lang="slv" key="3194394">Nove Ložine</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu" key="3201773">Niederloschin</placeName>
+                                    <placeName lang="slv" key="3201773">Dolenje Ložine</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="deu" key="3200111">Oberloschin</placeName>
+                                    <placeName lang="slv" key="3200111">Gorenje Ložine</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3200111">Oberloschin</placeName>
+                                            <placeName lang="slv" key="3200111">Gorenje Ložine</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>28</hise>
+                                            <prebivalci>100</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Schweinberg</placeName>
+                                            <vrsta>gostilna</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>8</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="deu" key="8986987">Obrern</placeName>
+                                    <placeName lang="slv" key="8986987">Gorenja Vas</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3218578">Beim Brunnwirt</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>6</hise>
+                                            <prebivalci>20</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="8986987">Obrern</placeName>
+                                            <placeName lang="slv" key="8986987">Gorenja Vas</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>24</hise>
+                                            <prebivalci>76</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="8">
+                                    <placeName lang="deu" key="8987691">Ort</placeName>
+                                    <placeName lang="slv" key="8987691">Konca</placeName>
+                                </ort>
+                                <ort n="9">
+                                    <placeName lang="deu" key="8990185">Rain</placeName>
+                                    <placeName lang="slv" key="8990185">Breg</placeName>
+                                </ort>
+                                <ort n="10">
+                                    <placeName lang="deu" key="3190532">Windischdorf</placeName>
+                                    <placeName lang="slv" key="3190532">Slovenska Vas</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="8988598">Gschwend</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>14</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="3190532">Windischdorf</placeName>
+                                            <placeName lang="slv" key="3190532">Slovenska Vas</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>54</hise>
+                                            <prebivalci>199</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="13">
+                            <placeName lang="deu" key="3194793">Mösel</placeName>
+                            <placeName lang="slv" key="3194793">Mozelj</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3189553">Dürnbach</placeName>
+                                    <placeName lang="slv" key="3189553">Suha Vas</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="8989424">Küchlern</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="8988810">Niedermösel</placeName>
+                                    <placeName lang="slv" key="8988810">Kožarji</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="3194683">Oberfliegendorf</placeName>
+                                    <placeName lang="slv" key="3194683">Gorenja Turkova Draga</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu" key="3194793">Obermösel</placeName>
+                                    <placeName lang="slv" key="3194793">Mozelj</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="deu" key="10941994">Oberpockstein</placeName>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="deu" key="8989428">Oberskrill</placeName>
+                                    <placeName lang="slv" key="8989428">Zdihovo</placeName>
+                                </ort>
+                                <ort n="8">
+                                    <placeName lang="deu" key="3198506">Otterbach</placeName>
+                                </ort>
+                                <ort n="9">
+                                    <placeName lang="deu" key="3192028">Reinthal</placeName>
+                                </ort>
+                                <ort n="10">
+                                    <placeName lang="deu" key="10941991">Unterfliegendorf</placeName>
+                                    <placeName lang="slv" key="10941991">Dolenja Turkova Draga</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="8989403">Beim Gergel</placeName>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>8</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="10941991">Unterfliegendorf</placeName>
+                                            <placeName lang="slv" key="10941991">Dolenja Turkova Draga</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>9</hise>
+                                            <prebivalci>37</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Wilpen</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>4</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Žlebe</placeName>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="11">
+                                    <placeName lang="deu" key="3190683">Unterskrill</placeName>
+                                    <placeName lang="slv" key="3190683">Dolenje Zdihovo</placeName>
+                                </ort>
+                                <ort n="12">
+                                    <placeName lang="deu" key="10941992">Verderb</placeName>
+                                </ort>
+                                <ort n="12">
+                                    <placeName lang="deu" key="8989383">Verdreng</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
             </gerichtsBezirke>
