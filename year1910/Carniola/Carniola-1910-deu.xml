@@ -3052,8 +3052,8 @@
                                     <placeName lang="slv" key="3194539">Gorenja Loka</placeName>
                                 </ort>
                                 <ort n="12">
-                                    <placeName lang="deu" key="3195972">Oberkatzendorf</placeName>
-                                    <placeName lang="slv" key="3195972">Gorenji Mačkovec</placeName>
+                                    <placeName lang="deu" key="10942284">Oberkatzendorf</placeName>
+                                    <placeName lang="slv" key="10942284">Gorenji Mačkovec</placeName>
                                 </ort>
                                 <ort n="13">
                                     <placeName lang="deu" key="3192036">Reichenau</placeName>
@@ -3087,6 +3087,341 @@
                                 <ort n="21">
                                     <placeName lang="deu">Warmberg</placeName>
                                     <placeName lang="slv">Topli Vrh</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="17">
+                            <placeName lang="deu" key="3188927">Obergraß</placeName>
+                            <placeName lang="slv" key="3188927">Trava</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu">Alben</placeName>
+                                    <placeName lang="slv">Planina</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3189958">Altwinkel</placeName>
+                                    <placeName lang="slv" key="3189958">Stari Kot</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3189958">Altwinkel</placeName>
+                                            <placeName lang="slv" key="3189958">Stari Kot</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>29</hise>
+                                            <prebivalci>144</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="10942278">Na Hribu</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>14</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="10942279">Preska</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="10942277">Bärenheim</placeName>
+                                    <placeName lang="slv" key="10942277">Medvedjek</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="3190133">Mittergraß</placeName>
+                                    <placeName lang="slv" key="3190133">Srednja Vas</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3190133">Mittergraß</placeName>
+                                            <placeName lang="slv" key="3190133">Srednja Vas</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>26</hise>
+                                            <prebivalci>124</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="10942280">Schaffern</placeName>
+                                            <placeName lang="slv" key="10942280">Šafarje</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>13</hise>
+                                            <prebivalci>54</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu" key="3188927">Obergraß</placeName>
+                                    <placeName lang="slv" key="3188927">Trava</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="18">
+                            <placeName lang="deu" key="3193930">Ossiunitz</placeName>
+                            <placeName lang="slv" key="3193930">Osilnica</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="8989259">Baumgarten</placeName>
+                                    <placeName lang="slv" key="8989259">Pungert</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3191692">Fischbach</placeName>
+                                    <placeName lang="slv" key="3191692">Ribjek</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3219091">Grintouz</placeName>
+                                    <placeName lang="slv" key="3219091">Grintovec</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="slv" key="8989706">Križmane</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="slv" key="8989010">Ložec</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="slv" key="8989711">Malinšek</placeName>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="deu" key="8989294">Mertouz</placeName>
+                                    <placeName lang="slv" key="8989294">Mrtovc</placeName>
+                                </ort>
+                                <ort n="8">
+                                    <placeName lang="deu" key="3186495">Oberčačič</placeName>
+                                    <placeName lang="slv" key="3186495">Zgornji Čačič</placeName>
+                                </ort>
+                                <ort n="9">
+                                    <placeName lang="deu" key="3193930">Ossiunitz</placeName>
+                                    <placeName lang="slv" key="3193930">Osilnica</placeName>
+                                </ort>
+                                <ort n="10">
+                                    <placeName lang="deu" key="8989076">Padua</placeName>
+                                    <placeName lang="slv" key="8989076">Padova</placeName>
+                                </ort>
+                                <ort n="11">
+                                    <placeName lang="deu" key="8988953">Papesch</placeName>
+                                    <placeName lang="slv" key="8988953">Papeži</placeName>
+                                </ort>
+                                <ort n="12">
+                                    <placeName lang="slv" key="8989709">Podvrh</placeName>
+                                </ort>
+                                <ort n="13">
+                                    <placeName lang="deu" key="3202413">Schwarzenbach</placeName>
+                                    <placeName lang="slv" key="3202413">Črni Potok</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3202413">Schwarzenbach</placeName>
+                                            <placeName lang="slv" key="3202413">Črni Potok</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>15</hise>
+                                            <prebivalci>85</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="10942281">Vice</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>14</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="14">
+                                    <placeName lang="slv" key="8989683">Sela</placeName>
+                                </ort>
+                                <ort n="15">
+                                    <placeName lang="slv" key="8989419">Srbotnik</placeName>
+                                </ort>
+                                <ort n="16">
+                                    <placeName lang="slv" key="8989702">Strojč</placeName>
+                                </ort>
+                                <ort n="17">
+                                    <placeName lang="deu" key="8989276">Sürgern</placeName>
+                                    <placeName lang="slv" key="8989276">Žurge</placeName>
+                                </ort>
+                                <ort n="18">
+                                    <placeName lang="deu" key="3190201">Unterčačič</placeName>
+                                    <placeName lang="slv" key="3190201">Spodnji Čačič</placeName>
+                                </ort>
+                                <ort n="19">
+                                    <placeName lang="deu" key="8989331">Weißsenbach</placeName>
+                                    <placeName lang="slv" key="8989331">Belica</placeName>
+                                </ort>
+                                <ort n="20">
+                                    <placeName lang="deu" key="8989216">Wesgowitz</placeName>
+                                    <placeName lang="slv" key="8989216">Bezgovica</placeName>
+                                </ort>
+                                <ort n="21">
+                                    <placeName lang="deu" key="8989187">Wisgarn</placeName>
+                                    <placeName lang="slv" key="8989187">Bezgarji</placeName>
+                                </ort>
+                                <ort n="22">
+                                    <placeName lang="deu" key="3203635">Wosail</placeName>
+                                    <placeName lang="slv" key="3203635">Bosljiva Loka</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="19">
+                            <placeName lang="deu" key="3197941">Rieg</placeName>
+                            <placeName lang="deu" key="3197941">Kočevska Reka</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3191361">Oberwetzenbach</placeName>
+                                </ort>
+                                <ort n="20">
+                                    <placeName lang="deu" key="3197941">Rieg</placeName>
+                                    <placeName lang="deu" key="3197941">Kočevska Reka</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3194908">Unterwetzenbach</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="20">
+                            <placeName lang="deu">Schwarzenbach</placeName>
+                            <placeName lang="slv">Črni Potok</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu">Hasenfeld</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu">Schwarzenbach</placeName>
+                                    <placeName lang="slv">Črni Potok</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="21">
+                            <placeName lang="deu" key="3186585">Seele</placeName>
+                            <placeName lang="slv" key="3186585">Sela</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3194106">Hohenegg</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3195972">Katzendorf</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3198066">Klindorf</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="3191332">Schalkendorf</placeName>
+                                    <placeName lang="slv" key="3191332">Šalka Vas</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu" key="3186585">Seele</placeName>
+                                    <placeName lang="slv" key="3186585">Sela</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="deu" key="3202252">Zwischlern</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="22">
+                            <placeName lang="deu" key="3201331">Suchen</placeName>
+                            <placeName lang="slv" key="3201331">Draga</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3196729">Gehack</placeName>
+                                    <placeName lang="slv" key="3196729">Lazec</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3192938">Merleinsrauth</placeName>
+                                    <placeName lang="slv" key="3192938">Podpreska</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Karlshüte</placeName>
+                                            <placeName lang="slv">Glažuta</placeName>
+                                            <vrsta>mlin</vrsta>
+                                            <hise>6</hise>
+                                            <prebivalci>64</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="3192938">Merleinsrauth</placeName>
+                                            <placeName lang="slv" key="3192938">Podpreska</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>37</hise>
+                                            <prebivalci>170</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3194370">Neuwinkel</placeName>
+                                    <placeName lang="slv" key="3194370">Novi Kot</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="3201331">Suchen</placeName>
+                                    <placeName lang="slv" key="3201331">Draga</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="23">
+                            <placeName lang="deu">Tiefenbach</placeName>
+                            <placeName lang="slv">Briga</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="3201782">Niedertiefenbach</placeName>
+                                    <placeName lang="slv" key="3201782">Dolenja Briga</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3200279">Obertiefenbach</placeName>
+                                    <placeName lang="slv" key="3200279">Gorenja Briga</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="10942285">Presuln</placeName>
+                                    <placeName lang="slv" key="10942285">Prežulje</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu" key="3192473">Pröse</placeName>
+                                    <placeName lang="slv" key="3192473">Preže</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="24">
+                            <placeName lang="deu">Unterdeutschau</placeName>
+                            <placeName lang="slv">Nemška Loka</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="10942286">Prerigel</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="10942286">Prerigel</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>18</hise>
+                                            <prebivalci>75</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="3218502">Wieden</placeName>
+                                            <placeName lang="slv" key="3218502">Videm</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>4</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="3194539">Unterdeutschau</placeName>
+                                    <placeName lang="slv" key="3194539">Nemška Loka</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="25">
+                            <placeName lang="deu" key="3190190">Unterlag</placeName>
+                            <placeName lang="slv" key="3190190">Spodnji Log</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu" key="10942287">Kositzen</placeName>
+                                    <placeName lang="slv" key="10942287">Kozice</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu" key="10942288">Neugereuth</placeName>
+                                    <placeName lang="deu" key="10942288">Laubbüchel</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu" key="3190190">Unterlag</placeName>
+                                    <placeName lang="slv" key="3190190">Spodnji Log</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu">Unterpockstein</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu" key="8989326">Unterwilpen</placeName>
+                                    <placeName lang="slv" key="8989326">Dolenja Bilpa</placeName>
+                                    <placeName lang="deu" key="8989326">Wildbach</placeName>
+                                    <placeName lang="slv" key="8989326">Bilpa</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
