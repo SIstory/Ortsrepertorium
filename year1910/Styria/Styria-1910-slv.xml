@@ -21212,13 +21212,357 @@
                      </kraji>
                   </obcina>
                   <obcina n="52">
-                     
+                     <placeName lang="slv">Vratjevrh</placeName>
+                     <placeName lang="deu">Frattenberg</placeName>
+                  </obcina>
+                  <obcina n="53">
+                     <placeName lang="deu">Waasen</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Reinischberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>5</hise>
+                                 <prebivalci>23</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Waasen</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>18</hise>
+                                 <prebivalci>96</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Waasenberg</placeName>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>31</hise>
+                                 <prebivalci>138</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="54">
+                     <placeName lang="deu">Weinburg</placeName>
+                     <kraji>
+                        <kraj n="1">
+                           <placeName lang="deu">Priebing</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Grabenfranzl</placeName>
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>8</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Priebing</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>17</hise>
+                                 <prebivalci>102</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Riegljostl</placeName>
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>12</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Rieglmahr</placeName>
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>8</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Rieglschuster</placeName>
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>6</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                        <kraj n="2">
+                           <placeName lang="deu">Weinburg</placeName>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Hartfeld</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>2</hise>
+                                 <prebivalci>12</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Hartl</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>2</hise>
+                                 <prebivalci>17</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Stangdorf (Standorf)</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>13</hise>
+                                 <prebivalci>79</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Weinburg</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>46</hise>
+                                 <prebivalci>281</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Weinburg</placeName>
+                                 <vrsta>grad</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>19</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="55">
+                     <placeName lang="deu">Weitersfeld</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Brillinghof</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>10</hise>
+                                 <prebivalci>59</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Dornfeld</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>30</hise>
+                                 <prebivalci>177</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Weitersfeld</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>59</hise>
+                                 <prebivalci>338</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="56">
+                     <placeName lang="deu">Wieden</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Domberg</placeName>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>12</hise>
+                                 <prebivalci>66</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Klausen</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>21</hise>
+                                 <prebivalci>77</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Piatzerhof</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>3</hise>
+                                 <prebivalci>17</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Wieden</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>13</hise>
+                                 <prebivalci>84</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="57">
+                     <placeName lang="deu">Wiersdorf</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Rachberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>3</hise>
+                                 <prebivalci>15</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Wiersdorf</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>12</hise>
+                                 <prebivalci>81</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Wiersdorfberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>24</hise>
+                                 <prebivalci>133</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="58">
+                     <placeName lang="deu">Wittmannsdorf</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Au</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>28</hise>
+                                 <prebivalci>192</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Gaberling</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>7</hise>
+                                 <prebivalci>34</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Glauning</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>24</hise>
+                                 <prebivalci>157</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Rosenberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>7</hise>
+                                 <prebivalci>37</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Wittmannsdorf</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>55</hise>
+                                 <prebivalci>309</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="59">
+                     <placeName lang="deu">Zehensdorf</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Gaberling</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>26</hise>
+                                 <prebivalci>128</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Pöllerberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>3</hise>
+                                 <prebivalci>13</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Zehensdorf</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>36</hise>
+                                 <prebivalci>195</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Zehensdorfberg</placeName>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>24</hise>
+                                 <prebivalci>111</prebivalci>
+                                 <vrsta>posamezna hiša</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>5</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+               </obcine>
+            </sodniOkraj>
+            <sodniOkraj n="2">
+               <placeName lang="slv">Radgona</placeName>
+               <placeName lang="deu">Radkersburg</placeName>
+               <obcine>
+                  <obcina n="1">
+                     <placeName lang="deu">Alt- und Neudörfl</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="deu">Altdörfl</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>60</hise>
+                                 <prebivalci>557</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Neudörfl</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>17</hise>
+                                 <prebivalci>108</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Perkomühle</placeName>
+                                 <vrsta>mlin</vrsta>
+                                 <hise>1</hise>
+                                 <prebivalci>12</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Prentl</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>29</hise>
+                                 <prebivalci>159</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Prentlmühle</placeName>
+                                 <vrsta>mlin</vrsta>
+                                 <hise>2</hise>
+                                 <prebivalci>23</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Rabendörfl</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>18</hise>
+                                 <prebivalci>87</prebivalci>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>18</hise>
+                                 <prebivalci>94</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
+                  </obcina>
+                  <obcina n="2">
+                     <placeName lang="slv">Apače</placeName>
+                     <placeName lang="deu">Abstall</placeName>
+                     <kraji>
+                        <kraj>
+                           <deli>
+                              <del>
+                                 <placeName lang="slv">Apače</placeName>
+                                 <placeName lang="deu">Abstall</placeName>
+                                 <vrsta>vas</vrsta>
+                                 <hise>51</hise>
+                                 <prebivalci>328</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="deu">Hauptmannsdorf</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>24</hise>
+                                 <prebivalci>145</prebivalci>
+                                 <vrsta>raztresene hiše</vrsta>
+                                 <hise>2</hise>
+                                 <prebivalci>7</prebivalci>
+                              </del>
+                           </deli>
+                        </kraj>
+                     </kraji>
                   </obcina>
                   
                   
-                  
+   
                </obcine>
-               
             </sodniOkraj>
          </sodniOkraji>
       </polOkraj>
