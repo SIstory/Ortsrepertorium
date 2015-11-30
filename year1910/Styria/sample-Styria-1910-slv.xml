@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:svg="http://www.w3.org/2000/svg">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,9 +15,221 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <charDecl>
+            <char xml:id="g.circled_plus">
+               <charName>Large Circle With Vertical and Horizontal Bisecting Line</charName>
+               <figure>
+                  <graphic url="../Pictures/obcina.png" mimeType="image/png"/>
+               </figure>
+            </char>
+            <char xml:id="g.circled_plus-black_quadrant">
+               <charName>Large Circle With Vertical and Horizontal Bisecting Line and With Upper Left Quadrant Black</charName>
+               <figure>
+                  <graphic url="../Pictures/krajevni_del.png" mimeType="image/png"/>
+               </figure>
+            </char>
+            <glyph xml:id="g.square-vertical_line">
+               <glyphName>Large White Square With Vertical Bisecting Line</glyphName>
+               <mapping type="standard">◫</mapping><!-- U+25EB: White Square With Vertical Bisecting Line -->
+               <figure>
+                  <graphic url="../Pictures/katastrska_obcina.png"/>
+               </figure>
+            </glyph>
+            <glyph xml:id="g.circled_circle">
+               <glyphName>Large Circled White Bullet</glyphName>
+               <mapping type="standard">⦾</mapping><!--  U+29BE: Circled White Bullet -->
+               <figure>
+                  <graphic url="../Pictures/mesto.png"/>
+               </figure>
+            </glyph>
+            <glyph xml:id="g.circled_bullet">
+               <glyphName>Circled Small Bullet</glyphName>
+               <mapping type="standard">⦿</mapping><!-- U+29BF: Circled Bullet -->
+               <figure>
+                  <graphic url="../Pictures/trg.png"/>
+               </figure>
+            </glyph>
+            <char xml:id="g.circled_circle-upper">
+               <charName>Upper Half Circled White Bullet</charName>
+               <figure>
+                  <graphic url="../Pictures/mestni_del.png"/>
+               </figure>
+            </char>
+            <char xml:id="g.circled_circle-left">
+               <charName>Left Half Circled White Bullet</charName>
+               <figure>
+                  <graphic url="../Pictures/predmestje.png"/>
+               </figure>
+            </char>
+            <char xml:id="g.circled_bullet-upper">
+               <charName>Upper Half Circled Small Bullet</charName>
+               <figure>
+                  <graphic url="../Pictures/del_trga.png"/>
+               </figure>
+            </char>
+            <char xml:id="g.quadrant_u_shape-cover">
+               <charName>Lower One Third Block,
+                  Middle One Third Block With One Third White Space in the Middle,
+                  Upper One Third Block With One Third White Space Left and Right</charName>
+               <figure>
+                  <graphic url="../Pictures/pristava.png"/>
+               </figure>
+            </char>
+            <glyph xml:id="g.squares-cross">
+               <glyphName>Negative Squared Cross Mark With Separated Black Squares</glyphName>
+               <mapping type="standard">✜</mapping><!-- U+274E: Negative Squared Cross Mark -->
+               <figure>
+                  <graphic url="../Pictures/kvadrati_kot_kriz.png"></graphic>
+               </figure>
+            </glyph>
+            <glyph xml:id="g.squares-4">
+               <glyphName>Squared Four Black Squares</glyphName>
+               <mapping type="standard">⸬</mapping><!-- U+2E2C: Squared Four Dot Punctuation -->
+               <figure>
+                  <graphic url="../Pictures/kvadrati-stirje.png"/>
+               </figure>
+            </glyph>
+            <char xml:id="g.squares-3">
+               <charName>Three Black Squares in Triangular Layout</charName>
+               <figure>
+                  <graphic url="../Pictures/kvadrati-trije.png"/>
+               </figure>
+            </char>
+            <char xml:id="g.rectangle-flag">
+               <charName>Lower Half Block With Black Flag</charName>
+               <figure>
+                  <graphic url="../Pictures/pravokotnik-zastava.png"/>
+               </figure>
+            </char>
+            <char xml:id="g.rectangle_black-horns">
+               <charName>Lower Half Black Block With Horns</charName>
+               <figure>
+                  <graphic url="../Pictures/pravokotnik_crn-rogovi.png"/>
+               </figure>
+            </char>
+            <char xml:id="g.rectangle_white-horns">
+               <charName>Lower Half White Block With Horns</charName>
+               <figure>
+                  <graphic url="../Pictures/pravokotnik_bel-rogovi.png"/>
+               </figure>
+            </char>
+            <char xml:id="g.building-white">
+               <charName>Building White Roof</charName>
+               <mapping type="Unicode">U+1F3E0</mapping><!-- HOUSE BUILDING -->
+               <figure>
+                  <graphic url="../Pictures/hisa-bela_streha.png"/>
+                  <graphic height="1em" url="../Pictures/house_building.svg"/>
+               </figure>
+            </char>
+            <char xml:id="g.L-double_struck">
+               <charName>White Quadrant Upper Left And Lower Left And Lower Right</charName>
+               <figure>
+                  <graphic url="../Pictures/L-dvojne_crte.png"/>
+               </figure>
+            </char>
+            <glyph xml:id="g.factory">
+               <glyphName>Factory</glyphName>
+               <mapping type="Unicode">U+1F3ED</mapping>
+               <figure>
+                  <graphic url="../Pictures/tovarna.png"/>
+               </figure>
+            </glyph>
+            <char xml:id="g.waterwheel">
+               <charName>Water Wheel</charName>
+               <figure>
+                  <graphic url="../Pictures/vodno_kolo.png"/>
+               </figure>
+            </char>
+         </charDecl>
+      </encodingDesc>
    </teiHeader>
    <text xml:lang="slv">
       <body>
+         <div>
+            <head>Razlaga znakov</head>
+            <list type="gloss" rend="simple">
+               <label><g ref="#g.circled_plus"/><graphic url="../Pictures/obcina.png"/></label>
+               <item>krajevna občina.</item>
+               <label>◐</label><!-- U+25D0: Circle With Left Half Black -->
+               <item>kraj.</item>
+               <label><g ref="#g.circled_plus-black_quadrant"/><graphic url="../Pictures/krajevni_del.png"/></label>
+               <item>krajevni del.</item>
+               <label><g ref="#g.square-vertical_line">◫</g></label>
+               <item>katastrska občina.</item>
+               <label><g ref="#g.circled_circle">⦾</g></label>
+               <item>mesto.</item>
+               <label><g ref="#g.circled_bullet">⦿</g></label>
+               <item>trg.</item>
+               <label>◯</label><!-- U+25EF: Large Circle -->
+               <item>vas.</item>
+               <label><g ref="#g.circled_circle-upper"/><graphic url="../Pictures/mestni_del.png"/></label>
+               <item>mestni del.</item>
+               <label><g ref="#g.circled_circle-left"/><graphic url="../Pictures/predmestje.png"/></label>
+               <item>predmestje (le kot krajevni del mesta).</item>
+               <label><g ref="#g.circled_bullet-upper"/><graphic url="../Pictures/del_trga.png"/></label>
+               <item>del trga.</item>
+               <label>▵</label><!-- U+25B5: White Up-pointing Small Triangle -->
+               <item>selo, zaselje (3-9 hiš)</item>
+               <label><g ref="#g.quadrant_u_shape-cover"/><graphic url="../Pictures/pristava.png"/></label>
+               <item>pristava, dvor.</item>
+               <label>(<g ref="#g.squares-cross">✜</g>)</label>
+               <item>soseska (bolj narazen stoječe hiše ne glede na število).</item>
+               <label><g ref="#g.squares-4">⸬</g></label>
+               <item>skupina hiš (le v okolišu mest in trgov).</item>
+               <label>(<g ref="#g.squares-4">⸬</g>)</label>
+               <item>kolonija (naseldbina stanovalcev v svrho gotovih obratov).</item>
+               <label><g ref="#g.squares-3"/><graphic url="../Pictures/kvadrati-trije.png"/></label>
+               <item>raztresene hiše.</item>
+               <label>▙</label><!-- U+2599: Quadrant Upper Left And Lower Left And Lower Right -->
+               <item>samišče (2 hiši).</item>
+               <label>■</label><!-- U+25A0: Black Square -->
+               <item>posamezna hiša.</item>
+               <label><g ref="#g.rectangle-flag"/><graphic url="../Pictures/pravokotnik-zastava.png"/></label>
+               <item>gostilna, hotel.</item>
+               <label><g ref="#g.rectangle_black-horns"/><graphic url="../Pictures/pravokotnik_crn-rogovi.png"/></label>
+               <item>lovska hiša, gozdarska hiša.</item>
+               <label><g ref="#g.rectangle_white-horns"/><graphic url="../Pictures/pravokotnik_bel-rogovi.png"/></label>
+               <item>logarska hiša.</item>
+               <label>(<g ref="#g.rectangle_white-horns"/><graphic url="../Pictures/pravokotnik_bel-rogovi.png"/>)</label>
+               <item>lovski grad.</item>
+               <label><g ref="#g.building-white"/><graphic url="../Pictures/hisa-bela_streha.png"/></label>
+               <item>grad, lovski grad.</item>
+               <label>(<g ref="#g.building-white"/><graphic url="../Pictures/hisa-bela_streha.png"/>)</label>
+               <item>graščina.</item>
+               <label><g ref="#g.L-double_struck"/><graphic url="../Pictures/L-dvojne_crte.png"/></label>
+               <item>razvalina.</item>
+               <label><g ref="#g.factory"/><graphic url="../Pictures/tovarna.png"/></label>
+               <item>tovarna.</item>
+               <label><g ref="#g.waterwheel"/><graphic url="../Pictures/vodno_kolo.png"/></label>
+               <item>mlin, žaga, brusilnica.</item>
+               <label></label>
+               <item>turistovska koča.</item>
+               <label></label>
+               <item>planinska gostilna, planinski hotel.</item>
+               
+               <label></label>
+               <item>
+                  ⁘ U+2058: Four Dot Punctuation;
+                  † U+2020: Dagger
+                  ⊙ U+2299: Circled Dot Operator
+                  ⊚ U+229A: Circled Ring Operator
+                  
+                  ▄ U+2584: Lower Half Block
+                  ⚕ U+2695: Staff Of Aesculapius
+                  ⚖ U+2696: Scales
+                  ⚙ U+2699: Gear
+                  U+2693: Anchor
+                  ♁ U+2641: Earth
+                  ☼ U+263C: White Sun With Rays
+                  ✉ U+2709: Envelope
+                  ▬ U+25AC: Black Rectangle
+                  ▭ U+25AD: White Rectangle
+                  &#x1f3e0; 
+                  ⟟ U+27DF: Up Tack With Circle Above
+               </item>
+            </list>
+         </div>
          <div>
             <listPlace>
                <head>Politični okraj</head>
@@ -524,7 +736,7 @@
                                     </location>
                                     <state>
                                        <label>katastrska občina</label>
-                                       <desc>(<ref target="#po1.so1.ob1.kr2">2 d</ref>, <ref
+                                       <desc>(<ref target="#po1.so1.ob1.kr2" type="part">2 d</ref>, <ref
                                              target="#po1.so1.ob1.kr5">5</ref>)</desc>
                                     </state>
                                     <terrain>
@@ -756,9 +968,13 @@
                                        <geo/>
                                     </location>
                                     <state>
-                                       <label>katastrska občina</label>
+                                       <label><choice><abbr>
+                                                <figure>
+                                                  <graphic url="../Pictures/katastrska_obcina.png"/>
+                                                </figure>
+                                             </abbr><expan>katastrska občina</expan></choice></label>
                                        <desc>(<ref target="#po1.so1.ob1.kr4">4</ref>, <ref
-                                             target="#po1.so1.ob1.kr6">6 d</ref> &amp; <ref>od
+                                             target="#po1.so1.ob1.kr6" type="part">6 d</ref> &amp; <ref>od
                                              krajevne občine 17, 6 d.</ref>)</desc>
                                     </state>
                                     <terrain>
@@ -1344,13 +1560,13 @@
                   <head>Uradi, zavodi itd. v sodnem okraju Brežice:</head>
                   <listOrg corresp="#po1.so1.ob1.kr2">
                      <org>
-                        <label>rimsko-katoliška župnija.</label>
+                        <label>rimsko-katoliška župnija</label>
                         <location>
                            <measure unit="m">217</measure>
                         </location>
                      </org>
                      <org>
-                        <label>ljudska šola.</label>
+                        <label>ljudska šola</label>
                         <desc>
                            <label>število oddelkov (razredov in vzporednic)</label>
                            <num value="5">V</num>
@@ -1361,7 +1577,7 @@
                         <label>posojilnica sistema Raiffeisen</label>
                      </org>
                      <org>
-                        <label>poštni urad.</label>
+                        <label>poštni urad</label>
                         <placeName>Artiče pri Brežicah</placeName>
                      </org>
                   </listOrg>
