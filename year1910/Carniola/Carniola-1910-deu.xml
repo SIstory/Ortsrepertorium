@@ -6417,6 +6417,293 @@
                         </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
+                <gerichtsBezirk n="2">
+                    <placeName lang="deu" key="8133581">Landstraß</placeName>
+                    <placeName lang="slv" key="8133581">Kostanjevica</placeName>
+                    <gemeinden>
+                        <gemeinde n="1">
+                            <placeName lang="deu" key="3188256">Großdolina</placeName>
+                            <placeName lang="slv" key="3188256">Velika Dolina</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv" key="3203478">Bregana</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3203478">Bregana</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>39</hise>
+                                            <prebivalci>180</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Zapolje</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>9</hise>
+                                            <prebivalci>50</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv" key="3203383">Brezje</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="slv" key="3209350">Dolenja Ribnica</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Cegelniki</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>16</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="3209350">Dolenja Ribnica</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>13</hise>
+                                            <prebivalci>66</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Gračenici</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>2</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="slv" key="8988778">Gaj</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Breg</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>3</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="8988778">Gaj</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>10</hise>
+                                            <prebivalci>48</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="slv" key="3209350">Gorenja Ribnica</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Čarda</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>8</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Gorenja Ribnica</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>11</hise>
+                                            <prebivalci>60</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="deu" key="3188256">Großdolina</placeName>
+                                    <placeName lang="slv" key="3188256">Velika Dolina</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3188256">Großdolina</placeName>
+                                            <placeName lang="slv" key="3188256">Velika Dolina</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>21</hise>
+                                            <prebivalci>119</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Jarek</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>7</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="deu" key="8987810">Großzirnik</placeName>
+                                    <placeName lang="slv" key="8987810">Veliki Cirnik</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Bajs</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Bukovina</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>6</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="8987810">Großzirnik</placeName>
+                                            <placeName lang="slv" key="8987810">Veliki Cirnik</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>18</hise>
+                                            <prebivalci>107</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Kušnja Vas</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>14</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Rigelj</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>10</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="8">
+                                    <placeName lang="deu" key="3198648">Jessenitz</placeName>
+                                    <placeName lang="slv" key="3198648">Jesenice</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3198648">Jessenitz</placeName>
+                                            <placeName lang="slv" key="3198648">Jesenice</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>22</hise>
+                                            <prebivalci>126</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Pri Cerkvi</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>23</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="9">
+                                    <placeName lang="deu" key="3195860">Kleindolina</placeName>
+                                    <placeName lang="slv" key="3195860">Mala Dolina</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu" key="3195860">Kleindolina</placeName>
+                                            <placeName lang="slv" key="3195860">Mala Dolina</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>18</hise>
+                                            <prebivalci>96</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Krči</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="10">
+                                    <placeName lang="slv" key="3197669">Koritno</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv" key="3197669">Koritno</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>17</hise>
+                                            <prebivalci>111</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Mladine</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>21</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Vrtički</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>12</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="11">
+                                    <placeName lang="slv" key="8988479">Laze</placeName>
+                                </ort>
+                                <ort n="12">
+                                    <placeName lang="deu" key="8987197">Neudorf</placeName>
+                                    <placeName lang="slv" key="8987197">Nova Vas</placeName>
+                                </ort>
+                                <ort n="13">
+                                    <placeName lang="slv" key="3194255">Obrežje</placeName>
+                                </ort>
+                                <ort n="14">
+                                    <placeName lang="slv" key="3209349">Perišče</placeName>
+                                </ort>
+                                <ort n="15">
+                                    <placeName lang="slv" key="3217973">Podgračeno</placeName>
+                                </ort>
+                                <ort n="16">
+                                    <placeName lang="slv" key="3192743">Ponikve</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Bogovo Selo</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>19</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="3217972">Gabrovica</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>4</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Mucelj</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>8</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="3192743">Ponikve</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>19</hise>
+                                            <prebivalci>119</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Slinovke</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Sveti Jakob</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>3</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="17">
+                                    <placeName lang="slv" key="3192038">Rajec</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Mokritz</placeName>
+                                            <placeName lang="slv">Mokrice</placeName>
+                                            <vrsta>grad</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>23</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv" key="3192038">Rajec</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>10</hise>
+                                            <prebivalci>45</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Strjak</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>21</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                    </gemeinden>
+                </gerichtsBezirk>
             </gerichtsBezirke>
         </polBezirk>
     </polBezirke>
