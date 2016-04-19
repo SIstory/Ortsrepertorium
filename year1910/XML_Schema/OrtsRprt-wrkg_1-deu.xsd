@@ -52,6 +52,16 @@
         <xs:element minOccurs="0" ref="orte"/>
       </xs:sequence>
       <xs:attribute name="n" type="xs:integer"/>
+      <xs:attribute name="ko" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>vpiši podatke o katastrski občini</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="koopomba" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>vpiši podatke o katastrski občini iz opombe</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="orte">
@@ -69,6 +79,16 @@
         <xs:element minOccurs="0" ref="teile"/>
       </xs:sequence>
       <xs:attribute name="n" type="xs:integer"/>
+      <xs:attribute name="ko" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>vpiši podatke o katastrski občini</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="koopomba" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>vpiši podatke o katastrski občini iz opombe</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="teile">
