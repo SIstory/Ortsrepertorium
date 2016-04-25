@@ -22942,12 +22942,6 @@
                                             <hise>3</hise>
                                             <prebivalci>30</prebivalci>
                                         </teil>  
-                                        <teil>
-                                            <placeName lang="slv"></placeName>
-                                            <vrsta></vrsta>
-                                            <hise></hise>
-                                            <prebivalci></prebivalci>
-                                        </teil> 
                                     </teile>
                                 </ort>
                             </orte>
@@ -22957,10 +22951,897 @@
                 <gerichtsBezirk n="2">
                     <placeName lang="deu">Laas</placeName>
                     <placeName lang="slv">Lož</placeName>
+                    <gemeinden>
+                        <gemeinde n="1">
+                            <placeName lang="deu">Altenmarkt</placeName>
+                            <placeName lang="slv">Stari Trg</placeName>
+                            <orte>
+                                <ort n="1" ko="">
+                                    <placeName lang="deu">Altenmarkt</placeName>
+                                    <placeName lang="slv">Stari Trg</placeName>
+                                </ort>
+                                <ort n="2" ko="">
+                                    <placeName lang="deu">Babenfeld</placeName>
+                                    <placeName lang="slv">Babno Polje</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Babenfeld</placeName>
+                                            <placeName lang="slv">Babno Polje</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>79</hise>
+                                            <prebivalci>361</prebivalci>
+                                        </teil> 
+                                        <teil>
+                                            <placeName lang="slv">Bukovica</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>23</hise>
+                                            <prebivalci>144</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="3" ko="">
+                                    <placeName lang="slv">Babna Polica</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="slv">Bloška Polica</placeName>
+                                </ort>
+                                <ort n="5" ko="">
+                                    <placeName lang="slv">Dane</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Dane</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>31</hise>
+                                            <prebivalci>179</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Georgsthal</placeName>
+                                            <placeName lang="slv">Jurijeva Dolina</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>6</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Klance</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>7</hise>
+                                            <prebivalci>46</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Skrilje</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>5</hise>
+                                            <prebivalci>24</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Stara Ogeljnica</placeName>
+                                            <vrsta>lovska hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Vrh Korena</placeName>
+                                            <vrsta>gostilna</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>3</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="6" ko="6,11">
+                                    <placeName lang="deu">Grafenacker</placeName>
+                                    <placeName lang="slv">Knežja Njiva</placeName>
+                                </ort>
+                                <ort n="7" ko="7, 17">
+                                    <placeName lang="deu">Iggendorf</placeName>
+                                    <placeName lang="slv">Igavas</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Iggendorf</placeName>
+                                            <placeName lang="slv">Igavas</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>40</hise>
+                                            <prebivalci>241</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Na Polju</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>8</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="8" ko="8, 20">
+                                    <placeName lang="deu">Kosarsche</placeName>
+                                    <placeName lang="slv">Kozarišče</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Hermsburg</placeName>
+                                            <placeName lang="slv">Gmajnce</placeName>
+                                            <vrsta>grad</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>18</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Klanska Polica</placeName>
+                                            <vrsta>gozdarska hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>3</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Kosarsche</placeName>
+                                            <placeName lang="slv">Kozarišče</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>60</hise>
+                                            <prebivalci>335</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Leskova Dolina</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>29</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Schneeberg</placeName>
+                                            <placeName lang="slv">Snežnik</placeName>
+                                            <vrsta>grad</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>44</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="9">
+                                    <placeName lang="slv">Laze</placeName>
+                                </ort>
+                                <ort n="10" ko="">
+                                    <placeName lang="deu">Lipsein</placeName>
+                                    <placeName lang="slv">Lipsenj</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Goričice</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>7</hise>
+                                            <prebivalci>31</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Lipsein</placeName>
+                                            <placeName lang="slv">Lipsenj</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>32</hise>
+                                            <prebivalci>185</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Sankt Stefan</placeName>
+                                            <placeName lang="slv">Sveti Štefan</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>19</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Stegberg</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>6</hise>
+                                            <prebivalci>35</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="11">
+                                    <placeName lang="slv">Markovec</placeName>
+                                </ort>
+                                <ort n="12" ko="">
+                                    <placeName lang="slv">Nadlesk</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Mašun</placeName>
+                                            <vrsta>gozdarska hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>21</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Nadlesk</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>44</hise>
+                                            <prebivalci>244</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="13" ko="">
+                                    <placeName lang="deu">Oberseedorf</placeName>
+                                    <placeName lang="slv">Gorenje Jezero</placeName>
+                                </ort>
+                                <ort n="14" ko="4, 14">
+                                    <placeName lang="deu">Obloschitz</placeName>
+                                    <placeName lang="slv">Obločice</placeName>
+                                </ort>
+                                <ort n="15" ko="" koopomba="Otok 1 ko 9, 15">
+                                    <placeName lang="slv">Otok</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Debeli Kamen</placeName>
+                                            <vrsta>gozdarska hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>3</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Javornik</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>12</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Otok</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>13</hise>
+                                            <prebivalci>83</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="16" ko="">
+                                    <placeName lang="slv">Podcerkev</placeName>
+                                </ort>
+                                <ort n="17">
+                                    <placeName lang="slv">Podgora</placeName>
+                                </ort>
+                                <ort n="18" ko="">
+                                    <placeName lang="deu">Pölland</placeName>
+                                    <placeName lang="slv">Poljane</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Oberpölland</placeName>
+                                            <placeName lang="slv">Gorenje Poljane</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>31</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Unterpölland</placeName>
+                                            <placeName lang="slv">Dolenje Poljane</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>9</hise>
+                                            <prebivalci>57</prebivalci>
+                                        </teil>
+                                    </teile> 
+                                </ort>
+                                <ort n="19" ko="">
+                                    <placeName lang="slv">Pudob</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Hofrann</placeName>
+                                            <placeName lang="slv">Breg</placeName>
+                                            <vrsta>dvor</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>17</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Pudob</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>36</hise>
+                                            <prebivalci>254</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="20">
+                                    <placeName lang="deu">Sankt Margarethen</placeName>
+                                    <placeName lang="slv">Šmarata</placeName>
+                                </ort>
+                                <ort n="21" ko="">
+                                    <placeName lang="deu">Uscheuk</placeName>
+                                    <placeName lang="slv">Viševek</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Hallerstein</placeName>
+                                            <placeName lang="slv">Koča Vas</placeName>
+                                            <vrsta>grad</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>7</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Uscheuk</placeName>
+                                            <placeName lang="slv">Viševek</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>35</hise>
+                                            <prebivalci>204</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Waier</placeName>
+                                            <placeName lang="slv">Bajar</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>11</hise>
+                                            <prebivalci>48</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="22" ko="">
+                                    <placeName lang="slv">Vrh</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Grajševka</placeName>
+                                            <vrsta>gozdarska hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>7</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Vrh</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>22</hise>
+                                            <prebivalci>125</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="23" ko="">
+                                    <placeName lang="deu">Werchnik</placeName>
+                                    <placeName lang="slv">Vrhnika</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="2" ko="">
+                            <placeName lang="deu">Laas</placeName>
+                            <placeName lang="slv">Lož</placeName>
+                            <orte>
+                                <ort n="1" koopomba="Die Stadt Laas, Lož wird eingeteilt in: Laas Stadt, Lož Mesto 67-349, Laas Vorstadt, Lož Predmestje 35 - 172.">
+                                    <placeName lang="deu">Laas</placeName>
+                                    <placeName lang="slv">Lož</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu">Podlaas</placeName>
+                                    <placeName lang="slv">Podlož</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Kreuzberg</placeName>
+                                            <placeName lang="slv">Križna Gora</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Podlaas</placeName>
+                                            <placeName lang="slv">Podlož</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>22</hise>
+                                            <prebivalci>128</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Sankt Anna</placeName>
+                                            <placeName lang="slv">Sveta Ana</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>12</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="3">
+                            <placeName lang="deu">Oblak</placeName>
+                            <placeName lang="slv">Bloke</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv">Andrejče</placeName>
+                                </ort>
+                                <ort n="2" ko="">
+                                    <placeName lang="slv">Benete</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="slv">Bočkovo</placeName>
+                                </ort>
+                                <ort n="4" ko="">
+                                    <placeName lang="deu">Bösenberg</placeName>
+                                    <placeName lang="slv">Hudi Vrh</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu">Deutschdorf</placeName>
+                                    <placeName lang="slv">Nemška Vas</placeName>
+                                </ort>
+                                <ort n="6">
+                                    <placeName lang="slv">Glina</placeName>
+                                </ort>
+                                <ort n="7">
+                                    <placeName lang="slv">Godičevo</placeName>
+                                </ort>
+                                <ort n="8" ko="1, 8, 20, 32">
+                                    <placeName lang="slv">Gradiško</placeName>
+                                </ort>
+                                <ort n="9" ko="">
+                                    <placeName lang="deu">Großberg</placeName>
+                                    <placeName lang="slv">Veliki Vrh</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Großberg</placeName>
+                                            <placeName lang="slv">Veliki Vrh</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>21</hise>
+                                            <prebivalci>107</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Untergroßberg</placeName>
+                                            <placeName lang="slv">Podveliki Vrh</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>5</hise>
+                                            <prebivalci>39</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="10" ko="">
+                                    <placeName lang="deu">Großoblak</placeName>
+                                    <placeName lang="slv">Velike Bloke</placeName>
+                                </ort>
+                                <ort n="11" ko="7, 11, 14, 15, 30, 31">
+                                    <placeName lang="deu">Heiligengeist</placeName>
+                                    <placeName lang="slv">Sveti Duh</placeName>
+                                </ort>
+                                <ort n="12" ko="12, 25, 40">
+                                    <placeName lang="slv">Hiteno</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Fužine</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Hiteno</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>6</hise>
+                                            <prebivalci>32</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Nadlischek</placeName>
+                                            <placeName lang="slv">Pajkovo</placeName>
+                                            <placeName lang="slv">Nadlišek</placeName>
+                                            <vrsta>grad</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>9</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="13">
+                                    <placeName lang="slv">Jeršanovo</placeName>
+                                </ort>
+                                <ort n="14">
+                                    <placeName lang="slv">Kramplje</placeName>
+                                </ort>
+                                <ort n="15">
+                                    <placeName lang="slv">Lahovo</placeName>
+                                </ort>
+                                <ort n="16">
+                                    <placeName lang="slv">Lepi Vrh</placeName>
+                                </ort>
+                                <ort n="17">
+                                    <placeName lang="slv">Lovranovo</placeName>
+                                </ort>
+                                <ort n="18" ko="">
+                                    <placeName lang="slv">Metule</placeName>
+                                </ort>
+                                <ort n="19">
+                                    <placeName lang="slv">Mramorovo pri Lužarjih</placeName>
+                                </ort>
+                                <ort n="20">
+                                    <placeName lang="slv">Mramorovo pri Pajkovem</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Mramorovo pri Pajkovem</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>10</hise>
+                                            <prebivalci>56</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Podpeč</placeName>
+                                            <vrsta>samišče</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>5</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="21">
+                                    <placeName lang="deu">Mühlen</placeName>
+                                    <placeName lang="slv">Malni</placeName>
+                                </ort>
+                                <ort n="22" ko="22, 24">
+                                    <placeName lang="deu">Neudorf</placeName>
+                                    <placeName lang="slv">Nova Vas</placeName>
+                                </ort>
+                                <ort n="23">
+                                    <placeName lang="slv">Ograda</placeName>
+                                </ort>
+                                <ort n="24">
+                                    <placeName lang="deu">Pfarrdorf</placeName>
+                                    <placeName lang="slv">Pri Fari</placeName>
+                                    <placeName lang="slv">Bloke</placeName>
+                                </ort>
+                                <ort n="25">
+                                    <placeName lang="slv">Polšeče</placeName>
+                                </ort>
+                                <ort n="26" ko="">
+                                    <placeName lang="slv">Radlek</placeName>
+                                </ort>
+                                <ort n="27" ko="" koopomba="Ravne bei Topol, Ravne pri Topolu">
+                                    <placeName lang="slv">Ravne</placeName>
+                                </ort>
+                                <ort n="28" ko="16, 28">
+                                    <placeName lang="slv">Ravnik</placeName>
+                                </ort>
+                                <ort n="29" ko="">
+                                    <placeName lang="slv">Runarsko</placeName>
+                                </ort>
+                                <ort n="30">
+                                    <placeName lang="slv">Škrabče</placeName>
+                                </ort>
+                                <ort n="31">
+                                    <placeName lang="slv">Škufče</placeName>
+                                </ort>
+                                <ort n="32">
+                                    <placeName lang="slv">Štorovo</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Ravnica</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>18</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Štorovo</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>5</hise>
+                                            <prebivalci>19</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="33" ko="19, 33, 38">
+                                    <placeName lang="slv">Strmec</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Strmec</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>9</hise>
+                                            <prebivalci>54</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">V Rogovili</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>4</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="34" ko="">
+                                    <placeName lang="slv">Studenec</placeName>
+                                </ort>
+                                <ort n="35" ko="6, 35">
+                                    <placeName lang="slv">Studeno</placeName>
+                                </ort>
+                                <ort n="36" ko="">
+                                    <placeName lang="slv">Topol</placeName>
+                                </ort>
+                                <ort n="37" ko="5, 37">
+                                    <placeName lang="deu">Wolfsbach</placeName>
+                                    <placeName lang="slv">Volčje</placeName>
+                                </ort>
+                                <ort n="38">
+                                    <placeName lang="slv">Zakraj</placeName>
+                                </ort>
+                                <ort n="39" ko="3, 13, 17, 21, 23, 39, 41">
+                                    <placeName lang="slv">Zales</placeName>
+                                </ort>
+                                <ort n="40">
+                                    <placeName lang="slv">Zavrh</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Ravnica</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>6</hise>
+                                            <prebivalci>34</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Zavrh</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>9</hise>
+                                            <prebivalci>60</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="41">
+                                    <placeName lang="deu">Žilce bei Heiligendreifaltigkeit</placeName>
+                                    <placeName lang="slv">Žilce pri Sveti Trojici</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Heiligendreifaltigkeit</placeName>
+                                            <placeName lang="slv">Sveta Trojica</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>6</hise>
+                                            <prebivalci>32</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Žilce bei Heiligendreifaltigkeit</placeName>
+                                            <placeName lang="slv">Žilce pri Sveti Trojici</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>3</hise>
+                                            <prebivalci>18</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                    </gemeinden>
                 </gerichtsBezirk>
                 <gerichtsBezirk n="3">
                     <placeName lang="deu">Loitsch</placeName>
                     <placeName lang="slv">Logatec</placeName>
+                    <gemeinden>
+                        <gemeinde n="1">
+                            <placeName lang="deu">Gereuth</placeName>
+                            <placeName lang="slv">Rovte</placeName>
+                            <orte>
+                                <ort n="1" ko="1 t., 4">
+                                    <placeName lang="deu">Gereuth</placeName>
+                                    <placeName lang="slv">Rovte</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="2" ko="1 t., 2">
+                                    <placeName lang="slv">Medvedje Brdo</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="3" ko="1 t., 3">
+                                    <placeName lang="deu">Petkouz</placeName>
+                                    <placeName lang="slv">Petkovec</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="slv">Prapretno Brdo</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv"></placeName>
+                                            <vrsta></vrsta>
+                                            <hise></hise>
+                                            <prebivalci></prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort n="5" ko="">
+                                    <placeName lang="deu">Sibersche</placeName>
+                                    <placeName lang="slv">Žibrše</placeName>
+                                    <teile></teile>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="2">
+                            <placeName lang="deu">Hotederschitz</placeName>
+                            <placeName lang="slv">Hotedršica</placeName>
+                            <orte>
+                                <ort n="1" ko="1, 2 t., 4">
+                                    <placeName lang="deu">Hotederschitz</placeName>
+                                    <placeName lang="slv">Hotedršica</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu">Neuwelt</placeName>
+                                    <placeName lang="slv">Novi Svet</placeName>
+                                </ort>
+                                <ort n="3" ko="2 t., 3">
+                                    <placeName lang="slv">Ravnik</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu">Sibersche</placeName>
+                                    <placeName lang="slv">Žibrše</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="3">
+                            <placeName lang="deu">Oberloitsch</placeName>
+                            <placeName lang="slv">Gorenji Logatec</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu">Birnbaum</placeName>
+                                    <placeName lang="slv">Hrušica</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv">Kalce</placeName>
+                                </ort>
+                                <ort n="3">
+                                    <placeName lang="deu">Neuwelt</placeName>
+                                    <placeName lang="slv">Novi Svet</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="deu">Oberdorf</placeName>
+                                    <placeName lang="slv">Gorenja Vas</placeName>
+                                </ort>
+                                <ort n="5" ko="1-5">
+                                    <placeName lang="deu">Oberloitsch</placeName>
+                                    <placeName lang="slv">Gorenji Logatec</placeName>
+                                    <placeName lang="deu">Kirchdorf</placeName>
+                                    <placeName lang="slv">Cerkovska Vas</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="4">
+                            <placeName lang="slv">Planina</placeName>
+                            <orte>
+                                <ort n="1" ko="">
+                                    <placeName lang="deu">Gartschareuz</placeName>
+                                    <placeName lang="slv">Grčarevec</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="deu">Jakobowitz</placeName>
+                                    <placeName lang="slv">Jakovica</placeName>
+                                </ort>
+                                <ort n="3" ko="2, 3">
+                                    <placeName lang="deu">Lase</placeName>
+                                    <placeName lang="slv">Laze</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="slv">Liplje</placeName>
+                                </ort>
+                                <ort n="5" ko="" koopomba="Oberplanina, Gorenja Planina Q] (5 t.) und Unterplanina, Dolenja Planina [Q (4, 5 t.)">
+                                    <placeName lang="slv">Planina</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="5">
+                            <placeName lang="deu">Unterloitsch</placeName>
+                            <placeName lang="slv">Dolenji Logatec</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv">Brod</placeName>
+                                </ort>
+                                <ort n="2">
+                                    <placeName lang="slv">Čevica</placeName>
+                                </ort>
+                                <ort n="3" ko="1-3, 5">
+                                    <placeName lang="deu">Fleckdorf</placeName>
+                                    <placeName lang="slv">Blekova Vas</placeName>
+                                </ort>
+                                <ort n="4">
+                                    <placeName lang="slv">Martinjhrib</placeName>
+                                </ort>
+                                <ort n="5">
+                                    <placeName lang="deu">Sibersche</placeName>
+                                    <placeName lang="slv">Žibrše</placeName>
+                                </ort>
+                                <ort n="6" ko="4, 6">
+                                    <placeName lang="deu">Unterloitsch</placeName>
+                                    <placeName lang="slv">Dolenji Logatec</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                    </gemeinden>
                 </gerichtsBezirk>
                 <gerichtsBezirk n="4">
                     <placeName lang="deu">Zirknitz</placeName>
