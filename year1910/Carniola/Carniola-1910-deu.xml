@@ -24187,6 +24187,308 @@
                 <gerichtsBezirk n="4">
                     <placeName lang="deu">Zirknitz</placeName>
                     <placeName lang="slv">Cerknica</placeName>
+                    <gemeinden>
+                        <gemeinde n="1">
+                            <placeName lang="slv">Rakek</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="deu">Eibenschuß</placeName>
+                                    <placeName lang="slv">Ivanje Selo</placeName>
+                                </ort>
+                                <ort n="2" ko="2, 4">
+                                    <placeName lang="deu">Maunitz</placeName>
+                                    <placeName lang="slv">Unec</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Hribci</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>17</hise>
+                                            <prebivalci>90</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Maunitz</placeName>
+                                            <placeName lang="slv">Unec</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>78</hise>
+                                            <prebivalci>376</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Neudorf</placeName>
+                                            <placeName lang="slv">Nova Vas</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>7</hise>
+                                            <prebivalci>39</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort> 
+                                <ort n="3" ko="1, 3">
+                                    <placeName lang="slv">Rakek</placeName>
+                                </ort> 
+                                <ort n="4">
+                                    <placeName lang="deu">Sliwitz</placeName>
+                                    <placeName lang="slv">Slivice</placeName>
+                                </ort> 
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="2" koopomba="Siehe Änderungen">
+                            <placeName lang="deu">Sankt Veit ob Zirknitz</placeName>
+                            <placeName lang="slv">Sveti Vid nad Cerknico</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv">Beč</placeName>
+                                </ort> 
+                                <ort n="2">
+                                    <placeName lang="slv">Bečaje</placeName>
+                                </ort> 
+                                <ort n="3" ko="3, 5, 6, 14, 25">
+                                    <placeName lang="slv">Cajnarje</placeName>
+                                </ort> 
+                                <ort n="4">
+                                    <placeName lang="slv">Čohovo</placeName>
+                                </ort> 
+                                <ort n="5">
+                                    <placeName lang="slv">Gora</placeName>
+                                </ort> 
+                                <ort n="6">
+                                    <placeName lang="slv">Gošič</placeName>
+                                </ort> 
+                                <ort n="7">
+                                    <placeName lang="slv">Hribljane</placeName>
+                                </ort> 
+                                <ort n="8">
+                                    <placeName lang="slv">Hruškarje</placeName>
+                                </ort> 
+                                <ort n="9" ko="9, 26">
+                                    <placeName lang="deu">Jerschitz</placeName>
+                                    <placeName lang="slv">Jeršiče</placeName>
+                                </ort> 
+                                <ort n="10">
+                                    <placeName lang="slv">Korošče</placeName>
+                                </ort> 
+                                <ort n="11">
+                                    <placeName lang="slv">Koščake</placeName>
+                                </ort> 
+                                <ort n="12" ko="10, 11, 12">
+                                    <placeName lang="slv">Kranjče</placeName>
+                                </ort> 
+                                <ort n="13" ko="13, 17, 23, 29">
+                                    <placeName lang="slv">Kremenca</placeName>
+                                </ort> 
+                                <ort n="14">
+                                    <placeName lang="slv">Krušče</placeName>
+                                </ort> 
+                                <ort n="15">
+                                    <placeName lang="slv">Kržišče</placeName>
+                                </ort> 
+                                <ort n="16">
+                                    <placeName lang="slv">Lešnjake</placeName>
+                                </ort> 
+                                <ort n="17">
+                                    <placeName lang="slv">Milava</placeName>
+                                </ort> 
+                                <ort n="18" ko="" koopomba="Otawe, Otave ko. 1, 15, 18, 19, 21, 30, 33, 36, 37">
+                                    <placeName lang="deu">Oberotawe</placeName>
+                                    <placeName lang="slv">Gorenje Otave</placeName>
+                                </ort> 
+                                <ort n="19">
+                                    <placeName lang="slv">Opčina</placeName>
+                                </ort> 
+                                <ort n="20" ko="">
+                                    <placeName lang="slv">Osredek</placeName>
+                                </ort> 
+                                <ort n="21">
+                                    <placeName lang="slv">Pikovnik</placeName>
+                                </ort> 
+                                <ort n="22">
+                                    <placeName lang="slv">Pirmane</placeName>
+                                </ort> 
+                                <ort n="23">
+                                    <placeName lang="slv">Ponikve</placeName>
+                                </ort> 
+                                <ort n="24" ko="" koopomba="Ravne bei Sankt Veit, Ravne pri Svetem Vidu ko. 16, 24, 32, 34">
+                                    <placeName lang="slv">Ravne</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Iška</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>3</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Ravne</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>19</hise>
+                                            <prebivalci>78</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort> 
+                                <ort n="25">
+                                    <placeName lang="slv">Reparje</placeName>
+                                </ort> 
+                                <ort n="26">
+                                    <placeName lang="slv">Rudolfovo</placeName>
+                                </ort> 
+                                <ort n="27" ko="4, 27, 35">
+                                    <placeName lang="deu">Schilze bei Sankt Veit</placeName>
+                                    <placeName lang="slv">Žilče pri Svetem Vidu</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="slv">Pusti Les</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>9</hise>
+                                            <prebivalci>55</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Sankt Veit</placeName>
+                                            <placeName lang="slv">Sveti Vid</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>15</hise>
+                                            <prebivalci>72</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Schilze bei Sankt Veit</placeName>
+                                            <placeName lang="slv">Žilče pri Svetem Vidu</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>22</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort> 
+                                <ort n="28">
+                                    <placeName lang="slv">Ščurkovo</placeName>
+                                </ort> 
+                                <ort n="29">
+                                    <placeName lang="slv">Slugovo</placeName>
+                                </ort> 
+                                <ort n="30">
+                                    <placeName lang="slv">Stražišče</placeName>
+                                </ort> 
+                                <ort n="31" ko="2, 7, 8, 22, 28, 31">
+                                    <placeName lang="deu">Strukeldorf</placeName>
+                                    <placeName lang="slv">Štrukljeva Vas</placeName>
+                                </ort> 
+                                <ort n="32">
+                                    <placeName lang="slv">Tavžlje</placeName>
+                                </ort> 
+                                <ort n="33">
+                                    <placeName lang="deu">Unterotawe</placeName>
+                                    <placeName lang="slv">Dolenje Otave</placeName>
+                                </ort> 
+                                <ort n="34">
+                                    <placeName lang="slv">Zahrib</placeName>
+                                </ort> 
+                                <ort n="35">
+                                    <placeName lang="slv">Zala</placeName>
+                                </ort> 
+                                <ort n="36">
+                                    <placeName lang="slv">Žibovnik</placeName>
+                                </ort> 
+                                <ort n="37">
+                                    <placeName lang="slv">Župeno</placeName>
+                                </ort> 
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="3" koopomba="Siehe Änderungen">
+                            <placeName lang="deu">Wigaun</placeName>
+                            <placeName lang="slv">Begunje</placeName>
+                            <orte>
+                                <ort n="1">
+                                    <placeName lang="slv">Brezje</placeName>
+                                </ort> 
+                                <ort n="2">
+                                    <placeName lang="slv">Dobec</placeName>
+                                </ort> 
+                                <ort n="3" ko="">
+                                    <placeName lang="slv">Kožljek</placeName>
+                                </ort> 
+                                <ort n="4" ko="1, 4, 5, 7 t.">
+                                    <placeName lang="slv">Selšček</placeName>
+                                </ort> 
+                                <ort n="5" ko="">
+                                    <placeName lang="slv">Topol</placeName>
+                                </ort> 
+                                <ort n="6" ko="2, 6">
+                                    <placeName lang="deu">Wesulak</placeName>
+                                    <placeName lang="slv">Bezuljak</placeName>
+                                </ort> 
+                                <ort n="7" ko="7 t.">
+                                    <placeName lang="deu">Wigaun</placeName>
+                                    <placeName lang="slv">Begunje</placeName>
+                                </ort> 
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="4" koopomba="Siehe Änderungen. Ein Teil des Gemeindegebietes bildet die Katastralgemeinde Otok II (ohne Häuser)">
+                            <placeName lang="deu">Zirknitz</placeName>
+                            <placeName lang="slv">Cerknica</placeName>
+                            <orte>
+                                <ort n="1" ko="1, 4 t.">
+                                    <placeName lang="slv">Grahovo</placeName>
+                                </ort> 
+                                <ort n="2">
+                                    <placeName lang="slv">Hribarjevo</placeName>
+                                </ort> 
+                                <ort n="3">
+                                    <placeName lang="slv">Mahnete</placeName>
+                                </ort> 
+                                <ort n="4">
+                                    <placeName lang="deu">Martinsbach</placeName>
+                                    <placeName lang="slv">Martinjak</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Martinsbach</placeName>
+                                            <placeName lang="slv">Martinjak</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>52</hise>
+                                            <prebivalci>245</prebivalci>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>3</prebivalci>
+                                        </teil>
+                                    </teile>
+                                </ort> 
+                                <ort n="5" ko="5, 8, 11, 14">
+                                    <placeName lang="deu">Niederdorf</placeName>
+                                    <placeName lang="slv">Dolenja Vas</placeName>
+                                </ort> 
+                                <ort n="6">
+                                    <placeName lang="deu">Oberslemen</placeName>
+                                    <placeName lang="slv">Gorenje Sleme</placeName>
+                                </ort> 
+                                <ort n="7">
+                                    <placeName lang="slv">Otonica</placeName>
+                                </ort> 
+                                <ort n="8">
+                                    <placeName lang="slv">Podskrajnik</placeName>
+                                </ort> 
+                                <ort n="9">
+                                    <placeName lang="slv">Rožanče</placeName>
+                                </ort> 
+                                <ort n="10" ko="">
+                                    <placeName lang="deu">Scheraunitz</placeName>
+                                    <placeName lang="slv">Žirovnica</placeName>
+                                </ort> 
+                                <ort n="11">
+                                    <placeName lang="deu">Selsach</placeName>
+                                    <placeName lang="slv">Zelše</placeName>
+                                </ort> 
+                                <ort n="12" ko="2, 3, 6, 7, 9, 12, 13">
+                                    <placeName lang="slv">Ulaka</placeName>
+                                </ort> 
+                                <ort n="13">
+                                    <placeName lang="deu">Unterschleinitz</placeName>
+                                    <placeName lang="slv">Podslivnica</placeName>
+                                </ort> 
+                                <ort n="14">
+                                    <placeName lang="deu">Unterseedorf</placeName>
+                                    <placeName lang="slv">Dolenje Jezero</placeName>
+                                </ort> 
+                                <ort n="15" ko="4 t., 15">
+                                    <placeName lang="deu">Zirknitz</placeName>
+                                    <placeName lang="slv">Cerknica</placeName>
+                                </ort> 
+                            </orte>
+                        </gemeinde>
+                    </gemeinden>
                 </gerichtsBezirk>
             </gerichtsBezirke>
         </polBezirk>
