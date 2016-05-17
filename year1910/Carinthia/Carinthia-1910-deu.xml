@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../XML_Schema/OrtsRprt-wrkg_1-deu.xsd">
+    <polBezirke>
+        <polBezirk>
+            <placeName lang="deu">Völkermarkt</placeName>
+            <placeName lang="slv">Velikovec</placeName>
+            <gerichtsBezirke>
+                <gerichtsBezirk n="1">
+                    <placeName lang="deu">Bleiburg</placeName>
+                    <placeName lang="slv">Pliberk</placeName>
+                    <!-- prepisati celotni sodni okraj - polovica leži sedaj v Sloveniji -->
+                </gerichtsBezirk>
+                <gerichtsBezirk n="2">
+                    <placeName lang="deu">Eberndorf</placeName>
+                    <placeName lang="slv">Doberla Ves</placeName>
+                </gerichtsBezirk>
+                <gerichtsBezirk n="3">
+                    <placeName lang="deu">Eisenkappel</placeName>
+                    <placeName lang="slv">Železna Kapla</placeName>
+                    <gemeinden>
+                        <gemeinde n="1" ko="">
+                            <placeName lang="deu">Eisenkappel</placeName>
+                            <placeName lang="slv">Železna Kapla</placeName>
+                        </gemeinde>
+                        <gemeinde n="2">
+                            <placeName lang="deu">Seeland</placeName>
+                            <placeName lang="slv">Jezersko</placeName>
+                            <orte>
+                                <ort n="1" ko="">
+                                    <placeName lang="deu">Oberseeland</placeName>
+                                    <placeName lang="slv">Zgornje Jezersko</placeName>
+                                </ort>
+                                <ort n="2" ko="">
+                                    <placeName lang="deu">Unterseeland</placeName>
+                                    <placeName lang="slv">Spodnje Jezersko</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
+                        <gemeinde n="3">
+                            <placeName lang="deu">Vellach</placeName>
+                            <placeName lang="slv">Bela</placeName>
+                        </gemeinde>
+                    </gemeinden>
+                </gerichtsBezirk>
+                <gerichtsBezirk n="4">
+                    <placeName lang="deu">Völkermarkt</placeName>
+                    <placeName lang="slv">Velikovec</placeName>
+                </gerichtsBezirk>
+            </gerichtsBezirke>
+        </polBezirk>
+        <polBezirk>
+            <placeName lang="deu">Wolfsberg</placeName>
+            <gerichtsBezirke>
+                <gerichtsBezirk n="1">
+                    <placeName lang="deu">Sankt Leonhard</placeName>
+                    <placeName lang="slv"></placeName>
+                </gerichtsBezirk>
+                <gerichtsBezirk n="2">
+                    <placeName lang="deu">Sankt Paul</placeName>
+                    <!-- prepisati v celoti: v Sloveniji sedaj Ojstrica in Spodnji Dravograd -->
+                </gerichtsBezirk>
+                <gerichtsBezirk n="3">
+                    <placeName lang="deu">Wolfsberg</placeName>
+                </gerichtsBezirk>
+            </gerichtsBezirke>
+        </polBezirk>
+    </polBezirke>
+</root>
