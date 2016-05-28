@@ -13407,11 +13407,11 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="8">ccccccccccccc STR. 34
+                                <ort n="8">
                                     <placeName lang="slv">Šmarčna</placeName>
                                     <teile>
                                         <teil>
-                                            <placeName lang="slv">Šmarčno</placeName>
+                                            <placeName lang="slv">Šmarčna</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>25</hise>
                                             <prebivalci>119</prebivalci>
@@ -13456,7 +13456,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="10">
+                                <ort n="10" ko="1, 5, 10">
                                     <placeName lang="slv">Vrh</placeName>
                                     <teile>
                                         <teil>
@@ -13473,7 +13473,7 @@
                                         </teil>
                                         <teil>
                                             <placeName lang="slv">Drča</placeName>
-                                            <vrsta>posamezna</vrsta>
+                                            <vrsta>posamezna hiša</vrsta>
                                             <hise>1</hise>
                                             <prebivalci>4</prebivalci>
                                         </teil>
@@ -13491,9 +13491,27 @@
                                         </teil>
                                         <teil>
                                             <placeName lang="slv">Hrib</placeName>
-                                            <vrsta>posamezna</vrsta>
+                                            <vrsta>posamezna hiša</vrsta>
                                             <hise>1</hise>
                                             <prebivalci>5</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Klanjec</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>7</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Lepi Dob</placeName>
+                                            <vrsta>posamezna hiša</vrsta>
+                                            <hise>1</hise>
+                                            <prebivalci>2</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Lipoglav</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>5</hise>
+                                            <prebivalci>23</prebivalci>
                                         </teil>
                                         <teil>
                                             <placeName lang="slv">Lipovec</placeName>
@@ -15806,7 +15824,7 @@
                     <placeName lang="deu">Laibach</placeName>
                     <placeName lang="slv">Ljubljana</placeName>
                     <gemeinden>
-                        <gemeinde n="1">
+                        <gemeinde n="1" ko="">
                             <placeName lang="deu">Bresowitz</placeName>
                             <placeName lang="slv">Brezovica</placeName>
                             <orte>
@@ -15892,6 +15910,7 @@
                                             <prebivalci>27</prebivalci>
                                         </teil>
                                         <teil>
+                                            <placeName lang="deu">Moosthal</placeName>
                                             <placeName lang="slv">Kušljanov Grad</placeName>
                                             <placeName lang="slv">Zaplata</placeName>
                                             <vrsta>grad</vrsta>
@@ -15989,7 +16008,7 @@
                             </orte>
                         </gemeinde>
                         <gemeinde n="3">
-                            <placeName lang="slv">Dobrava</placeName>
+                            <placeName lang="slv">Dobrova</placeName>
                             <orte>
                                 <ort n="1">
                                     <placeName lang="slv">Brezje</placeName>
@@ -16018,7 +16037,7 @@
                                     <placeName lang="slv">Dobrova</placeName>
                                     <teile>
                                         <teil>
-                                            <placeName lang="slv">Dobrava</placeName>
+                                            <placeName lang="slv">Dobrova</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>73</hise>
                                             <prebivalci>382</prebivalci>
@@ -16151,7 +16170,7 @@
                                 </ort>
                                 <ort n="11" ko="2 t., 4, 5, 8, 11-13">
                                     <placeName lang="deu">Schuitze</placeName>
-                                    <placeName lang="slv">Šujice</placeName>
+                                    <placeName lang="slv">Šujica</placeName>
                                 </ort>
                                 <ort n="12">
                                     <placeName lang="slv">Stranska Vas</placeName>
@@ -16272,7 +16291,7 @@
                                         <teil>
                                             <placeName lang="slv">Pod Ježo</placeName>
                                             <vrsta>selo</vrsta>
-                                            <hise>2</hise>
+                                            <hise>3</hise>
                                             <prebivalci>24</prebivalci>
                                         </teil>
                                         <teil>
@@ -16967,7 +16986,7 @@
                                 <ort n="15">
                                     <placeName lang="slv">Podgorica</placeName>
                                 </ort>
-                                <ort n="16" ko="8, 12,13, 15, 16">
+                                <ort n="16" ko="8, 12, 13, 15, 16">
                                     <placeName lang="slv">Sela</placeName>
                                     <teile>
                                         <teil>
@@ -17013,7 +17032,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="6">
+                        <gemeinde n="6" ko="">
                             <placeName lang="deu">Iggdorf</placeName>
                             <placeName lang="slv">Iška Vas</placeName>
                             <orte>
@@ -17058,7 +17077,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="7">
+                        <gemeinde n="7" ko="">
                             <placeName lang="deu">Igglack</placeName>
                             <placeName lang="slv">Iška Loka</placeName>
                             <orte>
@@ -17191,7 +17210,7 @@
                                     <placeName lang="deu">Josefsthal</placeName>
                                     <placeName lang="slv">Velče</placeName>
                                 </ort>
-                                <ort n="2" koopomba="Sankt Agatham, Sveta Agatha katastrska občina (2, 6).">
+                                <ort n="2" koopomba="Sankt Agatha, Sveta Agatha katastrska občina (2, 6).">
                                     <placeName lang="slv">Laze</placeName>
                                     <teile>
                                         <teil>
@@ -17214,7 +17233,7 @@
                                 </ort>
                                 <ort n="4" koopomba="Kaschel, Kašelj katastrska občina (1 t., 4, 7, 11 &amp; von 4: 17 t., 20 t.).">
                                     <placeName lang="deu">Oberkaschel</placeName>
-                                    <placeName lang="slv">Gorenji Kašel</placeName>
+                                    <placeName lang="slv">Gorenji Kašelj</placeName>
                                     <teile>
                                         <teil>
                                             <placeName lang="slv">Na Gmajni</placeName>
@@ -17231,7 +17250,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="5" koopomba="Sadobrawa, Zadobrava katastrska občina (5, 9, 12).">
+                                <ort n="5" koopomba="Sadobrawa, Zadobrova katastrska občina (5, 9, 12).">
                                     <placeName lang="deu">Obersadobrawa</placeName>
                                     <placeName lang="slv">Gorenja Zadobrova</placeName>
                                     <teile>
@@ -17303,7 +17322,7 @@
                                     <placeName lang="slv">Slape</placeName>
                                 </ort>
                                 <ort n="9">
-                                    <placeName lang="slv">Sneberje</placeName>
+                                    <placeName lang="slv">Snebrje</placeName>
                                 </ort>
                                 <ort n="10">
                                     <placeName lang="slv">Studenec</placeName>
@@ -17336,7 +17355,7 @@
                                 </ort>
                                 <ort n="12">
                                     <placeName lang="deu">Untersadobrawa</placeName>
-                                    <placeName lang="slv">Dolenja Zadobrava</placeName>
+                                    <placeName lang="slv">Dolenja Zadobrova</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
@@ -17352,14 +17371,14 @@
                                 <ort n="3">
                                     <placeName lang="slv">Obrje</placeName>
                                 </ort>
-                                <ort n="4" koopomba="Sankt Martin an der Save, Šmartno pri savi katastrska občina (1, 3, 4).">
+                                <ort n="4" koopomba="Sankt Martin an der Save, Šmartno pri Savi katastrska občina (1, 3, 4).">
                                     <placeName lang="deu">Sankt Martin</placeName>
                                     <placeName lang="slv">Šmartno</placeName>
                                 </ort>
                                 <ort n="5">
                                     <placeName lang="slv">Selo</placeName>
                                 </ort>
-                                <ort n="6">
+                                <ort n="6" ko="">
                                     <placeName lang="slv">Udmat</placeName>
                                     <teile>
                                         <teil>
@@ -17748,7 +17767,7 @@
                                 <ort n="4">
                                     <placeName lang="slv">Pece</placeName>
                                 </ort>
-                                <ort n="5" ko="2, 3, 5, 11, 12">
+                                <ort n="5" ko="2, 4, 5, 11, 12">
                                     <placeName lang="deu">Pöndorf</placeName>
                                     <placeName lang="slv">Ponova Vas</placeName>
                                     <teile>
@@ -17811,7 +17830,7 @@
                                             <prebivalci>65</prebivalci>
                                         </teil>
                                         <teil>
-                                            <placeName lang="slv">Smerjani</placeName>
+                                            <placeName lang="slv">Smerjeni</placeName>
                                             <vrsta>selo</vrsta>
                                             <hise>4</hise>
                                             <prebivalci>27</prebivalci>
@@ -17866,7 +17885,7 @@
                             <placeName lang="deu">Sankt Marein</placeName>
                             <placeName lang="slv">Šmarje</placeName>
                             <orte>
-                                <ort n="1">
+                                <ort n="1" koopomba="siehe krajevna občina 4, 7">
                                     <placeName lang="slv">Dolje</placeName>
                                 </ort>
                                 <ort n="2">
@@ -17932,7 +17951,7 @@
                                     <placeName lang="slv">Lanišče</placeName>
                                     <teile>
                                         <teil>
-                                            <placeName lang="slv">cCigelnica</placeName>
+                                            <placeName lang="slv">Cigelnica</placeName>
                                             <vrsta>soseska</vrsta>
                                             <hise>8</hise>
                                             <prebivalci>29</prebivalci>
@@ -17952,6 +17971,7 @@
                                             <prebivalci>30</prebivalci>
                                         </teil>
                                         <teil>
+                                            <placeName lang="deu">Lanische</placeName>
                                             <placeName lang="slv">Lanišče</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>24</hise>
@@ -17985,7 +18005,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="10">
+                                <ort n="10" koopomba="siehe krajevna občina 4, 7">
                                     <placeName lang="slv">Pleše</placeName>
                                     <teile>
                                         <teil>
@@ -18011,7 +18031,7 @@
                                 <ort n="11">
                                     <placeName lang="slv">Razdrto</placeName>
                                 </ort>
-                                <ort n="12">
+                                <ort n="12" koopomba="siehe krajevna občina 4, 7">
                                     <placeName lang="slv">Reber</placeName>
                                 </ort>
                                 <ort n="13">
@@ -18162,7 +18182,7 @@
                                     <placeName lang="deu">Gunzle</placeName>
                                     <placeName lang="slv">Gunclje</placeName>
                                 </ort>
-                                <ort n="6">
+                                <ort n="6" koopomba="siehe 13">
                                     <placeName lang="slv">Kamna Gorica</placeName>
                                 </ort>
                                 <ort n="7">
@@ -18211,8 +18231,8 @@
                             </orte>
                         </gemeinde>
                         <gemeinde n="22">
-                            <placeName lang="deu">Schelime</placeName>
-                            <placeName lang="slv">Želimje</placeName>
+                            <placeName lang="deu">Schelimle</placeName>
+                            <placeName lang="slv">Želimlje</placeName>
                             <orte>
                                 <ort n="1">
                                     <placeName lang="slv">Klada</placeName>
@@ -18237,7 +18257,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="3" koopomba="Golu, Golo katastrska občina (2, 3, 8, 9).">
+                                <ort n="3" ko="" koopomba="Golu, Golo katastrska občina (2, 3, 8, 9).">
                                     <placeName lang="deu">Obergolo</placeName>
                                     <placeName lang="slv">Gorenje Golo</placeName>
                                 </ort>
@@ -18384,7 +18404,7 @@
                                             <prebivalci>100</prebivalci>
                                             <vrsta>posamezna</vrsta>
                                             <hise>1</hise>
-                                            <prebivalci>1</prebivalci>
+                                            <prebivalci>4</prebivalci>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -18712,7 +18732,7 @@
                                             <placeName lang="slv">Osolnik</placeName>
                                             <vrsta>raztresene hiše</vrsta>
                                             <hise>6</hise>
-                                            <prebivalci>31</prebivalci>
+                                            <prebivalci>34</prebivalci>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -19200,7 +19220,7 @@
                                             <prebivalci>133</prebivalci>
                                         </teil>
                                         <teil>
-                                            <placeName lang="slv">Stara Štranga</placeName>
+                                            <placeName lang="slv">Stara Šranga</placeName>
                                             <vrsta>soseska</vrsta>
                                             <hise>11</hise>
                                             <prebivalci>72</prebivalci>
@@ -19293,7 +19313,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="11">
+                                <ort n="11" ko="">
                                     <placeName lang="slv">Podlipa</placeName>
                                     <teile>
                                         <teil>
@@ -19461,7 +19481,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="8">
+                                <ort n="8" ko="">
                                     <placeName lang="slv">Rakitna</placeName>
                                     <teile>
                                         <teil>
@@ -19565,7 +19585,7 @@
                                         </teil>
                                         <teil>
                                             <placeName lang="deu">Gallenberg</placeName>
-                                            <placeName lang="slv">Gamberk</placeName>
+                                            <placeName lang="slv">Gamberg</placeName>
                                             <vrsta>samišče</vrsta>
                                             <hise>2</hise>
                                             <prebivalci>7</prebivalci>
@@ -19687,7 +19707,7 @@
                                             <placeName lang="slv">Prhovec</placeName>
                                             <vrsta>selo</vrsta>
                                             <hise>9</hise>
-                                            <prebivalci>17</prebivalci>
+                                            <prebivalci>71</prebivalci>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -19735,7 +19755,7 @@
                             <placeName lang="deu">Billichberg</placeName>
                             <placeName lang="slv">Polšnik</placeName>
                             <orte>
-                                <ort n="1" koopomba="Sankt Michael zu Goba, Sveti Mihael v Gobi katastrska občina 1-4, 9, 10, 12).">
+                                <ort n="1" ko="" koopomba="Sankt Michael zu Goba, Sveti Mihael v Gobi katastrska občina 1-4, 9, 10, 12).">
                                     <placeName lang="slv">Borovak</placeName>
                                 </ort>
                                 <ort n="2">
@@ -20849,7 +20869,7 @@
                                     <placeName lang="slv">Gradiše</placeName>
                                     <teile>
                                         <teil>
-                                            <placeName lang="slv">Dobovce</placeName>
+                                            <placeName lang="slv">Dobovec</placeName>
                                             <vrsta>selo</vrsta>
                                             <hise>4</hise>
                                             <prebivalci>29</prebivalci>
@@ -22535,7 +22555,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="17">
+                        <gemeinde n="17" ko="">
                             <placeName lang="deu">Waatsch</placeName>
                             <placeName lang="slv">Vače</placeName>
                             <orte>
@@ -23558,7 +23578,7 @@
                                             <placeName lang="slv">Zagorica</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>40</hise>
-                                            <prebivalci>172</prebivalci>
+                                            <prebivalci>173</prebivalci>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -23695,7 +23715,7 @@
                                             <placeName lang="slv">Dol</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>10</hise>
-                                            <prebivalci>25</prebivalci>
+                                            <prebivalci>49</prebivalci>
                                         </teil>
                                         <teil>
                                             <placeName lang="slv">Pristavlja Vas</placeName>
@@ -23733,7 +23753,7 @@
                                 </ort>
                                 <ort n="14" ko="2, 4, 5, 6 t., 14, 15">
                                     <placeName lang="deu">Sittich</placeName>
-                                    <placeName lang="slv">Zatična</placeName>
+                                    <placeName lang="slv">Zatičina</placeName>
                                     <teile>
                                         <teil>
                                             <placeName lang="slv">Ivančna Gorica</placeName>
@@ -23843,7 +23863,7 @@
                                 </ort>
                                 <ort n="5">
                                     <placeName lang="deu">Schalna</placeName>
-                                    <placeName lang="slv">Žalna</placeName>
+                                    <placeName lang="slv">Žalina</placeName>
                                     <teile>
                                         <teil>
                                             <placeName lang="deu">Großschalna</placeName>
@@ -24129,7 +24149,7 @@
                                             <placeName lang="slv">Vrh Bele</placeName>
                                             <vrsta>selo</vrsta>
                                             <hise>5</hise>
-                                            <prebivalci>15</prebivalci>
+                                            <prebivalci>45</prebivalci>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -24280,7 +24300,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="3">
+                        <gemeinde n="3" ko="">
                             <placeName lang="deu">Godowitsch</placeName>
                             <placeName lang="slv">Godovič</placeName>
                             <orte>
@@ -24352,7 +24372,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="4" koopomba="Oberidria, Zgornja Idrija katastrska občina" >
+                        <gemeinde n="4" ko="" koopomba="Oberidria, Zgornja Idrija katastrska občina" >
                             <placeName lang="deu">Idria</placeName>
                             <placeName lang="slv">Idrija</placeName>
                             <orte>
@@ -24490,7 +24510,7 @@
                                 <ort n="9">
                                     <placeName lang="slv">Jarčja Dolina</placeName>
                                 </ort>
-                                <ort n="10">
+                                <ort n="10" ko="">
                                     <placeName lang="slv">Javorjev Dol</placeName>
                                 </ort>
                                 <ort n="11">
@@ -25573,7 +25593,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="6" ko="6,11">
+                                <ort n="6" ko="6, 11">
                                     <placeName lang="deu">Grafenacker</placeName>
                                     <placeName lang="slv">Knežja Njiva</placeName>
                                 </ort>
@@ -25698,7 +25718,7 @@
                                     <placeName lang="deu">Obloschitz</placeName>
                                     <placeName lang="slv">Obločice</placeName>
                                 </ort>
-                                <ort n="15" ko="" koopomba="Otok 1 ko 9, 15">
+                                <ort n="15" ko="" koopomba="Otok 1 ko. 9, 15">
                                     <placeName lang="slv">Otok</placeName>
                                     <teile>
                                         <teil>
@@ -26607,7 +26627,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="5" ko="" koopomba="Oberplanina, Gorenja Planina Q] (5 t.) und Unterplanina, Dolenja Planina [Q (4, 5 t.)">
+                                <ort n="5" ko="" koopomba="Oberplanina, Gorenja Planina ko.(5 t.) und Unterplanina, Dolenja Planina ko. (4, 5 t.)">
                                     <placeName lang="slv">Planina</placeName>
                                     <teile>
                                         <teil>
@@ -26776,7 +26796,7 @@
                                 </ort> 
                             </orte>
                         </gemeinde>
-                        <gemeinde n="2" koopomba="Siehe Änderungen">
+                        <gemeinde n="2">
                             <placeName lang="deu">Sankt Veit ob Zirknitz</placeName>
                             <placeName lang="slv">Sveti Vid nad Cerknico</placeName>
                             <orte>
@@ -26934,7 +26954,7 @@
                                 </ort> 
                             </orte>
                         </gemeinde>
-                        <gemeinde n="3" koopomba="Siehe Änderungen">
+                        <gemeinde n="3">
                             <placeName lang="deu">Wigaun</placeName>
                             <placeName lang="slv">Begunje</placeName>
                             <orte>
@@ -27518,7 +27538,7 @@
                                 </ort> 
                             </orte>
                         </gemeinde>
-                        <gemeinde n="4" ko="" koopomba="Siehe Änderungen">
+                        <gemeinde n="4" ko="">
                             <placeName lang="deu">Laufen</placeName>
                             <placeName lang="slv">Ljubno</placeName>
                             <orte>
@@ -27565,7 +27585,7 @@
                                 </ort> 
                             </orte>
                         </gemeinde>
-                        <gemeinde n="6" ko="" koopomba="Siehe Änderungen">
+                        <gemeinde n="6" ko="">
                             <placeName lang="deu">Leschach</placeName>
                             <placeName lang="slv">Leše</placeName>
                             <orte>
@@ -27687,7 +27707,7 @@
                                 </ort> 
                             </orte>
                         </gemeinde>
-                        <gemeinde n="8" koopomba="Siehe Änderungen">
+                        <gemeinde n="8">
                             <placeName lang="deu">Möschnach</placeName>
                             <placeName lang="slv">Mošnje</placeName>
                             <orte>
@@ -27736,7 +27756,7 @@
                                     <placeName lang="deu">Noschach</placeName>
                                     <placeName lang="slv">Noše</placeName>
                                 </ort> 
-                                <ort n="9" koopomba="Otok I ko. 6, 9, 10">
+                                <ort n="9" ko="" koopomba="Otok I ko. 6, 9, 10">
                                     <placeName lang="deu">Oberotok</placeName>
                                     <placeName lang="slv">Zgornji Otok</placeName>
                                 </ort> 
@@ -28716,7 +28736,7 @@
                                     <geo>45.834296, 15.087126</geo>
                                 </ort>
                                 <ort n="21">
-                                    <placeName lang="deu" key="3200365">Oberkartelen</placeName>
+                                    <placeName lang="deu" key="3200365">Oberkarteleu</placeName>
                                     <placeName lang="slv" key="3200365">Gorenje Karteljevo</placeName>
                                     <teile>
                                         <teil>
@@ -28739,7 +28759,7 @@
                                     <placeName lang="deu" key="3200367">Obersteinberg</placeName>
                                     <placeName lang="slv" key="3200367">Gorenje Kamnje</placeName>
                                 </ort>
-                                <ort n="23" koopomba="Tiefenthal, Globodol katastrska občina (12, 16, 23, 35).">
+                                <ort n="23" ko="" koopomba="Tiefenthal, Globodol katastrska občina (12, 16, 23, 35).">
                                     <placeName lang="deu" key="3200354">Obertiefenthal</placeName>
                                     <placeName lang="slv" key="3200354">Gorenji Globodol</placeName>
                                     <teile>
@@ -28784,7 +28804,7 @@
                                     <geo>45.869991, 15.146522</geo>
                                     <teile>
                                         <teil>
-                                            <placeName lang="deu">Kopfenbach</placeName>
+                                            <placeName lang="deu">Hopfenbach</placeName>
                                             <placeName lang="slv">Hmeljnik</placeName>
                                             <geo>45.863008, 15.152906</geo>
                                             <vrsta>grad</vrsta>
@@ -28794,7 +28814,7 @@
                                         <teil>
                                             <placeName lang="slv">Pristava</placeName>
                                             <geo>45.869991, 15.146522</geo>
-                                            <vrsta>pristava, dvor</vrsta>
+                                            <vrsta>pristava</vrsta>
                                             <hise>1</hise>
                                             <prebivalci>4</prebivalci>
                                         </teil>
@@ -28984,7 +29004,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="7" ko="1, 2, 4, 5, 7, 11 t.">
+                                <ort n="7" ko="1, 2, 4, 5, 7, 11 t., 13">
                                     <placeName lang="deu" key="3194022">Obernußdorf</placeName>
                                     <placeName lang="slv" key="3194022">Gorenja Orehovica</placeName>
                                     <teile>
@@ -29316,7 +29336,7 @@
                                         <teil>
                                             <placeName lang="slv">Dobrava</placeName>
                                             <geo>45.841121, 15.146670</geo>
-                                            <vrsta>pristava, dvor</vrsta>
+                                            <vrsta>pristava</vrsta>
                                             <hise>1</hise>
                                             <prebivalci>4</prebivalci>
                                         </teil>
@@ -29375,7 +29395,7 @@
                                             <placeName lang="deu">Meierhof</placeName>
                                             <placeName lang="slv">Veliki Marof</placeName>
                                             <geo>45.814734, 15.104006</geo>
-                                            <vrsta>pristava, dvor</vrsta>
+                                            <vrsta>pristava</vrsta>
                                             <hise>1</hise>
                                             <prebivalci>0</prebivalci>
                                         </teil>
@@ -29454,7 +29474,7 @@
                             <placeName lang="slv" key="3194351">Novo Mesto</placeName>
                         </gemeinde>
                         <gemeinde n="7">
-                            <placeName lang="deu">Sankt Michael - Stopitsch</placeName>
+                            <placeName lang="deu">Sankt Michael-Stopitsch</placeName>
                             <placeName lang="slv">Šmihel-Stopiče</placeName>
                             <orte>
                                 <ort n="1" ko="1, 39">
@@ -29774,7 +29794,7 @@
                                     <placeName lang="deu" key="8989803">Niederdorf</placeName>
                                     <placeName lang="slv" key="8989803">Dolenja Vas</placeName>
                                 </ort>
-                                <ort n="36" koopomba="Lakonitz, Lakonice katastrska občina (24, 26, 36, 61)">
+                                <ort n="36" ko="" koopomba="Lakonitz, Lakonice katastrska občina (24, 26, 36, 61)">
                                     <placeName lang="deu" key="3200363">Oberlakonitz</placeName>
                                     <placeName lang="slv" key="3200363">Gorenja Lakonica</placeName>
                                     <teile>
@@ -30005,7 +30025,7 @@
                                 </ort>
                                 <ort n="63">
                                     <placeName lang="deu" key="3201777">Unterschwerenbach</placeName>
-                                    <placeName lang="slv" key="3201777">Dolenja težka Voda</placeName>
+                                    <placeName lang="slv" key="3201777">Dolenja Težka Voda</placeName>
                                 </ort>
                                 <ort n="64">
                                     <placeName lang="slv" key="8988106">Verdun</placeName>
@@ -30663,8 +30683,7 @@
                                     <placeName lang="slv">Štale</placeName>
                                     <geo>45.657040, 15.062161</geo>
                                 </ort>
-                                <ort n="25" koopomba="Tschermoschnitz bei Gottschee, Kočevske Črmošnjice katastrska občina
-                                    (3, 11, 12, 14, 25, 27, 28).">
+                                <ort n="25" koopomba="Tschermoschnitz bei Gottschee, Kočevske Črmošnjice katastrska občina (3, 11, 12, 14, 25, 27, 28).">
                                     <placeName lang="deu">Tschermoschnitz</placeName>
                                     <placeName lang="slv">Črmošnjice</placeName>
                                 </ort>
@@ -31024,10 +31043,41 @@
                                 <ort n="6" ko="siehe krajevna občina 5, 6">
                                     <placeName lang="deu">Kleinkoren</placeName>
                                     <placeName lang="slv">Mali Koren</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Kleinkoren</placeName>
+                                            <placeName lang="slv">Mali Koren</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>22</hise>
+                                            <prebivalci>105</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="slv">Prva Dola</placeName>
+                                            <vrsta>soseska</vrsta>
+                                            <hise>2</hise>
+                                            <prebivalci>4</prebivalci>
+                                        </teil>
+                                    </teile>
                                 </ort>
                                 <ort n="7">
                                     <placeName lang="deu">Primsdorf</placeName>
                                     <placeName lang="slv">Primča Vas</placeName>
+                                    <teile>
+                                        <teil>
+                                            <placeName lang="deu">Primsdorf</placeName>
+                                            <placeName lang="slv">Primča Vas</placeName>
+                                            <vrsta>vas</vrsta>
+                                            <hise>25</hise>
+                                            <prebivalci>101</prebivalci>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu">Schwerzberg</placeName>
+                                            <placeName lang="slv">Primski Hrib</placeName>
+                                            <vrsta>selo</vrsta>
+                                            <hise>4</hise>
+                                            <prebivalci>13</prebivalci>
+                                        </teil>
+                                    </teile>
                                 </ort>
                                 <ort n="8">
                                     <placeName lang="deu">Wacherz</placeName>
@@ -31049,7 +31099,7 @@
                                     <teile>
                                         <teil>
                                             <placeName lang="deu">Birkenleiten</placeName>
-                                            <placeName lang="slv">Brezova reber</placeName>
+                                            <placeName lang="slv">Brezova Reber</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>19</hise>
                                             <prebivalci>98</prebivalci>
@@ -31799,7 +31849,7 @@
                                             <prebivalci>18</prebivalci>
                                         </teil>
                                         <teil>
-                                            <placeName lang="deu">Katzendorf</placeName>
+                                            <placeName lang="deu">Katzenthal</placeName>
                                             <placeName lang="slv">Mačji Dol</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>17</hise>
@@ -32233,7 +32283,7 @@
                                             <prebivalci>50</prebivalci>
                                         </teil>
                                         <teil>
-                                            <placeName lang="slv">Zastran</placeName>
+                                            <placeName lang="slv">Zastan</placeName>
                                             <vrsta>posamezna</vrsta>
                                             <hise>1</hise>
                                             <prebivalci>1</prebivalci>
@@ -33084,7 +33134,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="3" koopomba="Siehe Änderungen">
+                        <gemeinde n="3">
                             <placeName lang="deu">Douschko</placeName>
                             <placeName lang="slv">Dolsko</placeName>
                             <orte>
@@ -33212,7 +33262,7 @@
                                         <teil>
                                             <placeName lang="deu">Wildenegg</placeName>
                                             <placeName lang="slv">Belnek</placeName>
-                                            <vrsta>grad</vrsta>
+                                            <vrsta>selo</vrsta>
                                             <hise>5</hise>
                                             <prebivalci>18</prebivalci>
                                         </teil>
@@ -33778,7 +33828,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="7" ko="1, 2, 3, 5" koopomba="Siehe Änderungen">
+                        <gemeinde n="7" ko="1, 2, 3, 5">
                             <placeName lang="deu">Großdorf</placeName>
                             <placeName lang="slv">Velika Vas</placeName>
                             <orte>
@@ -34361,7 +34411,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="13" koopomba="Siehe Änderungen">
+                        <gemeinde n="13">
                             <placeName lang="deu">Lustthal</placeName>
                             <placeName lang="slv">Dol</placeName>
                             <orte>
@@ -37358,7 +37408,6 @@
                         <gemeinde n="33" ko="">
                             <placeName lang="deu">Tersain</placeName>
                             <placeName lang="slv">Trzin</placeName>
-                            <orte></orte>
                         </gemeinde>
                         <gemeinde n="34" ko="">
                             <placeName lang="deu">Theinitz</placeName>
@@ -37674,7 +37723,7 @@
                                             <prebivalci>21</prebivalci>
                                         </teil>
                                         <teil>
-                                            <placeName lang="slv">Pustinec</placeName>
+                                            <placeName lang="slv">Pustince</placeName>
                                             <vrsta>selo</vrsta>
                                             <hise>7</hise>
                                             <prebivalci>34</prebivalci>
@@ -37831,7 +37880,7 @@
                         <gemeinde n="1">
                             <placeName lang="slv">Božjakovo</placeName>
                             <orte>
-                                <ort n="1">
+                                <ort n="1" ko="1, 4, 7">
                                     <placeName lang="slv">Božjakovo</placeName>
                                 </ort>
                                 <ort n="2">
@@ -37852,7 +37901,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="3">
+                                <ort n="3" ko="">
                                     <placeName lang="deu">Radowitsch</placeName>
                                     <placeName lang="slv">Radoviči</placeName>
                                 </ort>
@@ -37879,16 +37928,19 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="5">
+                                <ort n="5" ko="2, 5, 6">
                                     <placeName lang="deu">Rosalnitz</placeName>
                                     <placeName lang="slv">Rosalnice</placeName>
                                 </ort>
                                 <ort n="6">
                                     <placeName lang="slv">Svršak</placeName>
                                 </ort>
+                                <ort n="7">
+                                    <placeName lang="slv">Želebej</placeName>
+                                </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="2">
+                        <gemeinde n="2" ko="">
                             <placeName lang="deu">Draschitz</placeName>
                             <placeName lang="slv">Drašiči</placeName>
                             <orte>
@@ -37941,7 +37993,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="3">
+                        <gemeinde n="3" ko="">
                             <placeName lang="deu">Gradaz</placeName>
                             <placeName lang="slv">Gradac</placeName>
                             <orte>
@@ -38018,23 +38070,23 @@
                                     <placeName lang="deu">Hrib bei Zerouz</placeName>
                                     <placeName lang="slv">Hrib pri Cerovcu</placeName>
                                 </ort>
-                                <ort n="5">
+                                <ort n="5" ko="1, 2, 4, 5">
                                     <placeName lang="deu">Kerschdorf</placeName>
                                     <placeName lang="slv">Črešnjevec</placeName>
                                 </ort>
                                 <ort n="6">
                                     <placeName lang="slv">Prapreče</placeName>
                                 </ort>
-                                <ort n="7">
+                                <ort n="7" ko="3, 6, 7">
                                     <placeName lang="slv">Sodji Vrh</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="5">
+                        <gemeinde n="5" ko="2-4">
                             <placeName lang="deu">Lokwitz</placeName>
                             <placeName lang="slv">Lokvica</placeName>
                             <orte>
-                                <ort n="1">
+                                <ort n="1" ko="">
                                     <placeName lang="deu">Grabrouz</placeName>
                                     <placeName lang="slv">Grabrovec</placeName>
                                 </ort>
@@ -38051,7 +38103,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="6">
+                        <gemeinde n="6" ko="">
                             <placeName lang="deu">Möttling</placeName>
                             <placeName lang="slv">Metlika</placeName>
                             <orte>
@@ -38113,7 +38165,7 @@
                                 <ort n="1">
                                     <placeName lang="slv">Cerkvišče</placeName>
                                 </ort>
-                                <ort n="2">
+                                <ort n="2" ko="">
                                     <placeName lang="deu">Dobrawitz</placeName>
                                     <placeName lang="slv">Dobravice</placeName>
                                     <teile>
@@ -38146,7 +38198,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="3">
+                                <ort n="3" ko="1, 3">
                                     <placeName lang="deu">Krassinz</placeName>
                                     <placeName lang="slv">Krasinec</placeName>
                                 </ort>
@@ -38167,7 +38219,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="5">
+                                <ort n="5" ko="5, 6">
                                     <placeName lang="deu">Podsemel</placeName>
                                     <placeName lang="slv">Podzemelj</placeName>
                                     <teile>
@@ -38235,7 +38287,7 @@
                         <gemeinde n="8">
                             <placeName lang="slv">Radovica</placeName>
                             <orte>
-                                <ort n="1">
+                                <ort n="1" ko="1, 3">
                                     <placeName lang="deu">Bojansdorf</placeName>
                                     <placeName lang="slv">Bojanja Vas</placeName>
                                     <teile>
@@ -38255,7 +38307,7 @@
                                     </teile>
                                 </ort>
                                 <ort n="2">
-                                    <placeName lang="slv">Bodraž</placeName>
+                                    <placeName lang="slv">Boldraž</placeName>
                                 </ort>
                                 <ort n="3">
                                     <placeName lang="deu">Kraschenberg</placeName>
@@ -38264,8 +38316,8 @@
                                 <ort n="4">
                                     <placeName lang="slv">Radoše</placeName>
                                 </ort>
-                                <ort n="5">
-                                    <placeName lang="slv">Radovice</placeName>
+                                <ort n="5" ko="4, 5">
+                                    <placeName lang="slv">Radovica</placeName>
                                     <teile>
                                         <teil>
                                             <placeName lang="slv">Ostriž</placeName>
@@ -38281,7 +38333,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="6">
+                                <ort n="6" ko="2, 6">
                                     <placeName lang="deu">Sleindorf</placeName>
                                     <placeName lang="slv">Slamna Vas</placeName>
                                 </ort>
@@ -38392,7 +38444,7 @@
                                 <ort n="16">
                                     <placeName lang="slv">Preloge</placeName>
                                 </ort>
-                                <ort n="17">
+                                <ort n="17" ko="2, 5, 6, 11, 15-18, 20, 25">
                                     <placeName lang="slv">Pribišje</placeName>
                                 </ort>
                                 <ort n="18">
@@ -38407,11 +38459,11 @@
                                     <placeName lang="deu">Sela bei Wertschitsch</placeName>
                                     <placeName lang="slv">Sela pri Vrčicah</placeName>
                                 </ort>
-                                <ort n="21">
+                                <ort n="21" ko="1, 4, 8, 10, 14, 19, 21, 23, 24">
                                     <placeName lang="deu">Semitsch</placeName>
                                     <placeName lang="slv">Semič</placeName>
                                 </ort>
-                                <ort n="22">
+                                <ort n="22" ko="3, 7, 9, 12, 13, 22">
                                     <placeName lang="deu">Streklowitz</placeName>
                                     <placeName lang="slv">Štrekljevec</placeName>
                                 </ort>
@@ -38464,18 +38516,18 @@
                                     <placeName lang="deu">Dragomelsdorf</placeName>
                                     <placeName lang="slv">Dragomlja Vas</placeName>
                                 </ort>
-                                <ort n="4">
+                                <ort n="4" ko="2, 4, 6, 8, 11, 12">
                                     <placeName lang="deu">Dule</placeName>
                                     <placeName lang="slv">Dole</placeName>
                                 </ort>
-                                <ort n="5">
+                                <ort n="5" ko="5, 9, 10, 13">
                                     <placeName lang="deu">Hrast bei Jugorje</placeName>
                                     <placeName lang="slv">Hrast pri Jugorju</placeName>
                                 </ort>
                                 <ort n="6">
                                     <placeName lang="slv">Jugorje</placeName>
                                 </ort>
-                                <ort n="7">
+                                <ort n="7" ko="">
                                     <placeName lang="slv">Lešče</placeName>
                                     <teile>
                                         <teil>
@@ -38524,13 +38576,13 @@
                                     </teile>
                                 </ort>
                                 <ort n="12">
-                                    <placeName lang="slv">Škremljevec</placeName>
+                                    <placeName lang="slv">Škemljevec</placeName>
                                 </ort>
                                 <ort n="13">
                                     <placeName lang="deu">Untersuchor</placeName>
                                     <placeName lang="slv">Dolenji Suhor</placeName>
                                 </ort>
-                                <ort n="14">
+                                <ort n="14" ko="1, 3, 14">
                                     <placeName lang="deu">Wuschinsdorf</placeName>
                                     <placeName lang="slv">Bušinja Vas</placeName>
                                 </ort>
@@ -38546,11 +38598,11 @@
                             <placeName lang="deu">Adleschitz</placeName>
                             <placeName lang="slv">Adlešiči</placeName>
                             <orte>
-                                <ort n="1">
+                                <ort n="1" ko="1, 3-9">
                                     <placeName lang="deu">Adleschitz</placeName>
                                     <placeName lang="slv">Adlešiči</placeName>
                                 </ort>
-                                <ort n="2">
+                                <ort n="2" ko="">
                                     <placeName lang="deu">Bojanze</placeName>
                                     <placeName lang="slv">Bojanci</placeName>
                                     <teile>
@@ -38631,7 +38683,7 @@
                             <placeName lang="deu">Altenmarkt</placeName>
                             <placeName lang="slv">Stari Trg</placeName>
                             <orte>
-                                <ort n="1">
+                                <ort n="1" ko="1-3, 5, 7, 9">
                                     <placeName lang="deu">Altenmarkt</placeName>
                                     <placeName lang="slv">Stari Trg</placeName>
                                 </ort>
@@ -38657,7 +38709,7 @@
                                     <placeName lang="deu">Schmieddorf</placeName>
                                     <placeName lang="slv">Kovača Vas</placeName>
                                 </ort>
-                                <ort n="8">
+                                <ort n="8" ko="4, 6, 8">
                                     <placeName lang="deu">Vornschloß</placeName>
                                     <placeName lang="slv">Predgrad</placeName>
                                 </ort>
@@ -38679,7 +38731,7 @@
                                     <placeName lang="deu">Brunngeräuth</placeName>
                                     <placeName lang="slv">Miklarji</placeName>
                                 </ort>
-                                <ort n="3">
+                                <ort n="3" ko="3, 5, 6">
                                     <placeName lang="deu">Döblitsch</placeName>
                                     <placeName lang="slv">Dobliče</placeName>
                                     <teile>
@@ -38752,7 +38804,7 @@
                                 <ort n="6">
                                     <placeName lang="slv">Kanižarica</placeName>
                                 </ort>
-                                <ort n="7">
+                                <ort n="7" ko="1, 2, 4, 7, 8">
                                     <placeName lang="deu">Maierle</placeName>
                                     <placeName lang="slv">Maverlen</placeName>
                                     <teile>
@@ -38849,10 +38901,10 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="6">
+                                <ort n="6" ko="1, 5, 6, 8">
                                     <placeName lang="slv">Obrh</placeName>
                                 </ort>
-                                <ort n="7">
+                                <ort n="7" ko="2-4, 7">
                                     <placeName lang="deu">Weltschberg</placeName>
                                     <placeName lang="slv">Belči Vrh</placeName>
                                 </ort>
@@ -38875,7 +38927,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="5">
+                        <gemeinde n="5" ko="">
                             <placeName lang="deu">Grüble</placeName>
                             <placeName lang="slv">Griblje</placeName>
                             <orte>
@@ -38883,7 +38935,7 @@
                                     <teile>
                                         <teil>
                                             <placeName lang="deu">Obergrüble</placeName>
-                                            <placeName lang="slv">Gorenje Grible</placeName>
+                                            <placeName lang="slv">Gorenje Griblje</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>27</hise>
                                             <prebivalci>127</prebivalci>
@@ -38905,12 +38957,12 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="6">
-                            <placeName lang="deu">Kältersberg</placeName>
+                        <gemeinde n="6" ko="">
+                            <placeName lang="deu">Kälbersberg</placeName>
                             <placeName lang="slv">Talči Vrh</placeName>
                             <orte>
                                 <ort n="1">
-                                    <placeName lang="deu">Kältersberg</placeName>
+                                    <placeName lang="deu">Kälbersberg</placeName>
                                     <placeName lang="slv">Talči Vrh</placeName>
                                 </ort>
                                 <ort n="2">
@@ -38959,14 +39011,17 @@
                                     <placeName lang="slv">Rožičvrh</placeName>
                                 </ort>
                                 <ort n="7">
+                                    <placeName lang="slv">Sajči Vrh</placeName>
+                                </ort>
+                                <ort n="8">
                                     <placeName lang="deu">Sela bei Otawitz</placeName>
                                     <placeName lang="slv">Sela pri Otavcu</placeName>
                                 </ort>
-                                <ort n="8">
+                                <ort n="9">
                                     <placeName lang="deu">Tuschenthal</placeName>
                                     <placeName lang="slv">Tušev Dol</placeName>
                                 </ort>
-                                <ort n="9">
+                                <ort n="10">
                                     <placeName lang="deu">Unterpaka</placeName>
                                     <placeName lang="slv">Dolenja Paka</placeName>
                                     <teile>
@@ -38999,7 +39054,7 @@
                                 <ort n="3">
                                     <placeName lang="slv">Kočevje</placeName>
                                 </ort>
-                                <ort n="4">
+                                <ort n="4" ko="1, 3, 4, 5, 6">
                                     <placeName lang="slv">Loka</placeName>
                                 </ort>
                                 <ort n="5">
@@ -39028,7 +39083,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="7">
+                                <ort n="7" ko="2, 7">
                                     <placeName lang="slv">Zastava</placeName>
                                     <teile>
                                         <teil>
@@ -39047,7 +39102,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="8">
+                        <gemeinde n="8" ko="">
                             <placeName lang="deu">Petersdorf</placeName>
                             <placeName lang="slv">Petrova Vas</placeName>
                             <orte>
@@ -39056,7 +39111,7 @@
                                     <placeName lang="slv">Mihelja Vas</placeName>
                                     <teile>
                                         <teil>
-                                            <placeName lang="deu">Michaelsdorf</placeName>
+                                            <placeName lang="deu">Michelsdorf</placeName>
                                             <placeName lang="slv">Mihelja Vas</placeName>
                                             <vrsta>vas</vrsta>
                                             <hise>14</hise>
@@ -39132,7 +39187,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="9">
+                        <gemeinde n="9" ko="1, 2, 3, 5">
                             <placeName lang="deu">Radenze</placeName>
                             <placeName lang="slv">Radence</placeName>
                             <orte>
@@ -39147,8 +39202,8 @@
                                     <placeName lang="deu">Oberradenze</placeName>
                                     <placeName lang="slv">Gorenje Radence</placeName>
                                 </ort>
-                                <ort n="4">
-                                    <placeName lang="deu">Schöpfenlang</placeName>
+                                <ort n="4" ko="">
+                                    <placeName lang="deu">Schöpfenlag</placeName>
                                     <placeName lang="slv">Sodevce</placeName>
                                 </ort>
                                 <ort n="5">
@@ -39166,7 +39221,7 @@
                                     <placeName lang="deu">Bergel</placeName>
                                     <placeName lang="slv">Gorica</placeName>
                                 </ort>
-                                <ort n="2">
+                                <ort n="2" ko="">
                                     <placeName lang="slv">Damelj</placeName>
                                     <teile>
                                         <teil>
@@ -39190,7 +39245,7 @@
                                     <placeName lang="deu">Sabetich</placeName>
                                     <placeName lang="slv">Dalnje Njive</placeName>
                                 </ort>
-                                <ort n="5">
+                                <ort n="5" ko="1, 3-6">
                                     <placeName lang="deu">Scheinberg</placeName>
                                     <placeName lang="slv">Vrh</placeName>
                                     <placeName lang="slv">Sinji Vrh</placeName>
@@ -39232,7 +39287,7 @@
                             <placeName lang="deu">Stockendorf</placeName>
                             <placeName lang="slv">Planina</placeName>
                             <orte>
-                                <ort n="1">
+                                <ort n="1" ko="1, 2, 4, 8">
                                     <placeName lang="deu">Kletsch</placeName>
                                     <placeName lang="slv">Kleč</placeName>
                                 </ort>
@@ -39256,13 +39311,13 @@
                                     <placeName lang="deu">Sporeben</placeName>
                                     <placeName lang="slv">Ponikve</placeName>
                                 </ort>
-                                <ort n="7">
+                                <ort n="7" ko="3, 5-7">
                                     <placeName lang="deu">Stockendorf</placeName>
                                     <placeName lang="slv">Planina</placeName>
                                 </ort>
                                 <ort n="8">
                                     <placeName lang="deu">Töplitzel</placeName>
-                                    <placeName lang="slv">Male toplice</placeName>
+                                    <placeName lang="slv">Male Toplice</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
@@ -39275,9 +39330,9 @@
                                 </ort>
                                 <ort n="2">
                                     <placeName lang="deu">Dragoweinsdorf</placeName>
-                                    <placeName lang="slv">Dragovanja</placeName>
+                                    <placeName lang="slv">Dragovanja Vas</placeName>
                                 </ort>
-                                <ort n="3">
+                                <ort n="3" ko="1, 3, 5, 6">
                                     <placeName lang="slv">Golek</placeName>
                                 </ort>
                                 <ort n="4">
@@ -39290,7 +39345,7 @@
                                     <placeName lang="deu">Sela bei Golek</placeName>
                                     <placeName lang="slv">Sela pri Turnu</placeName>
                                 </ort>
-                                <ort n="7">
+                                <ort n="7" ko="2, 4, 7">
                                     <placeName lang="deu">Tanzberg</placeName>
                                     <placeName lang="slv">Tanča Gora</placeName>
                                     <teile>
@@ -39311,7 +39366,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="13">
+                        <gemeinde n="13" ko="">
                             <placeName lang="deu">Thal</placeName>
                             <placeName lang="slv">Dol</placeName>
                             <orte>
@@ -39352,7 +39407,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="2">
+                                <ort n="2" ko="">
                                     <placeName lang="slv">Tribuče</placeName>
                                     <teile>
                                         <teil>
@@ -39381,7 +39436,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="3">
+                                <ort n="3" ko="1, 3">
                                     <placeName lang="deu">Weidendorf</placeName>
                                     <placeName lang="slv">Bedenj</placeName>
                                     <teile>
@@ -39420,7 +39475,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="15">
+                        <gemeinde n="15" ko="">
                             <placeName lang="deu">Tscheplach</placeName>
                             <placeName lang="slv">Čeplje</placeName>
                             <orte>
@@ -39445,11 +39500,11 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="16">
+                        <gemeinde n="16" ko="">
                             <placeName lang="deu">Tschernembl</placeName>
                             <placeName lang="slv">Črnomelj</placeName>
                         </gemeinde>
-                        <gemeinde n="17">
+                        <gemeinde n="17" ko="">
                             <placeName lang="deu">Unterberg</placeName>
                             <placeName lang="slv">Dolenja Podgora</placeName>
                             <orte>
@@ -39467,7 +39522,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="18">
+                        <gemeinde n="18" ko="">
                             <placeName lang="deu">Weinberg</placeName>
                             <placeName lang="slv">Vinji Vrh</placeName>
                             <orte>
@@ -39512,7 +39567,7 @@
                             <placeName lang="deu">Weinitz</placeName>
                             <placeName lang="slv">Vinica</placeName>
                             <orte>
-                                <ort n="1">
+                                <ort n="1" ko="1, 9, 17">
                                     <placeName lang="deu">Altlinden</placeName>
                                     <placeName lang="slv">Stara Lipa</placeName>
                                 </ort>
@@ -39555,7 +39610,7 @@
                                     <placeName lang="deu">Golek bei Weinitz</placeName>
                                     <placeName lang="slv">Golek pri Vinici</placeName>
                                 </ort>
-                                <ort n="6">
+                                <ort n="6" ko="6, 11">
                                     <placeName lang="deu">Hrast bei Weinitz</placeName>
                                     <placeName lang="slv">Hrast pri Vinici</placeName>
                                 </ort>
@@ -39582,7 +39637,7 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="8">
+                                <ort n="8" ko="4, 8">
                                     <placeName lang="deu">Neulinden</placeName>
                                     <placeName lang="slv">Nova Lipa</placeName>
                                 </ort>
@@ -39599,7 +39654,7 @@
                                 <ort n="12">
                                     <placeName lang="slv">Podklanec</placeName>
                                 </ort>
-                                <ort n="13">
+                                <ort n="13" ko="2, 13, 15">
                                     <placeName lang="slv">Preloka</placeName>
                                     <teile>
                                         <teil>
@@ -39652,18 +39707,18 @@
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort n="16">
+                                <ort n="16" ko="3 t., 7, 14, 16">
                                     <placeName lang="slv">Učakovce</placeName>
                                 </ort>
                                 <ort n="17">
                                     <placeName lang="deu">Untersuchor</placeName>
                                     <placeName lang="slv">Dolenji Suhor</placeName>
                                 </ort>
-                                <ort n="18">
+                                <ort n="18" ko="3 t., 5, 10, 12, 18">
                                     <placeName lang="deu">Weinitz</placeName>
                                     <placeName lang="slv">Vinica</placeName>
                                 </ort>
-                                <ort n="19">
+                                <ort n="19" ko="">
                                     <placeName lang="slv">Žuniči</placeName>
                                     <teile>
                                         <teil>
@@ -39692,7 +39747,7 @@
                             <placeName lang="deu">Winkel</placeName>
                             <placeName lang="slv">Kot</placeName>
                             <orte>
-                                <ort n="1">
+                                <ort n="1" ko="1-4, 6">
                                     <placeName lang="slv">Brezje</placeName>
                                 </ort>
                                 <ort n="2">
@@ -39717,7 +39772,7 @@
                                     <placeName lang="deu">Trebenwerch</placeName>
                                     <placeName lang="slv">Trebnji Vrh</placeName>
                                 </ort>
-                                <ort n="8">
+                                <ort n="8" ko="5, 7, 8">
                                     <placeName lang="deu">Winkel</placeName>
                                     <placeName lang="slv">Kot</placeName>
                                     <teile>
@@ -39756,7 +39811,7 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde n="21">
+                        <gemeinde n="21" ko="">
                             <placeName lang="deu">Wutarei</placeName>
                             <placeName lang="slv">Butoraj</placeName>
                             <orte>
