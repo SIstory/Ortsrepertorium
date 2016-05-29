@@ -26,13 +26,13 @@
                                  <prebivalci>163</prebivalci>
                               </del>
                               <del>
-                                 <placeName key="10793830">Mrzlak</placeName>
+                                 <placeName lang="slv" key="10793830">Mrzlak</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>21</hise>
                                  <prebivalci>93</prebivalci>
                               </del>
                               <del>
-                                 <placeName key="10793831">Ivanje Selo</placeName>
+                                 <placeName lang="slv" key="10793831">Ivanje Selo</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>5</hise>
                                  <prebivalci>40</prebivalci>
@@ -18288,7 +18288,7 @@
          <placeName lang="deu">Feldbach</placeName>
       </polOkraj>
       <polOkraj>
-         <placeName>Gradec</placeName>
+         <placeName lang="slv">Gradec</placeName>
          <placeName lang="deu">Graz</placeName>
       </polOkraj>
       <polOkraj>
@@ -18301,11 +18301,11 @@
          <placeName lang="deu">Judenburg</placeName>
       </polOkraj>
       <polOkraj>
-         <placeName>Konjice</placeName>
+         <placeName lang="slv">Konjice</placeName>
          <placeName lang="deu">Gonobitz</placeName>
          <sodniOkraji>
             <sodniOkraj>
-               <placeName>Konjice</placeName>
+               <placeName lang="slv">Konjice</placeName>
                <placeName lang="deu">Gonobitz</placeName>
                <obcine>
                   <obcina n="1">
@@ -39728,7 +39728,7 @@
          </sodniOkraji>
       </polOkraj>
       <polOkraj>
-         <placeName>Slovenji Gradec</placeName>
+         <placeName lang="slv">Slovenji Gradec</placeName>
          <placeName lang="deu">Windischgraz</placeName>
          <sodniOkraji>
             <sodniOkraj n="1">
