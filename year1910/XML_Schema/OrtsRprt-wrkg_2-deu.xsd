@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="polBezirke"/>
+        <xs:element minOccurs="0" ref="namensverzeichnis"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="polBezirke">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element ref="pb"/>
+        <xs:element ref="polBezirk"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="polBezirk">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="gerichtsBezirke"/>
+      </xs:sequence>
+      <xs:attribute ref="xml:id"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gerichtsBezirke">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element ref="pb"/>
+        <xs:element ref="gerichtsBezirk"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gerichtsBezirk">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="gemeinden"/>
+      </xs:sequence>
+      <xs:attribute name="n" type="xs:integer"/>
+      <xs:attribute ref="xml:id"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gemeinden">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element ref="pb"/>
+        <xs:element ref="gemeinde"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="gemeinde">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="orte"/>
+      </xs:sequence>
+      <xs:attribute name="n" type="xs:integer"/>
+      <xs:attribute name="ko" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>vpiši podatke o katastrski občini</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="koopomba" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>vpiši podatke o katastrski občini iz opombe</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute ref="xml:id"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="orte">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="pb"/>
+        <xs:element ref="ort"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ort">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="geo"/>
+        <xs:element minOccurs="0" ref="teile"/>
+      </xs:sequence>
+      <xs:attribute name="n" type="xs:integer"/>
+      <xs:attribute name="ko" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>vpiši podatke o katastrski občini</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="koopomba" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>vpiši podatke o katastrski občini iz opombe</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute ref="xml:id"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="teile">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="teil"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="teil">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="geo"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="vrsta"/>
+          <xs:element ref="hise"/>
+          <xs:element ref="prebivalci"/>
+        </xs:choice>
+      </xs:sequence>
+      <xs:attribute ref="xml:id"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="vrsta" type="xs:string"/>
+  <xs:element name="hise" type="xs:integer"/>
+  <xs:element name="prebivalci" type="xs:integer"/>
+  <xs:element name="placeName">
+    <xs:complexType mixed="true">
+      <xs:attribute name="key" type="xs:integer"/>
+      <xs:attribute ref="lang"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="geo" type="xs:string"/>
+  
+  <xs:element name="pb">
+    <xs:annotation>
+      <xs:documentation>Page brake: Številka strani v analognem viru.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:attribute name="n" type="xs:integer"/>
+      <xs:attribute ref="xml:id"/>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="namensverzeichnis">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="listPlace"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listPlace">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="place"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="place">
+    <xs:annotation>
+      <xs:documentation>V Nemensverzeichnis zapisan kraj</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="asterisk"/>
+        <xs:element minOccurs="0" ref="placeName"/>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="add"/>
+          <xs:element ref="altName"/>
+          <xs:element ref="desc"/>
+          <xs:element ref="ref"/>
+          <xs:element ref="region"/>
+          <xs:element ref="measure"/>
+          <xs:element ref="type"/>
+        </xs:choice>
+      </xs:sequence>
+      <xs:attribute name="corresp">
+        <xs:annotation>
+          <xs:documentation>Navezava na enega ali več xml:id ustreznega kraja/ev iz polBezirke/</xs:documentation>
+        </xs:annotation>
+        <xs:simpleType>
+          <xs:restriction>
+            <xs:simpleType>
+              <xs:list itemType="xs:anyURI"/>
+            </xs:simpleType>
+            <xs:minLength value="1"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="asterisk">
+    <xs:annotation>
+      <xs:documentation>Znak * pred imenom kraja</xs:documentation>
+    </xs:annotation>
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="*"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+  <xs:element name="measure" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Kolikokrat se ime pojavi na isti strani, npr. (zweimal)</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="add" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Additional: veznik und oz. u., ki povezuje dve zapisani strani
+        (druga stran je izven glavnega seznama krajev v seznamu sprememb Änderungen).</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="altName">
+    <xs:annotation>
+      <xs:documentation>Alternative Name: alternativno ime kraja z asteriskom. Dejansko je to pravilno ime,
+        na katero se bo naknadno naredila povezava.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:attribute ref="lang">
+        <xs:annotation>
+          <xs:documentation>Dodaj oznako za jezik samo v primeru, če si povsem prepričan o pravilnosti te označbe.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="desc" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Description: Opis, zakaj je kraj označen z asteriskom, npr. richtig, richtiger, siehe, 1896 mit ... vereinigt</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="ref">
+    <xs:annotation>
+      <xs:documentation>Navedba referenčne strani v pb/@n</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:attribute ref="target"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="region">
+    <xs:annotation>
+      <xs:documentation>V oklepaju navedeno ime sodnega okraja (različne jezikovne variante ločene z
+        vejico). Navedeno samo, če je več istih imen kraja</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:attribute name="corresp">
+        <xs:annotation>
+          <xs:documentation>Navezava na xml:id ustreznega sodnega okraja</xs:documentation>
+        </xs:annotation>
+        <xs:simpleType>
+          <xs:restriction>
+            <xs:simpleType>
+              <xs:list itemType="xs:anyURI"/>
+            </xs:simpleType>
+            <xs:minLength value="1"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="type" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Opisno razjasni znake(e) za kraj, npr. namesto ◫ zapiši katastrska občina.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  
+  <xs:attribute name="lang">
+    <xs:simpleType>
+      <xs:restriction base="xs:language">
+        <xs:enumeration value="slv">
+          <xs:annotation>
+            <xs:documentation>slovenščina</xs:documentation>
+          </xs:annotation>
+        </xs:enumeration>
+        <xs:enumeration value="deu">
+          <xs:annotation>
+            <xs:documentation>nemščina</xs:documentation>
+          </xs:annotation>
+        </xs:enumeration>
+        <xs:enumeration value="ita">
+          <xs:annotation>
+            <xs:documentation>italijanščina</xs:documentation>
+          </xs:annotation>
+        </xs:enumeration>
+        <xs:enumeration value="hun">
+          <xs:annotation>
+            <xs:documentation>madžarščina</xs:documentation>
+          </xs:annotation>
+        </xs:enumeration>
+        <xs:enumeration value="hrv">
+          <xs:annotation>
+            <xs:documentation>hrvaščina</xs:documentation>
+          </xs:annotation>
+        </xs:enumeration>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:attribute>
+  
+  <xs:attribute name="target">
+    <xs:annotation>
+      <xs:documentation>Navezava na pb/@xml:id</xs:documentation>
+    </xs:annotation>
+    <xs:simpleType>
+      <xs:restriction>
+        <xs:simpleType>
+          <xs:list itemType="xs:anyURI"/>
+        </xs:simpleType>
+        <xs:minLength value="1"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:attribute>
+  
+</xs:schema>
