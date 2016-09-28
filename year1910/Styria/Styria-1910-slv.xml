@@ -19832,21 +19832,21 @@
       <polOkraj>
          <placeName lang="deu">Judenburg</placeName>
       </polOkraj>
-      <polOkraj>ccc
-         <placeName lang="slv">Konjice</placeName>
-         <placeName lang="deu">Gonobitz</placeName>
+      <polOkraj>
+         <placeName lang="slv" key="3190530">Konjice</placeName>
+         <placeName lang="deu" key="3190530">Gonobitz</placeName>
          <sodniOkraji>
             <sodniOkraj>
-               <placeName lang="slv">Konjice</placeName>
-               <placeName lang="deu">Gonobitz</placeName>
+               <placeName lang="slv" key="3190530">Konjice</placeName>
+               <placeName lang="deu" key="3190530">Gonobitz</placeName>
                <obcine>
                   <obcina n="1" ko="">
                      <placeName lang="slv">Bezina</placeName>
                      <placeName lang="deu">Wesina</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Bezina</placeName>
-                           <placeName lang="deu">Wesina</placeName>
+                           <placeName lang="slv" key="3204247">Bezina</placeName>
+                           <placeName lang="deu" key="3204247">Wesina</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Razbor</placeName>
@@ -19855,8 +19855,8 @@
                                  <prebivalci>33</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Bezina</placeName>
-                                 <placeName lang="deu">Wesina</placeName>
+                                 <placeName lang="slv" key="3204247">Bezina</placeName>
+                                 <placeName lang="deu" key="3204247">Wesina</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>57</hise>
                                  <prebivalci>218</prebivalci>
@@ -19864,28 +19864,28 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Brdo</placeName>
-                           <placeName lang="deu">Werdu</placeName>
+                           <placeName lang="slv" key="8987872">Brdo</placeName>
+                           <placeName lang="deu" key="8987872">Werdu</placeName>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Gabrovnik</placeName>
+                           <placeName lang="slv" key="8987264">Gabrovnik</placeName>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Strtnik</placeName>
+                           <placeName lang="slv" key="8988369">Strtnik</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="2">
-                     <placeName lang="slv">Bezovica</placeName>
-                     <placeName lang="deu">Wesowitza</placeName>
+                     <placeName lang="slv" key="8988586">Bezovica</placeName>
+                     <placeName lang="deu" key="8988586">Wesowitza</placeName>
                      <kraji>
                         <kraj n="1" ko="1, 4, 5, 7, 8">
-                           <placeName lang="slv">Bezovica</placeName>
-                           <placeName lang="deu">Wesowitza</placeName>
+                           <placeName lang="slv" key="8988586">Bezovica</placeName>
+                           <placeName lang="deu" key="8988586">Wesowitza</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Bezovica</placeName>
-                                 <placeName lang="deu">Wesowitza</placeName>
+                                 <placeName lang="slv" key="8988586">Bezovica</placeName>
+                                 <placeName lang="deu" key="8988586">Wesowitza</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>8</hise>
                                  <prebivalci>38</prebivalci>
@@ -19896,12 +19896,12 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Brdce</placeName>
-                           <placeName lang="deu">Wertze</placeName>
+                           <placeName lang="slv" key="8988570">Brdce</placeName>
+                           <placeName lang="deu" key="8988570">Wertze</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Brdce</placeName>
-                                 <placeName lang="deu">Wertze</placeName>
+                                 <placeName lang="slv" key="8988570">Brdce</placeName>
+                                 <placeName lang="deu" key="8988570">Wertze</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>13</hise>
                                  <prebivalci>52</prebivalci>
@@ -19916,12 +19916,12 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Črešnjice</placeName>
-                           <placeName lang="deu">Kirchstätten</placeName>
+                           <placeName lang="slv" key="3202514">Črešnjice</placeName>
+                           <placeName lang="deu" key="3202514">Kirchstätten</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Črešnjice</placeName>
-                                 <placeName lang="deu">Kirchstätten</placeName>
+                                 <placeName lang="slv" key="3202514">Črešnjice</placeName>
+                                 <placeName lang="deu" key="3202514">Kirchstätten</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>5</hise>
                                  <prebivalci>26</prebivalci>
@@ -19932,12 +19932,12 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Gabrovec</placeName>
-                           <placeName lang="deu">Gabrowetz</placeName>
+                           <placeName lang="slv" key="8988773">Gabrovec</placeName>
+                           <placeName lang="deu" key="8988773">Gabrowetz</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Gabrovec</placeName>
-                                 <placeName lang="deu">Gabrowetz</placeName>
+                                 <placeName lang="slv" key="8988773">Gabrovec</placeName>
+                                 <placeName lang="deu" key="8988773">Gabrowetz</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>3</hise>
                                  <prebivalci>20</prebivalci>
@@ -19948,10 +19948,10 @@
                            </deli>
                         </kraj>
                         <kraj n="5">
-                           <placeName lang="slv">Hrastnik</placeName>
+                           <placeName lang="slv" key="8989168">Hrastnik</placeName>
                         </kraj>
                         <kraj n="6" ko="2, 3, 6">
-                           <placeName lang="slv">Podgorje</placeName>
+                           <placeName lang="slv" key="8987832">Podgorje</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Grušovec</placeName>
@@ -19961,7 +19961,7 @@
                                  <prebivalci>25</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Podgorje</placeName>
+                                 <placeName lang="slv" key="8987832">Podgorje</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>14</hise>
                                  <prebivalci>46</prebivalci>
@@ -19975,8 +19975,8 @@
                            </deli>
                         </kraj>
                         <kraj n="7">
-                           <placeName lang="slv">Spodnje Slemene</placeName>
-                           <placeName lang="deu">Unterslemene</placeName>
+                           <placeName lang="slv" key="8989652">Spodnje Slemene</placeName>
+                           <placeName lang="deu" key="8989652">Unterslemene</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Preloge</placeName>
@@ -19985,8 +19985,8 @@
                                  <prebivalci>5</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Spodnje Slemene</placeName>
-                                 <placeName lang="deu">Unterslemene</placeName>
+                                 <placeName lang="slv" key="8989652">Spodnje Slemene</placeName>
+                                 <placeName lang="deu" key="8989652">Unterslemene</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>10</hise>
                                  <prebivalci>53</prebivalci>
@@ -19994,8 +19994,8 @@
                            </deli>
                         </kraj>
                         <kraj n="8">
-                           <placeName lang="slv">Zgornje Slemene</placeName>
-                           <placeName lang="deu">Oberslemene</placeName>
+                           <placeName lang="slv" key="8989095">Zgornje Slemene</placeName>
+                           <placeName lang="deu" key="8989095">Oberslemene</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Laze</placeName>
@@ -20004,8 +20004,8 @@
                                  <prebivalci>9</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Zgornje Slemene</placeName>
-                                 <placeName lang="deu">Oberslemene</placeName>
+                                 <placeName lang="slv" key="8989095">Zgornje Slemene</placeName>
+                                 <placeName lang="deu" key="8989095">Oberslemene</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>8</hise>
                                  <prebivalci>22</prebivalci>
@@ -20021,14 +20021,14 @@
                      </kraji>
                   </obcina>
                   <obcina n="3" ko="">
-                     <placeName lang="slv">Brezen</placeName>
-                     <placeName lang="deu">Wresen</placeName>
+                     <placeName lang="slv" key="3203417">Brezen</placeName>
+                     <placeName lang="deu" key="3203417">Wresen</placeName>
                      <kraji>
                         <kraj>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Brezen</placeName>
-                                 <placeName lang="deu">Wresen</placeName>
+                                 <placeName lang="slv" key="3203417">Brezen</placeName>
+                                 <placeName lang="deu" key="3203417">Wresen</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>7</hise>
                                  <prebivalci>44</prebivalci>
@@ -20065,21 +20065,21 @@
                      <placeName lang="deu">Gruschoje</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Dobrava</placeName>
+                           <placeName lang="slv" key="8988353">Dobrava</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Dobriška Vas</placeName>
-                           <placeName lang="deu">Dobrotendorf</placeName>
+                           <placeName lang="slv" key="8988164">Dobriška Vas</placeName>
+                           <placeName lang="deu" key="8988164">Dobrotendorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Dobriška Vas</placeName>
-                                 <placeName lang="deu">Dobrotendorf</placeName>
+                                 <placeName lang="slv" key="8988164">Dobriška Vas</placeName>
+                                 <placeName lang="deu" key="8988164">Dobrotendorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>11</hise>
                                  <prebivalci>72</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Gabronik</placeName>
+                                 <placeName lang="slv" key="8987264">Gabronik</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>4</hise>
                                  <prebivalci>9</prebivalci>
@@ -20087,12 +20087,12 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Pobrež</placeName>
-                           <placeName lang="deu">Pobresch</placeName>
+                           <placeName lang="slv" key="3193112">Pobrež</placeName>
+                           <placeName lang="deu" key="3193112">Pobresch</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Pobrež</placeName>
-                                 <placeName lang="deu">Pobresch</placeName>
+                                 <placeName lang="slv" key="3193112">Pobrež</placeName>
+                                 <placeName lang="deu" key="3193112">Pobresch</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>16</hise>
                                  <prebivalci>82</prebivalci>
@@ -20103,12 +20103,12 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Prihova</placeName>
-                           <placeName lang="deu">Prichowa</placeName>
+                           <placeName lang="slv" key="3192418">Prihova</placeName>
+                           <placeName lang="deu" key="3192418">Prichowa</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Prihova</placeName>
-                                 <placeName lang="deu">Prichowa</placeName>
+                                 <placeName lang="slv" key="3192418">Prihova</placeName>
+                                 <placeName lang="deu" key="3192418">Prichowa</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>15</hise>
                                  <prebivalci>53</prebivalci>
@@ -20119,10 +20119,10 @@
                            </deli>
                         </kraj>
                         <kraj n="5">
-                           <placeName lang="slv">Raskovec</placeName>
+                           <placeName lang="slv" key="8988121">Raskovec</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Raskovec</placeName>
+                                 <placeName lang="slv" key="8988121">Raskovec</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>25</hise>
                                  <prebivalci>95</prebivalci>
@@ -20136,8 +20136,8 @@
                            </deli>
                         </kraj>
                         <kraj n="6" ko="">
-                           <placeName lang="slv">Spodnje Grušovje</placeName>
-                           <placeName lang="deu">Untergruschoje</placeName>
+                           <placeName lang="slv" key="8987266">Spodnje Grušovje</placeName>
+                           <placeName lang="deu" key="8987266">Untergruschoje</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Groblje</placeName>
@@ -20179,22 +20179,22 @@
                            </deli>
                         </kraj>
                         <kraj n="7" ko="1-5, 7">
-                           <placeName lang="slv">Zgornje Grušovje</placeName>
-                           <placeName lang="deu">Obergruschoje</placeName>
+                           <placeName lang="slv" key="8989505">Zgornje Grušovje</placeName>
+                           <placeName lang="deu" key="8989505">Obergruschoje</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="5" ko="">
-                     <placeName lang="slv">Konjice Trg</placeName>
-                     <placeName lang="deu">Gonobitz Markt</placeName>
+                     <placeName lang="slv" key="3190530">Konjice Trg</placeName>
+                     <placeName lang="deu" key="3190530">Gonobitz Markt</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Blato</placeName>
-                           <placeName lang="deu">Kotdorf</placeName>
+                           <placeName lang="slv" key="3203941">Blato</placeName>
+                           <placeName lang="deu" key="3203941">Kotdorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Blato</placeName>
-                                 <placeName lang="deu">Kotdorf</placeName>
+                                 <placeName lang="slv" key="3203941">Blato</placeName>
+                                 <placeName lang="deu" key="3203941">Kotdorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>12</hise>
                                  <prebivalci>65</prebivalci>
@@ -20205,12 +20205,12 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Konjice</placeName>
-                           <placeName lang="deu">Gonobitz</placeName>
+                           <placeName lang="slv" key="3190530">Konjice</placeName>
+                           <placeName lang="deu" key="3190530">Gonobitz</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Konjice</placeName>
-                                 <placeName lang="deu">Gonobitz</placeName>
+                                 <placeName lang="slv" key="3190530">Konjice</placeName>
+                                 <placeName lang="deu" key="3190530">Gonobitz</placeName>
                                  <vrsta>trg</vrsta>
                                  <hise>120</hise>
                                  <prebivalci>964</prebivalci>
@@ -20220,7 +20220,7 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="3">
+                        <kraj n="3"><!-- verjetno del Konjic -->                       
                            <placeName lang="slv">Prevrat</placeName>
                            <placeName lang="deu">Preurat</placeName>
                            <deli>
@@ -20236,9 +20236,9 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="4">
-                           <placeName lang="slv">Zgornja Pristova</placeName>
-                           <placeName lang="deu">Oberpristova</placeName>
+                        <kraj n="4"><!-- označba J od vasi -->
+                           <placeName lang="slv" key="8987544">Zgornja Pristova</placeName>
+                           <placeName lang="deu" key="8987544">Oberpristova</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
@@ -20247,22 +20247,22 @@
                      <placeName lang="deu">Gonobitz Umgebung</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Breg</placeName>
+                           <placeName lang="slv" key="8989785">Breg</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Bukole</placeName>
-                           <placeName lang="deu">Wukole</placeName>
+                           <placeName lang="slv" key="3203025">Bukole</placeName>
+                           <placeName lang="deu" key="3203025">Wukole</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Bukole</placeName>
-                                 <placeName lang="deu">Wukole</placeName>
+                                 <placeName lang="slv" key="3203025">Bukole</placeName>
+                                 <placeName lang="deu" key="3203025">Wukole</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>10</hise>
                                  <prebivalci>69</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Čretveš</placeName>
-                                 <placeName lang="deu">Tschretwesch</placeName>
+                                 <placeName lang="slv" key="8988555">Čretveš</placeName>
+                                 <placeName lang="deu" key="8988555">Tschretwesch</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>6</hise>
                                  <prebivalci>33</prebivalci>
@@ -20273,7 +20273,7 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Dobrava</placeName>
+                           <placeName lang="slv" key="3201963">Dobrava</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Doblahof</placeName>
@@ -20282,7 +20282,7 @@
                                  <prebivalci>5</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Dobrava</placeName>
+                                 <placeName lang="slv" key="3201963">Dobrava</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>31</hise>
                                  <prebivalci>177</prebivalci>
@@ -20290,10 +20290,10 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Gabrole</placeName>
+                           <placeName lang="slv" key="8989541">Gabrole</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Gabrole</placeName>
+                                 <placeName lang="slv" key="8989541">Gabrole</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>8</hise>
                                  <prebivalci>60</prebivalci>
@@ -20303,12 +20303,12 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="5">
+                        <kraj n="5"><!-- Gojka, ni kraja in označbe, Z od Konjic, čez hrib proti Frankolovem, najbližje Dol pod Gojko -->
                            <placeName lang="deu">Hebenstreit</placeName>
                         </kraj>
                         <kraj n="6" ko="1, 6, 7, 10, 12">
-                           <placeName lang="slv">Konjiška Vas</placeName>
-                           <placeName lang="deu">Gonobitzdorf</placeName>
+                           <placeName lang="slv" key="8987193">Konjiška Vas</placeName>
+                           <placeName lang="deu" key="8987193">Gonobitzdorf</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Hrovate</placeName>
@@ -20317,8 +20317,8 @@
                                  <prebivalci>20</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Konjiška Vas</placeName>
-                                 <placeName lang="deu">Gonobitzdorf</placeName>
+                                 <placeName lang="slv" key="8987193">Konjiška Vas</placeName>
+                                 <placeName lang="deu" key="8987193">Gonobitzdorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>23</hise>
                                  <prebivalci>120</prebivalci>
@@ -20336,12 +20336,12 @@
                            </deli>
                         </kraj>
                         <kraj n="7">
-                           <placeName lang="slv">Nova Vas</placeName>
-                           <placeName lang="deu">Neudorf</placeName>
+                           <placeName lang="slv" key="8987998">Nova Vas</placeName>
+                           <placeName lang="deu" key="8987998">Neudorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Nova Vas</placeName>
-                                 <placeName lang="deu">Neudorf</placeName>
+                                 <placeName lang="slv" key="8987998">Nova Vas</placeName>
+                                 <placeName lang="deu" key="8987998">Neudorf</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>13</hise>
                                  <prebivalci>66</prebivalci>
@@ -20355,11 +20355,11 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="8">
-                           <placeName lang="slv">Polena</placeName>
+                        <kraj n="8"><!-- označba JZ od vasi -->
+                           <placeName lang="slv" key="8987233">Polena</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Polena</placeName>
+                                 <placeName lang="slv" key="8987233">Polena</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>9</hise>
                                  <prebivalci>68</prebivalci>
@@ -20376,10 +20376,10 @@
                            </deli>
                         </kraj>
                         <kraj n="9" ko="2, 8, 9, 13">
-                           <placeName lang="slv">Preloge</placeName>
+                           <placeName lang="slv" key="8989488">Preloge</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Preloge</placeName>
+                                 <placeName lang="slv" key="8989488">Preloge</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>14</hise>
                                  <prebivalci>58</prebivalci>
@@ -20396,12 +20396,12 @@
                            </deli>
                         </kraj>
                         <kraj n="10">
-                           <placeName lang="slv">Prežigal</placeName>
-                           <placeName lang="deu">Preschigal</placeName>
+                           <placeName lang="slv" key="8988991">Prežigal</placeName>
+                           <placeName lang="deu" key="8988991">Preschigal</placeName>
                         </kraj>
                         <kraj n="11" ko="3, 4, 5, 11">
-                           <placeName lang="slv">Skalce</placeName>
-                           <placeName lang="deu">Skalitz</placeName>
+                           <placeName lang="slv" key="8986967">Skalce</placeName>
+                           <placeName lang="deu" key="8986967">Skalitz</placeName>
                            <deli>
                               <del>
                                  <placeName lang="deu">Rosenhof</placeName>
@@ -20410,8 +20410,8 @@
                                  <prebivalci>0</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Skalce</placeName>
-                                 <placeName lang="deu">Skalitz</placeName>
+                                 <placeName lang="slv" key="8986967">Skalce</placeName>
+                                 <placeName lang="deu" key="8986967">Skalitz</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>94</hise>
                                  <prebivalci>340</prebivalci>
@@ -20419,12 +20419,12 @@
                            </deli>
                         </kraj>
                         <kraj n="12">
-                           <placeName lang="slv">Spodnja Pristova</placeName>
-                           <placeName lang="deu">Unterpristova</placeName>
+                           <placeName lang="slv" key="8988704">Spodnja Pristova</placeName>
+                           <placeName lang="deu" key="8988704">Unterpristova</placeName>
                         </kraj>
                         <kraj n="13">
-                           <placeName lang="slv">Žeče</placeName>
-                           <placeName lang="deu">Setsche</placeName>
+                           <placeName lang="slv" key="3217105">Žeče</placeName>
+                           <placeName lang="deu" key="3217105">Setsche</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Povže</placeName>
@@ -20434,33 +20434,33 @@
                                  <prebivalci>24</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Žeče</placeName>
-                                 <placeName lang="deu">Setsche</placeName>
+                                 <placeName lang="slv" key="3217105">Žeče</placeName>
+                                 <placeName lang="deu" key="3217105">Setsche</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>24</hise>
-                                 <prebivalci>123</prebivalci>
+                                 <prebivalci>125</prebivalci>
                               </del>
                            </deli>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="7" ko="">
-                     <placeName lang="slv">Kot</placeName>
+                     <placeName lang="slv" key="3197552">Kot</placeName>
                      <kraji>
                         <kraj n="1">
                            <placeName lang="slv">Grad</placeName>
                            <placeName lang="deu">Schloßberg</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Nad Gradom</placeName>
-                                 <placeName lang="deu">Oberschloßberg</placeName>
+                                 <placeName lang="slv" key="8988334">Nad Gradom</placeName>
+                                 <placeName lang="deu" key="8988334">Oberschloßberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>11</hise>
                                  <prebivalci>64</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Pod Gradom</placeName>
-                                 <placeName lang="deu">Unterschloßberg</placeName>
+                                 <placeName lang="slv" key="8988145">Pod Gradom</placeName>
+                                 <placeName lang="deu" key="8988145">Unterschloßberg</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>4</hise>
                                  <prebivalci>29</prebivalci>
@@ -20471,8 +20471,8 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Kebelj</placeName>
-                           <placeName lang="deu">Köbl</placeName>
+                           <placeName lang="slv" key="3198180">Kebelj</placeName>
+                           <placeName lang="deu" key="3198180">Köbl</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Spodnji Kebelj</placeName>
@@ -20494,7 +20494,7 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Kot</placeName>
+                           <placeName lang="slv" key="3197552">Kot</placeName>
                            <deli>
                               <del>
                                  <placeName lang="deu">Jurgoplatz</placeName>
@@ -20509,13 +20509,13 @@
                                  <prebivalci>8</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Kot</placeName>
+                                 <placeName lang="slv" key="3197552">Kot</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>49</hise>
                                  <prebivalci>273</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Lukanja</placeName>
+                                 <placeName lang="slv" key="8988145">Lukanja</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>7</hise>
                                  <prebivalci>33</prebivalci>
@@ -20523,12 +20523,12 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Modrič</placeName>
-                           <placeName lang="deu">Modritsch</placeName>
+                           <placeName lang="slv" key="8987535">Modrič</placeName>
+                           <placeName lang="deu" key="8987535">Modritsch</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Modrič</placeName>
-                                 <placeName lang="deu">Modritsch</placeName>
+                                 <placeName lang="slv" key="8987535">Modrič</placeName>
+                                 <placeName lang="deu" key="8987535">Modritsch</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>18</hise>
                                  <prebivalci>104</prebivalci>
@@ -20541,7 +20541,7 @@
                      </kraji>
                   </obcina>
                   <obcina n="8" ko="">
-                     <placeName lang="slv">Kozjak</placeName>
+                     <placeName lang="slv" key="3339113">Kozjak</placeName>
                      <kraji>
                         <kraj>
                            <deli>
@@ -20558,12 +20558,12 @@
                                  <prebivalci>107</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Kozjak</placeName>
+                                 <placeName lang="slv" key="3339113">Kozjak</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>44</hise>
                                  <prebivalci>194</prebivalci>
                               </del>
-                              <del>
+                              <del><!-- Paka pri Velenju ali Paški Kozjak -->
                                  <placeName lang="slv">Paka</placeName>
                                  <vrsta>mlin</vrsta>
                                  <hise>2</hise>
@@ -20578,8 +20578,8 @@
                      <placeName lang="deu">Lasche</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Spodnje Laže</placeName>
-                           <placeName lang="deu">Unterlasche</placeName>
+                           <placeName lang="slv" key="8987500">Spodnje Laže</placeName>
+                           <placeName lang="deu" key="8987500">Unterlasche</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Grič</placeName>
@@ -20596,8 +20596,8 @@
                                  <prebivalci>42</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Spodnje Laže</placeName>
-                                 <placeName lang="deu">Unterlasche</placeName>
+                                 <placeName lang="slv" key="8987500">Spodnje Laže</placeName>
+                                 <placeName lang="deu" key="8987500">Unterlasche</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>12</hise>
                                  <prebivalci>77</prebivalci>
@@ -20608,11 +20608,11 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Vrh</placeName>
-                           <placeName lang="deu">Werch</placeName>
+                           <placeName lang="slv" key="8987920">Vrh</placeName>
+                           <placeName lang="deu" key="8987920">Werch</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Sele</placeName>
+                                 <placeName lang="slv" key="8987920">Sele</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>5</hise>
                                  <prebivalci>36</prebivalci>
@@ -20625,8 +20625,8 @@
                                  <prebivalci>47</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Vrh</placeName>
-                                 <placeName lang="deu">Werch</placeName>
+                                 <placeName lang="slv" key="8987920">Vrh</placeName>
+                                 <placeName lang="deu" key="8987920">Werch</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>4</hise>
                                  <prebivalci>22</prebivalci>
@@ -20637,8 +20637,8 @@
                            </deli>
                         </kraj>
                         <kraj n="3" ko="1-3">
-                           <placeName lang="slv">Zgornje Laže</placeName>
-                           <placeName lang="deu">Oberlasche</placeName>
+                           <placeName lang="slv" key="8989499">Zgornje Laže</placeName>
+                           <placeName lang="deu" key="8989499">Oberlasche</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Lažanska Gora</placeName>
@@ -20660,8 +20660,8 @@
                                  <prebivalci>24</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Zgornje Laže</placeName>
-                                 <placeName lang="deu">Oberlasche</placeName>
+                                 <placeName lang="slv" key="8989499">Zgornje Laže</placeName>
+                                 <placeName lang="deu" key="8989499">Oberlasche</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>11</hise>
                                  <prebivalci>43</prebivalci>
@@ -20674,12 +20674,12 @@
                      </kraji> 
                   </obcina>
                   <obcina n="10">
-                     <placeName lang="slv">Ljubnica</placeName>
-                     <placeName lang="deu">Lubnitzen</placeName>
+                     <placeName lang="slv" key="3196342">Ljubnica</placeName>
+                     <placeName lang="deu" key="3196342">Lubnitzen</placeName>
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Ljubnica</placeName>
-                           <placeName lang="deu">Lubnitzen</placeName>
+                           <placeName lang="slv" key="3196342">Ljubnica</placeName>
+                           <placeName lang="deu" key="3196342">Lubnitzen</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Bukova Gora</placeName>
@@ -20688,8 +20688,8 @@
                                  <prebivalci>91</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Ljubnica</placeName>
-                                 <placeName lang="deu">Lubnitzen</placeName>
+                                 <placeName lang="slv" key="3196342">Ljubnica</placeName>
+                                 <placeName lang="deu" key="3196342">Lubnitzen</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>52</hise>
                                  <prebivalci>265</prebivalci>
@@ -20697,25 +20697,25 @@
                            </deli>
                         </kraj>
                         <kraj n="2" ko="">
-                           <placeName lang="slv">Stenica</placeName>
-                           <placeName lang="deu">Stenitz</placeName>
+                           <placeName lang="slv" key="8987454">Stenica</placeName>
+                           <placeName lang="deu" key="8987454">Stenitz</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="11">
-                     <placeName lang="slv">Loče</placeName>
-                     <placeName lang="deu">Heiligengeist in Lotsche</placeName>
+                     <placeName lang="slv" key="3196298">Loče</placeName>
+                     <placeName lang="deu" key="3196298">Heiligengeist in Lotsche</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Breg</placeName>
+                           <placeName lang="slv" key="8988303">Breg</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Klokočovnik</placeName>
-                           <placeName lang="deu">Klokotschounigg</placeName>
+                           <placeName lang="slv" key="8987427">Klokočovnik</placeName>
+                           <placeName lang="deu" key="8987427">Klokotschounigg</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Klokočovnik</placeName>
-                                 <placeName lang="deu">Klokotschounigg</placeName>
+                                 <placeName lang="slv" key="8987427">Klokočovnik</placeName>
+                                 <placeName lang="deu" key="8987427">Klokotschounigg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>58</hise>
                                  <prebivalci>177</prebivalci>
@@ -20729,7 +20729,7 @@
                            </deli>
                         </kraj>
                         <kraj n="3" ko="1, 3, 8">
-                           <placeName lang="slv">Koble</placeName>
+                           <placeName lang="slv" key="3197952">Koble</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Gorinsko</placeName>
@@ -20738,7 +20738,7 @@
                                  <prebivalci>8</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Koble</placeName>
+                                 <placeName lang="slv" key="3197952">Koble</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>14</hise>
                                  <prebivalci>63</prebivalci>
@@ -20753,19 +20753,19 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Kraperk</placeName>
-                           <placeName lang="deu">Krahberg</placeName>
+                           <placeName lang="slv" key="8988110">Kraperk</placeName>
+                           <placeName lang="deu" key="8988110">Krahberg</placeName>
                         </kraj>
-                        <kraj n="5">
+                        <kraj n="5"><!-- po enem viru del Loč, po drugem Spodnji Jernej -->
                            <placeName lang="slv">Kravjek</placeName>
                         </kraj>
                         <kraj n="6" ko="5, 6, 7">
-                           <placeName lang="slv">Loče</placeName>
-                           <placeName lang="deu">Heiligengeist in Lotsche</placeName>
+                           <placeName lang="slv" key="3196298">Loče</placeName>
+                           <placeName lang="deu" key="3196298">Heiligengeist in Lotsche</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Loče</placeName>
-                                 <placeName lang="deu">Heiligengeist in Lotsche</placeName>
+                                 <placeName lang="slv" key="3196298">Loče</placeName>
+                                 <placeName lang="deu" key="3196298">Heiligengeist in Lotsche</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>37</hise>
                                  <prebivalci>199</prebivalci>
@@ -20782,13 +20782,13 @@
                            </deli>
                         </kraj>
                         <kraj n="7">
-                           <placeName lang="slv">Mlače</placeName>
-                           <placeName lang="slv">Pogled</placeName>
-                           <placeName lang="deu">Mlatsche</placeName>
+                           <placeName lang="slv" key="8987128">Mlače</placeName>
+                           <placeName lang="slv" key="8987128">Pogled</placeName>
+                           <placeName lang="deu" key="8987128">Mlatsche</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Mlače</placeName>
-                                 <placeName lang="deu">Mlatsche</placeName>
+                                 <placeName lang="slv" key="8987128">Mlače</placeName>
+                                 <placeName lang="deu" key="8987128">Mlatsche</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>26</hise>
                                  <prebivalci>133</prebivalci>
@@ -20814,14 +20814,14 @@
                            </deli>
                         </kraj>
                         <kraj n="8">
-                           <placeName lang="slv">Podob</placeName>
+                           <placeName lang="slv" key="8989043">Podob</placeName>
                         </kraj>
                         <kraj n="9">
-                           <placeName lang="slv">Suha Dol</placeName>
+                           <placeName lang="slv" key="8988166">Suha Dol</placeName>
                         </kraj>
                         <kraj n="10" ko="2, 4, 9, 10">
-                           <placeName lang="slv">Velika Lipoglava</placeName>
-                           <placeName lang="deu">Großlipoglau</placeName>
+                           <placeName lang="slv" key="3196512">Velika Lipoglava</placeName>
+                           <placeName lang="deu" key="3196512">Großlipoglau</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Dreža</placeName>
@@ -20845,8 +20845,8 @@
                                  <prebivalci>10</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Velika Lipoglava</placeName>
-                                 <placeName lang="deu">Großlipoglau</placeName>
+                                 <placeName lang="slv" key="3196512">Velika Lipoglava</placeName>
+                                 <placeName lang="deu" key="3196512">Großlipoglau</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>40</hise>
                                  <prebivalci>146</prebivalci>
@@ -20860,16 +20860,16 @@
                      <placeName lang="deu">Augenbach</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Okoška Gora</placeName>
-                           <placeName lang="deu">Augenbachberg</placeName>
+                           <placeName lang="slv" key="8989484">Okoška Gora</placeName>
+                           <placeName lang="deu" key="8989484">Augenbachberg</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Okoška Vas</placeName>
-                           <placeName lang="deu">Augenbachdorf</placeName>
+                           <placeName lang="slv" key="8989484">Okoška Vas</placeName>
+                           <placeName lang="deu" key="8989484">Augenbachdorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Okoška Vas</placeName>
-                                 <placeName lang="deu">Augenbachdorf</placeName>
+                                 <placeName lang="slv" key="8989484">Okoška Vas</placeName>
+                                 <placeName lang="deu" key="8989484">Augenbachdorf</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>8</hise>
                                  <prebivalci>52</prebivalci>
@@ -20880,12 +20880,12 @@
                            </deli>
                         </kraj>
                         <kraj n="3" ko="" koopomba="Slogona katastrska občina (3, 4, 5)">
-                           <placeName lang="slv">Slogona Gora</placeName>
-                           <placeName lang="deu">Slogonaberg</placeName>
+                           <placeName lang="slv" key="8987952">Slogona Gora</placeName>
+                           <placeName lang="deu" key="8987952">Slogonaberg</placeName>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Slogona Vas</placeName>
-                           <placeName lang="deu">Slogonadorf</placeName>
+                           <placeName lang="slv" key="8989857">Slogona Vas</placeName>
+                           <placeName lang="deu" key="8989857">Slogonadorf</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Prihovca</placeName>
@@ -20895,8 +20895,8 @@
                                  <prebivalci>53</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Slogona Vas</placeName>
-                                 <placeName lang="deu">Slogonadorf</placeName>
+                                 <placeName lang="slv" key="8989857">Slogona Vas</placeName>
+                                 <placeName lang="deu" key="8989857">Slogonadorf</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>8</hise>
                                  <prebivalci>38</prebivalci>
@@ -20904,22 +20904,22 @@
                            </deli>
                         </kraj>
                         <kraj n="5">
-                           <placeName lang="slv">Straža</placeName>
-                           <placeName lang="deu">Strasche</placeName>
+                           <placeName lang="slv" key="8989537">Straža</placeName>
+                           <placeName lang="deu" key="8989537">Strasche</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="13">
-                     <placeName lang="slv">Oplotnica</placeName>
-                     <placeName lang="deu">Oplotnitz</placeName>
+                     <placeName lang="slv" key="3194086">Oplotnica</placeName>
+                     <placeName lang="deu" key="3194086">Oplotnitz</placeName>
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Božje</placeName>
-                           <placeName lang="deu">Woschje</placeName>
+                           <placeName lang="slv" key="3203598">Božje</placeName>
+                           <placeName lang="deu" key="3203598">Woschje</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Božje</placeName>
-                                 <placeName lang="deu">Woschje</placeName>
+                                 <placeName lang="slv" key="3203598">Božje</placeName>
+                                 <placeName lang="deu" key="3203598">Woschje</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>15</hise>
                                  <prebivalci>101</prebivalci>
@@ -20930,13 +20930,13 @@
                            </deli>
                         </kraj>
                         <kraj n="2" ko="2, 6, 11">
-                           <placeName lang="slv">Brezje</placeName>
+                           <placeName lang="slv" key="8989497">Brezje</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Brezje</placeName>
+                                 <placeName lang="slv" key="8989497">Brezje</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>23</hise>
-                                 <prebivalci>138</prebivalci>
+                                 <prebivalci>133</prebivalci>
                               </del>
                               <del>
                                  <placeName lang="slv">Javnik</placeName>
@@ -20947,19 +20947,19 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="3">
-                           <placeName lang="slv">Čadram</placeName>
-                           <placeName lang="deu">Tschadram</placeName>
+                        <kraj n="3"><!-- označba JV od vasi -->
+                           <placeName lang="slv" key="3202912">Čadram</placeName>
+                           <placeName lang="deu" key="3202912">Tschadram</placeName>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Gorični Vrh</placeName>
-                           <placeName lang="deu">Goritzenberg</placeName>
+                           <placeName lang="slv" key="8987189">Gorični Vrh</placeName>
+                           <placeName lang="deu" key="8987189">Goritzenberg</placeName>
                         </kraj>
                         <kraj n="5" ko="">
-                           <placeName lang="slv">Koritno</placeName>
+                           <placeName lang="slv" key="3197668">Koritno</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Koritno</placeName>
+                                 <placeName lang="slv" key="3197668">Koritno</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>22</hise>
                                  <prebivalci>121</prebivalci>
@@ -20980,17 +20980,17 @@
                            </deli>
                         </kraj>
                         <kraj n="6">
-                           <placeName lang="slv">Kovaški Vrh</placeName>
-                           <placeName lang="deu">Schmidsberg</placeName>
-                           <placeName lang="deu">Schmiedsberg</placeName>
+                           <placeName lang="slv" key="8988429">Kovaški Vrh</placeName>
+                           <placeName lang="deu" key="8988429">Schmidsberg</placeName>
+                           <placeName lang="deu" key="8988429">Schmiedsberg</placeName>
                         </kraj>
                         <kraj n="7">
-                           <placeName lang="slv">Lačna Gora</placeName>
-                           <placeName lang="deu">Latschenberg</placeName>
+                           <placeName lang="slv" key="8987328">Lačna Gora</placeName>
+                           <placeName lang="deu" key="8987328">Latschenberg</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Lačna Gora</placeName>
-                                 <placeName lang="deu">Latschenberg</placeName>
+                                 <placeName lang="slv" key="8987328">Lačna Gora</placeName>
+                                 <placeName lang="deu" key="8987328">Latschenberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>31</hise>
                                  <prebivalci>100</prebivalci>
@@ -21011,8 +21011,8 @@
                            </deli>
                         </kraj>
                         <kraj n="8">
-                           <placeName lang="slv">Malahorna</placeName>
-                           <placeName lang="deu">Malahorn</placeName>
+                           <placeName lang="slv" key="8987048">Malahorna</placeName>
+                           <placeName lang="deu" key="8987048">Malahorn</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Drage</placeName>
@@ -21028,8 +21028,8 @@
                                  <prebivalci>26</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Malahorna</placeName>
-                                 <placeName lang="deu">Malahorn</placeName>
+                                 <placeName lang="slv" key="8987048">Malahorna</placeName>
+                                 <placeName lang="deu" key="8987048">Malahorn</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>34</hise>
                                  <prebivalci>176</prebivalci>
@@ -21042,9 +21042,9 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="9">
-                           <placeName lang="slv">Markočica</placeName>
-                           <placeName lang="deu">Markusdorf</placeName>
+                        <kraj n="9"><!-- označba V od vasi -->
+                           <placeName lang="slv" key="8987661">Markočica</placeName>
+                           <placeName lang="deu" key="8987661">Markusdorf</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Drage</placeName>
@@ -21053,8 +21053,8 @@
                                  <prebivalci>16</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Markočica</placeName>
-                                 <placeName lang="deu">Markusdorf</placeName>
+                                 <placeName lang="slv" key="8987661">Markočica</placeName>
+                                 <placeName lang="deu" key="8987661">Markusdorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>16</hise>
                                  <prebivalci>126</prebivalci>
@@ -21062,8 +21062,8 @@
                            </deli>
                         </kraj>
                         <kraj n="10" ko="3, 4, 7-10">
-                           <placeName lang="slv">Oplotnica</placeName>
-                           <placeName lang="deu">Oplotnitz</placeName>
+                           <placeName lang="slv" key="3194086">Oplotnica</placeName>
+                           <placeName lang="deu" key="3194086">Oplotnitz</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Gmajna</placeName>
@@ -21087,8 +21087,8 @@
                                  <prebivalci>26</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Oplotnica</placeName>
-                                 <placeName lang="deu">Oplotnitz</placeName>
+                                 <placeName lang="slv" key="3194086">Oplotnica</placeName>
+                                 <placeName lang="deu" key="3194086">Oplotnitz</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>65</hise>
                                  <prebivalci>394</prebivalci>
@@ -21103,12 +21103,12 @@
                            </deli>
                         </kraj>
                         <kraj n="11">
-                           <placeName lang="slv">Zlakova</placeName>
-                           <placeName lang="deu">Slakowa</placeName>
+                           <placeName lang="slv" key="3186413">Zlakova</placeName>
+                           <placeName lang="deu" key="3186413">Slakowa</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Zlakova</placeName>
-                                 <placeName lang="deu">Slakowa</placeName>
+                                 <placeName lang="slv" key="3186413">Zlakova</placeName>
+                                 <placeName lang="deu" key="3186413">Slakowa</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>18</hise>
                                  <prebivalci>111</prebivalci>
@@ -21121,30 +21121,30 @@
                      </kraji>
                   </obcina>
                   <obcina n="14">
-                     <placeName lang="slv">Padeški Vrh</placeName>
-                     <placeName lang="deu">Padeschberg</placeName>
+                     <placeName lang="slv" key="3193731">Padeški Vrh</placeName>
+                     <placeName lang="deu" key="3193731">Padeschberg</placeName>
                      <kraji>
                         <kraj n="1" ko="1, 2">
-                           <placeName lang="slv">Padeški Vrh</placeName>
-                           <placeName lang="deu">Padeschberg</placeName>
+                           <placeName lang="slv" key="3193731">Padeški Vrh</placeName>
+                           <placeName lang="deu" key="3193731">Padeschberg</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Planina</placeName>
+                           <placeName lang="slv" key="8987273">Planina</placeName>
                         </kraj>
                         <kraj n="3" ko="">
-                           <placeName lang="slv">Resnik</placeName>
+                           <placeName lang="slv" key="3191711">Resnik</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
-                  <obcina n="15" ko="">
-                     <placeName lang="slv">Paka</placeName>
-                     <placeName lang="deu">Paak</placeName>
+                  <obcina n="15" ko=""><!-- Paka razdeljena na dva dela, dve označbi, dala sem obe označbi -->
+                     <placeName lang="slv" key="3193721">Paka</placeName>
+                     <placeName lang="deu" key="8989864">Paak</placeName>
                      <kraji>
                         <kraj>
                            <deli>
-                              <del>
-                                 <placeName lang="slv">Paka</placeName>
-                                 <placeName lang="deu">Paak</placeName>
+                              <del><!-- večji del Pake -->
+                                 <placeName lang="slv" key="3193721">Paka</placeName>
+                                 <placeName lang="deu" key="3193721">Paak</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>96</hise>
                                  <prebivalci>527</prebivalci>
@@ -21161,14 +21161,14 @@
                      </kraji>
                   </obcina>
                   <obcina n="16">
-                     <placeName lang="slv">Skomarje</placeName>
-                     <placeName lang="deu">Skommern</placeName>
+                     <placeName lang="slv" key="3190707">Skomarje</placeName>
+                     <placeName lang="deu" key="3190707">Skommern</placeName>
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Hudina</placeName>
+                           <placeName lang="slv" key="3199219">Hudina</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Hudina</placeName>
+                                 <placeName lang="slv" key="3199219">Hudina</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>86</hise>
                                  <prebivalci>483</prebivalci>
@@ -21189,8 +21189,8 @@
                            </deli>
                         </kraj>
                         <kraj n="2" ko="">
-                           <placeName lang="slv">Skomarje</placeName>
-                           <placeName lang="deu">Skommern</placeName>
+                           <placeName lang="slv" key="3190707">Skomarje</placeName>
+                           <placeName lang="deu" key="3190707">Skommern</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Ločnik</placeName>
@@ -21198,7 +21198,7 @@
                                  <hise>11</hise>
                                  <prebivalci>84</prebivalci>
                               </del>
-                              <del>
+                              <del><!-- morda Vitanjsko Skomarje -->
                                  <placeName lang="slv">Spodnje Skomarje</placeName>
                                  <placeName lang="deu">Unterskommern</placeName>
                                  <vrsta>raztresene hiše</vrsta>
@@ -21216,9 +21216,9 @@
                         </kraj>
                      </kraji>
                   </obcina>
-                  <obcina n="17" ko="">
-                     <placeName lang="slv">Spodnji Dolič</placeName>
-                     <placeName lang="deu">Unterdollitsch</placeName>
+                  <obcina n="17" ko=""><!-- označba Z od vasi -->
+                     <placeName lang="slv" key="3190200">Spodnji Dolič</placeName>
+                     <placeName lang="deu" key="3190200">Unterdollitsch</placeName>
                      <kraji>
                         <kraj>
                            <deli>
@@ -21230,8 +21230,8 @@
                                  <prebivalci>64</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Spodnji Dolič</placeName>
-                                 <placeName lang="deu">Unterdollitsch</placeName>
+                                 <placeName lang="slv" key="3190200">Spodnji Dolič</placeName>
+                                 <placeName lang="deu" key="3190200">Unterdollitsch</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>102</hise>
                                  <prebivalci>517</prebivalci>
@@ -21241,12 +21241,12 @@
                      </kraji>
                   </obcina>
                   <obcina n="18">
-                     <placeName lang="slv">Stranice</placeName>
-                     <placeName lang="deu">Stranitzen</placeName>
+                     <placeName lang="slv" key="3189776">Stranice</placeName>
+                     <placeName lang="deu" key="3189776">Stranitzen</placeName>
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Stranice</placeName>
-                           <placeName lang="deu">Stranitzen</placeName>
+                           <placeName lang="slv" key="3189776">Stranice</placeName>
+                           <placeName lang="deu" key="3189776">Stranitzen</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Kraje</placeName>
@@ -21255,13 +21255,13 @@
                                  <prebivalci>122</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Lipa</placeName>
+                                 <placeName lang="slv" key="8989840">Lipa</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>7</hise>
                                  <prebivalci>35</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Mala Gora</placeName>
+                                 <placeName lang="slv" key="8988683">Mala Gora</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>6</hise>
                                  <prebivalci>39</prebivalci>
@@ -21274,15 +21274,15 @@
                                  <prebivalci>4</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Stenica</placeName>
-                                 <placeName lang="deu">Stenitz</placeName>
+                                 <placeName lang="slv" key="8987454">Stenica</placeName>
+                                 <placeName lang="deu" key="8987454">Stenitz</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>8</hise>
                                  <prebivalci>35</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Stranice</placeName>
-                                 <placeName lang="deu">Stranitzen</placeName>
+                                 <placeName lang="slv" key="3189776">Stranice</placeName>
+                                 <placeName lang="deu" key="3189776">Stranitzen</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>9</hise>
                                  <prebivalci>56</prebivalci>
@@ -21295,14 +21295,14 @@
                                  <prebivalci>33</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Zabork</placeName>
+                                 <placeName lang="slv" key="8988179">Zabork</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>15</hise>
                                  <prebivalci>80</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Zgornja Vas</placeName>
-                                 <placeName lang="deu">Oberdorf</placeName>
+                                 <placeName lang="slv" key="8988336">Zgornja Vas</placeName>
+                                 <placeName lang="deu" key="8988336">Oberdorf</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>10</hise>
                                  <prebivalci>58</prebivalci>
@@ -21313,9 +21313,9 @@
                            </deli>
                         </kraj>
                         <kraj n="2" ko="">
-                           <placeName lang="slv">Sveti Križ</placeName>
-                           <placeName lang="slv">Križevec</placeName>
-                           <placeName lang="deu">Heiligenkreuz</placeName>
+                           <placeName lang="slv" key="8987029">Sveti Križ</placeName>
+                           <placeName lang="slv" key="8987029">Križevec</placeName>
+                           <placeName lang="deu" key="8987029">Heiligenkreuz</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Graben</placeName>
@@ -21324,15 +21324,15 @@
                                  <prebivalci>27</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Osredek</placeName>
+                                 <placeName lang="slv" key="8987643">Osredek</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>6</hise>
                                  <prebivalci>42</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Sveti Križ</placeName>
-                                 <placeName lang="slv">Križevec</placeName>
-                                 <placeName lang="deu">Heiligenkreuz</placeName>
+                                 <placeName lang="slv" key="8987029">Sveti Križ</placeName>
+                                 <placeName lang="slv" key="8987029">Križevec</placeName>
+                                 <placeName lang="deu" key="8987029">Heiligenkreuz</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>19</hise>
                                  <prebivalci>133</prebivalci>
@@ -21341,15 +21341,15 @@
                         </kraj>
                      </kraji>
                   </obcina>
-                  <obcina n="19" ko="">
-                     <placeName lang="slv">Sveta Kunigunda na Pohorji</placeName>
-                     <placeName lang="deu">Sankt Kunigund am Bachern</placeName>
+                  <obcina n="19" ko=""><!-- Geonames - Resnik, v resnici Gorenje pri Zrečah -->
+                     <placeName lang="slv" key="8987727">Sveta Kunigunda na Pohorji</placeName>
+                     <placeName lang="deu" key="8987727">Sankt Kunigund am Bachern</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Bezovje</placeName>
+                           <placeName lang="slv" key="8987764">Bezovje</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Bezovje</placeName>
+                                 <placeName lang="slv" key="8987764">Bezovje</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>6</hise>
                                  <prebivalci>39</prebivalci>
@@ -21360,12 +21360,12 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Koroška Vas</placeName>
-                           <placeName lang="deu">Koroschkawas</placeName>
+                           <placeName lang="slv" key="8987716">Koroška Vas</placeName>
+                           <placeName lang="deu" key="8987716">Koroschkawas</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Koroška Vas</placeName>
-                                 <placeName lang="deu">Koroschkawas</placeName>
+                                 <placeName lang="slv" key="8987716">Koroška Vas</placeName>
+                                 <placeName lang="deu" key="8987716">Koroschkawas</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>3</hise>
                                  <prebivalci>23</prebivalci>
@@ -21382,17 +21382,17 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Sveta Kunigunda na Pohorji</placeName>
-                           <placeName lang="deu">Sankt Kunigund am Bachern</placeName>
+                           <placeName lang="slv" key="8987727">Sveta Kunigunda na Pohorji</placeName>
+                           <placeName lang="deu" key="8987727">Sankt Kunigund am Bachern</placeName>
                            <deli><del>
-                              <placeName lang="slv">Črešnjova</placeName>
-                              <placeName lang="deu">Tschreschnowa</placeName>
+                              <placeName lang="slv" key="8987964">Črešnjova</placeName>
+                              <placeName lang="deu" key="8987964">Tschreschnowa</placeName>
                               <vrsta>selo</vrsta>
                               <hise>6</hise>
                               <prebivalci>41</prebivalci>
                            </del>
                               <del>
-                                 <placeName lang="slv">Gorenje</placeName>
+                                 <placeName lang="slv" key="8987727">Gorenje</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>8</hise>
                                  <prebivalci>71</prebivalci>
@@ -21404,8 +21404,8 @@
                                  <prebivalci>23</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Sveta Kunigunda na Pohorji</placeName>
-                                 <placeName lang="deu">Sankt Kunigund am Bachern</placeName>
+                                 <placeName lang="slv" key="8987727">Sveta Kunigunda na Pohorji</placeName>
+                                 <placeName lang="deu" key="8987727">Sankt Kunigund am Bachern</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>6</hise>
                                  <prebivalci>29</prebivalci>
@@ -21418,14 +21418,14 @@
                      </kraji>
                   </obcina>
                   <obcina n="20">
-                     <placeName lang="slv">Sveti Jernej</placeName>
-                     <placeName lang="deu">Sankt Bartholomä</placeName>
+                     <placeName lang="slv" key="3198656">Sveti Jernej</placeName>
+                     <placeName lang="deu" key="3198656">Sankt Bartholomä</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Brezje</placeName>
+                           <placeName lang="slv" key="8989792">Brezje</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Brezje</placeName>
+                                 <placeName lang="slv" key="8989792">Brezje</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>5</hise>
                                  <prebivalci>20</prebivalci>
@@ -21436,12 +21436,12 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Kolačno</placeName>
-                           <placeName lang="deu">Kolatschno</placeName>
+                           <placeName lang="slv" key="8988494">Kolačno</placeName>
+                           <placeName lang="deu" key="8988494">Kolatschno</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Kolačno</placeName>
-                                 <placeName lang="deu">Kolatschno</placeName>
+                                 <placeName lang="slv" key="8988494">Kolačno</placeName>
+                                 <placeName lang="deu" key="8988494">Kolatschno</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>4</hise>
                                  <prebivalci>35</prebivalci>
@@ -21452,8 +21452,8 @@
                            </deli>
                         </kraj>
                         <kraj n="3" ko="1, 3">
-                           <placeName lang="slv">Ličenca</placeName>
-                           <placeName lang="deu">Litschentza</placeName>
+                           <placeName lang="slv" key="3196600">Ličenca</placeName>
+                           <placeName lang="deu" key="3196600">Litschentza</placeName>
                            <deli>
                               <del>
                               <placeName lang="slv">Čret</placeName>
@@ -21463,8 +21463,8 @@
                               <prebivalci>34</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Ličenca</placeName>
-                                 <placeName lang="deu">Litschentza</placeName>
+                                 <placeName lang="slv" key="3196600">Ličenca</placeName>
+                                 <placeName lang="deu" key="3196600">Litschentza</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>7</hise>
                                  <prebivalci>44</prebivalci>
@@ -21482,15 +21482,15 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Petelinek</placeName>
+                           <placeName lang="slv" key="8988495">Petelinek</placeName>
                         </kraj>
                         <kraj n="5" ko="2, 4, 5">
-                           <placeName lang="slv">Sveti Jernej</placeName>
-                           <placeName lang="deu">Sankt Bartholomä</placeName>
+                           <placeName lang="slv" key="3198656">Sveti Jernej</placeName>
+                           <placeName lang="deu" key="3198656">Sankt Bartholomä</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Sveti Jernej</placeName>
-                                 <placeName lang="deu">Sankt Bartholomä</placeName>
+                                 <placeName lang="slv" key="3198656">Sveti Jernej</placeName>
+                                 <placeName lang="deu" key="3198656">Sankt Bartholomä</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>8</hise>
                                  <prebivalci>57</prebivalci>
@@ -21510,16 +21510,16 @@
                      </kraji>
                   </obcina>
                   <obcina n="21">
-                     <placeName lang="slv">Tepanje</placeName>
-                     <placeName lang="deu">Tepina</placeName>
+                     <placeName lang="slv" key="3189154">Tepanje</placeName>
+                     <placeName lang="deu" key="3189154">Tepina</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Dobernež</placeName>
-                           <placeName lang="deu">Dobernesch</placeName>
+                           <placeName lang="slv" key="8989508">Dobernež</placeName>
+                           <placeName lang="deu" key="8989508">Dobernesch</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Dobernež</placeName>
-                                 <placeName lang="deu">Dobernesch</placeName>
+                                 <placeName lang="slv" key="8989508">Dobernež</placeName>
+                                 <placeName lang="deu" key="8989508">Dobernesch</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>15</hise>
                                  <prebivalci>78</prebivalci>
@@ -21534,12 +21534,12 @@
                            </deli>
                         </kraj>
                         <kraj n="2" ko="">
-                           <placeName lang="slv">Perovce</placeName>
-                           <placeName lang="deu">Perowetz</placeName>
+                           <placeName lang="slv" key="8988532">Perovce</placeName>
+                           <placeName lang="deu" key="8988532">Perowetz</placeName>
                         </kraj>
                         <kraj n="3" ko="1, 3-5">
-                           <placeName lang="slv">Tepanje</placeName>
-                           <placeName lang="deu">Tepinadorf</placeName>
+                           <placeName lang="slv" key="3189154">Tepanje</placeName>
+                           <placeName lang="deu" key="3189154">Tepinadorf</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Brode</placeName>
@@ -21555,8 +21555,8 @@
                                  <prebivalci>16</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Tepanje</placeName>
-                                 <placeName lang="deu">Tepinadorf</placeName>
+                                 <placeName lang="slv" key="3189154">Tepanje</placeName>
+                                 <placeName lang="deu" key="3189154">Tepinadorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>14</hise>
                                  <prebivalci>86</prebivalci>
@@ -21567,29 +21567,29 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Tepanjski Vrh</placeName>
-                           <placeName lang="deu">Tepinaberg</placeName>
+                           <placeName lang="slv" key="8987497">Tepanjski Vrh</placeName>
+                           <placeName lang="deu" key="8987497">Tepinaberg</placeName>
                         </kraj>
                         <kraj n="5">
-                           <placeName lang="slv">Vešenik</placeName>
-                           <placeName lang="deu">Hangenberg</placeName>
+                           <placeName lang="slv" key="8986991">Vešenik</placeName>
+                           <placeName lang="deu" key="8986991">Hangenberg</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="22">
-                     <placeName lang="slv">Tolsti Vrh</placeName>
-                     <placeName lang="deu">Feistenberg</placeName>
+                     <placeName lang="slv" key="3189027">Tolsti Vrh</placeName>
+                     <placeName lang="deu" key="3189027">Feistenberg</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Kamna Gora</placeName>
-                           <placeName lang="deu">Steinberg</placeName>
+                           <placeName lang="slv" key="3217101">Kamna Gora</placeName>
+                           <placeName lang="deu" key="3217101">Steinberg</placeName>
                            <deli> 
                               <del>
-                              <placeName lang="slv">Kamna Gora</placeName>
-                              <placeName lang="deu">Steinberg</placeName>
-                              <vrsta>soseska</vrsta>
-                              <hise>21</hise>
-                              <prebivalci>93</prebivalci>
+                                 <placeName lang="slv" key="3217101">Kamna Gora</placeName>
+                                 <placeName lang="deu" key="3217101">Steinberg</placeName>
+                                 <vrsta>soseska</vrsta>
+                                 <hise>21</hise>
+                                 <prebivalci>93</prebivalci>
                               </del>
                               <del>
                                  <placeName lang="slv">Kumno</placeName>
@@ -21607,8 +21607,8 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Sojek</placeName>
-                           <placeName lang="deu">Sojegg</placeName>
+                           <placeName lang="slv" key="8987709">Sojek</placeName>
+                           <placeName lang="deu" key="8987709">Sojegg</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Borovje</placeName>
@@ -21635,8 +21635,8 @@
                                  <prebivalci>6</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Sojek</placeName>
-                                 <placeName lang="deu">Sojegg</placeName>
+                                 <placeName lang="slv" key="8987709">Sojek</placeName>
+                                 <placeName lang="deu" key="8987709">Sojegg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>9</hise>
                                  <prebivalci>36</prebivalci>
@@ -21650,27 +21650,27 @@
                            </deli>
                         </kraj>
                         <kraj n="3" ko="" koopomba="Slemene katastrska občina (1-3)">
-                           <placeName lang="slv">Stare Slemene</placeName>
-                           <placeName lang="deu">Altslemene</placeName>
+                           <placeName lang="slv" key="8987669">Stare Slemene</placeName>
+                           <placeName lang="deu" key="8987669">Altslemene</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Stare Slemene</placeName>
-                                 <placeName lang="deu">Altslemene</placeName>
+                                 <placeName lang="slv" key="8987669">Stare Slemene</placeName>
+                                 <placeName lang="deu" key="8987669">Altslemene</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>50</hise>
                                  <prebivalci>219</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Špitalič</placeName>
-                                 <placeName lang="deu">Spittalitsch</placeName>
+                                 <placeName lang="slv" key="8989191">Špitalič</placeName>
+                                 <placeName lang="deu" key="8989191">Spittalitsch</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>5</hise>
                                  <prebivalci>20</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Zajčji Klošter</placeName>
-                                 <placeName lang="slv">Zajcklošter</placeName>
-                                 <placeName lang="deu">Seitzkloster</placeName>
+                                 <placeName lang="slv" key="8989191">Zajčji Klošter</placeName>
+                                 <placeName lang="slv" key="8989191">Zajcklošter</placeName>
+                                 <placeName lang="deu" key="8989191">Seitzkloster</placeName>
                                  <vrsta>samišče</vrsta>
                                  <hise>2</hise>
                                  <prebivalci>12</prebivalci>
@@ -21678,27 +21678,27 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Škedenj</placeName>
-                           <placeName lang="deu">Stadl</placeName>
+                           <placeName lang="slv" key="8988132">Škedenj</placeName>
+                           <placeName lang="deu" key="8988132">Stadl</placeName>
                         </kraj>
                         <kraj n="5" ko="4, 5">
-                           <placeName lang="slv">Tolsti Vrh</placeName>
-                           <placeName lang="deu">Feinstenberg</placeName>
+                           <placeName lang="slv" key="3189027">Tolsti Vrh</placeName>
+                           <placeName lang="deu" key="3189027">Feinstenberg</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="23" ko="">
-                     <placeName lang="slv">Verhole</placeName>
+                     <placeName lang="slv" key="3339112">Verhole</placeName>
                      <kraji>  
                         <kraj n="1">
                         <placeName lang="slv">Kačinek</placeName>
                         <placeName lang="deu">Katzenegg</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Korple</placeName>
+                           <placeName lang="slv" key="8988456">Korple</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Korple</placeName>
+                                 <placeName lang="slv" key="8988456">Korple</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>9</hise>
                                  <prebivalci>40</prebivalci>
@@ -21710,18 +21710,18 @@
                                  <prebivalci>22</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Vinarje</placeName>
+                                 <placeName lang="slv" key="8987140">Vinarje</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>10</hise>
                                  <prebivalci>28</prebivalci>
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="3">
-                           <placeName lang="slv">Preloge</placeName>
+                        <kraj n="3"><!-- označba V od vasi -->
+                           <placeName lang="slv" key="3192531">Preloge</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Preloge</placeName>
+                                 <placeName lang="slv" key="3192531">Preloge</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>14</hise>
                                  <prebivalci>69</prebivalci>
@@ -21732,12 +21732,12 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Prepuš</placeName>
-                           <placeName lang="deu">Prepusch</placeName>
+                           <placeName lang="slv" key="8987481">Prepuš</placeName>
+                           <placeName lang="deu" key="8987481">Prepusch</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Prepuš</placeName>
-                                 <placeName lang="deu">Prepusch</placeName>
+                                 <placeName lang="slv" key="8987481">Prepuš</placeName>
+                                 <placeName lang="deu" key="8987481">Prepusch</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>8</hise>
                                  <prebivalci>48</prebivalci>
@@ -21748,11 +21748,11 @@
                            </deli>
                         </kraj>
                         <kraj n="5">
-                           <placeName lang="slv">Sevec</placeName>
-                           <placeName lang="deu">Sewetz</placeName>
+                           <placeName lang="slv" key="8988551">Sevec</placeName>
+                           <placeName lang="deu" key="8988551">Sewetz</placeName>
                         </kraj>
                         <kraj n="6">
-                           <placeName lang="slv">Verhole</placeName>
+                           <placeName lang="slv" key="3339112">Verhole</placeName>
                         </kraj>
                         <kraj n="7">
                            <placeName lang="slv">Verje</placeName>
@@ -21761,12 +21761,12 @@
                      </kraji>
                   </obcina>
                   <obcina n="24" ko="">
-                     <placeName lang="slv">Vitanje</placeName>
-                     <placeName lang="deu">Weitenstein</placeName>
+                     <placeName lang="slv" key="3187598">Vitanje</placeName>
+                     <placeName lang="deu" key="3187598">Weitenstein</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Vitanje</placeName>
-                           <placeName lang="deu">Weitenstein Markt</placeName>
+                           <placeName lang="slv" key="3187598">Vitanje</placeName>
+                           <placeName lang="deu" key="3187598">Weitenstein Markt</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Jelševa Loka</placeName>
@@ -21776,8 +21776,8 @@
                                  <prebivalci>16</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Vitanje</placeName>
-                                 <placeName lang="deu">Weitenstein</placeName>
+                                 <placeName lang="slv" key="3187598">Vitanje</placeName>
+                                 <placeName lang="deu" key="3187598">Weitenstein</placeName>
                                  <vrsta>trg</vrsta>
                                  <hise>71</hise>
                                  <prebivalci>315</prebivalci>
@@ -21791,21 +21791,21 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Vitanjska Vas</placeName>
-                           <placeName lang="deu">Weitenstein Dorf</placeName>
+                           <placeName lang="slv" key="3187598">Vitanjska Vas</placeName>
+                           <placeName lang="deu" key="3187598">Weitenstein Dorf</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="25" ko="">
-                     <placeName lang="slv">Zbelovo</placeName>
-                     <placeName lang="deu">Plankenstein</placeName>
+                     <placeName lang="slv" key="3186690">Zbelovo</placeName>
+                     <placeName lang="deu" key="3186690">Plankenstein</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Penoje</placeName>
+                           <placeName lang="slv" key="8988644">Penoje</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Podpeč</placeName>
-                           <placeName lang="deu">Podpetsch</placeName>
+                           <placeName lang="slv" key="8988457">Podpeč</placeName>
+                           <placeName lang="deu" key="8988457">Podpetsch</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Jagodnik</placeName>
@@ -21821,8 +21821,8 @@
                                  <prebivalci>6</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Podpeč</placeName>
-                                 <placeName lang="deu">Podpetsch</placeName>
+                                 <placeName lang="slv" key="8988457">Podpeč</placeName>
+                                 <placeName lang="deu" key="8988457">Podpetsch</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>6</hise>
                                  <prebivalci>27</prebivalci>
@@ -21830,8 +21830,8 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Zbelovška Gora</placeName>
-                           <placeName lang="deu">Plankensteinberg</placeName>
+                           <placeName lang="slv" key="8987022">Zbelovška Gora</placeName>
+                           <placeName lang="deu" key="8987022">Plankensteinberg</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Dole</placeName>
@@ -21896,8 +21896,8 @@
                                  <prebivalci>24</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Zbelovška Gora</placeName>
-                                 <placeName lang="deu">Plankensteinberg</placeName>
+                                 <placeName lang="slv" key="8987022">Zbelovška Gora</placeName>
+                                 <placeName lang="deu" key="8987022">Plankensteinberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>46</hise>
                                  <prebivalci>113</prebivalci>
@@ -21905,22 +21905,22 @@
                            </deli>
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Zbelovška Vas</placeName>
-                           <placeName lang="deu">Plankensteindorf</placeName>
+                           <placeName lang="slv" key="3186690">Zbelovška Vas</placeName>
+                           <placeName lang="deu" key="3186690">Plankensteindorf</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="26">
-                     <placeName lang="slv">Zreče</placeName>
-                     <placeName lang="deu">Retschach</placeName>
+                     <placeName lang="slv" key="3339120">Zreče</placeName>
+                     <placeName lang="deu" key="3339120">Retschach</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Boharina</placeName>
-                           <placeName lang="deu">Wocharina</placeName>
+                           <placeName lang="slv" key="3203811">Boharina</placeName>
+                           <placeName lang="deu" key="3203811">Wocharina</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Boharina</placeName>
-                                 <placeName lang="deu">Wocharina</placeName>
+                                 <placeName lang="slv" key="3203811">Boharina</placeName>
+                                 <placeName lang="deu" key="3203811">Wocharina</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>4</hise>
                                  <prebivalci>36</prebivalci>
@@ -21931,7 +21931,7 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Dobrava</placeName>
+                           <placeName lang="slv" key="3201963">Dobrava</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Borh</placeName>
@@ -21941,7 +21941,7 @@
                                  <prebivalci>50</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Dobrava</placeName>
+                                 <placeName lang="slv" key="3201963">Dobrava</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>18</hise>
                                  <prebivalci>106</prebivalci>
@@ -21955,12 +21955,12 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Gradčič</placeName>
-                           <placeName lang="deu">Gratschitz</placeName>
+                           <placeName lang="slv" key="8988203">Gradčič</placeName>
+                           <placeName lang="deu" key="8988203">Gratschitz</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Gradčič</placeName>
-                                 <placeName lang="deu">Gratschitz</placeName>
+                                 <placeName lang="slv" key="8988203">Gradčič</placeName>
+                                 <placeName lang="deu" key="8988203">Gratschitz</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>6</hise>
                                  <prebivalci>31</prebivalci>
@@ -21971,16 +21971,16 @@
                            </deli>
                         </kraj>
                         <kraj n="4" ko="1, 4">
-                           <placeName lang="slv">Loški Breg</placeName>
-                           <placeName lang="deu">Loschberg</placeName>
+                           <placeName lang="slv" key="8987401">Loški Breg</placeName>
+                           <placeName lang="deu" key="8987401">Loschberg</placeName>
                         </kraj>
                         <kraj n="5" ko="3, 5">
-                           <placeName lang="slv">Radana Vas</placeName>
-                           <placeName lang="deu">Radldorf</placeName>
+                           <placeName lang="slv" key="8987474">Radana Vas</placeName>
+                           <placeName lang="deu" key="8987474">Radldorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Radana Vas</placeName>
-                                 <placeName lang="deu">Radldorf</placeName>
+                                 <placeName lang="slv" key="8987474">Radana Vas</placeName>
+                                 <placeName lang="deu" key="8987474">Radldorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>10</hise>
                                  <prebivalci>76</prebivalci>
@@ -21991,12 +21991,12 @@
                            </deli>
                         </kraj>
                         <kraj n="6">
-                           <placeName lang="slv">Spodnje Zreče</placeName>
-                           <placeName lang="deu">Unterretschach</placeName>
+                           <placeName lang="slv" key="3339120">Spodnje Zreče</placeName>
+                           <placeName lang="deu" key="3339120">Unterretschach</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Spodnje Zreče</placeName>
-                                 <placeName lang="deu">Unterretschach</placeName>
+                                 <placeName lang="slv" key="3339120">Spodnje Zreče</placeName>
+                                 <placeName lang="deu" key="3339120">Unterretschach</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>10</hise>
                                  <prebivalci>50</prebivalci>
@@ -22007,18 +22007,18 @@
                            </deli>
                         </kraj>
                         <kraj n="7" ko="" koopomba="Zreče, Retschach katastrska občina (2, 6, 7)">
-                           <placeName lang="slv">Zgornje Zreče</placeName>
-                           <placeName lang="deu">Oberretschach</placeName>
+                           <placeName lang="slv" key="3339120">Zgornje Zreče</placeName>
+                           <placeName lang="deu" key="3339120">Oberretschach</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="deu">Retschachhof</placeName>
+                                 <placeName lang="deu" key="3339120">Retschachhof</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>4</hise>
                                  <prebivalci>35</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Zgornje Zreče</placeName>
-                                 <placeName lang="deu">Oberretschach</placeName>
+                                 <placeName lang="slv" key="3339120">Zgornje Zreče</placeName>
+                                 <placeName lang="deu" key="3339120">Oberretschach</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>28</hise>
                                  <prebivalci>125</prebivalci>
@@ -22031,16 +22031,16 @@
                      </kraji>
                   </obcina>
                   <obcina n="27" ko="">
-                     <placeName lang="slv">Žiče</placeName>
-                     <placeName lang="deu">Seitzdorf</placeName>
+                     <placeName lang="slv" key="3186472">Žiče</placeName>
+                     <placeName lang="deu" key="3186472">Seitzdorf</placeName>
                      <kraji>
-                        <kraj n="1">
-                           <placeName lang="slv">Dražja Vas</placeName>
-                           <placeName lang="deu">Gattersdorf</placeName>
+                        <kraj n="1"><!-- označba SV od vasi -->
+                           <placeName lang="slv" key="3201249">Dražja Vas</placeName>
+                           <placeName lang="deu" key="3201249">Gattersdorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Dražja Vas</placeName>
-                                 <placeName lang="deu">Gattersdorf</placeName>
+                                 <placeName lang="slv" key="3201249">Dražja Vas</placeName>
+                                 <placeName lang="deu" key="3201249">Gattersdorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>24</hise>
                                  <prebivalci>114</prebivalci>
@@ -22057,8 +22057,8 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Žiče</placeName>
-                           <placeName lang="deu">Seitzdorf</placeName>
+                           <placeName lang="slv" key="3186472">Žiče</placeName>
+                           <placeName lang="deu" key="3186472">Seitzdorf</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Sotansko</placeName>
@@ -22067,15 +22067,15 @@
                                  <prebivalci>20</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Žiče</placeName>
-                                 <placeName lang="deu">Seitzdorf</placeName>
+                                 <placeName lang="slv" key="3186472">Žiče</placeName>
+                                 <placeName lang="deu" key="3186472">Seitzdorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>64</hise>
                                  <prebivalci>343</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Žička Gora</placeName>
-                                 <placeName lang="deu">Seitzberg</placeName>
+                                 <placeName lang="slv" key="3186472">Žička Gora</placeName>
+                                 <placeName lang="deu" key="3186472">Seitzberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>18</hise>
                                  <prebivalci>76</prebivalci>
@@ -22098,24 +22098,24 @@
          <placeName lang="deu">Liezenz</placeName>
       </polOkraj>
       <polOkraj>
-         <placeName lang="slv">Ljutomer</placeName>
-         <placeName lang="deu">Luttenberg</placeName>
+         <placeName lang="slv" key="3196307">Ljutomer</placeName>
+         <placeName lang="deu" key="3196307">Luttenberg</placeName>
          <sodniOkraji>
             <sodniOkraj n="1">
-               <placeName lang="slv">Gornja Radgona</placeName>
-               <placeName lang="deu">Oberradkersburg</placeName>
+               <placeName lang="slv" key="3200197">Gornja Radgona</placeName>
+               <placeName lang="deu" key="3200197">Oberradkersburg</placeName>
                <obcine>
                   <obcina n="1">
-                     <placeName lang="slv">Boračova</placeName>
-                     <placeName lang="deu">Woritschau</placeName>
+                     <placeName lang="slv" key="3203739">Boračova</placeName>
+                     <placeName lang="deu" key="3203739">Woritschau</placeName>
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Boračova</placeName>
-                           <placeName lang="deu">Woritschau</placeName>
+                           <placeName lang="slv" key="3203739">Boračova</placeName>
+                           <placeName lang="deu" key="3203739">Woritschau</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Boračova</placeName>
-                                 <placeName lang="deu">Woritschau</placeName>
+                                 <placeName lang="slv" key="3203739">Boračova</placeName>
+                                 <placeName lang="deu" key="3203739">Woritschau</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>25</hise>
                                  <prebivalci>124</prebivalci>
@@ -22132,12 +22132,12 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="2" ko="">
+                        <kraj n="2" ko=""><!-- mogoče Janžev Vrh ali Kapela - ime za gričevje Z od ceste Radenci-Radgona -->
                            <placeName lang="slv">Veliki Janišberg</placeName>
                            <placeName lang="deu">Großjanischberg</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Melanjski vrh</placeName>
+                                 <placeName lang="slv" key="8988954">Melanjski Vrh</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>27</hise>
                                  <prebivalci>83</prebivalci>
@@ -22149,7 +22149,7 @@
                                  <prebivalci>31</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Norički vrh</placeName>
+                                 <placeName lang="slv" key="8987395">Norički vrh</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>27</hise>
                                  <prebivalci>82</prebivalci>
@@ -22166,12 +22166,10 @@
                      </kraji>
                   </obcina>
                   <obcina n="2" ko="">
-                     <placeName lang="slv">Črešnjovci</placeName>
-                     <placeName lang="deu">Kerschbach</placeName>
+                     <placeName lang="slv" key="3202518">Črešnjovci</placeName>
+                     <placeName lang="deu" key="3202518">Kerschbach</placeName>
                      <kraji>
                         <kraj>
-                           <placeName lang="slv">Črešnjovci</placeName>
-                           <placeName lang="deu">Kerschbach</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Admontski mlin</placeName>
@@ -22181,8 +22179,8 @@
                                  <prebivalci>6</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Črešnjovci</placeName>
-                                 <placeName lang="deu">Kerschbach</placeName>
+                                 <placeName lang="slv" key="3202518">Črešnjovci</placeName>
+                                 <placeName lang="deu" key="3202518">Kerschbach</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>131</hise>
                                  <prebivalci>601</prebivalci>
@@ -22201,32 +22199,32 @@
                      </kraji>
                   </obcina>
                   <obcina n="3">
-                     <placeName lang="slv">Galušak</placeName>
-                     <placeName lang="deu">Galluschak</placeName>
+                     <placeName lang="slv" key="3200724">Galušak</placeName>
+                     <placeName lang="deu" key="3200724">Galluschak</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Gaberc</placeName>
-                           <placeName lang="deu">Gaberz</placeName>
+                           <placeName lang="slv" key="8989079">Gaberc</placeName>
+                           <placeName lang="deu" key="8989079">Gaberz</placeName>
                         </kraj>
                         <kraj n="2" ko="1, 2, 5, 7">
-                           <placeName lang="slv">Galušak</placeName>
-                           <placeName lang="deu">Galluschak</placeName>
+                           <placeName lang="slv" key="3200724">Galušak</placeName>
+                           <placeName lang="deu" key="3200724">Galluschak</placeName>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Grabšinci</placeName>
-                           <placeName lang="deu">Grabschinzen</placeName>
+                           <placeName lang="slv" key="8988078">Grabšinci</placeName>
+                           <placeName lang="deu" key="8988078">Grabschinzen</placeName>
                         </kraj>
                         <kraj n="4" ko="3, 4, 6">
-                           <placeName lang="slv">Kokulanjšak</placeName>
-                           <placeName lang="deu">Kokuleinschak</placeName>
+                           <placeName lang="slv" key="3197915">Kokulanjšak</placeName>
+                           <placeName lang="deu" key="3197915">Kokuleinschak</placeName>
                         </kraj>
                         <kraj n="5">
-                           <placeName lang="slv">Kutinci</placeName>
-                           <placeName lang="deu">Kittendorf</placeName>
+                           <placeName lang="slv" key="3196861">Kutinci</placeName>
+                           <placeName lang="deu" key="3196861">Kittendorf</placeName>
                         </kraj>
-                        <kraj n="6">
-                           <placeName lang="slv">Moravski vrh</placeName>
-                           <placeName lang="deu">Muratzenberg</placeName>
+                        <kraj n="6"><!-- verjetno Mali Moravščak -->
+                           <placeName lang="slv" key="8989241">Moravski Vrh</placeName>
+                           <placeName lang="deu" key="8989241">Muratzenberg</placeName>
                         </kraj>
                         <kraj n="7">
                            <placeName lang="slv">Rinkovci</placeName>
@@ -22235,12 +22233,12 @@
                      </kraji>
                   </obcina>
                   <obcina n="4">
-                     <placeName lang="slv">Gornja Radgona</placeName>
-                     <placeName lang="deu">Oberradkersburg</placeName>
+                     <placeName lang="slv" key="3200197">Gornja Radgona</placeName>
+                     <placeName lang="deu" key="3200197">Oberradkersburg</placeName>
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Gornja Radgona</placeName>
-                           <placeName lang="deu">Oberradkersburg</placeName> 
+                           <placeName lang="slv" key="3200197">Gornja Radgona</placeName>
+                           <placeName lang="deu" key="3200197">Oberradkersburg</placeName> 
                            <deli>
                               <del>
                                  <placeName lang="slv">Firstov grad</placeName>
@@ -22266,12 +22264,12 @@
                            </deli>
                         </kraj>
                         <kraj n="2" ko="">
-                           <placeName lang="slv">Hercogovščak</placeName>
-                           <placeName lang="deu">Herzogberg</placeName>
+                           <placeName lang="slv" key="8987613">Hercogovščak</placeName>
+                           <placeName lang="deu" key="8987613">Herzogberg</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Hercogovščak</placeName>
-                                 <placeName lang="deu">Herzogberg</placeName>
+                                 <placeName lang="slv" key="8987613">Hercogovščak</placeName>
+                                 <placeName lang="deu" key="8987613">Herzogberg</placeName>
                                  <vrsta>raztresene hiše</vrsta>
                                  <hise>71</hise>
                                  <prebivalci>356</prebivalci>
@@ -22300,14 +22298,14 @@
                      </kraji>
                   </obcina>
                   <obcina n="5" ko="">
-                     <placeName lang="slv">Grabonoš</placeName>
-                     <placeName lang="deu">Grabonoschen</placeName>
+                     <placeName lang="slv" key="3199820">Grabonoš</placeName>
+                     <placeName lang="deu" key="3199820">Grabonoschen</placeName>
                      <kraji>
                         <kraj>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Grabonoš</placeName>
-                                 <placeName lang="deu">Grabonoschen</placeName>
+                                 <placeName lang="slv" key="3199820">Grabonoš</placeName>
+                                 <placeName lang="deu" key="3199820">Grabonoschen</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>31</hise>
                                  <prebivalci>178</prebivalci>
@@ -22324,21 +22322,21 @@
                      </kraji>
                   </obcina>
                   <obcina n="6" ko="">
-                     <placeName lang="slv">Hrastje-Mota</placeName>
-                     <placeName lang="deu">Eichmauthdorf</placeName>
+                     <placeName lang="slv" key="3199302">Hrastje-Mota</placeName>
+                     <placeName lang="deu" key="3199302">Eichmauthdorf</placeName>
                      <kraji>
                         <kraj>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Hrastje</placeName>
-                                 <placeName lang="deu">Eichdorf</placeName>
+                                 <placeName lang="slv" key="3199302">Hrastje</placeName>
+                                 <placeName lang="deu" key="3199302">Eichdorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>33</hise>
                                  <prebivalci>193</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Mota</placeName>
-                                 <placeName lang="deu">Mauthdorf</placeName>
+                                 <placeName lang="slv" key="3220659">Mota</placeName>
+                                 <placeName lang="deu" key="3220659">Mauthdorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>22</hise>
                                  <prebivalci>119</prebivalci>
@@ -22355,12 +22353,12 @@
                      <placeName lang="deu">Iswanzen</placeName>
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Gornji Ivanjci</placeName>
-                           <placeName lang="deu">Oberiswanzen</placeName>
+                           <placeName lang="slv" key="3200004">Gornji Ivanjci</placeName>
+                           <placeName lang="deu" key="3200004">Oberiswanzen</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Gornji Ivanjci</placeName>
-                                 <placeName lang="deu">Oberiswanzen</placeName>
+                                 <placeName lang="slv" key="3200004">Gornji Ivanjci</placeName>
+                                 <placeName lang="deu" key="3200004">Oberiswanzen</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>12</hise>
                                  <prebivalci>66</prebivalci>
@@ -22373,22 +22371,22 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="2">
+                        <kraj n="2"><!-- brez označbe - J od Gornjih Ivanjcev, JZ od Spodnjih Ivanjcev -->
                            <placeName lang="slv">Ivanjski Vrh</placeName>
                            <placeName lang="deu">Iswanzenberg</placeName>
                         </kraj>
                         <kraj n="3" ko="">
-                           <placeName lang="slv">Kunova</placeName>
-                           <placeName lang="deu">Kanadorf</placeName>
-                           <placeName lang="deu">Kanaberg</placeName>
+                           <placeName lang="slv" key="3196937">Kunova</placeName>
+                           <placeName lang="deu" key="3196937">Kanadorf</placeName>
+                           <placeName lang="deu" key="3196937">Kanaberg</placeName>
                         </kraj>
                         <kraj n="4" ko="2, 4">
-                           <placeName lang="slv">Spodnji Ivanjci</placeName>
-                           <placeName lang="deu">Unteriswanzen</placeName>
+                           <placeName lang="slv" key="3190195">Spodnji Ivanjci</placeName>
+                           <placeName lang="deu" key="3190195">Unteriswanzen</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Spodnji Ivanjci</placeName>
-                                 <placeName lang="deu">Unteriswanzen</placeName>
+                                 <placeName lang="slv" key="3190195">Spodnji Ivanjci</placeName>
+                                 <placeName lang="deu" key="3190195">Unteriswanzen</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>29</hise>
                                  <prebivalci>157</prebivalci>
@@ -22401,19 +22399,19 @@
                      </kraji>
                   </obcina>
                   <obcina n="8" ko="">
-                     <placeName lang="slv">Ivanjšovci</placeName>
-                     <placeName lang="deu">Eibersdorf</placeName>
+                     <placeName lang="slv" key="3199056">Ivanjšovci</placeName>
+                     <placeName lang="deu" key="3199056">Eibersdorf</placeName>
                      <kraji>
                         <kraj>
                           <deli>
                              <del>
-                                <placeName lang="slv">Ivanjšovci</placeName>
-                                <placeName lang="deu">Eibersdorf</placeName>
+                                <placeName lang="slv" key="3199056">Ivanjšovci</placeName>
+                                <placeName lang="deu" key="3199056">Eibersdorf</placeName>
                                 <vrsta>vas</vrsta>
                                 <hise>20</hise>
                                 <prebivalci>98</prebivalci>
                              </del>
-                             <del>
+                             <del><!-- brez označbe, S od Ivanjševec, spada v isti kraj -->
                                 <placeName lang="slv">Ivanjšovski Vrh</placeName>
                                 <placeName lang="deu">Eibersberg</placeName>
                                 <vrsta>raztresene hiše</vrsta>
@@ -22421,8 +22419,8 @@
                                 <prebivalci>269</prebivalci>
                              </del>
                              <del>
-                                <placeName lang="slv">Rodmošci</placeName>
-                                <placeName lang="deu">Rosmannsgrund</placeName>
+                                <placeName lang="slv" key="8988357">Rodmošci</placeName>
+                                <placeName lang="deu" key="8988357">Rosmannsgrund</placeName>
                                 <vrsta>soseska</vrsta>
                                 <hise>25</hise>
                                 <prebivalci>126</prebivalci>
@@ -22432,20 +22430,20 @@
                      </kraji>
                   </obcina>
                   <obcina n="9">
-                     <placeName lang="slv">Kapela</placeName>
-                     <placeName lang="deu">Kapellen</placeName>
+                     <placeName lang="slv" key="3215371">Kapela</placeName>
+                     <placeName lang="deu" key="3215371">Kapellen</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Gornji Kocijan</placeName>
-                           <placeName lang="deu">Oberkatzian</placeName> 
+                           <placeName lang="slv" key="8989881">Gornji Kocijan</placeName>
+                           <placeName lang="deu" key="8989881">Oberkatzian</placeName> 
                         </kraj>
                         <kraj n="2" ko="1-3">
-                           <placeName lang="slv">Kapelski vrh</placeName>
-                           <placeName lang="deu">Kapellenberg</placeName>
+                           <placeName lang="slv" key="8987145">Kapelski Vrh</placeName>
+                           <placeName lang="deu" key="8987145">Kapellenberg</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Kapelski vrh</placeName>
-                                 <placeName lang="deu">Kapellenberg</placeName>
+                                 <placeName lang="slv" key="8987145">Kapelski Vrh</placeName>
+                                 <placeName lang="deu" key="8987145">Kapellenberg</placeName>
                                  <vrsta>selo</vrsta>
                                  <hise>3</hise>
                                  <prebivalci>22</prebivalci>
@@ -22463,26 +22461,26 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Spodnji Kocijan</placeName>
-                           <placeName lang="deu">Unterkatzian</placeName>
+                           <placeName lang="slv" key="8988222">Spodnji Kocijan</placeName>
+                           <placeName lang="deu" key="8988222">Unterkatzian</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="10" ko="">
-                     <placeName lang="slv">Kralovci</placeName>
-                     <placeName lang="deu">Kralofzen</placeName>
+                     <placeName lang="slv" key="3197396">Kralovci</placeName>
+                     <placeName lang="deu" key="3197396">Kralofzen</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Kočki Vrh</placeName>
-                           <placeName lang="deu">Kotschberg</placeName>
+                           <placeName lang="slv" key="8988496">Kočki Vrh</placeName>
+                           <placeName lang="deu" key="8988496">Kotschberg</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Kralovci</placeName>
-                           <placeName lang="deu">Kralofzen</placeName>
+                           <placeName lang="slv" key="3197396">Kralovci</placeName>
+                           <placeName lang="deu" key="3197396">Kralofzen</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Kralovci</placeName>
-                                 <placeName lang="deu">Kralofzen</placeName>
+                                 <placeName lang="slv" key="3197396">Kralovci</placeName>
+                                 <placeName lang="deu" key="3197396">Kralofzen</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>37</hise>
                                  <prebivalci>177</prebivalci>
@@ -22497,44 +22495,44 @@
                         </kraj>
                      </kraji>
                   </obcina>
-                  <obcina n="11">
-                     <placeName lang="slv">Murski Vrh-Zasad</placeName>
-                     <placeName lang="deu">Murberg-Neusatz</placeName>
+                  <obcina n="11"><!-- samo Murski Vrh, Zasadi so ločena vas, tudi Murščak -->
+                     <placeName lang="slv" key="8987645">Murski Vrh-Zasad</placeName>
+                     <placeName lang="deu" key="8987645">Murberg-Neusatz</placeName>
                      <kraji>
                         <kraj n="1" ko="">
                            <placeName lang="slv">Hrašenski in Rački Vrh</placeName>
                            <placeName lang="deu">Eichratzenberg</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Hrašenski Vrh</placeName>
-                                 <placeName lang="deu">Eichberg</placeName>
+                                 <placeName lang="slv" key="8987797">Hrašenski Vrh</placeName>
+                                 <placeName lang="deu" key="8987797">Eichberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>22</hise>
                                  <prebivalci>69</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Rački Vrh</placeName>
-                                 <placeName lang="deu">Ratzenberg</placeName>
+                                 <placeName lang="slv" key="8989818">Rački Vrh</placeName>
+                                 <placeName lang="deu" key="8989818">Ratzenberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>22</hise>
                                  <prebivalci>101</prebivalci>
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="2" ko="2, 3">
-                           <placeName lang="slv">Murski Vrh-Zasad</placeName>
-                           <placeName lang="deu">Murberg-Neusatz</placeName>
+                        <kraj n="2" ko="2, 3"><!-- Murski Vrh, Murščak in Zasadi sta ločeni vasi -->
+                           <placeName lang="slv" key="8987645">Murski Vrh-Zasad</placeName>
+                           <placeName lang="deu" key="8987645">Murberg-Neusatz</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Murščak</placeName>
-                                 <placeName lang="deu">Murberg</placeName>
+                                 <placeName lang="slv" key="8987370">Murščak</placeName>
+                                 <placeName lang="deu" key="8987370">Murberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>65</hise>
                                  <prebivalci>225</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Zasad</placeName>
-                                 <placeName lang="deu">Neusatz</placeName>
+                                 <placeName lang="slv" key="8988352">Zasad</placeName>
+                                 <placeName lang="deu" key="8988352">Neusatz</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>28</hise>
                                  <prebivalci>116</prebivalci>
@@ -22542,12 +22540,12 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Murščak</placeName>
-                           <placeName lang="deu">Murberg</placeName>
+                           <placeName lang="slv" key="8987370">Murščak</placeName>
+                           <placeName lang="deu" key="8987370">Murberg</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Murščak</placeName>
-                                 <placeName lang="deu">Murberg</placeName>
+                                 <placeName lang="slv" key="8987370">Murščak</placeName>
+                                 <placeName lang="deu" key="8987370">Murberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>45</hise>
                                  <prebivalci>147</prebivalci>
@@ -22563,12 +22561,12 @@
                      </kraji>
                   </obcina>
                   <obcina n="12">
-                     <placeName lang="slv">Negova</placeName>
-                     <placeName lang="deu">Negau</placeName>
+                     <placeName lang="slv" key="3194551">Negova</placeName>
+                     <placeName lang="deu" key="3194551">Negau</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Lokavci</placeName>
-                           <placeName lang="deu">Lukatz</placeName>
+                           <placeName lang="slv" key="8987410">Lokavci</placeName>
+                           <placeName lang="deu" key="8987410">Lukatz</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Hermeš</placeName>
@@ -22578,8 +22576,8 @@
                                  <prebivalci>18</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Lokavci</placeName>
-                                 <placeName lang="deu">Lukatz</placeName>
+                                 <placeName lang="slv" key="8987410">Lokavci</placeName>
+                                 <placeName lang="deu" key="8987410">Lukatz</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>6</hise>
                                  <prebivalci>27</prebivalci>
@@ -22621,12 +22619,12 @@
                            </deli>
                         </kraj>
                         <kraj n="2" ko="1, 2">
-                           <placeName lang="slv">Negova</placeName>
-                           <placeName lang="deu">Negau</placeName>
+                           <placeName lang="slv" key="3194551">Negova</placeName>
+                           <placeName lang="deu" key="3194551">Negau</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Ločki Vrh</placeName>
-                                 <placeName lang="deu">Lotschitschberg</placeName>
+                                 <placeName lang="slv" key="8988027">Ločki Vrh</placeName>
+                                 <placeName lang="deu" key="8988027">Lotschitschberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>18</hise>
                                  <prebivalci>89</prebivalci> 
@@ -22639,25 +22637,29 @@
                                  <prebivalci>34</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Negova</placeName>
-                                 <placeName lang="deu">Negau</placeName>
+                                 <placeName lang="slv" key="3194551">Negova</placeName>
+                                 <placeName lang="deu" key="3194551">Negau</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>13</hise>
                                  <prebivalci>63</prebivalci>
+                              </del>
+                              <del>
+                                 <placeName lang="slv">Negova</placeName>
+                                 <placeName lang="deu">Negau</placeName>
                                  <vrsta>grad</vrsta>
                                  <hise>2</hise>
                                  <prebivalci>33</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Negovska vas</placeName>
-                                 <placeName lang="deu">Negaudorf</placeName>
+                                 <placeName lang="slv" key="3194551">Negovska Vas</placeName>
+                                 <placeName lang="deu" key="3194551">Negaudorf</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>18</hise>
                                  <prebivalci>92</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Negovski Vrh</placeName>
-                                 <placeName lang="deu">Negauberg</placeName>
+                                 <placeName lang="slv" key="8988978">Negovski Vrh</placeName>
+                                 <placeName lang="deu" key="8988978">Negauberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>35</hise>
                                  <prebivalci>99</prebivalci>
@@ -22665,12 +22667,12 @@
                            </deli>
                         </kraj>
                         <kraj n="3" ko="">
-                           <placeName lang="slv">Radvenci</placeName>
-                           <placeName lang="deu">Windisch Radersdorf</placeName>
+                           <placeName lang="slv" key="3192044">Radvenci</placeName>
+                           <placeName lang="deu" key="3192044">Windisch Radersdorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Radvenci</placeName>
-                                 <placeName lang="deu">Windisch Radersdorf</placeName>
+                                 <placeName lang="slv" key="3192044">Radvenci</placeName>
+                                 <placeName lang="deu" key="3192044">Windisch Radersdorf</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>31</hise>
                                  <prebivalci>142</prebivalci>
@@ -22687,16 +22689,16 @@
                      </kraji>
                   </obcina>
                   <obcina n="13">
-                     <placeName lang="slv">Očeslavci</placeName>
-                     <placeName lang="deu">Sulzdorf</placeName>
+                     <placeName lang="slv" key="8989774">Očeslavci</placeName>
+                     <placeName lang="deu" key="8989774">Sulzdorf</placeName>
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Očeslavci</placeName>
-                           <placeName lang="deu">Sulzdorf</placeName>
+                           <placeName lang="slv" key="8989774">Očeslavci</placeName>
+                           <placeName lang="deu" key="8989774">Sulzdorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Očeslavci</placeName>
-                                 <placeName lang="deu">Sulzdorf</placeName>
+                                 <placeName lang="slv" key="8989774">Očeslavci</placeName>
+                                 <placeName lang="deu" key="8989774">Sulzdorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>15</hise>
                                  <prebivalci>75</prebivalci>
@@ -22710,13 +22712,13 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="2">
-                           <placeName lang="slv">Stavenci</placeName>
-                           <placeName lang="deu">Pfefferdorf</placeName>
+                        <kraj n="2"><!-- verjetno Stavešinci -->
+                           <placeName lang="slv" key="3189910">Stavenci</placeName>
+                           <placeName lang="deu" key="3189910">Pfefferdorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Stavenci</placeName>
-                                 <placeName lang="deu">Pfefferdorf</placeName>
+                                 <placeName lang="slv" key="3189910">Stavenci</placeName>
+                                 <placeName lang="deu" key="3189910">Pfefferdorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>14</hise>
                                  <prebivalci>74</prebivalci>
@@ -22726,9 +22728,9 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="3" ko="2, 3">
-                           <placeName lang="slv">Stavenski Vrh</placeName>
-                           <placeName lang="deu">Pfefferberg</placeName>
+                        <kraj n="3" ko="2, 3"><!-- verjetno Stavešinski Vrh -->
+                           <placeName lang="slv" key="8989494">Stavenski Vrh</placeName>
+                           <placeName lang="deu" key="8989494">Pfefferberg</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Bintelšak</placeName>
@@ -22752,8 +22754,8 @@
                                  <prebivalci>3</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Stavenski Vrh</placeName>
-                                 <placeName lang="deu">Pfeffeberg</placeName>
+                                 <placeName lang="slv" key="8989494">Stavenski Vrh</placeName>
+                                 <placeName lang="deu" key="8989494">Pfeffeberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>44</hise>
                                  <prebivalci>165</prebivalci>
@@ -22763,16 +22765,16 @@
                      </kraji>
                   </obcina>
                   <obcina n="14">
-                     <placeName lang="slv">Okoslavci</placeName>
-                     <placeName lang="deu">Koslafzen</placeName>
+                     <placeName lang="slv" key="3194162">Okoslavci</placeName>
+                     <placeName lang="deu" key="3194162">Koslafzen</placeName>
                      <kraji>
                         <kraj n="1" ko="1, 2">
-                           <placeName lang="slv">Dragotinci</placeName>
-                           <placeName lang="deu">Dragotinzen</placeName>
+                           <placeName lang="slv" key="3201282">Dragotinci</placeName>
+                           <placeName lang="deu" key="3201282">Dragotinzen</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Dragotinci</placeName>
-                                 <placeName lang="deu">Dragotinzen</placeName>
+                                 <placeName lang="slv" key="3201282">Dragotinci</placeName>
+                                 <placeName lang="deu" key="3201282">Dragotinzen</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>23</hise>
                                  <prebivalci>110</prebivalci>
@@ -22787,19 +22789,19 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Kocijan</placeName>
-                           <placeName lang="deu">Katzian</placeName>
+                           <placeName lang="slv" key="8988332">Kocijan</placeName>
+                           <placeName lang="deu" key="8988332">Katzian</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Gornji Kocijan</placeName>
-                                 <placeName lang="deu">Oberkatzian</placeName>
+                                 <placeName lang="slv" key="8989881">Gornji Kocijan</placeName>
+                                 <placeName lang="deu" key="8989881">Oberkatzian</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>4</hise>
                                  <prebivalci>18</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Spodnji Kocijan</placeName>
-                                 <placeName lang="deu">Unterkatzian</placeName>
+                                 <placeName lang="slv" key="8988222">Spodnji Kocijan</placeName>
+                                 <placeName lang="deu" key="8988222">Unterkatzian</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>13</hise>
                                  <prebivalci>39</prebivalci>
@@ -22807,12 +22809,12 @@
                            </deli>
                         </kraj>
                         <kraj n="3" ko="">
-                           <placeName lang="slv">Okoslavci</placeName>
-                           <placeName lang="deu">Koslafzen</placeName>
+                           <placeName lang="slv" key="3194162">Okoslavci</placeName>
+                           <placeName lang="deu" key="3194162">Koslafzen</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Okoslavci</placeName>
-                                 <placeName lang="deu">Koslafzen</placeName>
+                                 <placeName lang="slv" key="3194162">Okoslavci</placeName>
+                                 <placeName lang="deu" key="3194162">Koslafzen</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>25</hise>
                                  <prebivalci>117</prebivalci>
@@ -22829,14 +22831,14 @@
                      </kraji>
                   </obcina>
                   <obcina n="15">
-                     <placeName lang="slv">Orehovci</placeName>
-                     <placeName lang="deu">Nußdorf</placeName>
+                     <placeName lang="slv" key="3194026">Orehovci</placeName>
+                     <placeName lang="deu" key="3194026">Nußdorf</placeName>
                      <kraji>
                         <kraj n="1" ko="1, 3, 4">
-                           <placeName lang="slv">Orehovci</placeName>
-                           <placeName lang="deu">Nußdorf</placeName>
+                           <placeName lang="slv" key="3194026">Orehovci</placeName>
+                           <placeName lang="deu" key="3194026">Nußdorf</placeName>
                         </kraj>
-                        <kraj n="2" ko="">
+                        <kraj n="2" ko=""><!-- Orehovski Vrh? -->
                            <placeName lang="slv">Presberg</placeName>
                            <placeName lang="deu">Preßberg</placeName>
                            <deli>
@@ -22856,15 +22858,15 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Ptujska cesta</placeName>
-                           <placeName lang="deu">Pettaustraß</placeName>
+                           <placeName lang="slv" key="8987192">Ptujska cesta</placeName>
+                           <placeName lang="deu" key="8987192">Pettaustraß</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Ptujska cesta</placeName>
-                                 <placeName lang="deu">Pettaustraß</placeName>
+                                 <placeName lang="slv" key="8987192">Ptujska cesta</placeName>
+                                 <placeName lang="deu" key="8987192">Pettaustraß</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>41</hise>
-                                 <prebivalci>129</prebivalci> 
+                                 <prebivalci>139</prebivalci> 
                               </del>
                               <del>
                                  <placeName lang="deu">Wolfenauberg</placeName>
@@ -22881,44 +22883,44 @@
                      </kraji>
                   </obcina>
                   <obcina n="16" ko="">
-                     <placeName lang="slv">Police</placeName>
-                     <placeName lang="deu">Pöllitschberg</placeName> 
+                     <placeName lang="slv" key="3192833">Police</placeName>
+                     <placeName lang="deu" key="3192833">Pöllitschberg</placeName> 
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Aženski Vrh</placeName>
-                           <placeName lang="deu">Hasenberg</placeName> 
+                           <placeName lang="slv" key="3204750">Aženski Vrh</placeName>
+                           <placeName lang="deu" key="3204750">Hasenberg</placeName> 
                         </kraj>
                         <kraj n="2">
                            <placeName lang="deu">Fahrenbüchl</placeName>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Police</placeName>
-                           <placeName lang="deu">Pöllitschberg</placeName>
+                           <placeName lang="slv" key="3192833">Police</placeName>
+                           <placeName lang="deu" key="3192833">Pöllitschberg</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="17" ko="">
-                     <placeName lang="slv">Radinci</placeName>
-                     <placeName lang="deu">Radein</placeName>
+                     <placeName lang="slv" key="3192139">Radinci</placeName>
+                     <placeName lang="deu" key="3192139">Radein</placeName>
                      <kraji>
                         <kraj n="1">
                            <placeName lang="slv">Mali Janišberg</placeName>
                            <placeName lang="deu">Kleinjanischberg</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Radinci</placeName>
-                           <placeName lang="deu">Radein</placeName>
+                           <placeName lang="slv" key="3192139">Radinci</placeName>
+                           <placeName lang="deu" key="3192139">Radein</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Radinci</placeName>
-                                 <placeName lang="deu">Radein</placeName> 
+                                 <placeName lang="slv" key="3192139">Radinci</placeName>
+                                 <placeName lang="deu" key="3192139">Radein</placeName> 
                                  <vrsta>vas</vrsta>
                                  <hise>35</hise>
                                  <prebivalci>188</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Radinska Slatina</placeName>
-                                 <placeName lang="deu">Bad Radein</placeName> 
+                                 <placeName lang="slv" key="3192139">Radinska Slatina</placeName>
+                                 <placeName lang="deu" key="3192139">Bad Radein</placeName> 
                                  <vrsta>vas</vrsta>
                                  <hise>12</hise>
                                  <prebivalci>50</prebivalci>  
@@ -22926,29 +22928,29 @@
                            </deli>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Radinski Vrh</placeName>
-                           <placeName lang="deu">Radeinberg</placeName> 
+                           <placeName lang="slv" key="8989775">Radinski Vrh</placeName>
+                           <placeName lang="deu" key="8989775">Radeinberg</placeName> 
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="18" ko="">
-                     <placeName lang="slv">Rihtarovci</placeName>
-                     <placeName lang="deu">Richterofzen</placeName>
+                     <placeName lang="slv" key="3215358">Rihtarovci</placeName>
+                     <placeName lang="deu" key="3215358">Richterofzen</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Rihtarovci</placeName>
-                           <placeName lang="deu">Richterofzen</placeName>
+                           <placeName lang="slv" key="3215358">Rihtarovci</placeName>
+                           <placeName lang="deu" key="3215358">Richterofzen</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Paričjak</placeName>
-                                 <placeName lang="deu">Paritschenberg</placeName> 
+                                 <placeName lang="slv" key="8987175">Paričjak</placeName>
+                                 <placeName lang="deu" key="8987175">Paritschenberg</placeName> 
                                  <vrsta>soseska</vrsta>
                                  <hise>30</hise>
                                  <prebivalci>106</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Rihtarovci</placeName>
-                                 <placeName lang="deu">Richterofzen</placeName> 
+                                 <placeName lang="slv" key="3215358">Rihtarovci</placeName>
+                                 <placeName lang="deu" key="3215358">Richterofzen</placeName> 
                                  <vrsta>vas</vrsta>
                                  <hise>15</hise>
                                  <prebivalci>63</prebivalci>
@@ -22956,19 +22958,19 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Turjanci</placeName>
-                           <placeName lang="deu">Siebeneichen</placeName>
+                           <placeName lang="slv" key="3188617">Turjanci</placeName>
+                           <placeName lang="deu" key="3188617">Siebeneichen</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Turjanci</placeName>
-                                 <placeName lang="deu">Siebeneichen</placeName> 
+                                 <placeName lang="slv" key="3188617">Turjanci</placeName>
+                                 <placeName lang="deu" key="3188617">Siebeneichen</placeName> 
                                  <vrsta>selo</vrsta>
                                  <hise>7</hise>
                                  <prebivalci>49</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Turjanski Vrh</placeName>
-                                 <placeName lang="deu">Siebeneichenberg</placeName> 
+                                 <placeName lang="slv" key="8989532">Turjanski Vrh</placeName>
+                                 <placeName lang="deu" key="8989532">Siebeneichenberg</placeName> 
                                  <vrsta>soseska</vrsta>
                                  <hise>22</hise>
                                  <prebivalci>69</prebivalci> 
@@ -22978,28 +22980,28 @@
                      </kraji>
                   </obcina>
                   <obcina n="19">
-                     <placeName lang="slv">Stanetinci</placeName>
-                     <placeName lang="deu">Stanetinzen</placeName>
+                     <placeName lang="slv" key="8987804">Stanetinci</placeName>
+                     <placeName lang="deu" key="8987804">Stanetinzen</placeName>
                      <kraji>
                         <kraj n="1" ko="" koopomba="Murščak, Murberg katastrska občina (1, 2)">
-                           <placeName lang="slv">Hrašenski Vrh</placeName>
-                           <placeName lang="deu">Eichberg</placeName>
+                           <placeName lang="slv" key="8987797">Hrašenski Vrh</placeName>
+                           <placeName lang="deu" key="8987797">Eichberg</placeName>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Rački Vrh</placeName>
-                           <placeName lang="deu">Ratzenberg</placeName>
+                           <placeName lang="slv" key="8989818">Rački Vrh</placeName>
+                           <placeName lang="deu" key="8989818">Ratzenberg</placeName>
                         </kraj>
                         <kraj n="3" ko="">
-                           <placeName lang="slv">Rožički Vrh</placeName>
-                           <placeName lang="deu">Rosenberg</placeName>  
+                           <placeName lang="slv" key="8987142">Rožički Vrh</placeName>
+                           <placeName lang="deu" key="8987142">Rosenberg</placeName>  
                         </kraj>
                         <kraj n="4" ko="">
-                           <placeName lang="slv">Stanetinci</placeName>
-                           <placeName lang="deu">Stanetinzen</placeName>
+                           <placeName lang="slv" key="8987804">Stanetinci</placeName>
+                           <placeName lang="deu" key="8987804">Stanetinzen</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Stanetinci</placeName>
-                                 <placeName lang="deu">Stanetinzen</placeName>
+                                 <placeName lang="slv" key="8987804">Stanetinci</placeName>
+                                 <placeName lang="deu" key="8987804">Stanetinzen</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>17</hise>
                                  <prebivalci>67</prebivalci> 
@@ -23016,32 +23018,32 @@
                      </kraji>
                   </obcina>
                   <obcina n="20">
-                     <placeName lang="slv">Sveti Jurij na Ščavnici</placeName>
-                     <placeName lang="deu">Sankt Georgen an der Stainz</placeName>
+                     <placeName lang="slv" key="3198549">Sveti Jurij na Ščavnici</placeName>
+                     <placeName lang="deu" key="3198549">Sankt Georgen an der Stainz</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Biserjan</placeName>
-                           <placeName lang="deu">Wisserian</placeName>
+                           <placeName lang="slv" key="8988056">Biserjan</placeName>
+                           <placeName lang="deu" key="8988056">Wisserian</placeName>
                         </kraj>
                         <kraj n="2" ko="2, 3, 4">
-                           <placeName lang="slv">Blaguš</placeName>
-                           <placeName lang="deu">Wlagusch</placeName>
+                           <placeName lang="slv" key="8988207">Blaguš</placeName>
+                           <placeName lang="deu" key="8988207">Wlagusch</placeName>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Brezje</placeName>
-                           <placeName lang="deu">Wresje</placeName> 
+                           <placeName lang="slv" key="8988705">Brezje</placeName>
+                           <placeName lang="deu" key="8988705">Wresje</placeName> 
                         </kraj>
                         <kraj n="4">
-                           <placeName lang="slv">Čakova</placeName>
-                           <placeName lang="deu">Tschakova</placeName> 
+                           <placeName lang="slv" key="8988016">Čakova</placeName>
+                           <placeName lang="deu" key="8988016">Tschakova</placeName> 
                         </kraj>
-                        <kraj n="5" ko="1, 5, 6">
-                           <placeName lang="slv">Jamna</placeName>
-                           <placeName lang="deu">Jandorf</placeName>
+                        <kraj n="5" ko="1, 5, 6"><!-- označba SV od vasi -->
+                           <placeName lang="slv" key="3198906">Jamna</placeName>
+                           <placeName lang="deu" key="3198906">Jandorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Jamna</placeName>
-                                 <placeName lang="deu">Jandorf</placeName>
+                                 <placeName lang="slv" key="3198906">Jamna</placeName>
+                                 <placeName lang="deu" key="3198906">Jandorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>20</hise>
                                  <prebivalci>81</prebivalci>
@@ -23051,13 +23053,13 @@
                               </del>
                            </deli>
                         </kraj>
-                        <kraj n="6">
-                           <placeName lang="slv">Vidma</placeName>
-                           <placeName lang="deu">Widem</placeName>
+                        <kraj n="6"><!-- del Svetega Jurija ob Ščavnici -->
+                           <placeName lang="slv" key="3187811">Vidma</placeName>
+                           <placeName lang="deu" key="3187811">Widem</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Vidma</placeName>
-                                 <placeName lang="deu">Widem</placeName>
+                                 <placeName lang="slv" key="3187811">Vidma</placeName>
+                                 <placeName lang="deu" key="3187811">Widem</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>18</hise>
                                  <prebivalci>112</prebivalci> 
@@ -23070,23 +23072,23 @@
                      </kraji>
                   </obcina>
                   <obcina n="21" ko="">
-                     <placeName lang="slv">Ščavnica</placeName>
-                     <placeName lang="deu">Stainzthal</placeName>
+                     <placeName lang="slv" key="8986972">Ščavnica</placeName>
+                     <placeName lang="deu" key="8986972">Stainzthal</placeName>
                      <kraji>
                         <kraj n="1">
-                           <placeName lang="slv">Plitvički Vrh</placeName>
-                           <placeName lang="deu">Plippitzberg</placeName>
+                           <placeName lang="slv" key="3193168">Plitvički Vrh</placeName>
+                           <placeName lang="deu" key="3193168">Plippitzberg</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Aženski Vrh</placeName>
-                                 <placeName lang="deu">Hasenberg</placeName> 
+                                 <placeName lang="slv" key="3204750">Aženski Vrh</placeName>
+                                 <placeName lang="deu" key="3204750">Hasenberg</placeName> 
                                  <vrsta>soseska</vrsta>
                                  <hise>9</hise>
                                  <prebivalci>42</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Plitvički Vrh</placeName>
-                                 <placeName lang="deu">Plippitzberg</placeName> 
+                                 <placeName lang="slv" key="3193168">Plitvički Vrh</placeName>
+                                 <placeName lang="deu" key="3193168">Plippitzberg</placeName> 
                                  <vrsta>soseska</vrsta>
                                  <hise>10</hise>
                                  <prebivalci>38</prebivalci> 
@@ -23094,14 +23096,14 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Ščavnica</placeName>
-                           <placeName lang="deu">Stainzthal</placeName>
+                           <placeName lang="slv" key="8986972">Ščavnica</placeName>
+                           <placeName lang="deu" key="8986972">Stainzthal</placeName>
                         </kraj>
                         <kraj n="3">
-                           <placeName lang="slv">Zagajski Vrh</placeName>
-                           <placeName lang="deu">Sagaiberg</placeName>
+                           <placeName lang="slv" key="8987528">Zagajski Vrh</placeName>
+                           <placeName lang="deu" key="8987528">Sagaiberg</placeName>
                            <deli>
-                              <del>
+                              <del><!-- Zgornja in Spodnja Bačkova, morda tudi Drvanja -->
                                  <placeName lang="slv">Bačkova</placeName>
                                  <placeName lang="deu">Watschkoberg</placeName> 
                                  <vrsta>selo</vrsta>
@@ -23109,8 +23111,8 @@
                                  <prebivalci>10</prebivalci>  
                               </del>
                               <del>
-                                 <placeName lang="slv">Zagajski Vrh</placeName>
-                                 <placeName lang="deu">Sagaiberg</placeName> 
+                                 <placeName lang="slv" key="8987528">Zagajski Vrh</placeName>
+                                 <placeName lang="deu" key="8987528">Sagaiberg</placeName> 
                                  <vrsta>soseska</vrsta>
                                  <hise>33</hise>
                                  <prebivalci>181</prebivalci> 
@@ -23120,21 +23122,21 @@
                      </kraji>
                   </obcina>
                   <obcina n="22">
-                     <placeName lang="slv">Šratovci</placeName>
-                     <placeName lang="deu">Schrottendorf</placeName> 
+                     <placeName lang="slv" key="3190173">Šratovci</placeName>
+                     <placeName lang="deu" key="3190173">Schrottendorf</placeName> 
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Mele</placeName>
-                           <placeName lang="slv">Melovje</placeName>
-                           <placeName lang="deu">Kellerdorf</placeName> 
+                           <placeName lang="slv" key="3195268">Mele</placeName>
+                           <placeName lang="slv" key="3195268">Melovje</placeName>
+                           <placeName lang="deu" key="3195268">Kellerdorf</placeName> 
                         </kraj>
                         <kraj n="2" ko="">
-                           <placeName lang="slv">Šratovci</placeName>
-                           <placeName lang="deu">Schrottendorf</placeName>
+                           <placeName lang="slv" key="3190173">Šratovci</placeName>
+                           <placeName lang="deu" key="3190173">Schrottendorf</placeName>
                            <deli>
                               <del>
-                                 <placeName lang="slv">Šratovci</placeName>
-                                 <placeName lang="deu">Schrottendorf</placeName>
+                                 <placeName lang="slv" key="3190173">Šratovci</placeName>
+                                 <placeName lang="deu" key="3190173">Schrottendorf</placeName>
                                  <vrsta>vas</vrsta>
                                  <hise>20</hise>
                                  <prebivalci>111</prebivalci>
@@ -23147,11 +23149,11 @@
                      </kraji>
                   </obcina>
                   <obcina n="23">
-                     <placeName lang="slv">Terbegovci</placeName>
-                     <placeName lang="deu">Terbegofzen</placeName>
+                     <placeName lang="slv" key="3189148">Terbegovci</placeName>
+                     <placeName lang="deu" key="3189148">Terbegofzen</placeName>
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Sovjak</placeName>
+                           <placeName lang="slv" key="3190298">Sovjak</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Gornji Sovjak</placeName>
@@ -23186,15 +23188,15 @@
                               </del>
                               <del>
                                  <placeName lang="slv">Veliki Sovjak</placeName>
-                                 <placeName lang="slv">Spodnji Sovjak</placeName>
                                  <placeName lang="deu">Großsovjak</placeName>
+                                 <placeName lang="slv">Spodnji Sovjak</placeName>
                                  <placeName lang="deu">Untersovjak</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>50</hise>
                                  <prebivalci>106</prebivalci>
                               </del>
                               <del>
-                                 <placeName lang="slv">Ženik</placeName>
+                                 <placeName lang="slv" key="8987775">Ženik</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>53</hise>
                                  <prebivalci>146</prebivalci>
@@ -23202,25 +23204,25 @@
                            </deli>
                         </kraj>
                         <kraj n="2">
-                           <placeName lang="slv">Stara Gora</placeName>
+                           <placeName lang="slv" key="8988119">Stara Gora</placeName>
                         </kraj>
                         <kraj n="3" ko="2, 3">
-                           <placeName lang="slv">Terbegovci</placeName>
-                           <placeName lang="deu">Terbegofzen</placeName>
+                           <placeName lang="slv" key="3189148">Terbegovci</placeName>
+                           <placeName lang="deu" key="3189148">Terbegofzen</placeName>
                         </kraj>
                      </kraji>
                   </obcina>
                   <obcina n="24">
-                     <placeName lang="slv">Zbigovci</placeName>
-                     <placeName lang="deu">Weigelsberg</placeName> 
+                     <placeName lang="slv" key="3186687">Zbigovci</placeName>
+                     <placeName lang="deu" key="3186687">Weigelsberg</placeName> 
                      <kraji>
                         <kraj n="1" ko="">
-                           <placeName lang="slv">Lastomerci</placeName>
-                           <placeName lang="deu">Lastomerzen</placeName>
+                           <placeName lang="slv" key="3196755">Lastomerci</placeName>
+                           <placeName lang="deu" key="3196755">Lastomerzen</placeName>
                         </kraj>
                         <kraj n="2" ko="">
-                           <placeName lang="slv">Zbigovci</placeName>
-                           <placeName lang="deu">Weigelsberg</placeName>
+                           <placeName lang="slv" key="3186687">Zbigovci</placeName>
+                           <placeName lang="deu" key="3186687">Weigelsberg</placeName>
                            <deli>
                               <del>
                                  <placeName lang="slv">Kandišak</placeName>
@@ -23230,8 +23232,8 @@
                                  <prebivalci>122</prebivalci> 
                               </del>
                               <del>
-                                 <placeName lang="slv">Zbigovci</placeName>
-                                 <placeName lang="deu">Weigelsberg</placeName>
+                                 <placeName lang="slv" key="3186687">Zbigovci</placeName>
+                                 <placeName lang="deu" key="3186687">Weigelsberg</placeName>
                                  <vrsta>soseska</vrsta>
                                  <hise>54</hise>
                                  <prebivalci>215</prebivalci>
@@ -23242,7 +23244,7 @@
                   </obcina>
                </obcine>
             </sodniOkraj>
-            <sodniOkraj n="2">
+            <sodniOkraj n="2">ccc 
                <placeName lang="slv">Ljutomer</placeName>
                <placeName lang="deu">Luttenberg</placeName>
                <obcine>
