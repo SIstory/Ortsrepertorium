@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Za naslovom vsake občine (če ima sedež drugo ime, je to v oklepaju povedano) je navedena
+          površina. Dodana ji zvezdica * pomeni, da površina zaradi zložitve ali razdelitve občine
+          še ni natančno dognana. Nato je izkazano skupno število prebivalstva v občini, nadalje
+          poštna, brzojavna in telefonska služba na sedežu občine oziroma na onem kraju, ki je
+          sedežu najbližji. Na koncu je navedena najbližja železniška postaja oziroma postajališče
+          in njih oddaljenost od sedeža dotične občine. Koder ta oddaljenost ni navedena, velja, da
+          je manjša od 500 m. Vsi poštni, brzojavni in telefonski uradi in vse železniške postaje v
+          posameznih krajih so s primernimi, zgoraj objasnjenimi znaki pri teh krajih še posebej
+          označeni, prav tako tudi izhodišča in končne postaje avtobusnega prometa. Krajevna imena v
+          močnejšem tisku pomenijo katastralno (davčno) občino. Pod vsako katastralno občino se
+          vrstč po abecednem redu kraji, ki spadajo v njeno območje.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>19. Okraj Murska Sobota</head>
+        <note>Površina : 59.626ha 30a 16m2, 17 občin, 123 k. o., 123 krajev — 52.597
+          prebivalcev.</note>
+        <note>Uradi: Okr. načelstvo z drž. postajo za kontrolo sodov in drž. veterinar
+          v specialni službi; okrožno sodišče, okrajno sodišče, davčna in katastrska uprava, glavni
+          oddelek fin. kontrole, vse v Murski Soboti; oddelki finančne kontrole: Cankova, Gornja
+          Lendava (obč. Grad), Prosenjakovci, Rogaševci in Šalovci, ogranek oddelka finančne
+          kontrole: Kuzma; carinski oddelki (carinarnice Gornja Radgona): Cankova, Gederovci (obč.
+          Tišina), Hodoš (obč. Šalovci), Serdica (obč. Rogaševci) in Trdkova (obč. Kuzma); drž.
+          obmejna veterinarska postaja v Murski Soboti.</note>
+        <note>Šole: Drž. realna gimnazija in samoupravna realna gimnazija v Murski
+          Soboti, banovinska kmetijska šola v Rakičanu (obč. Murska Sobota-okolica), obča strok.
+          nadalj. šola in trgovska strok. nadalj. šola v Murski Soboti, 49 ljudskih šol (občina
+          Bodonci 2, Cankova 1, Gornji Petrovci 5, Grad 4, Križevci 3, Kupšinci 1, Kuzma 3,
+          Martjanci 5, Murska Sobota 1, Murska Sobota-okolica 2, Pečarovci 3, Pertoča 3, Puconci 3,
+          Rogaševci 3, Selo v Prekmurju 3, Šalovci 5, Tišina 2).</note>
+        <note>Župnije: 12 rk. (Cankova, Gornja Lendava, Gornji Petrovci, Kančovci,
+          Markovci, Martjanci, Mur. Sobota, Pečarovci, Pertoča, Sveti Jurij v Prekmurju, Tišina,
+          Veliki Dolenci); 9 augs. (Bodonci, Domanjšovci, Gornja Slaveča, Gornji Petrovci, Hodoš,
+          Križevci v Prekmurju, Moravci, Murska Sobota, Puconci); 1 židovski rabinat (Murska
+          Sobota).</note>
+        <table>
+          <head>1. Občina <placeName ref="http://www.geonames.org/3203850/bodonci.html"
+              >Bodonci</placeName></head>
+          <note>Površina: 2.627ha 6a 64m2 — 2.587 preb.</note>
+          <note>PLt: Bodonci, žel. post.: Puconci — 10,8 km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3203850/bodonci.html"
+                  key="BODONCI, 53">Bodonci</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog-posta_pogodben.png"/>, <graphic
+                url="s-telefon.png"/> Lt</cell>
+            <cell>801</cell>
+            <cell>Pečarovci rk., Bodonci augs.</cell>
+            <cell>Bodonci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3214910/puzevci.html"
+                  key="PUŽEVCI, 72">Pužavci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>286</cell>
+            <cell>Cankova rk., Puconci augs.</cell>
+            <cell>Strukovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName
+                  ref="http://www.geonames.org/10377141/stari-beznovci.html"
+                  corresp="http://www.geonames.org/3204244/beznovci.html BEZNOVCI/097001"
+                  sameAs="BEZNOVCI, 64">Stari Beznovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>188</cell>
+            <cell>Cankova rk., Bodonci augs.</cell>
+            <cell>Bodonci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3189671/strukovci.html"
+                  key="STRUKOVCI, 71">Strukovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>289</cell>
+            <cell>Cankova rk., Bodonci augs.</cell>
+            <cell>Strukovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/10377138/vadarci.html"
+                  key="VADARCI, 52">Vadarci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>585</cell>
+            <cell>Gornja Lendava rk., Bodonci augs.</cell>
+            <cell>Bodonci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3186571/zenkovci.html"
+                  key="ZENKOVCI, 62">Zenkovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>438</cell>
+            <cell>Pečarovci rk., Bodonci augs.</cell>
+            <cell>Bodonci</cell>
+          </row>
+        </table>
+        <table>
+          <head>2. Občina <placeName ref="http://www.geonames.org/3202877/cankova.html"
+              >Cankova</placeName></head>
+          <note>Površina: 2.244 ha 40 a 34 m2 - 1.836 preb.</note>
+          <note>PLt: Cankova, žel. post.: Murska Sobota - 15,0 km. avtobus.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3202877/cankova.html"
+                  key="CANKOVA, 69">Cankova</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog_s_kapico-posta_drzavna.png"/>,
+                <graphic url="s-telefon.png"/>, Lt, avt. post.</cell>
+            <cell>460</cell>
+            <cell>Cankova rk., Bodonci augs.</cell>
+            <cell>Cankova</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3201739/domajinci.html"
+                  key="DOMAJINCI, 66">Domajinci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>363</cell>
+            <cell>Cankova rk., Gornja Slaveča augs.</cell>
+            <cell>Cankova</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3200035/gornji-crnci.html"
+                  key="GORNJI ČRNCI, 67">Gornji Črnci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>174</cell>
+            <cell>Cankova rk., Gornja Slaveča augs.</cell>
+            <cell>Cankova</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3197650/korovci.html"
+                  key="KOROVCI, 68">Korovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>286</cell>
+            <cell>Cankova rk., Gornja Slaveča augs.</cell>
+            <cell>Cankova</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName
+                  ref="http://www.geonames.org/10377140/novi-beznovci.html"
+                  corresp="http://www.geonames.org/3204244/beznovci.html BEZNOVCI/097001"
+                  sameAs="BEZNOVCI, 64">Novi Beznovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>53</cell>
+            <cell>Cankova rk., Bodonci augs.</cell>
+            <cell>Cankova</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3190751/skakovci.html"
+                  key="SKAKOVCI, 70">Skakovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>340</cell>
+            <cell>Cankova rk., Bodonci augs.</cell>
+            <cell>Cankova</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3188977/topolovci.html"
+                  key="TOPOLOVCI, 65">Topolovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>160</cell>
+            <cell>Cankova rk., Bodonci augs.</cell>
+            <cell>Cankova</cell>
+          </row>
+        </table>
+
+        <table>
+          <head>3. Občina <placeName ref="http://www.geonames.org/3199948/gornji-petrovci.html"
+              >Gornji Petrovci</placeName></head>
+          <note>Površina: 4.367 ha 74 a 82 m2 - 3.222 preb.</note>
+          <note>PLt: Petrovci, žel. postaj. in žel. T: Petrovci-Križevci 2,5 km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3204867/adrijanci.html"
+                  key="ADRIJANCI, 15">Adrijanci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>392</cell>
+            <cell>Gor. Petrovci rk. in augs.</cell>
+            <cell>Adrijanci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3203725/boreca.html"
+                  key="BOREČA, 10">Boreča</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>265</cell>
+            <cell>Gor. Petrovci rk. in augs.</cell>
+            <cell>Ženavlja</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName
+                  ref="http://www.geonames.org/3199948/gornji-petrovci.html"
+                  key="GORNJI PETROVCI, 14">Gornji Petrovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog-posta_pogodben.png"/>, <graphic
+                url="s-telefon.png"/> Lt (Petrovci), <graphic
+                url="s-obesalo_krivo-brzojav_zelezniski.png"/>, <graphic url="s-vlak.png"/> postaj.
+              in tov. (Petrovci-Križevci)</cell>
+            <cell>405</cell>
+            <cell>Gor. Petrovci rk. in augs.</cell>
+            <cell>Gor. Petrovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3196121/lucova.html"
+                  key="LUCOVA, 7">Lucova</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>207</cell>
+            <cell>Gor. Petrovci rk. in augs.</cell>
+            <cell>Šulinci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3195427/martinje.html"
+                  key="MARTINJE, 9">Martinje</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>255</cell>
+            <cell>Gor. Petrovci rk., Gor. Slaveča augs.</cell>
+            <cell>Trdkova</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3194530/neradnovci.html"
+                  key="NERADNOVCI, 8">Neradnovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>303</cell>
+            <cell>Gor. Petrovci rk. in augs.</cell>
+            <cell>Ženavlja</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3193459/peskovci.html"
+                  key="PESKOVCI, 16">Peskovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>183</cell>
+            <cell>Križevci v Prekmurju augs.</cell>
+            <cell>Šalovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3190038/stanjevci.html"
+                  key="STANJEVCI, 13">Stanjovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-vlak.png"/> postaj.</cell>
+            <cell>453</cell>
+            <cell>Gor. Petrovci rk. in augs.</cell>
+            <cell>Stanjovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3189526/sulinci.html"
+                  key="ŠULINCI, 12">Šulinci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>427</cell>
+            <cell>Gor. Petrovci rk. in augs.</cell>
+            <cell>Šulinci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3186575/zenavlje.html"
+                  key="ŽENAVLJE, 11">Ženavlja</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>332</cell>
+            <cell>Gor. Petrovci rk. in augs.</cell>
+            <cell>Ženavlja</cell>
+          </row>
+        </table>
+
+        <table>
+          <head>4. Občina Grad</head>
+          <head>(sedež: <placeName ref="http://www.geonames.org/3199765/grad.html">Gornja
+              Lendava</placeName>)</head>
+          <note>Površina: 4.083 ha 47 a 67 m2 - 4.368 preb.</note>
+          <note>PLt: Gornja Lendava, žel. post.: Gornja Lendava-Mačkovci - 11,5km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName
+                  ref="http://www.geonames.org/3201766/dolnji-slaveci.html" key="DOLNJI SLAVEČI, 37"
+                  >Dolnja Slaveča</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>812</cell>
+            <cell>Sveti Jurij v Prekmurju rk.,<note>Sedež: Sveti Jurij.</note> Gor. Slaveča
+              augs.</cell>
+            <cell>Dolnja Slaveča</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3199765/grad.html"
+                  key="GRAD, 38">Gornja Lendava</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog-posta_pogodben.png"/>, <graphic
+                url="s-telefon.png"/> Lt</cell>
+            <cell>1020</cell>
+            <cell>Gornja Lendava rk., Gor. Slaveča augs.</cell>
+            <cell>Gornja Lendava</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3197523/kovacevci.html"
+                  key="KOVAČEVCI, 43">Kovačovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>243</cell>
+            <cell>Gornja Lendava rk., Gor. Slaveča augs.</cell>
+            <cell>Vidonci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/8989481/kruplivnik.html"
+                  key="KRUPLIVNIK, 46">Kruplivnik</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>462</cell>
+            <cell>Gornja Lendava rk., Bodonci augs.</cell>
+            <cell>Kruplivnik</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3193772/otovci.html"
+                  key="OTOVCI, 40">Otovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>463</cell>
+            <cell>Gornja Lendava rk., Križevci v Prekmurju augs.</cell>
+            <cell>Vidonci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3192071/radovci.html"
+                  key="RADOVCI, 45">Radovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>499</cell>
+            <cell>Gornja Lendava rk., Bodonci augs.</cell>
+            <cell>Gornja Lendava</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3187801/vidonci.html"
+                  key="VIDONCI, 39">Vidonci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>869</cell>
+            <cell>Gornja Lendava rk., Gor. Slaveča augs.</cell>
+            <cell>Vidonci</cell>
+          </row>
+        </table>
+
+        <table>
+          <head>5. Občina <placeName ref="http://www.geonames.org/3197229/krizevci.html">Križevci v
+              Prekmurju</placeName></head>
+          <note>Površina: 4.780 ha 80 a 75 m2 - 3.092 preb.</note>
+          <note>PLt: Križevci v Prekmurju, žel. post.: Petrovci-Križevci - 3,5 km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3201736/domanjsevci.html"
+                  key="DOMANJŠEVCI, 19">Domanjšovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>642</cell>
+            <cell>Kančovci rk., Domanjšovci augs.</cell>
+            <cell>Domanjšovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3198352/kancevci.html"
+                  key="KANČEVCI, 82">Kančovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>230</cell>
+            <cell>Kančovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Kančovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/10377393/kosarovci.html"
+                  key="KOŠAROVCI, 57">Košarovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>144</cell>
+            <cell>Kančovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Križevci v Prekmurju</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3197229/krizevci.html"
+                  key="KRIŽEVCI, 20">Križevci v Prekmurju</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog_s_kapico-posta_drzavna.png"/>,
+                <graphic url="s-telefon.png"/> Lt</cell>
+            <cell>971</cell>
+            <cell>Gor. Petrovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Križevci v Prekmurju</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3197000/kukec.html"
+                  key="KUKEČ, 22">Kukeč</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>269</cell>
+            <cell>Kančovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Kančovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3196881/kustanovci.html"
+                  key="KUŠTANOVCI, 56">Kuštanovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>416</cell>
+            <cell>Kančovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Križevci v Prekmurju</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3196226/loncarovci.html"
+                  key="LONČAROVCI, 83">Lončarovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>235</cell>
+            <cell>Kančovci rk., Domanjšovci augs.</cell>
+            <cell>Domanjšovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3193649/panovci.html"
+                  key="PANOVCI, 21">Panovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>185</cell>
+            <cell>Kančovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Križevci v Prekmurju</cell>
+          </row>
+        </table>
+
+        <table>
+          <head>6. Občina <placeName ref="http://www.geonames.org/3196911/kupsinci.html"
+              >Kupšinci</placeName></head>
+          <note>Površina: 1.717 ha 34 a 10 m2 - 1.512 preb.</note>
+          <note>PLt: Murska Sobota, žel. post.: Murska Sobota - 4,7 km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3203723/borejci.html"
+                  key="BOREJCI, 116">Borejci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>292</cell>
+            <cell>Murska Sobota rk. in augs.</cell>
+            <cell>Kupšinci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3202700/cernelavci.html"
+                  key="ČERNELAVCI, 111">Črnelavci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>374</cell>
+            <cell>Murska Sobota rk. in augs.</cell>
+            <cell>Murska Sobota</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3196911/kupsinci.html"
+                  key="KUPŠINCI, 113">Kupšinci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>364</cell>
+            <cell>Tišina rk., Murska Sobota augs.</cell>
+            <cell>Kupšinci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3192844/polana.html"
+                  key="POLANA, 110">Polana</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>207</cell>
+            <cell>Murska Sobota rk., Puconci augs.</cell>
+            <cell>Predanovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3187838/vescica.html"
+                  key="VEŠČICA, 112">Veščica</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>275</cell>
+            <cell>Murska Sobota rk. in augs.</cell>
+            <cell>Kupšinci</cell>
+          </row>
+        </table>
+
+        <table>
+          <head>7. Občina <placeName ref="http://www.geonames.org/3196842/kuzma.html"
+              >Kuzma</placeName></head>
+          <note>Površina: 2.289 ha 86 a 61.m2 - 2.883 preb.</note>
+          <note>PLt: Gornja Lendava, žel. post.: Gornja Lendava-Mačkovci - 15,0 km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3201803/dolic.html"
+                  key="DOLIČ, 25">Dolič</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>754</cell>
+            <cell>Gornja Lendava rk., Gor. Slaveča augs.</cell>
+            <cell>Kuzma</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName
+                  ref="http://www.geonames.org/3199921/gornji-slaveci.html" key="GORNJI SLAVEČI, 27"
+                  >Gornja Slaveča</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>647</cell>
+            <cell>Sveti Jurij v Prekmurju rk.,<note>Sedež: Sveti Jurij.</note> Gor. Slaveča
+              augs.</cell>
+            <cell>Gor. Slaveča</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3196842/kuzma.html"
+                  key="KUZMA, 26">Kuzma</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>549</cell>
+            <cell>Gornja Lendava rk., Gor. Slaveča augs.</cell>
+            <cell>Kuzma</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3195370/matjasevci.html"
+                  key="MATJAŠEVCI, 24">Matjašovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>342</cell>
+            <cell>Gornja Lendava rk., Gor. Slaveča augs.</cell>
+            <cell>Kuzma</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3188907/trdkova.html"
+                  key="TRDKOVA, 23">Trdkova</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>591</cell>
+            <cell>Gornja Lendava rk., Gor. Slaveča augs.</cell>
+            <cell>Trdkova</cell>
+          </row>
+        </table>
+        <table>
+          <head>8. Občina <placeName key="http://www.geonames.org/3195417/martjanci.html"
+              >Martjanci</placeName></head>
+          <note>Površina: 5.211 ha 37 a 5 m2 — 3.529 preb.</note>
+          <note>PLt: Martjanci, žel. post.: Murska Sobota — 4,3km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3204820/andrejci.html"
+                  key="ANDREJCI, 91">Andrejci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>317</cell>
+            <cell>Kančovci rk., Puconci augs.</cell>
+            <cell>Andrejci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3197187/krnci.html"
+                  key="KRNCI, 80">Krnci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>115</cell>
+            <cell>"</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3196088/lukacevci.html"
+                  key="LUKAČEVCI, 103">Lukačovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>51</cell>
+            <cell>Martjanci rk., Murska Sobota augs.</cell>
+            <cell>Martjanci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3195417/martjanci.html"
+                  key="MARTJANCI, 107">Martjanci</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog-posta_pogodben.png"/>, <graphic
+                url="s-telefon.png"/> Lt</cell>
+            <cell>347</cell>
+            <cell>"</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3194981/mlajtinci.html"
+                  key="MLAJTINCI, 102">Mlajtinci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>217</cell>
+            <cell>"</cell>
+            <cell>Tešanovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName
+                  ref="http://www.geonames.org/3194871/moravske-toplice.html" key="MORAVCI, 92"
+                  >Moravci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>646</cell>
+            <cell>Martjanci rk., Moravci augs.</cell>
+            <cell>Moravci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3194546/nemcavci.html"
+                  key="NEMČAVCI, 108">Nemčavci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>211</cell>
+            <cell>Martjanci rk., Murska Sobota augs.</cell>
+            <cell>Martjanci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3194468/norsinci.html"
+                  key="NORŠINCI, 106">Noršinci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>282</cell>
+            <cell>"</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3191196/sebeborci.html"
+                  key="SEBEBORCI, 78">Sebeborci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>529</cell>
+            <cell>Martjanci rk., Puconci augs.</cell>
+            <cell>Sebeborci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3189145/tesanovci.html"
+                  key="TEŠANOVCI, 93">Tešanovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>814</cell>
+            <cell>Martjanci rk., Moravci augs.</cell>
+            <cell>Tešanovci</cell>
+          </row>
+        </table>
+        <table>
+          <head>9. Občina <placeName ref="http://www.geonames.org/3194648/murska-sobota.html">Murska
+              Sobota</placeName></head>
+          <note>Površina: 1.599 ha 77 a 55 m2 — 3.571 preb.</note>
+          <note>PTt in žel. post.: Murska Sobota - 0,5 km, avtobus.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName
+                  ref="http://www.geonames.org/3194648/murska-sobota.html" key="MURSKA SOBOTA, 105"
+                  >Murska Sobota</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog_s_kapico-posta_drzavna.png"/>,
+                <graphic url="s-obesalo_ravno-brzojav.png"/>, <graphic url="s-telefon.png"/>,
+                <graphic url="s-vlak.png"/>, avt. post.</cell>
+            <cell>3571</cell>
+            <cell>Murska Sobota rk. in augs.</cell>
+            <cell>Murska Sobota</cell>
+          </row>
+        </table>
+        <table>
+          <head>10. Občina Murska Sobota-okolica</head>
+          <head>(sedež: <placeName ref="http://www.geonames.org/3194648/murska-sobota.html">Murska
+              Sobota</placeName>)</head>
+          <note>Površina: 3.372 ha — a 37 m2 — 3.104 preb.</note>
+          <note>PTt in žel post.: Murska Sobota — 0,5km, avtobus (v Murski Soboti).</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3204598/bakovci.html"
+                  key="BAKOVCI, 128">Bakovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>1140</cell>
+            <cell>Murska Sobota rk. in augs.</cell>
+            <cell>Bakovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3197164/krog.html"
+                  key="KROG, 127">Krog</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>801</cell>
+            <cell>"</cell>
+            <cell>Krog</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3194646/murski-crnci.html"
+                  key="MURSKI ČRNCI, 125">Murski Črnci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>294</cell>
+            <cell>"</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3192019/rakican.html"
+                  key="RAKIČAN, 104">Rakičan</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>571</cell>
+            <cell>"</cell>
+            <cell>Murska Sobota</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3191251/satahovci.html"
+                  key="SATAHOVCI, 126">Satahovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>298</cell>
+            <cell>"</cell>
+            <cell>Krog</cell>
+          </row>
+        </table>
+        <table>
+          <head>11. Občina <placeName ref="http://www.geonames.org/3193553/pecarovci.html"
+              >Pečarovci</placeName></head>
+          <note>Površina: 4.070 ha 78 a 26 m2 — 2.836 preb.</note>
+          <note>PLt: Mačkovci, žel. postaj.: Moštjanci-Vaneča — 2,7km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3203770/bokraci.html"
+                  key="BOKRAČI, 79">Bokrači</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>155</cell>
+            <cell>Kančovci rk., Puconci augs.</cell>
+            <cell>Andrejci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3202190/dankovci.html"
+                  key="DANKOVCI, 55">Dankovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>242</cell>
+            <cell>Pečarovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Moščanci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3201798/dolina.html"
+                  key="DOLINA, 58">Dolina</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>218</cell>
+            <cell>Pečarovci rk., Puconci augs.</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3214824/mackovci.html"
+                  key="MAČKOVCI, 41">Mačkovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog-posta_pogodben.png"/>, <graphic
+                url="s-telefon.png"/> Lt, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"/> in
+                <graphic url="s-vlak.png"/> (Gornja Lendava-Mačkovci)</cell>
+            <cell>196</cell>
+            <cell>Pečarovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Mačkovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3194860/moscanci.html"
+                  key="MOŠČANCI, 59">Moščanci</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-vlak.png"/> postaj.
+              (Moštjanci-Vaneča)</cell>
+            <cell>311</cell>
+            <cell>Pečarovci rk., Puconci augs.</cell>
+            <cell>Moščanci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3193553/pecarovci.html"
+                  key="PEČAROVCI, 54">Pečarovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>640</cell>
+            <cell>"</cell>
+            <cell>Pečarovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3192613/poznanovci.html"
+                  key="POZNANOVCI, 44">Poznanovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>334</cell>
+            <cell>Pečarovci rk., Bodonci augs.</cell>
+            <cell>Mačkovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3192300/prosecka-vas.html"
+                  key="PROSEČKA VAS, 42">Prosečka vas</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>310</cell>
+            <cell>Pečarovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3191342/salamenci.html"
+                  key="ŠALAMENCI, 61">Šalamenci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>430</cell>
+            <cell>Pečarovci rk., Puconci augs.</cell>
+            <cell>Puconci</cell>
+          </row>
+        </table>
+        <table>
+          <head>12. Občina <placeName ref="http://www.geonames.org/3193481/pertoca.html"
+              >Pertoča</placeName></head>
+          <note>Površina: 2.866 ha 39 a 74 m2— 3.581 preb.</note>
+          <note>PLt: Rogaševci, žel. post.: Murska Sobota — 22,5 km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3200848/fiksinci.html"
+                  key="FIKŠINCI, 35">Fikšinci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>362</cell>
+            <cell>Sveti Jurij v Prekmurju rk.,<note n="1">Sedež: Sveti Jurij</note> Gor. Slaveča
+              augs.</cell>
+            <cell>Fikšinci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3200674/gerlinci.html"
+                  key="GERLINCI, 50">Gerlinci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>697</cell>
+            <cell>Pertoča rk., Gor. Slaveča augs.</cell>
+            <cell>Gerlinci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3197357/krasci.html"
+                  key="KRAŠČI, 51">Krašči</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>424</cell>
+            <cell>"</cell>
+            <cell>Pertoča</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3194803/motovilci.html"
+                  key="MOTOVILCI, 47">Motovilci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>415</cell>
+            <cell>Gornja Lendava rk., Gor. Slaveča augs.</cell>
+            <cell>Kruplivnik</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3193481/pertoca.html"
+                  key="PERTOČA, 48">Pertoča</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>605</cell>
+            <cell>Pertoča rk., Gor. Slaveča augs.</cell>
+            <cell>Pertoča</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3191546/ropoca.html"
+                  key="ROPOČA, 49">Ropoča</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>391</cell>
+            <cell>Pertoča rk., Gor. Slaveča augs.</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3188340/veceslavci.html"
+                  key="VEČESLAVCI, 36">Večeslavci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>687</cell>
+            <cell>"</cell>
+            <cell>"</cell>
+          </row>
+        </table>
+        <table>
+          <head>13. Občina <placeName ref="http://www.geonames.org/3192230/puconci.html"
+              >Puconci</placeName></head>
+          <note>Površina: 3.036 aa 22 a 97 m2 — 2.399 preb.</note>
+          <note>PLt: Puconci, žel. postaj. in žel. T: Puconci — 0,5 km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3203353/brezovci.html"
+                  key="BREZOVCI, 74">Brezovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>325</cell>
+            <cell>Cankova rk., Puconci augs.</cell>
+            <cell>Brezovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3200332/gorica.html"
+                  key="GORICA, 76">Gorica</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>367</cell>
+            <cell>Martjanci rk., Puconci augs.</cell>
+            <cell>Puconci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3196687/lemerje.html"
+                  key="LEMERJE, 73">Lemerje</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>369</cell>
+            <cell>Cankova rk., Puconci augs.</cell>
+            <cell>Brezovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3195468/markisavci.html"
+                  key="MARKIŠAVCI, 109">Markišavci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>200</cell>
+            <cell>Martjanci rk., Puconci augs.</cell>
+            <cell>Puconci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3192564/predanovci.html"
+                  key="PREDANOVCI, 75">Predanovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>235</cell>
+            <cell>"</cell>
+            <cell>Predanovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="Puconci" key="PUCONCI, 77"
+                >Puconci</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog-posta_pogodben.png"/>, <graphic
+                url="s-telefon.png"/> Lt, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"/>,
+                <graphic url="s-vlak.png"/> postaj. in tov.</cell>
+            <cell>506</cell>
+            <cell>"</cell>
+            <cell>Puconci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3188389/vaneca.html"
+                  key="VANEČA, 60">Vaneča</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>397</cell>
+            <cell>Pečarovci rk., Puconci augs.</cell>
+            <cell>"</cell>
+          </row>
+        </table>
+        <table>
+          <head>14. Občina <placeName ref="http://www.geonames.org/3191579/rogasovci.html"
+              >Rogaševci</placeName></head>
+          <note>Površina: 2.415ha — a 44 m2 — 3.661 preb.</note>
+          <note>PLt: Rogaševci, žel. post.: Murska Sobota — 25,7 km, avtobus.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3197380/kramarovci.html"
+                  key="KRAMAROVCI, 31">Kramarovci</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>249</cell>
+            <cell>Sveti Jurij v Prekmurju rk.,<note>Sedež: Sveti Jurij.</note> Gor. Slaveča
+              augs.</cell>
+            <cell>Kramarovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3194311/nuskova.html"
+                  key="NUSKOVA, 32">Nuskova</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>482</cell>
+            <cell>"</cell>
+            <cell>Sveti Jurij</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3194219/ocinje.html"
+                  key="OCINJE, 30">Ocinje</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>326</cell>
+            <cell>"</cell>
+            <cell>Kramarovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3191579/rogasovci.html"
+                  key="ROGAŠOVCI, 33">Rogaševci</placeName></hi>
+              <graphic url="s-krog-vas.png"/>, <graphic url="s-rog-posta_pogodben.png"/>, <graphic
+                url="s-telefon.png"/> Lt, avt. post.</cell>
+            <cell>511</cell>
+            <cell>"</cell>
+            <cell>Sveti Jurij</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3190991/serdica.html"
+                  key="SERDICA, 29">Serdica</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>769</cell>
+            <cell>"</cell>
+            <cell>Serdica</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/10377744/sotina.html"
+                  key="SOTINA, 28">Sotina</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>629</cell>
+            <cell>"</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/8986920/sveti-jurij.html"
+                  key="SVETI JURIJ, 34">Sveti Jurij</placeName></hi>
+              <graphic url="s-krog-vas.png"/></cell>
+            <cell>695</cell>
+            <cell>"</cell>
+            <cell>Sveti Jurij</cell>
+          </row>
+        </table>
+        <table>
+          <head>15. Občina <placeName ref="http://www.geonames.org/3191086/selo.html">Selo v Prekmurju</placeName></head>
+          <note>Površina: 5.342 ha 81 a 16 m2 — 3.266 preb.</note>
+          <note>PLt: Prosenjakovci, žel. post.: Murska Sobota — 14,8 km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3204270/berkovci.html" key="BERKOVCI, 85">Berkovci</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>120</cell>
+            <cell>Kančovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Prosenjakovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3202599/cikecka-vas.html" key="ČIKEČKA VAS, 95">Čikečka vas</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>215</cell>
+            <cell>Kančovci rk., Domanjšovci augs.</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3200826/fokovci.html" key="FOKOVCI, 90">Fokovci</placeName></hi> <graphic url="s-krog-vas.png"/>, <graphic url="s-pismo-posta_pomozna.png"
+              /></cell>
+            <cell>377</cell>
+            <cell>Kančovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Fokovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3199046/ivanovci.html" key="IVANOVCI, 81">Ivanovci</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>306</cell>
+            <cell>"</cell>
+            <cell>Kančovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3199057/ivanjsevci.html" key="IVANJŠEVCI, 86">Ivanjšovci</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>124</cell>
+            <cell>Kančovci rk., Domanjšovci augs.</cell>
+            <cell>Domanjšovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3192701/pordasinci.html" key="PORDAŠINCI, 96">Pordašinci</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>89</cell>
+            <cell>Kančovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Prosenjakovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3192296/prosenjakovci.html" key="PROSENJAKOVCI, 88">Prosenjakovci</placeName></hi> <graphic url="s-krog-vas.png"/>, <graphic
+                url="s-rog-posta_pogodben.png"/>, <graphic url="s-telefon.png"/> Lt</cell>
+            <cell>401</cell>
+            <cell>Kančovci rk., Domanjšovci augs.</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/8989850/ratkovci.html" key="RATKOVCI, 84">Ratkovci</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>161</cell>
+            <cell>Kančovci rk., Križevci v Prekmurju augs.</cell>
+            <cell>Fokovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3191086/selo.html" key="SELO, 89">Selo v Prekmurju</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>662</cell>
+            <cell>"</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3190151/sredisce.html" key="SREDIŠČE, 87">Središče</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>191</cell>
+            <cell>Kančovci rk., Domanjšovci augs.</cell>
+            <cell>Domanjšovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3187090/vucja-gomila.html" key="VUČJA GOMILA, 94">Vučja gomila</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>620</cell>
+            <cell>Kančovci in Martjanci rk., Moravci augs.</cell>
+            <cell>Vučja gomila</cell>
+          </row>
+        </table>
+        <table>
+          <head>16. Občina <placeName ref="http://www.geonames.org/3191329/salovci.html">Šalovci</placeName></head>
+          <note>Površina: 6.473 ha 45 a 3 m2— 3.737 preb.</note>
+          <note>PLt: Šalovci, žel. postaj. in žel. T.: Šalovci— 0,5 km.</note>
+          <row role="label">
+            <cell>Katastrska (davčna) občina in kraj</cell>
+            <cell>Preb. 1931</cell>
+            <cell>Župnija</cell>
+            <cell>Ljudska šola</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3203125/budinci.html" key="BUDINCI, 4">Budinci</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>318</cell>
+            <cell>Veliki Dolenci rk., Gor. Petrovci augs.</cell>
+            <cell>Budinci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3202742/cepinci.html" key="ČEPINCI, 6">Čepinci</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>747</cell>
+            <cell>Markovci rk., Gor. Petrovci augs.</cell>
+            <cell>Markovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3199361/hodos.html" key="HODOŠ, 1">Hodoš</placeName></hi> <graphic url="s-krog-vas.png"/>, <graphic url="s-rog-posta_pogodben.png"/>,
+                <graphic url="s-telefon.png"/> Lt, <graphic
+                url="s-obesalo_krivo-brzojav_zelezniski.png"/> in <graphic url="s-vlak.png"/></cell>
+            <cell>471</cell>
+            <cell>Veliki Dolenci rk., Hodoš augs.</cell>
+            <cell>Hodoš</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3197161/krplivnik.html" key="KRPLIVNIK, 18">Krplivnik</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>240</cell>
+            <cell>"</cell>
+            <cell>"</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="">Mali Dolenci</placeName></hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>156</cell>
+            <cell>"</cell>
+            <cell>Veliki Dolenci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold">Markovci</hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>558</cell>
+            <cell>Markovci rk., Gor. Petrovci augs.</cell>
+            <cell>Markovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold"><placeName ref="http://www.geonames.org/3191329/salovci.html" key="ŠALOVCI, 17">Šalovci</placeName></hi> <graphic url="s-krog-vas.png"/>, <graphic url="s-rog-posta_pogodben.png"
+              />, <graphic url="s-telefon.png"/> Lt, <graphic
+                url="s-obesalo_krivo-brzojav_zelezniski.png"/>, <graphic url="s-vlak.png"/> postaj. in tov.</cell>
+            <cell>875</cell>
+            <cell>Veliki Dolenci rk., Hodoš augs.</cell>
+            <cell>Šalovci</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold">Veliki Dolenci</hi> <graphic url="s-krog-vas.png"/></cell>
+            <cell>372</cell>
+            <cell>"</cell>
+            <cell>Veliki Dolenci</cell>
+          </row>
+        </table>
+
+      </div>
+    </body>
+  </text>
+</TEI>
