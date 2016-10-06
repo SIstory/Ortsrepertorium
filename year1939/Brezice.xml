@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>1. Okraj Brežice</head>
+            <table>
+               <head>1. Občina Artiče</head>
+               <note>Površina: 1.726 ha 73 a 12 m2 - 1.914 preb.</note>
+               <note>PLt: Artiče. T: Brežice, žel. post.: Brežice - 5.0 km</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Arnovo selo</hi>
+                     <graphic url="s-krog-vas.png"/></cell>
+                  <cell>318</cell>
+                  <cell>Artiče</cell>
+                  <cell>Artiče</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Artiče</hi></cell>
+                  <cell>336</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Artiče <graphic url="s-krog-vas.png"/>, <graphic
+                        url="s-rog-posta_pogodben.png"/>,<graphic url="s-telefon.png"/>, Lt</cell>
+                  <cell>209</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Glogov brod</cell>
+                  <cell>127</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Brezina II</hi></cell>
+                  <cell>221</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Trebež</cell>
+                  <cell>221</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Curnovec II</hi></cell>
+                  <cell>79</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Curnovec (2. del)</cell>
+                  <cell>79</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Dečna sela</hi></cell>
+                  <cell>312</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Dolenja vas</hi></cell>
+                  <cell>412</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Dolenja vas</cell>
+                  <cell>288</cell>
+                  <cell>Artiče in Videm ob Savi</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Spodnja Pohanca</cell>
+                  <cell>131</cell>
+                  <cell>Artiče</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Št. Lenart II</hi></cell>
+                  <cell>41</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Zverinjak <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>41</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Volčje II</hi></cell>
+                  <cell>30</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Volčje (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>30</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Zgornji Obrež <graphic url="s-krog-vas.png"></graphic></hi></cell>
+                  <cell>158</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+            </table>
+            <table>
+               <head>2. Občina Bizeljsko</head>
+               <head>(sedež: Spodnja Sušica)</head>
+               <note>Površina: 3.067 ha 69 a 87 m2 - 3.313 preb.</note>
+               <note>PLt: Bizeljsko, T: Pišece, žel. post.: Brežice - 19.5 km in žel. post.: Dobova
+                  - 15.5 km, avtobus</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Brezovica</hi>
+                     <graphic url="s-krog-vas.png"/></cell>
+                  <cell>308</cell>
+                  <cell>Bizeljsko</cell>
+                  <cell>Zgor. Sušica</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Bukovje</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>199</cell>
+                  <cell>"</cell>
+                  <cell>Zgor. Sušica in Orešje</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Drenovec</hi></cell>
+                  <cell>520</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Bračna vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>111</cell>
+                  <cell>"</cell>
+                  <cell>Zgor. Sušica</cell>
+               </row>
+               <row>
+                  <cell>Drenovec <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>306</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Nova vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>103</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Orešje</hi></cell>
+                  <cell>539</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Bizeljska vas <graphic url="s-krog-vas.png"></graphic>, avt. post. (Bizeljsko)</cell>
+                  <cell>155</cell>
+                  <cell>"</cell>
+                  <cell>Orešje</cell>
+               </row>
+               <row>
+                  <cell>Orešje <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>384</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Stara vas</hi></cell>
+                  <cell>611</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Gregovce <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>141</cell>
+                  <cell>"</cell>
+                  <cell>Stara vas</cell>
+               </row>
+               <row>
+                  <cell>Stara vas <graphic url="s-krog-vas.png"></graphic> <graphic url=" s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>470</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Sušica</hi></cell>
+                  <cell>752</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Spodnja Sušica <graphic url="s-krog-vas.png"></graphic>, avt. post.</cell>
+                  <cell>216</cell>
+                  <cell>"</cell>
+                  <cell>Zgor. Sušica</cell>
+               </row>
+               <row>
+                  <cell>Zgornja Sušica <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Bizeljsko)</cell>
+                  <cell>536</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Vitna vas</hi></cell>
+                  <cell>384</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Dramlje <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>199</cell>
+                  <cell>"</cell>
+                  <cell>Stara vas</cell>
+               </row>
+               <row>
+                  <cell>Vitna vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>185</cell>
+                  <cell>"</cell>
+                  <cell>Zgor. Sušica</cell>
+               </row>
+            </table>
+            <table>
+               <head>2. Občina Blanca</head>
+               <note>Površina: 4.731 ha 93 a 16 m2 - 3.211 preb.</note>
+               <note>PLt: Blanca, T: Rajhenburg, žel. izogib. Blanca - 0.5 km</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Blanca <graphic url="s-krog-vas.png"></graphic> <graphic url="s-rog-posta_pogodben.png"></graphic> <graphic url="s-telefon.png"></graphic> Lt <graphic url="s-vlak.png"></graphic></hi> izog.</cell>
+                  <cell>259</cell>
+                  <cell>Rajhenburg</cell>
+                  <cell>Blanca</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Brezovo</hi></cell>
+                  <cell>332</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Pečje <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>111</cell>
+                  <cell>Sevnica</cell>
+                  <cell>Sevnica</cell>
+               </row>
+               <row>
+                  <cell>Spodnje Brezovo <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>116</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Zgornje Brezovo <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>105</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Dolenji Leskovec <graphic url="s-krog-vas.png"></graphic></hi></cell>
+                  <cell>398</cell>
+                  <cell>Rajhenburg</cell>
+                  <cell>Rajhenburg in Senovo</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Kladje <graphic url="s-krog-vas.png"></graphic></hi></cell>
+                  <cell>166</cell>
+                  <cell>"</cell>
+                  <cell>Blanca</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Krajna brda <graphic url="s-krog-vas.png"></graphic></hi></cell>
+                  <cell>113</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Leskovec <graphic url="s-krog-vas.png"></graphic></hi></cell>
+                  <cell>159</cell>
+                  <cell>"</cell>
+                  <cell>Sveti Anton</cell>
+               </row>
+               <row>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+            </table>
+
+
+
+
+
+         </div>
+      </body>
+   </text>
+</TEI>
