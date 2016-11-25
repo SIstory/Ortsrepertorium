@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+            <head>7. Okraj Kočevje</head>
+            <table>
+               <head>1. Občina Dolenja vas</head>
+               <note>Površina: 4.342 ha 3 a 27 m2 - 1.934 preb.</note>
+               <note>PLt: Dolenja vas pri Ribnici, žel. post.: Lipovec - 3.5 km.</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Dolenja vas</hi></cell>
+                  <cell>733</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Dolenja vas <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Dolenja vas pri Ribnici)</cell>
+                  <cell>631</cell>
+                  <cell>Dolenja vas</cell>
+                  <cell>Dolenja vas</cell>
+               </row>
+               <row>
+                  <cell>Lipovec <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj.</cell>
+                  <cell>85</cell>
+                  <cell>Ribnica na Dolenjskem</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Makoše <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>17</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Grčarice</hi></cell>
+                  <cell>305</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Grčarice <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>258</cell>
+                  <cell>Grčarice</cell>
+                  <cell>Grčarice</cell>
+               </row>
+               <row>
+                  <cell>Grčarske Ravne <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>47</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Prigorica</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>465</cell>
+                  <cell>Dolenja vas</cell>
+                  <cell>Dolenja vas</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Rakitnica</hi></cell>
+                  <cell>431</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Blata <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>52</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Kot <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>22</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Rakitnica <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>357</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+            </table>
+            <table>
+               <head>2. Občina Fara</head>
+               <note>Površina: 5.222 ha 84 a 14 m2 - 2.234 preb.</note>
+               <note>PT: Fara pri Kočevju, žel. post.: Kočevje - 29.7 km in Brod Moravice - 10.0 km.</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Banja Loka</hi></cell>
+                  <cell>450</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Banja Loka <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>196</cell>
+                  <cell>Banja Loka</cell>
+                  <cell>Banja Loka</cell>
+               </row>
+               <row>
+                  <cell>Briga <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>15</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Drežnik <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>37</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Jasenov vrt <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>48</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Nova sela <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic> (Nova sela pri Kočevju)</cell>
+                  <cell>117</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Puc <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>13</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Rake <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>6</cell>
+                  <cell>Fara pri Kostelu</cell>
+                  <cell>Fara-Vas</cell>
+               </row>
+               <row>
+                  <cell>Stružnica <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>18</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Fara</hi></cell>
+                  <cell>228</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Fara <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic> (Fara pri Kočevju)</cell>
+                  <cell>101</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Padovo <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>22</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Slavski laz <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>105</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Kuželj</hi></cell>
+                  <cell>353</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Gladloka <graphic url="s-krog-vas.png"/></cell>
+                  <cell>9</cell>
+                  <cell>"</cell>
+                  <cell>Kuželj</cell>
+               </row>
+               <row>
+                  <cell>Grivac <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>80</cell>
+                  <cell>"</cell>
+                  <cell>Fara-Vas</cell>
+               </row>
+               <row>
+                  <cell>Kuželj <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>142</cell>
+                  <cell>"</cell>
+                  <cell>Kuželj</cell>
+               </row>
+               <row>
+                  <cell>Kuželjič <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>14</cell>
+                  <cell>"</cell>
+                  <cell>Fara-Vas</cell>
+               </row>
+               <row>
+                  <cell>Laze-Ograja <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>47</cell>
+                  <cell>"</cell>
+                  <cell>Kuželj</cell>
+               </row>
+               <row>
+                  <cell>Petrina <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>61</cell>
+                  <cell>"</cell>
+                  <cell>Fara-Vas</cell>
+               </row>
+               <row>
+                  <cell>Rački potok <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell> - </cell>
+                  <cell>"</cell>
+                  <cell>Kuželj</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Pirče</hi></cell>
+                  <cell>370</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Hrib <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>17</cell>
+                  <cell>"</cell>
+                  <cell>Fara-Vas</cell>
+               </row>
+               <row>
+                  <cell>Jakšiči <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>38</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Pirče <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>71</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Planina <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>14</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Potok <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>90</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Štajer <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>19</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>121</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Suhor</hi></cell>
+                  <cell>497</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Ajbelj <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>64</cell>
+                  <cell>Banja Loka</cell>
+                  <cell>Banja Loka</cell>
+               </row>
+               <row>
+                  <cell>Gornji potok <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>14</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Kaptol <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>27</cell>
+                  <cell>Banja Loka</cell>
+                  <cell>Banja Loka</cell>
+               </row>
+               <row>
+                  <cell>Kostel <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>37</cell>
+                  <cell>Fara pri Kostelu</cell>
+                  <cell>Kostel</cell>
+               </row>
+               <row>
+                  <cell>Lipovac <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>19</cell>
+                  <cell>Banja Loka</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Lobič-mlin <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>4</cell>
+                  <cell>Fara pri Kostelu</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Matvoz <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>5</cell>
+                  <cell>Banja Loka</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Podstene <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>91</cell>
+                  <cell>"</cell>
+                  <cell>Banja Loka</cell>
+               </row>
+               <row>
+                  <cell>Rajšele <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>44</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Reber <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>7</cell>
+                  <cell>Fara pri Kostelu</cell>
+                  <cell>Kostel</cell>
+               </row>
+               <row>
+                  <cell>Selo <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>12</cell>
+                  <cell>Banja Loka</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Stelnik <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>16</cell>
+                  <cell>Fara pri Kostelu</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Suhor <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>45</cell>
+                  <cell>Banja Loka</cell>
+                  <cell>Banja Loka</cell>
+               </row>
+               <row>
+                  <cell>Vimol <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>16</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Zapuže <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>38</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Žaga <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>51</cell>
+                  <cell>Fara pri Kostelu</cell>
+                  <cell>Kostel</cell>
+               </row>
+               <row>
+                  <cell>Žlebe <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>7</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Vrh</hi></cell>
+                  <cell>336</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Brsnik <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>21</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Colnarji <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>33</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Delač <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>23</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Dren <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>25</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Krkovo <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>51</cell>
+                  <cell>"</cell>
+                  <cell>Fara-Vas</cell>
+               </row>
+               <row>
+                  <cell>Maverc <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>18</cell>
+                  <cell>"</cell>
+                  <cell>Kostel</cell>
+               </row>
+               <row>
+                  <cell>Oskert-Gotenc <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>56</cell>
+                  <cell>"</cell>
+                  <cell>Fara-Vas</cell>
+               </row>
+               <row>
+                  <cell>Poden <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>15</cell>
+                  <cell>"</cell>
+                  <cell>Kostel</cell>
+               </row>
+               <row>
+                  <cell>Sapnik <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>19</cell>
+                  <cell>"</cell>
+                  <cell>Fara-Vas</cell>
+               </row>
+               <row>
+                  <cell>Tišenpolj <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>10</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>65</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+            </table>
+            <table>
+               <head>3. Občina Kočevje</head>
+               <note>Površina: 1.814 ha 80 a 47 m2 - 3.079 preb.</note>
+               <note>PTt: Kočevje, žel. post. in žel. T: Kočevje - 0.8 km, avtobus.</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Kočevje</hi>, mesto, <graphic
+                        url="s-rog_s_kapico-posta_drzavna.png"/>, <graphic
+                        url="s-obesalo_ravno-brzojav.png"/>, <graphic
+                        url="s-obesalo_krivo-brzojav_zelezniski.png"/>, <graphic url="s-telefon.png"
+                     />, <graphic url="s-vlak.png"/>, <graphic url="s-vlak.png"/> (Kočevje tov.),
+                     avt. post.</cell>
+                  <cell>2844</cell>
+                  <cell>Kočevje</cell>
+                  <cell>Kočevje</cell>
+               </row>
+               <row>
+                  <cell> <hi rend="bold">Mahovnik</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>235</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+            </table>
+            <table>
+               <head>4. Občina Kočevje-okolica</head>
+               <head>(sedež: Kočevje)</head>
+               <note>Površina: 10.789 ha 70 a 57 m2 - 3.510 preb.</note>
+               <note>PTt: Kočevje, žel. post. in žel. T: Kočevje - 1.0 km, avtobus (v Kočevju).</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Koblarji</hi></cell>
+                  <cell>427</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Dolnje Ložine <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>53</cell>
+                  <cell>Stara cerkev</cell>
+                  <cell>Stara cerkev</cell>
+               </row>
+               <row>
+                  <cell>Gornje Ložine <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>127</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Koblarji <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>196</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Nove Ložine <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>51</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Livold</hi></cell>
+                  <cell>658</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Dolga vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>395</cell>
+                  <cell>Kočevje</cell>
+                  <cell>Livold</cell>
+               </row>
+               <row>
+                  <cell>Livold <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>263</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Mačkovec</hi></cell>
+                  <cell>233</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Mačkovec <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>94</cell>
+                  <cell>"</cell>
+                  <cell>Onek</cell>
+               </row>
+               <row>
+                  <cell>Onek <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>139</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Mala gora</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>207</cell>
+                  <cell>Stara cerkev</cell>
+                  <cell>Stara cerkev</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Stara cerkev</hi></cell>
+                  <cell>897</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Breg <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>85</cell>
+                  <cell>Stara cerkev</cell>
+                  <cell>Stara cerkev</cell>
+               </row>
+               <row>
+                  <cell>Gorenje <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>141</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Konca vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>75</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Mlaka <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>165</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Slovenska vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>254</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Stara cerkev <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic> (Stara cerkev pri Kočevju), <graphic url="s-vlak.png"></graphic> postaj. in tov. (Stara cerkev pri Kočevju)</cell>
+                  <cell>177</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Željne</hi></cell>
+                  <cell>1088</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Cvišlarji <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>163</cell>
+                  <cell>Kočevje</cell>
+                  <cell>Kočevje</cell>
+               </row>
+               <row>
+                  <cell>Klinja vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>187</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Šalka vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>441</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Željne <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>297</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+            </table>
+            <table>
+               <head>5. Občina Kočevska reka</head>
+               <note>Površina: 14.936 ha 36 a 79 m2 - 2.163 preb.</note>
+               <note>PTt: Kočevska reka, žel. post.: Kočevje - 17.0 km.</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Borovec</hi></cell>
+                  <cell>309</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Borovec <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>127</cell>
+                  <cell>Borovec</cell>
+                  <cell>Borovec</cell>
+               </row>
+               <row>
+                  <cell>Draga <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>7</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Inlauf <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>63</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Pleš <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>37</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Ravne <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>75</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Briga</hi></cell>
+                  <cell>280</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Dolnja Briga <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>146</cell>
+                  <cell>"</cell>
+                  <cell>Dolnja Briga</cell>
+               </row>
+               <row>
+                  <cell>Gornja Briga <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>68</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Preža <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>52</cell>
+                  <cell>Kočevska Reka</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Prežulja <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>14</cell>
+                  <cell>Borovec</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Gotenica</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>317</cell>
+                  <cell>Gotenica</cell>
+                  <cell>Gotenica</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Koče</hi></cell>
+                  <cell>238</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Handlerji <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>83</cell>
+                  <cell>Kočevska Reka</cell>
+                  <cell>Kočevska Reka</cell>
+               </row>
+               <row>
+                  <cell>Koče <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>66</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Mlaka <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>89</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Kočevska Reka</hi></cell>
+                  <cell>428</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Kočevska Reka <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic></cell>
+                  <cell>314</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Spodnji Vecenbah <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>63</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Zgornji Vecenbah <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>51</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Novi lazi</hi></cell>
+                  <cell>370</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Iskrba <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>12</cell>
+                  <cell>"</cell>
+                  <cell>Štalcerji</cell>
+               </row>
+               <row>
+                  <cell>Morava <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>138</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Novi lazi <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>182</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Ograja <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>38</cell>
+                  <cell>"</cell>
+                  <cell>Škrilj</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Štalcerji</hi></cell>
+                  <cell>221</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Rogati hrib <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>108</cell>
+                  <cell>"</cell>
+                  <cell>Štalcerji</cell>
+               </row>
+               <row>
+                  <cell>Štalcerji <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>113</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+            </table>
+            <table>
+               <head>6. Občina Koprivnik</head>
+               <note>Površina: 9.314 ha 67 a 47 m2 - 1.278 preb.</note>
+               <note>PLt: Koprivnik pri Kočevju, žel. post.: Kočevje - 16.0 km.</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Brezje</hi></cell>
+                  <cell>91</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Gorenji Mačkovec <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>9</cell>
+                  <cell>Koprivnik pri Kočevju</cell>
+                  <cell>Koprivnik</cell>
+               </row>
+               <row>
+                  <cell>Laze <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>24</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Staro Brezje <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>58</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Bukova gora</hi></cell>
+                  <cell>199</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Gorenja Bukova gora <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell> - </cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Grodec <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>33</cell>
+                  <cell>"</cell>
+                  <cell>Ovčjak</cell>
+               </row>
+               <row>
+                  <cell>Ovčjak <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>45</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Slaba gorica <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>9</cell>
+                  <cell>Koprivnik pri Kočevju</cell>
+                  <cell>Ovčjak</cell>
+               </row>
+               <row>
+                  <cell>Spodnja Bukova gora <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>63</cell>
+                  <cell>"</cell>
+                  <cell>Koprivnik</cell>
+               </row>
+               <row>
+                  <cell>Srednja Bukova gora <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>26</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Topli vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>23</cell>
+                  <cell>"</cell>
+                  <cell>Ovčjak</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Golobinjek</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>91</cell>
+                  <cell>"</cell>
+                  <cell>Koprivnik</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Hrib</hi></cell>
+                  <cell>190</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Gorenja Loka <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>32</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Hrib <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>152</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Tanči vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>6</cell>
+                  <cell>"</cell>
+                  <cell>Svetli potok</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Koprivnik</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Koprivnik pri Kočevju)</cell>
+                  <cell>291</cell>
+                  <cell>"</cell>
+                  <cell>Koprivnik</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Kumrova vas</hi></cell>
+                  <cell>94</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Kumrova vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>32</cell>
+                  <cell>"</cell>
+                  <cell>Svetli potok</cell>
+               </row>
+               <row>
+                  <cell>Studeno <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>3</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Svetli potok <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                  <cell>59</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Nemška Loka</hi></cell>
+                  <cell>168</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Nemška Loka <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt</cell>
+                  <cell>103</cell>
+                  <cell>Nemška Loka</cell>
+                  <cell>Nemška Loka</cell>
+               </row>
+               <row>
+                  <cell>Prerigel <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>65</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Rajhenav</hi></cell>
+                  <cell>154</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Podstene <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>18</cell>
+                  <cell>Koprivnik pri Kočevju</cell>
+                  <cell>Koprivnik</cell>
+               </row>
+               <row>
+                  <cell>Rajhenav <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>136</cell>
+                  <cell>"</cell>
+                  <cell>Rajhenav</cell>
+               </row>
+            </table>
+            <table>
+               <head>7. Občina Loški potok</head>
+               <note>Površina: 5.303 ha 57 a 97 m2 - 2.497 preb.</note>
+               <note>PTt: Loški potok, žel. post.: Žlebič-Sodražica - 19.2 km, avtobus (v Travniku).</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Hrib</hi></cell>
+                  <cell>845</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Hrib <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic> (Loški potok)</cell>
+                  <cell>475</cell>
+                  <cell>Loški potok</cell>
+                  <cell>Loški potok</cell>
+               </row>
+               <row>
+                  <cell>Srednja vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>126</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Šegova vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>229</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Tabor <graphic url="s-polkrog-zaselek.png"/></cell>
+                  <cell>15</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Retje</hi></cell>
+                  <cell>955</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Mali log <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>315</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Retje <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>640</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Travnik</hi>, avt. post.</cell>
+                  <cell>697</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+            </table>
+            <table>
+               <head>8. Občina Mozelj</head>
+               <note>Površina: 8.513 ha 12 a 83 m2 - 1.718 preb.</note>
+               <note>PT: Mozelj, žel. post.: Kočevje - 9.0 km.</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Črni potok</hi></cell>
+                  <cell>238</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Črni potok <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>136</cell>
+                  <cell>Kočevje</cell>
+                  <cell>Livold</cell>
+               </row>
+               <row>
+                  <cell>Zajčje polje <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>102</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Knežja lipa</hi></cell>
+                  <cell>202</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Knežja lipa <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>122</cell>
+                  <cell>Spodnji log</cell>
+                  <cell>Spodnji log</cell>
+               </row>
+               <row>
+                  <cell>Ramsrigel <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>30</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Remergrund <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>32</cell>
+                  <cell>"</cell>
+                  <cell>Svetli potok</cell>
+               </row>
+               <row>
+                  <cell>Turn <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>18</cell>
+                  <cell>"</cell>
+                  <cell>Spodnji log</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Mozelj</hi></cell>
+                  <cell>534</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Kačji potok <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>74</cell>
+                  <cell>Mozelj</cell>
+                  <cell>Mozelj</cell>
+               </row>
+               <row>
+                  <cell>Kočarji <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>141</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Mozelj <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic></cell>
+                  <cell>265</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Suhi potok <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>54</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Rajndol</hi></cell>
+                  <cell>284</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Rajndol <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>136</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Verderb <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>23</cell>
+                  <cell>"</cell>
+                  <cell>Verdreng</cell>
+               </row>
+               <row>
+                  <cell>Verdreng <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>91</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Zgornji Pokštajn <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>34</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Spodnji log</hi></cell>
+                  <cell>250</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Kozice <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>8</cell>
+                  <cell>Spodnji log</cell>
+                  <cell>Spodnji log</cell>
+               </row>
+               <row>
+                  <cell>Lapinje <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>37</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Spodnja Bilpa <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>23</cell>
+                  <cell>"</cell>
+                  <cell>Laze</cell>
+               </row>
+               <row>
+                  <cell>Spodnji log <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>166</cell>
+                  <cell>"</cell>
+                  <cell>Spodnji log</cell>
+               </row>
+               <row>
+                  <cell>Spodnji Pokštajn <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>16</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold">Škrilj</hi></cell>
+                  <cell>210</cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell>Kuhlarji <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>17</cell>
+                  <cell>Mozelj</cell>
+                  <cell>Škrilj</cell>
+               </row>
+               <row>
+                  <cell>Muha vas <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>47</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Škrilj <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>84</cell>
+                  <cell>"</cell>
+                  <cell>"</cell>
+               </row>
+               <row>
+                  <cell>Turkova draga <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>46</cell>
+                  <cell>"</cell>
+                  <cell>Verdreng</cell>
+               </row>
+               <row>
+                  <cell>Zdihovo <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell>16</cell>
+                  <cell>"</cell>
+                  <cell>Škrilj</cell>
+               </row>
+            </table>
+            <table>
+               <head>9. Občina Ribnica na Dolenjskem</head>
+               <note>Površina: 9.242 ha 53 a 65 m2 - 4.791 preb.</note>
+               <note>PTt: Ribnica na Dolenjskem, žel. post. in žel. T: Ribnica - 0.25 km, avtobus.</note>
+               <row role="label">
+                  <cell>Katastrska (davčna) občina in kraj</cell>
+                  <cell>Preb. 1931</cell>
+                  <cell>Župnija</cell>
+                  <cell>Ljudska šola</cell>
+               </row>
+               <row>
+                  <cell><hi rend="bold"></hi></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row>
+                  <cell> <graphic url="s-krog-vas.png"></graphic></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+            </table>
+         </div>
+      </body>
+  </text>
+</TEI>
