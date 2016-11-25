@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+           <head>8. Okraj Konjice</head>
+           <head>(sedež: Slovenske Konjice)</head>
+           <table>
+              <head>1. Občina Loče</head>
+              <note>Površina: 4.283 ha 17 a 91 m2 - 3.759 preb.</note>
+              <note>PLt: Loče pri Poljčanah, žel. postaj.: Loče - 0.5 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Koble</hi></cell>
+                 <cell>171</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Breg <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>34</cell>
+                 <cell>Loče</cell>
+                 <cell>Loče</cell>
+              </row>
+              <row>
+                 <cell>Koble <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>104</cell>
+                 <cell>Loče in Sveti Jernej pri Ločah</cell>
+                 <cell>Loče in Sveti Jernej</cell>
+              </row>
+              <row>
+                 <cell>Podob <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>33</cell>
+                 <cell>Loče</cell>
+                 <cell>Loče</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Laže</hi></cell>
+                 <cell>516</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Spodnje Laže <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj.</cell>
+                 <cell>201</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>111</cell>
+                 <cell>Sveti Jernej pri Ločah</cell>
+                 <cell>Sveti Jernej</cell>
+              </row>
+              <row>
+                 <cell>Zgornje Laže <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>204</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Ličenca</hi></cell>
+                 <cell>273</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Brezje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>71</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Ličenca <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>202</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Loče</hi></cell>
+                 <cell>527</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Kravjek <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>80</cell>
+                 <cell>Loče in Sveti Jernej pri Ločah</cell>
+                 <cell>Loče in Sveti Jernej</cell>
+              </row>
+              <row>
+                 <cell>Loče <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Loče pri Poljčanah), <graphic url="s-vlak.png"></graphic> postaj. in tov. (Loče)</cell>
+                 <cell>275</cell>
+                 <cell>Loče</cell>
+                 <cell>Loče</cell>
+              </row>
+              <row>
+                 <cell>Mlače <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>172</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Sveti Jernej</hi></cell>
+                 <cell>304</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Kolačno <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>48</cell>
+                 <cell>Sveti Jernej pri Ločah</cell>
+                 <cell>Sveti Jernej</cell>
+              </row>
+              <row>
+                 <cell>Petelinjek <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>51</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Sveti Jernej <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                 <cell>205</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Veliki Lipoglav</hi></cell>
+                 <cell>567</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Klokočovnik <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>188</cell>
+                 <cell>Loče</cell>
+                 <cell>Loče</cell>
+              </row>
+              <row>
+                 <cell>Kraberg <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>102</cell>
+                 <cell>Špitalič</cell>
+                 <cell>Špitalič</cell>
+              </row>
+              <row>
+                 <cell>Suhadol <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>82</cell>
+                 <cell>Loče</cell>
+                 <cell>Loče</cell>
+              </row>
+              <row>
+                 <cell>Veliki Lipoglav <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>195</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Zbelovska gora</hi></cell>
+                 <cell>632</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Penovje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>42</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Podpeč <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>82</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Zbelovo <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj.</cell>
+                 <cell>170</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Zbelovska gora <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>338</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Žiče</hi></cell>
+                 <cell>769</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Draža vas <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj.</cell>
+                 <cell>312</cell>
+                 <cell>Žiče</cell>
+                 <cell>Žiče</cell>
+              </row>
+              <row>
+                 <cell>Žiče <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>457</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>1. Občina Oplotnica</head>
+              <note>Površina: 6.794 ha 13 a 14 m2 - 3.779 preb.</note>
+              <note>PTt: Oplotnica, žel. post.: Slovenske Konjice - 11.0 km, avtobus.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold"></hi></cell>
+                 <cell></cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell></cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+           </table>
+        </div>
+      </body>
+  </text>
+</TEI>
