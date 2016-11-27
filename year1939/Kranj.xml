@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+           <head>9. Okraj Kranj</head>
+           <table>
+              <head>1. Občina Besnica</head>
+              <head>(sedež: Zgornja Besnica)</head>
+              <note>Površina: 3.632 ha 18 a 49 m2 - 1.139 preb.</note>
+              <note>PT: Kranj, žel. post.: Sveti Jošt - 3.2 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Nemilje</hi></cell>
+                 <cell>409</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Jamnik <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>107</cell>
+                 <cell>Selca</cell>
+                 <cell>Podblica</cell>
+              </row>
+              <row>
+                 <cell>Nemilje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>76</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Njivica <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>53</cell>
+                 <cell>Selca</cell>
+                 <cell>Podblica</cell>
+              </row>
+              <row>
+                 <cell>Podblica <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>150</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Rovte pri Nemiljah <graphic url="s-polkrog-zaselek.png"></graphic></cell>
+                 <cell>23</cell>
+                 <cell>"</cell>
+                 <cell>Ovsiše</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Spodnja Besnica</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>223</cell>
+                 <cell>Besnica</cell>
+                 <cell>Besnica</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Sveti Jošt</hi></cell>
+                 <cell>218</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Javornik <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>58</cell>
+                 <cell>Šmartin pri Kranju</cell>
+                 <cell>Sveti Jošt</cell>
+              </row>
+              <row>
+                 <cell>Pševo <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>55</cell>
+                 <cell>Šmartin pri Kranju</cell>
+                 <cell>Sveti Jošt</cell>
+              </row>
+              <row>
+                 <cell>Rakovica <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. (Sveti Jošt)</cell>
+                 <cell>20</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Sveti Jošt <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-cerkveno-bozja_pot.png"></graphic></cell>
+                 <cell>10</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Zabukovje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>75</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Zgornja Besnica</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>289</cell>
+                 <cell>Besnica</cell>
+                 <cell>Besnica</cell>
+              </row>
+           </table>
+           <table>
+              <head>4. Občina Jezersko</head>
+              <head>(sedež: Zgornje Jezersko)</head>
+              <note>Površina: 6.880 ha 67 a 73 m2 - 689 preb.</note>
+              <note>PLt: Jezersko, žel. post.: Kranj - 31.0 km, avtobus.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Spodnje Jezersko</hi> <graphic url="s-krog-vas.png"></graphic>, avt. post. (Fužine)</cell>
+                 <cell>126</cell>
+                 <cell>Jezersko</cell>
+                 <cell>Jezersko</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Zgornje Jezersko</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Jezersko), avt. post.</cell>
+                 <cell>563</cell>
+                 <cell>Sveti Andrej v Ravnem</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>5. Občina Kovor</head>
+              <note>Površina: 1.641 ha 4 a 28 m2 - 1.559 preb.</note>
+              <note>PT: Križe na Gorenjskem, žel. post.: Križe-Golnik - 2.0 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Bistrica</hi></cell>
+                 <cell>863</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Bistrica <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> (Tržič)</cell>
+                 <cell>598</cell>
+                 <cell>Tržič</cell>
+                 <cell>Tržič</cell>
+              </row>
+              <row>
+                 <cell>Brezje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>144</cell>
+                 <cell>Kovor</cell>
+                 <cell>Kovor</cell>
+              </row>
+              <row>
+                 <cell>Popovo <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>26</cell>
+                 <cell>"</cell>
+                 <cell>Lese</cell>
+              </row>
+              <row>
+                 <cell>Vadiče <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>47</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Visoče <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>48</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Kovor</hi></cell>
+                 <cell>541</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Hudo <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>57</cell>
+                 <cell>"</cell>
+                 <cell>Kovor</cell>
+              </row>
+              <row>
+                 <cell>Hušica <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>19</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Kovor <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>392</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Loka <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>73</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Žvirče</hi></cell>
+                 <cell>155</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Brdo <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>13</cell>
+                 <cell>"</cell>
+                 <cell>Ljubno</cell>
+              </row>
+              <row>
+                 <cell>Žvirče <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>142</cell>
+                 <cell>Podbrezje</cell>
+                 <cell>Kovor</cell>
+              </row>
+           </table>
+        </div>
+      </body>
+  </text>
+</TEI>
