@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+           <head>10. Okraj Krško</head>
+           <table>
+              <head>1. Občina Boštanj</head>
+              <note>Površina: 5.024 ha 36 a 58 m2 - 2.406 preb.</note>
+              <note>P: Boštanj, T: Sevnica, žel. postaj.: Boštanj - 0.9 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Boštanj</hi></cell>
+                 <cell>560</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Apnenik <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>90</cell>
+                 <cell>Boštanj</cell>
+                 <cell>Boštanj</cell>
+              </row>
+              <row>
+                 <cell>Boštanj <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic></cell>
+                 <cell>247</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Dolenji Boštanj <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. (Boštanj)</cell>
+                 <cell>219</cell>
+                 <cell>Boštanj</cell>
+                 <cell>Boštanj</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Log</hi></cell>
+                 <cell>569</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Konjsko <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>61</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Laze <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>44</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Log <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>190</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Lukovica <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>161</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Radna <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>113</cell>
+                 <cell>Boštanj</cell>
+                 <cell>Boštanj</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Kompolje</hi></cell>
+                 <cell>635</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Jablanica <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>315</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Kompolje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>123</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Mrtovec <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>73</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Šmarčna <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>124</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Vrh</hi></cell>
+                 <cell>642</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Gaberje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>99</cell>
+                 <cell>Tržišče</cell>
+                 <cell>Tržišče</cell>
+              </row>
+              <row>
+                 <cell>Križ <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>224</cell>
+                 <cell>"</cell>
+                 <cell>Telče in Tržišče</cell>
+              </row>
+              <row>
+                 <cell>Vrh <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. in tov. (Jelovec)</cell>
+                 <cell>319</cell>
+                 <cell>Boštanj</cell>
+                 <cell>Boštanj</cell>
+              </row>
+           </table>
+           <table>
+              <head>2. Občina Bučka</head>
+              <note>Površina: 1.876 ha 36 a 35 m2 - 1.066 preb.</note>
+              <note>P: Bučka, T: Raka, žel. post.: Videm-Krško - 20.7 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold"></hi></cell>
+                 <cell></cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell></cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+           </table>
+        </div>
+      </body>
+  </text>
+</TEI>
