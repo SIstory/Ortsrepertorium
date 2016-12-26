@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+           <table>
+              <head>12. Občina Veržej</head>
+              <note>Površina: 1.211 ha 63 a 88 m2 - 1.235 preb.</note>
+              <note>PT: Križevci pri Ljutomeru, žel. post. in žel. T: Veržej - 1.0 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold"></hi></cell>
+                 <cell></cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold"></hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell></cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell></cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+           </table>
+        </div>
+      </body>
+  </text>
+</TEI>
