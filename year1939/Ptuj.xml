@@ -1,0 +1,2701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+       <div>
+          <head>21. Okraj Ptuj</head>
+          <table>
+             <head>1. Občina Cirkovce</head>
+             <note>Površina: 3.653 ha 45 a 89 m2 - 2.297 preb.</note>
+             <note>PLt: Cirkovce, žel. postaj.: Cirkovce - 1.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Cirkovce</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt</cell>
+                <cell>280</cell>
+                <cell>Cirkovce</cell>
+                <cell>Cirkovce</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Dragonja vas</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>179</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Mihovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>279</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pongerci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>156</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Spodnje Jablane</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. (Cirkovce)</cell>
+                <cell>248</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Starošinci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>227</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Strgonjca</hi> (Stražgojnci) <graphic url="s-krog-vas.png"
+                     /></cell>
+                <cell>407</cell>
+                <cell>"</cell>
+                <cell>Cirkovce in Pragersko</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Šikole</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>364</cell>
+                <cell>"</cell>
+                <cell>Cirkovce</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zgornje Jablane</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>157</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>2. Občina Dornava</head>
+             <note>Površina: 1.497 ha 68 a 93 m2 - 1.424 preb.</note>
+             <note>PT: Moškanjci, žel. post.: Moškanjci - 3.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Dornava</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>649</cell>
+                <cell>Sveti Peter in Pavel (Ptuj)</cell>
+                <cell>Dornava</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Mezgovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>300</cell>
+                <cell>Sveta Marjeta niže Ptuja</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pacinje</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>217</cell>
+                <cell>Sveti Peter in Pavel (Ptuj)</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Spodnji Velovlek</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>258</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>3. Občina Grajena</head>
+             <note>Površina: 2.803 ha 95 a 80 m2 - 2.409 preb.</note>
+             <note>PLt: Vurberg pri Ptuju, žel. post.: Ptuj - 7.5 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Grajena</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>136</cell>
+                <cell>Sveti Peter in Pavel (Ptuj)</cell>
+                <cell>Ptuj-okolica v Ptuju</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Grajenščak</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>432</cell>
+                <cell>Devica Marija na Vurbergu</cell>
+                <cell>Vurberg</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Krčevina I</hi></cell>
+                <cell>363</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Krčevina pri Ptuju (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>154</cell>
+                <cell>Sveti Peter in Pavel (Ptuj)</cell>
+                <cell>Ptuj-okolica v Ptuju</cell>
+             </row>
+             <row>
+                <cell>Orešje <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>137</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Štuki (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>45</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Vičava (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>27</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Krčevina</hi> (pri Vurbergu)<graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>681</cell>
+                <cell>Devica Marija na Vurbergu</cell>
+                <cell>Vurberg</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Mestni vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>490</cell>
+                <cell>Sveti Peter in Pavel (Ptuj)</cell>
+                <cell>Ptuj-okolica v Ptuju</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vumpah</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Vurberg pri Ptuju)</cell>
+                <cell>307</cell>
+                <cell>Devica Marija na Vurbergu</cell>
+                <cell>Vurberg</cell>
+             </row>
+          </table>
+          <table>
+             <head>4. Občina Hajdina</head>
+             <head>(sedež: Zgornja Hajdina)</head>
+             <note>Površina: 909 ha 31 a 2 m2 - 1.270 preb.</note>
+             <note>PTt: Ptuj, žel. postaj.: Hajdina - 1.5 km, avtobus.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Hajdina</hi></cell>
+                <cell>1030</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Spodnja Hajdina <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. (Hajdina)</cell>
+                <cell>573</cell>
+                <cell>Hajdina</cell>
+                <cell>Spodnja Hajdina</cell>
+             </row>
+             <row>
+                <cell>Zgornja Hajdina <graphic url="s-krog-vas.png"></graphic>, avt. post.</cell>
+                <cell>457</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Spodnji Breg II</hi></cell>
+                <cell>240</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Draženci (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>240</cell>
+                <cell>"</cell>
+                <cell>Spodnji Breg-Ptuj v Ptuju</cell>
+             </row>
+          </table>
+          <table>
+             <head>5. Občina Kog</head>
+             <note>Površina: 1.427 ha 80 a 26 m2 - 1.637 preb.</note>
+             <note>P: Sveti Bolfenk pri Središču, T: Središče ob Dravi, žel. post.: Središče - 9.5 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gomila</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>256</cell>
+                <cell>Kog</cell>
+                <cell>Kog</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Jastrebci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>288</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Kog</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>443</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Lača ves</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic> (Sveti Bolfenk pri Središču)</cell>
+                <cell>194</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vitan I</hi></cell>
+                <cell>184</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Vitan <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>184</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vodranci I</hi></cell>
+                <cell>272</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Vodranci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>272</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>6. Občina Majšperk</head>
+             <note>Površina: 3.077 ha 86 a 41 m2 - 2.080 preb.</note>
+             <note>PLt: Majšperk, žel. izog.: Sveti Lovrenc na Dravskem polju - 8.3 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Lešje</hi></cell>
+                <cell>390</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Lešje <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>197</cell>
+                <cell>Majšperk</cell>
+                <cell>Majšperk</cell>
+             </row>
+             <row>
+                <cell>Majšperk <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt</cell>
+                <cell>193</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sesterže</hi></cell>
+                <cell>436</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Medvece <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>127</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Sesterže <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>309</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sitež I</hi></cell>
+                <cell>410</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Naraplje <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                <cell>135</cell>
+                <cell>"</cell>
+                <cell>Naraplje</cell>
+             </row>
+             <row>
+                <cell>Plajnsko <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>114</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Sitež (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>161</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sveča I</hi></cell>
+                <cell>153</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Sveča (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>153</cell>
+                <cell>"</cell>
+                <cell>Majšperk</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sveti Bolfenk v Halozah</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>227</cell>
+                <cell>"</cell>
+                <cell>Naraplje</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Škrblje</hi></cell>
+                <cell>464</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Breg <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>104</cell>
+                <cell>"</cell>
+                <cell>Majšperk</cell>
+             </row>
+             <row>
+                <cell>Koritno <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>80</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Preša <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>100</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Stanečka vas <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>61</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Škrblje <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>119</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>7. Občina Ormož</head>
+             <note>Površina: 2.812 ha 79 a - m2 - 3.278 preb.</note>
+             <note>PTt: Ormož, žel. post. in žel. T: Ormož - 0.7 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Frankovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>238</cell>
+                <cell>Ormož</cell>
+                <cell>Hum</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Hardek</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>200</cell>
+                <cell>"</cell>
+                <cell>Ormož</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Hum</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>530</cell>
+                <cell>"</cell>
+                <cell>Hum</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Libanja II</hi></cell>
+                <cell>59</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Libanjski vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>59</cell>
+                <cell>"</cell>
+                <cell>Ormož</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Litmerk</hi></cell>
+                <cell>271</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Lešnički vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>65</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Litmerk <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>206</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Loperšice</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>266</cell>
+                <cell>"</cell>
+                <cell>Hum</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Ormož</hi></cell>
+                <cell>1276</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Dobrava <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>130</cell>
+                <cell>"</cell>
+                <cell>Ormož</cell>
+             </row>
+             <row>
+                <cell>Ormož mesto, <graphic url="s-rog_s_kapico-posta_drzavna.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic>, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic>, <graphic url="s-vlak.png"></graphic></cell>
+                <cell>1146</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pavlovci</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj.</cell>
+                <cell>193</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pušenci</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj.</cell>
+                <cell>245</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>8. Občina Podlehnik</head>
+             <head>(sedež: Stanošina)</head>
+             <note>Površina: 4.968 ha 67 a 40 m2 - 3.363 preb.</note>
+             <note>PLt: Podlehnik, žel. postaj.: Hajdina - 13.5 km in žel. post.: Ptuj - 17.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Dežno</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>189</cell>
+                <cell>Sveta Trojica v Halozah</cell>
+                <cell>Nova cerkev in Sveti Duh</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gorca</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>384</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gruškovje</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>678</cell>
+                <cell>"</cell>
+                <cell>Nova cerkev in Sveti Andraž v Halozah</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Jablovec</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>158</cell>
+                <cell>"</cell>
+                <cell>Nova cerkev</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Kozminci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>116</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Ložina</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>171</cell>
+                <cell>Sveta Trojica v Halozah</cell>
+                <cell>Nova cerkev in Sveti Andraž v Halozah</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Podlehnik</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt</cell>
+                <cell>452</cell>
+                <cell>"</cell>
+                <cell>Nova cerkev</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Rodni vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>177</cell>
+                <cell>"</cell>
+                <cell>Sveti Duh</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sedlašek</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>442</cell>
+                <cell>"</cell>
+                <cell>Nova cerkev</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Stanošina</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>199</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Strajna</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>194</cell>
+                <cell>"</cell>
+                <cell>Nova cerkev in Sveti Duh</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zakelj</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic> (Kozminci)</cell>
+                <cell>203</cell>
+                <cell>"</cell>
+                <cell>Nova cerkev</cell>
+             </row>
+          </table>
+          <table>
+             <head>9. Občina Polenšak</head>
+             <note>Površina: 2.194 ha 76 a 71 m2 - 1.379 preb.</note>
+             <note>PT: Moškanjci, žel. post.: Moškanjci - 9.5 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Bratislavci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>280</cell>
+                <cell>Polenšak</cell>
+                <cell>Polenšak</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Hlaponci II</hi></cell>
+                <cell>149</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Hlaponci (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>149</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Polenci</hi></cell>
+                <cell>432</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Brezovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>115</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Lasigovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>93</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Polenci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>224</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Polenšak</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt</cell>
+                <cell>178</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Prerad I</hi></cell>
+                <cell>101</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Prerad (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>101</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Slomi</hi></cell>
+                <cell>179</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Slomi <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>57</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Strejaci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>66</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Žamenci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>56</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Tibolci II</hi></cell>
+                <cell>60</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Pritenska <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>15</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Strmec <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>45</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>11. Občina Ptujska gora</head>
+             <note>Površina: 2.750 ha 51 a 68 m2 - 1.619 preb.</note>
+             <note>PLt: Ptujska gora, žel. izog.: Sveti Lovrenc na Dravskem polju - 7.5 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Bolečka vas</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>31</cell>
+                <cell>Ptujska gora (Črna gora)</cell>
+                <cell>Ptujska gora</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Doklece</hi></cell>
+                <cell>260</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Doklece <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>142</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Slape <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>118</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Dolena</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>295</cell>
+                <cell>Sveta Trojica v Halozah</cell>
+                <cell>Sveti Duh</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Janški vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>211</cell>
+                <cell>Ptujska gora (Črna gora)</cell>
+                <cell>Ptujska gora</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Podlože</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>491</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Ptujska gora</hi>, trg, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic>Lt, <graphic url="s-cerkveno-bozja_pot.png"></graphic></cell>
+                <cell>153</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Stogovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>178</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>12. Občina Rogoznica</head>
+             <note>Površina: 1.877 ha 41 a 43 m2 - 2.589 preb.</note>
+             <note>PTt: Ptuj, žel. post.: Ptuj - 3.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Kicar</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>560</cell>
+                <cell>Sveti Peter in Pavel (Ptuj)</cell>
+                <cell>Ptuj-okolica v Ptuju</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Nova vas I</hi></cell>
+                <cell>342</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Nova vas (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>342</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Podvinci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>607</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Rogoznica I</hi></cell>
+                <cell>379</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Rogoznica (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>155</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Žabjek <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>224</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Spuhlja</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>701</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>13. Občina Slovenja vas</head>
+             <note>Površina: 1.859 ha 60 a 71 m2 - 1.595 preb.</note>
+             <note>PT: Ptuj, žel. postaj.: Hajdina - 4.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gerečja vas</hi></cell>
+                <cell>649</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Gerečja vas <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>363</cell>
+                <cell>Hajdina</cell>
+                <cell>Spodnja Hajdina</cell>
+             </row>
+             <row>
+                <cell>Njiverce <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>94</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Ravno polje, pristava</cell>
+                <cell>60</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Sveta Kungota <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>132</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Hajdoše</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>331</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Skorba</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>297</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Slovenja vas</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>318</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>14. Občina Središče ob Dravi</head>
+             <note>Površina: 2.763 ha 78 a 4 m2 - 2.583 preb.</note>
+             <note>PTt: Središče ob Dravi, žel. post. in žel. T: Središče - 1.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Grabe</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>236</cell>
+                <cell>Središče ob Dravi</cell>
+                <cell>Središče ob Dravi</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Obrež</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>646</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Središče ob Dravi</hi>, trg, <graphic url="s-rog_s_kapico-posta_drzavna.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic>; <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic> in <graphic url="s-vlak.png"></graphic> (Središče)</cell>
+                <cell>1152</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Šalovci I</hi></cell>
+                <cell>334</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Dolnji Šalovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>139</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Zgornji Šalovci (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>195</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vodranci II</hi></cell>
+                <cell>215</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Godeninci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>215</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>15. Občina Sveta Barbara v Halozah</head>
+             <note>Površina: 3.323 ha 74 a 62 m2 - 3.140 preb.</note>
+             <note>PLt: Sveta Barbara v Halozah, žel. post.: Moškanjci - 15.0 km, avtobus.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Belski vrh II</hi></cell>
+                <cell>45</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Veliki vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>45</cell>
+                <cell>Sveta Barbara v Halozah</cell>
+                <cell>Sveta Barbara v Halozah</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Brezovec</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>298</cell>
+                <cell>Sveta Barbara v Halozah</cell>
+                <cell>Sveta Barbara v Halozah</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Cirkulane</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt, (Sveta Barbara v Halozah), avt. post.</cell>
+                <cell>230</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Dolane</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>139</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gradišča</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>484</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gruškovec</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>383</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Medribnik</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>138</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Meje</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>116</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Paradiž</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>357</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Poharje</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>172</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pristava</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>199</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Slatina</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>247</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Veliki Okič I</hi></cell>
+                <cell>186</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Mali Okič <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>186</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Veliki vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>146</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>16. Občina Sveta Marjeta niže Ptuja</head>
+             <head>(sedež: Gorišnica)</head>
+             <note>Površina: 2.930 ha 51 a 65 m2 - 3.019 preb.</note>
+             <note>PLt: Sveta Marjeta pri Moškanjcih, T: Moškanjci, žel. post. in žel. T: Moškanjci - 2.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Formin</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>283</cell>
+                <cell>Sveta Marjeta niže Ptuja</cell>
+                <cell>Sveta Marjeta niže Ptuja</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gajovci</hi></cell>
+                <cell>381</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Gajovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>244</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Placerovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>137</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gorišnica</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Sveta Marjeta pri Moškanjcih)</cell>
+                <cell>452</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Mala vas</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>232</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Moškanjci</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog_s_kapico-posta_drzavna.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic>, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic>, <graphic url="s-vlak.png"></graphic></cell>
+                <cell>513</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Muretinci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>369</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Prerad II</hi></cell>
+                <cell>77</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Prerad (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>77</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sobetinci II</hi></cell>
+                <cell>113</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Zagojiči <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>113</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Tibolci I</hi></cell>
+                <cell>188</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Tibolci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>188</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zamošani</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>411</cell>
+                <cell>Sveta Marjeta niže Ptuja in Sveti Lenart pri Vel. Nedelji</cell>
+                <cell>Sveta Marjeta niže Ptuja in Sveti Lenart pri Vel. Nedelji</cell>
+             </row>
+          </table>
+          <table>
+             <head>17. Občina Sveti Andraž v Halozah</head>
+             <head>(sedež: Leskovec)</head>
+             <note>Površina: 2.228 ha 3 a 37 m2 - 1.976 preb.</note>
+             <note>PLt: Sveti Andraž v Halozah, žel. postaj.: Hajdina - 15.0 km, avtobus.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Belavšek</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>154</cell>
+                <cell>Sveti Andraž v Halozah</cell>
+                <cell>Sveti Andraž v Halozah</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gradišče</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>136</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Mala Varnica</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>134</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Repišče</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>182</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Skorišnjak</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>151</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Spodnji Leskovec</hi></cell>
+                <cell>335</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Spodnji Leskovec <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>118</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Strmec <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>217</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Trdobojci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>99</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Velika Varnica</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>420</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Veliki Okič</hi></cell>
+                <cell>203</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Veliki Okič <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>203</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zgornji Leskovec</hi></cell>
+                <cell>162</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Berinjak <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>41</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Zgornji Leskovec <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Sveti Andraž v Halozah), avt. post.</cell>
+                <cell>121</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>18. Občina Sveti Andraž v Slovenskih goricah</head>
+             <note>Površina: 1.740 ha 9 a 8 m2 - 1.479 preb.</note>
+             <note>PLt: Sveti Andraž v Slov. goricah, žel. post.: Ptuj - 21.5 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Drebetinci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>267</cell>
+                <cell>Sveti Andraž v Slovenskih goricah</cell>
+                <cell>Sveti Andraž v Slovenskih goricah</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Hvaletinci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>143</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Novinci</hi></cell>
+                <cell>226</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Andrenci (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>22</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Smolinci (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>195</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Župetinci (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>9</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Rjavci</hi></cell>
+                <cell>258</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Gibina <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>115</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Rjavci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>143</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Slavšina</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>239</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vitomarci</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Sveti Andraž v Slov. goricah)</cell>
+                <cell>346</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>19. Občina Sveti Bolfenk v Slovenskih goricah</head>
+             <head>(sedež: Trnovska vas)</head>
+             <note>Površina: 2.374 ha 65 a 63 m2 - 1.374 preb.</note>
+             <note>PLt: Sveti Bolfenk v Slov. goricah, žel. post.: Ptuj - 14.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Biš</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>336</cell>
+                <cell>Sveti Bolfenk v Slovenskih goricah</cell>
+                <cell>Sveti Bolfenk v Slovenskih goricah</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Bišečki vrh</hi></cell>
+                <cell>385</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Bišečki vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>162</cell>
+                <cell>Sveti Bolfenk v Slov. goricah</cell>
+                <cell>Sveti Bolfenk v Slov. goricah</cell>
+             </row>
+             <row>
+                <cell>Črmlja <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>95</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Črmljenšak <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>48</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Sovjak <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>80</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Ločič</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>117</cell>
+                <cell>Sveti Urban pri Ptuju</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Trnovska vas</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt, (Sveti Bolfenk v Slov. goricah)</cell>
+                <cell>300</cell>
+                <cell>Sveti Bolfenk v Slovenskih goricah</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Trnovski vrh</hi></cell>
+                <cell>236</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Strmec <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>49</cell>
+                <cell>Sveti Urban pri Ptuju</cell>
+                <cell>Sveti Urban</cell>
+             </row>
+             <row>
+                <cell>Trnovski vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>187</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>20. Občina Sveti Lenart pri Veliki Nedelji</head>
+             <head>(sedež: Podgorci)</head>
+             <note>Površina: 1.766 ha 91 a 17 m2 - 1.605 preb.</note>
+             <note>PLt: Velika Nedelja, žel. postaj.: Osluševci - 2.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Bratonečice II</hi></cell>
+                <cell>67</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Bratonečice (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>17</cell>
+                <cell>Sveti Lenart pri Veliki Nedelji</cell>
+                <cell>Sveti Lenart pri Veliki Nedelji</cell>
+             </row>
+             <row>
+                <cell>Ritmerk <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>50</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Breznica</hi></cell>
+                <cell>359</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Breznica <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>289</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Preclava <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>70</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Cvetkovci</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. (Osluševci)</cell>
+                <cell>473</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Osluševci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>183</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Podgorci</hi></cell>
+                <cell>366</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Cvetkovski vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>124</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Podgorci <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic> (Sveti Lenart pri Veliki Nedelji)</cell>
+                <cell>242</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Prerad III</hi></cell>
+                <cell>20</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Prerad (3. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>20</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sterjanci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>137</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>21. Občina Sveti Lovrenc na Dravskem polju</head>
+             <note>Površina: 3.096 ha 21 a 51 m2 - 1.676 preb.</note>
+             <note>PLt: Sveti Lovrenc na Dravskem polju, žel. izog. in žel. T: Sveti Lovrenc na Dravskem polju - 5.0 km, avtobus.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Apače</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>520</cell>
+                <cell>Sveti Lovrenc na Dravskem polju</cell>
+                <cell>Sveti Lovrenc na Dravskem polju</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pleterje</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>322</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sveti Lovrenc na Dravskem polju</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt, avt. post.</cell>
+                <cell>531</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Župečja vas</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic> in <graphic url="s-vlak.png"></graphic> izog. (Sveti Lovrenc na Dravskem polju)</cell>
+                <cell>303</cell>
+                <cell>Sveti Lovrenc na Dravskem polju</cell>
+                <cell>Sveti Lovrenc na Dravskem polju</cell>
+             </row>
+          </table>
+          <table>
+             <head>22. Občina Sveti Lovrenc v Slovenskih goricah</head>
+             <head>(sedež: Juršinci)</head>
+             <note>Površina: 3.394 ha 58 a 75 m2 - 2.512 preb.</note>
+             <note>PLt: Juršinci, žel. post.: Ptuj - 14.0 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Botkovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>165</cell>
+                <cell>Sveti Lovrenc v Slovenskih goricah</cell>
+                <cell>Sveti Lovrenc v Slovenskih goricah</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Dragovič</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>184</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Graduščak</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>41</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Grlinci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>178</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Hlaponci I</hi></cell>
+                <cell>151</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Hlaponci (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>151</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Juršinci</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt</cell>
+                <cell>284</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Kukava</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>246</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Mostje</hi></cell>
+                <cell>303</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Gabernik <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>253</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Mostje <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>50</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Rotman</hi></cell>
+                <cell>210</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Rotman <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>109</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Vinšak <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>101</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sakušak</hi></cell>
+                <cell>273</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Lipovec <graphic url="s-polkrog-zaselek.png"></graphic></cell>
+                <cell>55</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Oblačak <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>123</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Oblaki <graphic url="s-polkrog-zaselek.png"></graphic></cell>
+                <cell>54</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Sakušak <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>41</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Senčak</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>140</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zagorci</hi></cell>
+                <cell>337</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Gibinščak <graphic url="s-polkrog-zaselek.png"></graphic></cell>
+                <cell>18</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Oblaki <graphic url="s-polkrog-zaselek.png"></graphic></cell>
+                <cell>115</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Zagorci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>105</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Zagorski zasadi <graphic url="s-polkrog-zaselek.png"></graphic></cell>
+                <cell>99</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>23. Občina Sveti Marko niže Ptuja</head>
+             <head>(sedež: Markovci)</head>
+             <note>Površina: 3.167 ha 43 a 4 m2 - 3.351 preb.</note>
+             <note>PLt: Markovci pri Ptuju, T: Ptuj, žel. post.: Ptuj - 7.0 km, avtobus.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Borovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>244</cell>
+                <cell>Sveti Marko niže Ptuja</cell>
+                <cell>Sveti Marko</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Bukovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>798</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Markovci</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Markovci pri Ptuju), avt. post.</cell>
+                <cell>429</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Nova vas</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>439</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Prvenci</hi></cell>
+                <cell>174</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Prvenci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>130</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Strelci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>44</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sobetinci I</hi></cell>
+                <cell>173</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Sobetinci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>173</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Stojnci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>651</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zabovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>443</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>24. Občina Sveti Miklavž</head>
+             <note>Površina: 2.818 ha 28 a 1 m2 - 2.627 preb.</note>
+             <note>PLt: Sveti Miklavž pri Ormožu, žel. postaj.: Pavlovci - 8.5 km, avtobus.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Brebrovnik</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>386</cell>
+                <cell>Sveti Miklavž pri Ormožu</cell>
+                <cell>Sveti Miklavž pri Ormožu</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Hermanci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>272</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Ilovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>219</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Kajžar</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>285</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pavlovski vrh II</hi></cell>
+                <cell>32</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Pavlovski vrh (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>32</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Plešivica</hi></cell>
+                <cell>245</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Jeruzalem <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>81</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Plešivica <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>164</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sveti Miklavž</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Sveti Miklavž pri Ormožu), avt. post.</cell>
+                <cell>342</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Šalovci II</hi></cell>
+                <cell>41</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Zgornji Šalovci (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>41</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vinski vrh</hi></cell>
+                <cell>450</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Krčevina <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>83</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Vinski vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>367</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vitan II</hi></cell>
+                <cell>121</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Zasavci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>121</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vuzmetinci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>234</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>25. Občina Sveti Tomaž pri Ormožu</head>
+             <head>(sedež: Koračice)</head>
+             <note>Površina: 4.337 ha 39 a 27 m2 - 3.727 preb.</note>
+             <note>PLt: Sveti Tomaž pri Ormožu, žel. post.: Ormož - 10.5 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Bratonečice I</hi></cell>
+                <cell>248</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Bratonečice (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>122</cell>
+                <cell>Sveti Tomaž pri Ormožu</cell>
+                <cell>Sveti Tomaž</cell>
+             </row>
+             <row>
+                <cell>Sejanci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>126</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Ključarovci I</hi></cell>
+                <cell>234</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Ključarovci (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>234</cell>
+                <cell>"</cell>
+                <cell>Runeč</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Koračice</hi></cell>
+                <cell>592</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Hranjigovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>147</cell>
+                <cell>"</cell>
+                <cell>Sveti Tomaž</cell>
+             </row>
+             <row>
+                <cell>Koračice <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>329</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Zagorje <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>116</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Lahonci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>528</cell>
+                <cell>"</cell>
+                <cell>Runeč</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Mala vas</hi></cell>
+                <cell>229</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Gradišče <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>41</cell>
+                <cell>"</cell>
+                <cell>Sveti Tomaž</cell>
+             </row>
+             <row>
+                <cell>Mala vas <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>188</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pršetinci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>195</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Rakovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>217</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Rucmanci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>310</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Runeč II</hi></cell>
+                <cell>148</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Žvab <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>148</cell>
+                <cell>"</cell>
+                <cell>Runeč</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Savci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>359</cell>
+                <cell>"</cell>
+                <cell>Sveti Tomaž</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sveti Tomaž</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Sveti Tomaž pri Ormožu)</cell>
+                <cell>180</cell>
+                <cell>Sveti Tomaž pri Ormožu</cell>
+                <cell>Sveti Tomaž</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Trnovci</hi></cell>
+                <cell>345</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Mezgovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>65</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Senčak <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>48</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Trnovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>232</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vičanci II</hi></cell>
+                <cell>142</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Senik <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>142</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>26. Občina Sveti Urban</head>
+             <note>Površina: 3.415 ha 78 a 23 m2 - 2.692 preb.</note>
+             <note>PLt: Sveti Urban pri Ptuju, žel. post.: Ptuj - 11.5 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Desenci</hi></cell>
+                <cell>121</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Desenci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>56</cell>
+                <cell>Sveti Urban pri Ptuju</cell>
+                <cell>Sveti Urban</cell>
+             </row>
+             <row>
+                <cell>Gomilci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>65</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Destrnik</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt (Sveti Urban pri Ptuju)</cell>
+                <cell>161</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Dolič</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>169</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Drstelja</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>232</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Janežovci</hi></cell>
+                <cell>386</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Janežovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>73</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Placar <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>313</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Janežovski vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>204</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Jiršovci</hi></cell>
+                <cell>389</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Gomila <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>65</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Jiršovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>324</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Levanjci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>154</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Ločki vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>242</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Svetinci</hi></cell>
+                <cell>214</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Svetinci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>168</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Zasadi <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>46</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vintarovci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>310</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zgornji Velovlek</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>110</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>27. Občina Sveti Vid pri Ptuju</head>
+             <note>Površina: 4.270 ha 71 a 32 m2 - 3.664 preb.</note>
+             <note>PLt: Sveti Vid pri Ptuju, žel. postaj.: Hajdina - 8.5 km, avtobus.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Dravci</hi></cell>
+                <cell>184</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Dravci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>68</cell>
+                <cell>Sveti Vid pri Ptuju</cell>
+                <cell>Sveti Vid pri Ptuju</cell>
+             </row>
+             <row>
+                <cell>Soviče <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic> (Dravci)</cell>
+                <cell>116</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Dravinjski vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>246</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Jurovci</hi></cell>
+                <cell>402</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Jurovci <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                <cell>146</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Tržec <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>256</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Lancova vas</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>460</cell>
+                <cell>"</cell>
+                <cell>Sela</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Ljubstava</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>187</cell>
+                <cell>"</cell>
+                <cell>Sveti Vid pri Ptuju</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Majski vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>208</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pobrežje</hi></cell>
+                <cell>838</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Pobrežje <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>706</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Sveti Vid pri Ptuju <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt, avt. post.</cell>
+                <cell>132</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sela</hi></cell>
+                <cell>315</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Barislovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>118</cell>
+                <cell>Sveti Vid pri Ptuju</cell>
+                <cell>Sela</cell>
+             </row>
+             <row>
+                <cell>Sela <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                <cell>197</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Šturmovec</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>100</cell>
+                <cell>"</cell>
+                <cell>Sveti Vid pri Ptuju</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Trnovec</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>113</cell>
+                <cell>"</cell>
+                <cell>Sela</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vareja</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>233</cell>
+                <cell>"</cell>
+                <cell>Sveti Vid pri Ptuju</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zgornja Pristava</hi></cell>
+                <cell>378</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Popovci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>140</cell>
+                <cell>"</cell>
+                <cell>Sela</cell>
+             </row>
+             <row>
+                <cell>Zgornja Pristava <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>238</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>28. Občina Svetinje</head>
+             <head>(sedež: Ivanjkovci)</head>
+             <note>Površina: 1.910 ha 3 a 53 m2 - 2.069 preb.</note>
+             <note>PTt: Ivanjkovci, žel. post.: Ivanjkovci - 0.24 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell> <hi rend="bold">Cerovec</hi><graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>195</cell>
+                <cell>Svetinje</cell>
+                <cell>Svetinje</cell>
+             </row>
+             <row>
+                <cell> <hi rend="bold">Ivanjkovci</hi><graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic>, <graphic url="s-vlak.png"></graphic></cell>
+                <cell>231</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Libanja I</hi></cell>
+                <cell>199</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Libanja <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>199</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell> <hi rend="bold">Mali Brebrovnik</hi><graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>259</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell> <hi rend="bold">Mihalovci</hi><graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>295</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pavlovski vrh I</hi></cell>
+                <cell>241</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Pavlovski vrh (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>241</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell> <hi rend="bold">Veličane</hi><graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>312</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Žerovinci</hi></cell>
+                <cell>337</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Hujbar <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>27</cell>
+                <cell>"</cell>
+                <cell>Cezanjevci</cell>
+             </row>
+             <row>
+                <cell>Žerovinci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>310</cell>
+                <cell>"</cell>
+                <cell>Svetinje</cell>
+             </row>
+          </table>
+          <table>
+             <head>29. Občina Št. Janž na Dravskem polju</head>
+             <note>Površina: 1.794 ha 76 a 41 m2 - 1.366 preb.</note>
+             <note>P: Št. Janž na Dravskem polju, T: Rače, žel. post.: Rače-Fram - 9.5 km, avtobus (v kraju Starše).</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Loka</hi></cell>
+                <cell>454</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Loka <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>211</cell>
+                <cell>Št. Janž na Dravskem polju</cell>
+                <cell>Št. Janž na Dravskem polju</cell>
+             </row>
+             <row>
+                <cell>Rošnja <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>243</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Starše</hi><graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic> (Št. Janž na Dravskem polju), avt. post.</cell>
+                <cell>397</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zlatoličje</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>515</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>30. Občina Velika Nedelja</head>
+             <note>Površina: 3.768 ha 10 a 24 m2 - 3.359 preb.</note>
+             <note>PLt: Velika Nedelja, žel. postaj.: Velika Nedelja - 0.5 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Ključarovci II</hi></cell>
+                <cell>139</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Ključarovci (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>139</cell>
+                <cell>Vel. Nedelja</cell>
+                <cell>Runeč</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Lešnica</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>330</cell>
+                <cell>"</cell>
+                <cell>Ormož</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Runeč I</hi></cell>
+                <cell>237</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Dobrovščak <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>48</cell>
+                <cell>"</cell>
+                <cell>Runeč</cell>
+             </row>
+             <row>
+                <cell>Runeč <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>189</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Senešci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>293</cell>
+                <cell>"</cell>
+                <cell>Vel. Nedelja</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Sodinci</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>323</cell>
+                <cell>Vel. Nedelja in Sveti Lenart pri Vel. Nedelji</cell>
+                <cell>Vel. Nedelja in Sveti Lenart pri Vel. Nedelji</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Stanovno</hi></cell>
+                <cell>261</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Stanovno <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>142</cell>
+                <cell>Vel. Nedelja</cell>
+                <cell>Runeč</cell>
+             </row>
+             <row>
+                <cell>Strezetina <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>119</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Šardinje</hi></cell>
+                <cell>348</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Lunovec <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>64</cell>
+                <cell>"</cell>
+                <cell>Vel. Nedelja</cell>
+             </row>
+             <row>
+                <cell>Strmec <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>103</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Šardinje <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>181</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Trgovišče</hi><graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>268</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Velika Nedelja</hi></cell>
+                <cell>800</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Drakšl <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>126</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Hajndl <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>171</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Mihovci <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. (Velika Nedelja)</cell>
+                <cell>316</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell>Velika Nedelja <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt</cell>
+                <cell>187</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Vičanci I</hi></cell>
+                <cell>360</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Vičanci <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>360</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+          <table>
+             <head>31. Občina Zavrč</head>
+             <note>Površina: 1.942 ha 16 a 51 m2 - 1.922 preb.</note>
+             <note>PLt: Zavrč, žel. postaj.: Osluševci - 11.5 km in žel. post. (kot tovorna postaja): Moškanjci - 11.2 km.</note>
+             <row role="label">
+                <cell>Katastrska (davčna) občina in kraj</cell>
+                <cell>Preb. 1931</cell>
+                <cell>Župnija</cell>
+                <cell>Ljudska šola</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Belski vrh I</hi></cell>
+                <cell>195</cell>
+                <cell></cell>
+                <cell></cell>
+             </row>
+             <row>
+                <cell>Belski vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>195</cell>
+                <cell>Zavrč</cell>
+                <cell>Zavrč</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Drenovec</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>71</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Gorenjski vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>191</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Goričak</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>159</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Hrastovec</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>496</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Korenjak</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>137</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Pestike</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>155</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Turški vrh</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                <cell>420</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+             <row>
+                <cell><hi rend="bold">Zavrč</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt</cell>
+                <cell>98</cell>
+                <cell>"</cell>
+                <cell>"</cell>
+             </row>
+          </table>
+       </div>
+      </body>
+  </text>
+</TEI>

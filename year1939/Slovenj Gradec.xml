@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+           <head>23. Okraj Slovenj Gradec</head>
+           <table>
+              <head>1. Občina Mislinja</head>
+              <head>(sedež: Straže)</head>
+              <note>Površina: 10.348 ha 68 a 32 m2 - 3.793 preb.</note>
+              <note>PTt, žel. post. in žel. T: Mislinja - 7.5 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Kozjak</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>510</cell>
+                 <cell>Sveti Jošt na Kozjaku</cell>
+                 <cell>Sveti Jošt na Kozjaku</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Mislinja</hi></cell>
+                 <cell>1338</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Komisija <graphic url="s-trikotnik-naseldbina.png"></graphic></cell>
+                 <cell>87</cell>
+                 <cell>Sveti Ilj pod Turjakom</cell>
+                 <cell>Mislinjski Št. Ilj</cell>
+              </row>
+              <row>
+                 <cell>Mala Mislinja <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>263</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Mislinjski Št. Ilj <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>56</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Tolsti vrh <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>343</cell>
+                 <cell>Sveti Ilj pod Turjakom in Sveti Florijan v Doliču</cell>
+                 <cell>Mislinjski Št. Ilj in Spodnji Dolič</cell>
+              </row>
+              <row>
+                 <cell>Velika Mislinja <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>589</cell>
+                 <cell>Sveti Ilj pod Turjakom</cell>
+                 <cell>Mislinjski Št. Ilj</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Št. Ilj pod Turjakom</hi></cell>
+                 <cell>944</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Dovže <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>237</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Razborca <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>202</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Straže <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic> (Mislinja), <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic> in <graphic url="s-vlak.png"></graphic> (Mislinja)</cell>
+                 <cell>345</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Št. Ilj pod Turjakom <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>160</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Št. Vid nad Valdekom</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>337</cell>
+                 <cell>Sveti Vid nad Valdekom</cell>
+                 <cell>Št. Vid nad Valdekom</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Završe</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>276</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Zgornji Dolič</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic>, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic> in <graphic url="s-vlak.png"></graphic> (Gornji Dolič)</cell>
+                 <cell>388</cell>
+                 <cell>Sveti Florijan v Doliču</cell>
+                 <cell>Spodnji Dolič</cell>
+              </row>
+           </table>
+           <table>
+              <head>2. Občina Pameče</head>
+              <note>Površina: 2.574 ha 2 a 56 m2 - 1.326 preb.</note>
+              <note>PT: Slovenj Gradec, žel. postaj. in žel. T: Sveta Jedert - 3.5 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Pameče I</hi></cell>
+                 <cell>611</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Pameče (1. del) <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                 <cell>611</cell>
+                 <cell>Pameče</cell>
+                 <cell>Pameče</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Selovec</hi></cell>
+                 <cell>342</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Meža <graphic url="s-polkrog-zaselek.png"></graphic></cell>
+                 <cell>34</cell>
+                 <cell>Št. Janž pri Dravogradu</cell>
+                 <cell>Št. Janž pri Dravogradu</cell>
+              </row>
+              <row>
+                 <cell>Selovec <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>308</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Št. Janž pri Dravogradu</hi></cell>
+                 <cell>373</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Št. Janž pri Dravogradu <graphic url="s-krog-vas.png"/>, <graphic
+                        url="s-vlak.png"/> postaj. (Št. Janž pri Dravogradu)</cell>
+                 <cell>171</cell>
+                 <cell>Št. Janž pri Dravogradu</cell>
+                 <cell>Št. Janž pri Dravogradu</cell>
+              </row>
+              <row>
+                 <cell>Bukovska vas <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>102</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Sveta Jedert <graphic url="s-polkrog-zaselek.png"></graphic>, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. in tov.</cell>
+                 <cell>100</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>3. Občina Podgorje</head>
+              <note>Površina: 3.743 ha 55 a 13 m2 - 1.420 preb.</note>
+              <note>PT: Slovenj Gradec, žel. post.: Slovenj Gradec - 6 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Graška gora</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>177</cell>
+                 <cell>Sveti Miklavž pri Slovenjem Gradcu</cell>
+                 <cell>Šmiklavž pri Vodrižu</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Podgorje I</hi></cell>
+                 <cell>925</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Raduše (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>65</cell>
+                 <cell>Podgorje</cell>
+                 <cell>Podgorje</cell>
+              </row>
+              <row>
+                 <cell>Spodnje Podgorje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>256</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Zgornje Podgorje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>604</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Šmiklavž pri Vodrižu</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>161</cell>
+                 <cell>Sveti Miklavž pri Slovenjem Gradcu</cell>
+                 <cell>Šmiklavž pri Vodrižu</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Vodriž</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>157</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>4. Občina Razbor</head>
+              <note>Površina: 2.850 ha 93 a 13 m2 - 689 preb.</note>
+              <note>PT: Slovenj Gradec, žel. post.: Slovenj Gradec - 20.0 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Spodnji Razbor</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>386</cell>
+                 <cell>Razbor pri Slovenjem Gradcu</cell>
+                 <cell>Razbor</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Zgornji Razbor</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic> (Razbor)</cell>
+                 <cell>303</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>5. Občina Slovenj Gradec</head>
+              <note>Površina: 3.544 ha 64 a 40 m2 - 4.179 preb.</note>
+              <note>PTt: Slovenj Gradec, žel. postaj.: Slovenj Gradec mesto - 0.35 km, žel. post. in žel. T: Slovenj Gradec - 1.0 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Gradišče I</hi></cell>
+                 <cell>693</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Gradišče (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>432</cell>
+                 <cell>Stari trg</cell>
+                 <cell>Slovenj Gradec</cell>
+              </row>
+              <row>
+                 <cell>Troblje <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>261</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Legen I</hi></cell>
+                 <cell>152</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Legen (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>152</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Pameče II</hi></cell>
+                 <cell>98</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Pameče (2. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>98</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Podgorje II</hi></cell>
+                 <cell>171</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Raduše (1. del) <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>171</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Sele</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                 <cell>306</cell>
+                 <cell>Sele</cell>
+                 <cell>Sele-Vrhe</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Slovenj Gradec</hi>, mesto, <graphic url="s-rog_s_kapico-posta_drzavna.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic>, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic>, <graphic url="s-vlak.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. (Slovenj Gradec-mesto)</cell>
+                 <cell>1311</cell>
+                 <cell>Slovenj Gradec</cell>
+                 <cell>Slovenj Gradec</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Stari trg pri Slovenjem Gradcu</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>699</cell>
+                 <cell>Stari trg</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Vrhe</hi></cell>
+                 <cell>749</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Gmajna <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>335</cell>
+                 <cell>"</cell>
+                 <cell>Slovenj Gradec in Sele-Vrhe</cell>
+              </row>
+              <row>
+                 <cell>Vrhe <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>414</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>6. Občina Št. Andraž pri Velenju</head>
+              <note>Površina: 1.740 ha 66 a 1 m2 - 873 preb.</note>
+              <note>PT: Velenje, žel. post.: Velenje - 16.0 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Dobrič</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>259</cell>
+                 <cell>Sveti Andraž nad Polzelo</cell>
+                 <cell>Št. Andraž pri Velenju</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Šent Andraž pri Velenju</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic> (Sv. Andraž pri Velenju)</cell>
+                 <cell>614</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>7. Občina Št. Ilj pri Velenju</head>
+              <note>Površina: 981 ha 67 a 53 m2 - 752 preb.</note>
+              <note>PT: Velenje, žel. post.: Velenje - 5.0 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Laze</hi></cell>
+                 <cell>468</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Arnače <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>173</cell>
+                 <cell>Sveti Ilj pri Velenju</cell>
+                 <cell>Št. Ilj pri Velenju</cell>
+              </row>
+              <row>
+                 <cell>Laze <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>295</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Ložnica</hi></cell>
+                 <cell>284</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Ložnica <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>107</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Silova <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>177</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>8. Občina Št. Janž na Vinski gori</head>
+              <note>Površina: 2.048 ha 66 a 38 m2 - 1.251 preb.</note>
+              <note>PT: Velenje, žel. post.: Velenje - 5.6 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Črnova</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>192</cell>
+                 <cell>Št. Janž na Vinski gori</cell>
+                 <cell>Št. Janž na Vinski gori</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Lipje</hi></cell>
+                 <cell>483</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Kozjak <graphic url="s-polkrog-zaselek.png"></graphic></cell>
+                 <cell>155</cell>
+                 <cell>Sveti Jošt na Kozjaku</cell>
+                 <cell>Sveti Jošt na Kozjaku</cell>
+              </row>
+              <row>
+                 <cell>Lipje <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic> (Št. Janž na Vinski gori)</cell>
+                 <cell>206</cell>
+                 <cell>Št. Janž na Vinski gori</cell>
+                 <cell>Št. Janž na Vinski gori</cell>
+              </row>
+              <row>
+                 <cell>Lopatnik <graphic url="s-polkrog-zaselek.png"></graphic></cell>
+                 <cell>122</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Prelska</hi></cell>
+                 <cell>331</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Prelska <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>220</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Selo <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>111</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Št. Janž na Vinski gori</hi></cell>
+                 <cell>245</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Pirešica <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>107</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Št. Janž na Vinski gori <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>138</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>9. Občina Škale</head>
+              <note>Površina: 2.703 ha 56 a 22 m2 - 1.822 preb.</note>
+              <note>PTt: Velenje, žel. postaj.: Pesje - 4.0 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Plešivec</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                 <cell>434</cell>
+                 <cell>Škale</cell>
+                 <cell>Plešivec</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Sveti Bric</hi></cell>
+                 <cell>411</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Sveti Bric <graphic url="s-krog-vas.png"/></cell>
+                 <cell>245</cell>
+                 <cell>"</cell>
+                 <cell>Škale</cell>
+              </row>
+              <row>
+                 <cell>Škalske Cirkovce <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>166</cell>
+                 <cell>"</cell>
+                 <cell>Škalske Cirkovce</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Škale</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic>, <graphic url="s-vlak.png"></graphic> tov.</cell>
+                 <cell>839</cell>
+                 <cell>"</cell>
+                 <cell>Škale</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Šmartinske Cirkovce</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>138</cell>
+                 <cell>Sveti Martin pri Šaleku</cell>
+                 <cell>Škalske Cirkovce</cell>
+              </row>
+           </table>
+           <table>
+              <head>10. Občina Šmartno pri Slovenjem Gradcu</head>
+              <note>Površina: 5.720 ha 85 a 67 m2 - 2.559 preb.</note>
+              <note>PT: Slovenj Gradec, žel. postaj.: Šmartno pri Slovenjem Gradcu - 1.0 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Brda</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>272</cell>
+                 <cell>Sveti Martin pri Slovenjem Gradcu</cell>
+                 <cell>Šmartno pri Slovenj. Gradcu in Št. Ilj pri Velenju</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Dobrova</hi></cell>
+                 <cell>483</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Dobrova <graphic url="s-krog-vas.png"/>, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic> in <graphic url="s-vlak.png"></graphic> (Dovže)</cell>
+                 <cell>356</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Turiška vas <graphic url="s-krog-vas.png"/></cell>
+                 <cell>127</cell>
+                 <cell>"</cell>
+                 <cell>Šmartno pri Slovenjem Gradcu</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Golavabuka</hi></cell>
+                 <cell>452</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Golavabuka <graphic url="s-krog-vas.png"/></cell>
+                 <cell>392</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Tomaška vas <graphic url="s-krog-vas.png"/>, <graphic url="s-vlak.png"></graphic> postaj. in tov. (Turiška vas)</cell>
+                 <cell>60</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Gradišče II</hi></cell>
+                 <cell>126</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Gradišče (2. del) <graphic url="s-krog-vas.png"/></cell>
+                 <cell>126</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Legen II</hi></cell>
+                 <cell>514</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Legen (2. del) <graphic url="s-krog-vas.png"/></cell>
+                 <cell>514</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Šmartno pri Slovenjem Gradcu</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj.</cell>
+                 <cell>712</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+           <table>
+              <head>11. Občina Šoštanj</head>
+              <note>Površina: 3.107 ha 52 a 16 m2 - 4.062 preb.</note>
+              <note>PTt: Šoštanj, žel. post. in žel. T: Šoštanj-Topolščica - 0.5 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Družmirje</hi></cell>
+                 <cell>741</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Družmirje <graphic url="s-krog-vas.png"/></cell>
+                 <cell>422</cell>
+                 <cell>Sveti Mihael pri Šoštanju</cell>
+                 <cell>Šoštanj</cell>
+              </row>
+              <row>
+                 <cell>Gaberke <graphic url="s-krog-vas.png"/></cell>
+                 <cell>319</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Lokovica</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>648</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Ravne</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>938</cell>
+                 <cell>"</cell>
+                 <cell>Ravne</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Šoštanj</hi>, mesto, <graphic url="s-rog_s_kapico-posta_drzavna.png"></graphic>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic>; <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic> in <graphic url="s-vlak.png"></graphic> (Šoštanj-Topolščica)</cell>
+                 <cell>1735</cell>
+                 <cell>"</cell>
+                 <cell>Šoštanj</cell>
+              </row>
+           </table>
+           <table>
+              <head>12. Občina Topolščica</head>
+              <note>Površina: 6.452 ha 91 a 6 m2 - 2.518 preb.</note>
+              <note>PLt: Topolščica, žel. post.: Šoštanj-Topolščica - 5.5 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Bele vode</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>431</cell>
+                 <cell>Bele vode</cell>
+                 <cell>Bele vode</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Skorno pri Šoštanju</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>251</cell>
+                 <cell>Sveti Mihael pri Šoštanju</cell>
+                 <cell>Šoštanj</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Sveti Florijan pri Šoštanju</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>253</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Sveti Vid</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>120</cell>
+                 <cell>Zavodnje</cell>
+                 <cell>Zavodnje</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Topolščica</hi> <graphic url="s-krog-vas.png"></graphic>, zdravilišče, <graphic url="s-rog-posta_pogodben.png"></graphic>, <graphic url="s-telefon.png"></graphic> Lt</cell>
+                 <cell>1107</cell>
+                 <cell>Sveti Mihael pri Šoštanju</cell>
+                 <cell>Topolščica</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Zavodnje</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-pismo-posta_pomozna.png"></graphic></cell>
+                 <cell>356</cell>
+                 <cell>Zavodnje</cell>
+                 <cell>Zavodnje</cell>
+              </row>
+           </table>
+           <table>
+              <head>13. Občina Velenje</head>
+              <note>Površina: 2.609 ha 80 a 85 m2 - 3.556 preb.</note>
+              <note>PTt: Velenje, žel. post. in žel. T: Velenje - 0.5 km.</note>
+              <row role="label">
+                 <cell>Katastrska (davčna) občina in kraj</cell>
+                 <cell>Preb. 1931</cell>
+                 <cell>Župnija</cell>
+                 <cell>Ljudska šola</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Bevče</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>226</cell>
+                 <cell>Sveti Martin pri Šaleku</cell>
+                 <cell>Velenje</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Kavče</hi> <graphic url="s-krog-vas.png"></graphic></cell>
+                 <cell>157</cell>
+                 <cell>Škale</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Paka</hi> <graphic url="s-krog-vas.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj., <graphic url="s-vlak.png"></graphic> postaj. (Selo)</cell>
+                 <cell>354</cell>
+                 <cell>Sveti Martin pri Šaleku</cell>
+                 <cell>Paka in Velenje</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Podkraj</hi></cell>
+                 <cell>522</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row> 
+              <row>
+                 <cell>Podgorje <graphic url="s-polkrog-zaselek.png"/></cell>
+                 <cell>148</cell>
+                 <cell>Škale</cell>
+                 <cell>Škale</cell>
+              </row>
+              <row>
+                 <cell>Podkraj <graphic url="s-krog-vas.png"/></cell>
+                 <cell>374</cell>
+                 <cell>"</cell>
+                 <cell>Velenje</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Šalek</hi></cell>
+                 <cell>488</cell>
+                 <cell></cell>
+                 <cell></cell>
+              </row>
+              <row>
+                 <cell>Konovo <graphic url="s-krog-vas.png"/></cell>
+                 <cell>110</cell>
+                 <cell>Sveti Martin pri Šaleku</cell>
+                 <cell>Velenje</cell>
+              </row>
+              <row>
+                 <cell>Šalek <graphic url="s-krog-vas.png"/></cell>
+                 <cell>378</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell><hi rend="bold">Velenje</hi></cell>
+                 <cell>1809</cell>
+                 <cell/>
+                 <cell/>
+              </row>
+              <row>
+                 <cell>Pesje <graphic url="s-krog-vas.png"/>, <graphic url="s-pismo-posta_pomozna.png"></graphic>, <graphic url="s-vlak.png"></graphic> postaj. in tov.</cell>
+                 <cell>592</cell>
+                 <cell>Škale</cell>
+                 <cell>Škale</cell>
+              </row>
+              <row>
+                 <cell>Preloge <graphic url="s-krog-vas.png"/></cell>
+                 <cell>107</cell>
+                 <cell>"</cell>
+                 <cell>"</cell>
+              </row>
+              <row>
+                 <cell>Stara vas <graphic url="s-krog-vas.png"/></cell>
+                 <cell>409</cell>
+                 <cell>"</cell>
+                 <cell>Velenje</cell>
+              </row>
+              <row>
+                 <cell>Velenje, trg, <graphic url="s-rog_s_kapico-posta_drzavna.png"/>, <graphic url="s-obesalo_ravno-brzojav.png"></graphic>, <graphic url="s-telefon.png"></graphic>, <graphic url="s-obesalo_krivo-brzojav_zelezniski.png"></graphic> in <graphic url="s-vlak.png"></graphic></cell>
+                 <cell>701</cell>
+                 <cell>Sveti Martin pri Šaleku</cell>
+                 <cell>"</cell>
+              </row>
+           </table>
+        </div>
+      </body>
+  </text>
+</TEI>
