@@ -4552,34 +4552,38 @@
                                 <ort>
                                     <placeName lang="deu">Dranbank</placeName>
                                     <placeName lang="slv">Drampah</placeName>
+                                    <geo>45.698061,15.061806</geo>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Frata</placeName>
                                     <placeName lang="slv">Frata</placeName>
+                                    <geo>45.711304, 14.952514</geo>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Kleinriegel</placeName>
-                                    <placeName lang="slv">Mali Rigelj</placeName>
+                                    <placeName lang="deu" key="3195626">Kleinriegel</placeName>
+                                    <placeName lang="slv" key="3195626">Mali Rigelj</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Krapflern</placeName>
-                                    <placeName lang="slv">Občica</placeName>
+                                    <placeName lang="deu" key="3218444">Krapflern</placeName>
+                                    <placeName lang="slv" key="3218444">Občica</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Laubbüchel</placeName>
                                     <placeName lang="slv">Deleči Verh</placeName>
+                                    <geo>45.710131,15.036342</geo>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Pogorelz</placeName>
                                     <placeName lang="slv">Pogorelc</placeName>
+                                    <geo>45.723345, 15.026765</geo>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Pöllandl</placeName>
-                                    <placeName lang="slv">Poljane</placeName>
+                                    <placeName lang="deu" key="8987979">Pöllandl</placeName>
+                                    <placeName lang="slv" key="8987979">Poljane</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Steinwand</placeName>
-                                    <placeName lang="slv">Posterica</placeName>
+                                    <placeName lang="deu" key="3192914">Steinwand</placeName>
+                                    <placeName lang="slv" key="3192914">Posterica</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
@@ -4820,6 +4824,133 @@
                         <gemeinde>
                             <placeName lang="deu">Tschermoschniz</placeName>
                             <placeName lang="slv">Čermošnice</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu" key="8988666">Altsag</placeName>
+                                    <placeName lang="slv" key="8988666">Stara Žaga</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Alttabor</placeName>
+                                    <placeName lang="slv">Stari Tabor</placeName>
+                                    <geo>45.650372, 15.116350</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Ascheliz</placeName>
+                                    <placeName lang="slv">Ašelice</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989215">Drandul</placeName>
+                                    <placeName lang="slv" key="8989215">Travni Del</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Feichtbüchel</placeName>
+                                    <placeName lang="slv">Smrečnjek</placeName>
+                                    <geo>45.674608, 15.067203</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989677">Gaber</placeName>
+                                    <placeName lang="slv" key="8989677">Gaber</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Gatschen</placeName>
+                                    <placeName lang="slv">Gače</placeName>
+                                    <geo>45.655395, 15.086424</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Gehag</placeName>
+                                    <placeName lang="slv">Seč</placeName>
+                                    <geo>45.691216, 15.107234</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3196732">Laase</placeName>
+                                    <placeName lang="slv" key="3196732">Laze</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Maschel</placeName>
+                                    <placeName lang="slv">Mašlje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Mitterdorf</placeName>
+                                    <placeName lang="slv">Srednja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Neuberg</placeName>
+                                    <placeName lang="slv">Nova Gora</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Neutabor</placeName>
+                                    <placeName lang="slv">Novi Tabor</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oberblaschowiz</placeName>
+                                    <placeName lang="slv">Pajkeš</placeName>
+                                    <geo>45.700977, 15.098218</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Obermitterdorf</placeName>
+                                    <placeName lang="slv">Gričice</placeName>
+                                    <geo>45.664629, 15.088254</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Obertappelwerch</placeName>
+                                    <placeName lang="slv">Komarna Vas</placeName>
+                                    <geo>45.672876, 15.081044</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oberwilbach</placeName>
+                                    <placeName lang="slv">Gorenji Vilbah</placeName>
+                                    <geo>45.687597, 15.099243</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Plesch</placeName>
+                                    <placeName lang="slv">Pleša</placeName>
+                                    <geo>45.705668, 15.103337</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Reßen</placeName>
+                                    <placeName lang="slv">Resa</placeName>
+                                    <geo>45.655121, 15.041905</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Ribnik</placeName>
+                                    <placeName lang="slv">Ribnik</placeName>
+                                    <geo>45.656081, 15.054436</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3203945">Rußbach</placeName>
+                                    <placeName lang="slv" key="3203945">Blatnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Scherenbrunn</placeName>
+                                    <placeName lang="slv">Travnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Stalldorf</placeName>
+                                    <placeName lang="slv">Štale</placeName>
+                                    <geo>45.657040, 15.062161</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Tschermoschniz</placeName>
+                                    <placeName lang="slv">Čermošnice</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterblaschowiz</placeName>
+                                    <placeName lang="slv">Blaževič</placeName>
+                                    <geo>45.706685, 15.092764</geo>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Untertappelwerch</placeName>
+                                    <placeName lang="slv">Topli Verh</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Widerzug</placeName>
+                                    <placeName lang="slv">Vimol</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989910">Wretzen</placeName>
+                                    <placeName lang="slv" key="8989910">Brezje</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu" key="3204350">Weißkirchen</placeName>
@@ -5150,6 +5281,180 @@
                         <gemeinde>
                             <placeName lang="deu">Döbernik</placeName>
                             <placeName lang="slv">Deberniče</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu" key="8988413">Amtmannsdorf</placeName>
+                                    <placeName lang="slv" key="8988413">Vavpčja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989267">Artschenza</placeName>
+                                    <placeName lang="slv" key="8989267">Arčevce</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988974">Babnagora</placeName>
+                                    <placeName lang="slv" key="8988974">Babna Gora</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3201965">Dobrawa</placeName>
+                                    <placeName lang="slv" key="3201965">Dobrava</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3201926">Döbernik</placeName>
+                                    <placeName lang="slv" key="3201926">Deberniče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3186606">Eisendorf</placeName>
+                                    <placeName lang="slv" key="3186606">Železno</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3197990">Grafendorf</placeName>
+                                    <placeName lang="slv" key="3197990">Knežja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988932">Hartmansdorf</placeName>
+                                    <placeName lang="slv" key="8988932">Artmanja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8987963">Kal</placeName>
+                                    <placeName lang="slv" key="8987963">Kal</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kosiek</placeName>
+                                    <placeName lang="slv">Kozjek</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988770">Kruschenwerch</placeName>
+                                    <placeName lang="slv" key="8988770">Krušni Verh</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3198131">Kutna</placeName>
+                                    <placeName lang="slv" key="3198131">Kutna</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3196005">Laken</placeName>
+                                    <placeName lang="slv" key="3196005">Luža</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989612">Lisizberg</placeName>
+                                    <placeName lang="slv" key="8989612">Lisce</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Log</placeName>
+                                    <placeName lang="slv">Log</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989621">Lokwe</placeName>
+                                    <placeName lang="slv" key="8989621">Lokve</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989194">Oberdorf</placeName>
+                                    <placeName lang="slv" key="8989194">Gorenja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988533">Obergupf</placeName>
+                                    <placeName lang="slv" key="8988533">Gorenji Verh</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3200348">Oberschönberg</placeName>
+                                    <placeName lang="slv" key="3200348">Gorenji Šumberg</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3200357">Oberselze</placeName>
+                                    <placeName lang="slv" key="3200357">Gorenje Selca</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3200366">Obersteindorf</placeName>
+                                    <placeName lang="slv" key="3200366">Gorenje Kamnje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3194303">Optschina</placeName>
+                                    <placeName lang="slv" key="3194303">Občina</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Orlaka</placeName>
+                                    <placeName lang="slv">Orlaka</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Podbukuje</placeName>
+                                    <placeName lang="slv">Podbukovje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988911">Podlisez</placeName>
+                                    <placeName lang="slv" key="8988911">Podlisec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989545">Preska</placeName>
+                                    <placeName lang="slv" key="8989545">Preska</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989144">Rewa</placeName>
+                                    <placeName lang="slv" key="8989144">Reva</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988681">Riple</placeName>
+                                    <placeName lang="slv" key="8988681">Riplje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3191501">Rosenbüchel</placeName>
+                                    <placeName lang="slv" key="3191501">Rožnepelj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3186917">Sagoriza</placeName>
+                                    <placeName lang="slv" key="3186917">Zagorica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989373">Sawerch</placeName>
+                                    <placeName lang="slv" key="8989373">Zaverh</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988257">Schachouz</placeName>
+                                    <placeName lang="slv" key="8988257">Šahovec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3191137">Selo bei Schönberg</placeName>
+                                    <placeName lang="slv" key="3191137">Selo pri Šumperku</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8989638">Streine</placeName>
+                                    <placeName lang="slv" key="8989638">Stranje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988823">Swetine</placeName>
+                                    <placeName lang="slv" key="8988823">Svetine</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988038">Trögern</placeName>
+                                    <placeName lang="slv" key="8988038">Korita</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988860">Untergupf</placeName>
+                                    <placeName lang="slv" key="8988860">Spodnji Verh</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3201820">Unterschönberg</placeName>
+                                    <placeName lang="slv" key="3201820">Dolenji Šumberg</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3201828">Unterselze</placeName>
+                                    <placeName lang="slv" key="3201828">Dolenje Selce</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3201836">Untersteindorf</placeName>
+                                    <placeName lang="slv" key="3201836">Spodnje Kamnje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="8988995">Wertatsche</placeName>
+                                    <placeName lang="slv" key="8988995">Vertače</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3187266">Werbouz</placeName>
+                                    <placeName lang="slv" key="3187266">Verbovc</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3187427">Wolfsgruben</placeName>
+                                    <placeName lang="slv" key="3187427">Volčje Jame</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Großlack</placeName>
@@ -5304,8 +5609,8 @@
                                     <placeName lang="slv">Čatež</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Werch</placeName>
-                                    <placeName lang="slv">Verh</placeName>
+                                    <placeName lang="deu" key="3188904">Werch</placeName>
+                                    <placeName lang="slv" key="3188904">Verh</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Welischendorf</placeName>
@@ -5424,92 +5729,92 @@
                             </orte>
                         </gemeinde>
                         <gemeinde>
-                            <placeName lang="deu">Treffen</placeName>
-                            <placeName lang="slv">Trebno</placeName>
+                            <placeName lang="deu" key="3188886">Treffen</placeName>
+                            <placeName lang="slv" key="3188886">Trebno</placeName>
                             <orte>
                                 <ort>
                                     <placeName lang="deu">Altenmarkt</placeName>
                                     <placeName lang="slv">Stari Terg</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Blato</placeName>
-                                    <placeName lang="slv">Blato</placeName>
+                                    <placeName lang="deu" key="8987876">Blato</placeName>
+                                    <placeName lang="slv" key="8987876">Blato</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Breg</placeName>
                                     <placeName lang="slv">Breg</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Dedendorf</placeName>
-                                    <placeName lang="slv">Dečja Vas</placeName>
+                                    <placeName lang="deu" key="3218422">Dedendorf</placeName>
+                                    <placeName lang="slv" key="3218422">Dečja Vas</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Dull</placeName>
-                                    <placeName lang="slv">Dul</placeName>
+                                    <placeName lang="deu" key="3218234">Dull</placeName>
+                                    <placeName lang="slv" key="3218234">Dul</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Germada</placeName>
-                                    <placeName lang="slv">Germada</placeName>
+                                    <placeName lang="deu" key="3199548">Germada</placeName>
+                                    <placeName lang="slv" key="3199548">Germada</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Gradischberg</placeName>
-                                    <placeName lang="slv">Gradiše v Gori</placeName>
+                                    <placeName lang="deu" key="8989546">Gradischberg</placeName>
+                                    <placeName lang="slv" key="8989546">Gradiše v Gori</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Großscheiniz</placeName>
-                                    <placeName lang="slv">Velika Ševnica</placeName>
+                                    <placeName lang="deu" key="8989566">Großscheiniz</placeName>
+                                    <placeName lang="slv" key="8989566">Velika Ševnica</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Hölldorf</placeName>
-                                    <placeName lang="slv">Pekel</placeName>
+                                    <placeName lang="deu" key="8988146">Hölldorf</placeName>
+                                    <placeName lang="slv" key="8988146">Pekel</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Hudeu</placeName>
-                                    <placeName lang="slv">Hudenje</placeName>
+                                    <placeName lang="deu" key="3199223">Hudeu</placeName>
+                                    <placeName lang="slv" key="3199223">Hudenje</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Jeseru</placeName>
-                                    <placeName lang="slv">Jezero</placeName>
+                                    <placeName lang="deu" key="8987485">Jeseru</placeName>
+                                    <placeName lang="slv" key="8987485">Jezero</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Jetschkouz</placeName>
                                     <placeName lang="slv">Ječkovec</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Kerschdorf</placeName>
-                                    <placeName lang="slv">Češnovk</placeName>
+                                    <placeName lang="deu" key="8987724">Kerschdorf</placeName>
+                                    <placeName lang="slv" key="8987724">Češnovk</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Kleinschleiniz</placeName>
-                                    <placeName lang="slv">Mala Ševnica</placeName>
+                                    <placeName lang="deu" key="8989644">Kleinschleiniz</placeName>
+                                    <placeName lang="slv" key="8989644">Mala Ševnica</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Kreuzberg</placeName>
                                     <placeName lang="slv">Križ na Rebri</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Kreuzdorf</placeName>
-                                    <placeName lang="slv">Križ</placeName>
+                                    <placeName lang="deu" key="8989648">Kreuzdorf</placeName>
+                                    <placeName lang="slv" key="8989648">Križ</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Kukenberg</placeName>
-                                    <placeName lang="slv">Kukenberk</placeName>
+                                    <placeName lang="deu" key="8988626">Kukenberg</placeName>
+                                    <placeName lang="slv" key="8988626">Kukenberk</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Langenacker</placeName>
-                                    <placeName lang="slv">Dolga Njiva</placeName>
+                                    <placeName lang="deu" key="3201810">Langenacker</placeName>
+                                    <placeName lang="slv" key="3201810">Dolga Njiva</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Lipnik</placeName>
-                                    <placeName lang="slv">Lipnik</placeName>
+                                    <placeName lang="deu" key="8988771">Lipnik</placeName>
+                                    <placeName lang="slv" key="8988771">Lipnik</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Lukouk</placeName>
-                                    <placeName lang="slv">Lukovek</placeName>
+                                    <placeName lang="deu" key="8987975">Lukouk</placeName>
+                                    <placeName lang="slv" key="8987975">Lukovek</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Meglenik</placeName>
-                                    <placeName lang="slv">Meglenek</placeName>
+                                    <placeName lang="deu" key="8988994">Meglenik</placeName>
+                                    <placeName lang="slv" key="8988994">Meglenek</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Mladagora</placeName>
@@ -5572,8 +5877,8 @@
                                     <placeName lang="slv">Černi Potok</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Treffen</placeName>
-                                    <placeName lang="slv">Trebno</placeName>
+                                    <placeName lang="deu" key="3188886">Treffen</placeName>
+                                    <placeName lang="slv" key="3188886">Trebno</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Unterbärenthal</placeName>
