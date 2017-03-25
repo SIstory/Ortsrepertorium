@@ -1099,25 +1099,33 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde>str.9
+                        <gemeinde>
                             <placeName lang="deu">Hinterberg</placeName>
                             <placeName lang="slv">Novi Lazi</placeName>
                             <orte>
                                 <ort>
-                                    <placeName lang="deu"></placeName>
-                                    <placeName lang="slv"></placeName>
+                                    <placeName lang="deu">Hinterberg</placeName>
+                                    <placeName lang="slv">Novi Lazi</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu"></placeName>
-                                    <placeName lang="slv"></placeName>
+                                    <placeName lang="deu">Hirschgruben</placeName>
+                                    <placeName lang="slv">Jelenja Vas</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu"></placeName>
-                                    <placeName lang="slv"></placeName>
+                                    <placeName lang="deu">Hornberg</placeName>
+                                    <placeName lang="slv">Rogati Hrib</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu"></placeName>
-                                    <placeName lang="slv"></placeName>
+                                    <placeName lang="deu">Mrauen</placeName>
+                                    <placeName lang="slv">Morava</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Stalzern</placeName>
+                                    <placeName lang="slv">Stalcarji</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Suchenreuter</placeName>
+                                    <placeName lang="slv">Nagrad</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
@@ -1126,54 +1134,518 @@
                             <placeName lang="slv">Kostel</placeName>
                             <orte>
                                 <ort>
-                                    <placeName lang="deu"></placeName>
-                                    <placeName lang="slv"></placeName>
+                                    <placeName lang="deu">Aibel</placeName>
+                                    <placeName lang="slv">Ajbel</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu"></placeName>
-                                    <placeName lang="slv"></placeName>
+                                    <placeName lang="deu">Banjaloka</placeName>
+                                    <placeName lang="slv">Banjaloka</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu"></placeName>
-                                    <placeName lang="slv"></placeName>
+                                    <placeName lang="deu">Boden</placeName>
+                                    <placeName lang="slv">Boden</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu"></placeName>
-                                    <placeName lang="slv"></placeName>
+                                    <placeName lang="deu">Bresnik (Mauerz)</placeName>
+                                    <placeName lang="slv">Breznik (Maverc)</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Briga</placeName>
+                                    <placeName lang="slv">Briga</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Delatsch</placeName>
+                                    <placeName lang="slv">Delač</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Dren</placeName>
+                                    <placeName lang="slv">Dren</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Dreßnik</placeName>
+                                    <placeName lang="slv">Drežnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Fara</placeName>
+                                    <placeName lang="slv">Fara</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Frischkowadraga</placeName>
+                                    <placeName lang="slv">Friškova Draga</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Glatloka</placeName>
+                                    <placeName lang="slv">Gladloka</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Goreinpotok</placeName>
+                                    <placeName lang="slv">Gorenji Potok</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Griwaz</placeName>
+                                    <placeName lang="slv">Grivac</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Hrib</placeName>
+                                    <placeName lang="slv">Hrib</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Jakschitsch</placeName>
+                                    <placeName lang="slv">Jakšič</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Jesenwerch</placeName>
+                                    <placeName lang="slv">Jesenov Verh</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kaptol</placeName>
+                                    <placeName lang="slv">Kapla Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kerkowo</placeName>
+                                    <placeName lang="slv">Kerkovo</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kostel</placeName>
+                                    <placeName lang="slv">Kostel</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kuschel</placeName>
+                                    <placeName lang="slv">Kuželj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kuscheliz</placeName>
+                                    <placeName lang="slv">Kušeljec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Lase und Ograja</placeName>
+                                    <placeName lang="slv">Laze in Ograja</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Matous</placeName>
+                                    <placeName lang="slv">Matoz</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Nowasela</placeName>
+                                    <placeName lang="slv">Nova Sela</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oberpotok</placeName>
+                                    <placeName lang="slv">Srednji Potok</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oskert und Gottenz</placeName>
+                                    <placeName lang="slv">Oskert in Gotenc</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Padua</placeName>
+                                    <placeName lang="slv">Padva</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Petrina</placeName>
+                                    <placeName lang="slv">Petrina</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Birtsche</placeName>
+                                    <placeName lang="slv">Pirče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Planina</placeName>
+                                    <placeName lang="slv">Planina</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Podstene</placeName>
+                                    <placeName lang="slv">Podstenje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Potok bei Hrib</placeName>
+                                    <placeName lang="slv">Potok pri Hribu</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Puz</placeName>
+                                    <placeName lang="slv">Puc</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Raischele</placeName>
+                                    <placeName lang="slv">Raišele</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Rakipotok</placeName>
+                                    <placeName lang="slv">Raki Potok</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Raka</placeName>
+                                    <placeName lang="slv">Raka</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sapnik</placeName>
+                                    <placeName lang="slv">Zapnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sapusche</placeName>
+                                    <placeName lang="slv">Zapuže</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sela und Lipowiz</placeName>
+                                    <placeName lang="slv">Sela i Lipovica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Slauskilas</placeName>
+                                    <placeName lang="slv">Slavski Laz</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Stelnik</placeName>
+                                    <placeName lang="slv">Stelnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Steuer</placeName>
+                                    <placeName lang="slv">Stajer</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Strußniza</placeName>
+                                    <placeName lang="slv">Struznica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Suchor</placeName>
+                                    <placeName lang="slv">Suhor</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Tischenpol</placeName>
+                                    <placeName lang="slv">Tišenpol</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterpotok</placeName>
+                                    <placeName lang="slv">Dolenji Potok</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Was</placeName>
+                                    <placeName lang="slv">Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Werch</placeName>
+                                    <placeName lang="slv">Verh</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Wimol</placeName>
+                                    <placeName lang="slv">Vimol</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Zollnern</placeName>
+                                    <placeName lang="slv">Colnern</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Kotschen</placeName>
                             <placeName lang="slv">Koče</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Handlern</placeName>
+                                    <placeName lang="slv">Handlern</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kotschen</placeName>
+                                    <placeName lang="slv">Koče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Moos</placeName>
+                                    <placeName lang="slv">Mlaka</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Lienfeld</placeName>
                             <placeName lang="slv">Lienfeld</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Krapfenfeld</placeName>
+                                    <placeName lang="slv">Dolga Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Lienfeld</placeName>
+                                    <placeName lang="slv">Lienfeld</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Malgern</placeName>
                             <placeName lang="slv">Mala Gora</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Altbacher</placeName>
+                                    <placeName lang="slv">Stari Breg</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Grintoviz</placeName>
+                                    <placeName lang="slv">Grintovic</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kletsch</placeName>
+                                    <placeName lang="slv">Kleče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Malgern</placeName>
+                                    <placeName lang="slv">Mala Gora</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Neubacher</placeName>
+                                    <placeName lang="slv">Novi Breg</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Riegel</placeName>
+                                    <placeName lang="slv">Rigle</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Tiefenreuter</placeName>
+                                    <placeName lang="slv">Ternovec</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Mitterdorf</placeName>
                             <placeName lang="slv">Srednja Vas</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Kerndorf</placeName>
+                                    <placeName lang="slv">Mlaka</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Koflern</placeName>
+                                    <placeName lang="slv">Kovlerji</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Mitterdorf</placeName>
+                                    <placeName lang="slv">Srednja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Neuloschin</placeName>
+                                    <placeName lang="slv">Nove Ložine</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Obrern</placeName>
+                                    <placeName lang="slv">Gornja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oberloschin</placeName>
+                                    <placeName lang="slv">Gorenje Ložine</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Ort</placeName>
+                                    <placeName lang="slv">Konca</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Rain</placeName>
+                                    <placeName lang="slv">Breg</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterloschin</placeName>
+                                    <placeName lang="slv">Dolenje Ložine</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Windischdorf</placeName>
+                                    <placeName lang="slv">Slovenska Vas</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Mösel</placeName>
                             <placeName lang="slv">Mozel</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Dürnbach</placeName>
+                                    <placeName lang="slv">Suha Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Küchlern</placeName>
+                                    <placeName lang="slv">Kihlerje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Niedermösel</placeName>
+                                    <placeName lang="slv">Kočerji</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oberpokstein</placeName>
+                                    <placeName lang="slv">Zgornji Boštajn</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oberfliegendorf</placeName>
+                                    <placeName lang="slv">Muhovas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Obermösel</placeName>
+                                    <placeName lang="slv">Mozelj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oberskrill</placeName>
+                                    <placeName lang="slv">Sdihovo</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Otterbach</placeName>
+                                    <placeName lang="slv">Oterbah</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Reinthal</placeName>
+                                    <placeName lang="slv">Reinthal</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterfliegendorf</placeName>
+                                    <placeName lang="slv">Turkova Draga</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterskrill</placeName>
+                                    <placeName lang="slv">Skril</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Verderb</placeName>
+                                    <placeName lang="slv">Ferderb</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Verdreng</placeName>
+                                    <placeName lang="slv">Ferdreng</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Morowiz</placeName>
                             <placeName lang="slv">Morovec</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Eben</placeName>
+                                    <placeName lang="slv">Ravne</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Innlauf</placeName>
+                                    <placeName lang="slv">Inlavf</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Morowiz</placeName>
+                                    <placeName lang="slv">Morovec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Plösch</placeName>
+                                    <placeName lang="slv">Pleš</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Suchen</placeName>
+                                    <placeName lang="slv">Draga</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Nessenthal</placeName>
                             <placeName lang="slv">Koprivnik</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Altlagbüchel</placeName>
+                                    <placeName lang="slv">Stari Lagbihelj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Brunnsee</placeName>
+                                    <placeName lang="slv">Studeno</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Buchberg (Mitter-)</placeName>
+                                    <placeName lang="slv">Srednja Bukova Gora</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Buchberg (Ober-)</placeName>
+                                    <placeName lang="slv">Gorenja Bukova Gora</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Buchberg (Unter-)</placeName>
+                                    <placeName lang="slv">Dolenja Bukova Gora</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Büchel</placeName>
+                                    <placeName lang="slv">Hrib (Gorica)</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Deutschau (Ober-)</placeName>
+                                    <placeName lang="slv">Gorenja Loka</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Friesach (Alt-)</placeName>
+                                    <placeName lang="slv">Stare Freže</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Friesach (Neu-)</placeName>
+                                    <placeName lang="slv">Laze</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Gradez</placeName>
+                                    <placeName lang="slv">Gradec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Katzendorf (Ober-)</placeName>
+                                    <placeName lang="slv">Gorenji Mačkovec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kummersdorf</placeName>
+                                    <placeName lang="slv">Kumersdorf</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Lichtenbach</placeName>
+                                    <placeName lang="slv">Svetli Potok</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Nessenthal</placeName>
+                                    <placeName lang="slv">Koprivnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Reichenau</placeName>
+                                    <placeName lang="slv">Reihenau</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Schöflein</placeName>
+                                    <placeName lang="slv">Ovčjak</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Schlechtbüchel</placeName>
+                                    <placeName lang="slv">Slaba Gorica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Steinwand (Unter-)</placeName>
+                                    <placeName lang="slv">Najbihelj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Suchen</placeName>
+                                    <placeName lang="slv">Sušje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Tanzbüchel</placeName>
+                                    <placeName lang="slv">Tancbihelj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Taubenbrunn</placeName>
+                                    <placeName lang="slv">Golobinjek</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Warmberg</placeName>
+                                    <placeName lang="slv">Topli Verh</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Obergras</placeName>
                             <placeName lang="slv">Trava</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Alben</placeName>
+                                    <placeName lang="slv">Planina</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Altwinkel</placeName>
+                                    <placeName lang="slv">Stari Vinkelj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Mittergras</placeName>
+                                    <placeName lang="slv">Srednja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Obergras</placeName>
+                                    <placeName lang="slv">Trava</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Oßiuniz</placeName>
@@ -1212,7 +1684,7 @@
                                     <placeName lang="slv">Osivnica</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu">Padau</placeName>
+                                    <placeName lang="deu">Padua</placeName>
                                     <placeName lang="slv">Padva</placeName>
                                 </ort>
                                 <ort>
@@ -1272,26 +1744,118 @@
                         <gemeinde>
                             <placeName lang="deu">Rieg</placeName>
                             <placeName lang="slv">Kočevska Reka</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Oberwezenbach</placeName>
+                                    <placeName lang="slv">Gorenji Vecenbah</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Rieg</placeName>
+                                    <placeName lang="slv">Kočevska Reka</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterwezenbach</placeName>
+                                    <placeName lang="slv">Dolenji Vecenbah</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Schwarzenbach</placeName>
                             <placeName lang="slv">Černi Potok</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Hasenfeld</placeName>
+                                    <placeName lang="slv">Zajčji Verh</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Schwarzenbach</placeName>
+                                    <placeName lang="slv">Černi Potok</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Suchen</placeName>
                             <placeName lang="slv">Draga</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Gehag</placeName>
+                                    <placeName lang="slv">Laze</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Merleinsrauth</placeName>
+                                    <placeName lang="slv">Preska</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Neuwinkel</placeName>
+                                    <placeName lang="slv">Novi Vinkel</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Suchen</placeName>
+                                    <placeName lang="slv">Draga</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Tiefenbach</placeName>
-                            <placeName lang="slv">Tiefenbach</placeName>
+                            <placeName lang="slv">Tiefenbah</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Niedertiefenbach</placeName>
+                                    <placeName lang="slv">Spodnji Tiefenbah</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Obertiefenbach</placeName>
+                                    <placeName lang="slv">Brige</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Pröße</placeName>
+                                    <placeName lang="slv">Preže</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Presulen</placeName>
+                                    <placeName lang="slv">Prežulje</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Unterdeutschau</placeName>
                             <placeName lang="slv">Nemška Loka</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Pröribel</placeName>
+                                    <placeName lang="slv">Prerigelj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterdeutschau</placeName>
+                                    <placeName lang="slv">Nemška Loka</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Unterlag</placeName>
                             <placeName lang="slv">Log</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Kosizen</placeName>
+                                    <placeName lang="slv">Kozice</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Neugereuth</placeName>
+                                    <placeName lang="slv">Neugereuth</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterpokstein</placeName>
+                                    <placeName lang="slv">Dolenji Pokštanj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterlag</placeName>
+                                    <placeName lang="slv">Log</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Wilpen</placeName>
+                                    <placeName lang="slv">Vilpen</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
@@ -1302,10 +1866,326 @@
                         <gemeinde>
                             <placeName lang="deu">Auersperg</placeName>
                             <placeName lang="slv">Turjak</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Auersperg</placeName>
+                                    <placeName lang="slv">Turjak</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Baudek</placeName>
+                                    <placeName lang="slv">Bavdek</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Blutigenstein</placeName>
+                                    <placeName lang="slv">Kervava Peč</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Bostetie</placeName>
+                                    <placeName lang="slv">Boštetje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Bukowiz</placeName>
+                                    <placeName lang="slv">Bukovica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Dödnik</placeName>
+                                    <placeName lang="slv">Dednik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Douschak</placeName>
+                                    <placeName lang="slv">Dolžak</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Gadez</placeName>
+                                    <placeName lang="slv">Gadec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Gradische</placeName>
+                                    <placeName lang="slv">Gradiše</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Großlotschnik</placeName>
+                                    <placeName lang="slv">Veliki Ločnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Großoßolnik</placeName>
+                                    <placeName lang="slv">Veliki Osolnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Jaworje</placeName>
+                                    <placeName lang="slv">Javorje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kleinlaschiz</placeName>
+                                    <placeName lang="slv">Male Lašče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kleinlotschnik</placeName>
+                                    <placeName lang="slv">Mali Ločnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kleinoßolnik</placeName>
+                                    <placeName lang="slv">Mali Osolnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Knaj</placeName>
+                                    <placeName lang="slv">Knaj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Laperje</placeName>
+                                    <placeName lang="slv">Laperje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Lase</placeName>
+                                    <placeName lang="slv">Laze</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Matschek</placeName>
+                                    <placeName lang="slv">Mačke</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Marintschek</placeName>
+                                    <placeName lang="slv">Marinček</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Machorje</placeName>
+                                    <placeName lang="slv">Mahorje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Osredek</placeName>
+                                    <placeName lang="slv">Osredek</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Petschek</placeName>
+                                    <placeName lang="slv">Peček</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Podhoinihrib</placeName>
+                                    <placeName lang="slv">Podhojni Hrib</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Podlog</placeName>
+                                    <placeName lang="slv">Podlog</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Prasnik</placeName>
+                                    <placeName lang="slv">Praznik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Purkartsche</placeName>
+                                    <placeName lang="slv">Purkarče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Raschiza</placeName>
+                                    <placeName lang="slv">Rašica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Rob</placeName>
+                                    <placeName lang="slv">Rob</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Rupe</placeName>
+                                    <placeName lang="slv">Rupe</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Selo</placeName>
+                                    <placeName lang="slv">Selo</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sgontsche</placeName>
+                                    <placeName lang="slv">Žgonče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Skameuz</placeName>
+                                    <placeName lang="slv">Škamevec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Skireschze</placeName>
+                                    <placeName lang="slv">Sekirešče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Slokagora</placeName>
+                                    <placeName lang="slv">Sloka Gora</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sernak</placeName>
+                                    <placeName lang="slv">Sernjak</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Schurke</placeName>
+                                    <placeName lang="slv">Ščurke</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Thomaschin</placeName>
+                                    <placeName lang="slv">Tomažin</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Tschetesch</placeName>
+                                    <placeName lang="slv">Četež</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Usmane</placeName>
+                                    <placeName lang="slv">Usmane</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Zenta</placeName>
+                                    <placeName lang="slv">Centa</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">St. Gregor</placeName>
                             <placeName lang="slv">Sv. Gregor</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Andoll</placeName>
+                                    <placeName lang="slv">Andol</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Brinoschiz</placeName>
+                                    <placeName lang="slv">Brinošca</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Bukowiz</placeName>
+                                    <placeName lang="slv">Bukovica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Finkou</placeName>
+                                    <placeName lang="slv">Finkovo</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">St. Gregor</placeName>
+                                    <placeName lang="slv">Sv. Gregor</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Gaspinou</placeName>
+                                    <placeName lang="slv">Gašpinovo</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Grebene</placeName>
+                                    <placeName lang="slv">Grebene</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Graben</placeName>
+                                    <placeName lang="slv">Graben</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Großsliwiz</placeName>
+                                    <placeName lang="slv">Velika Slivica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Hudikonz</placeName>
+                                    <placeName lang="slv">Hudi Konec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Höflern</placeName>
+                                    <placeName lang="slv">Dvorska Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Hoitsche</placeName>
+                                    <placeName lang="slv">Hojče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Juntsche</placeName>
+                                    <placeName lang="slv">Junče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kot</placeName>
+                                    <placeName lang="slv">Kot</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kerntsche</placeName>
+                                    <placeName lang="slv">Kerniče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kleinsliwiz</placeName>
+                                    <placeName lang="slv">Mala Slivica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kotou</placeName>
+                                    <placeName lang="slv">Kotel</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Leusteke</placeName>
+                                    <placeName lang="slv">Levštike</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Medwedjek</placeName>
+                                    <placeName lang="slv">Medvedjek</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Marschiz</placeName>
+                                    <placeName lang="slv">Maršič</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Maroutsche</placeName>
+                                    <placeName lang="slv">Marovče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Nowipot</placeName>
+                                    <placeName lang="slv">Novi Pot</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oberpodpolane</placeName>
+                                    <placeName lang="slv">Gorenje Podpolane</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Prapretsche</placeName>
+                                    <placeName lang="slv">Prapreče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Prelesie</placeName>
+                                    <placeName lang="slv">Prelesje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Pugled</placeName>
+                                    <placeName lang="slv">Pugled</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Perowo</placeName>
+                                    <placeName lang="slv">Perovo</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Pustihrib</placeName>
+                                    <placeName lang="slv">Pusti Hrib</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Podkrai</placeName>
+                                    <placeName lang="slv">Podkraj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Riegel</placeName>
+                                    <placeName lang="slv">Rigelj</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Slatirep</placeName>
+                                    <placeName lang="slv">Zlati Rep</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Schwarzenbach</placeName>
+                                    <placeName lang="slv">Černi Potok</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sadnike</placeName>
+                                    <placeName lang="slv">Zadnike</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Skerlowiza</placeName>
+                                    <placeName lang="slv">Škerlovica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Tscherntsche oder Brig</placeName>
+                                    <placeName lang="slv">Černiče</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Unterpodpolane</placeName>
+                                    <placeName lang="slv">Dolenje Podpolane</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Wintarje</placeName>
+                                    <placeName lang="slv">Vintarje</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Großlaschiz</placeName>
@@ -1336,6 +2216,12 @@
                         <gemeinde>
                             <placeName lang="deu">Kompole</placeName>
                             <placeName lang="slv">Kompolje</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Kompole</placeName>
+                                    <placeName lang="slv">Kompolje</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Luscharie</placeName>
@@ -1447,7 +2333,7 @@
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Plossou</placeName>
-                                    <placeName lang="slv">Polosovo</placeName>
+                                    <placeName lang="slv">Plosovo</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Schaga</placeName>
@@ -1470,10 +2356,66 @@
                         <gemeinde>
                             <placeName lang="deu">Podgora</placeName>
                             <placeName lang="slv">Podgora</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Bruhanawaß</placeName>
+                                    <placeName lang="slv">Bruhana Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Malawaß</placeName>
+                                    <placeName lang="slv">Mala Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Podgora</placeName>
+                                    <placeName lang="slv">Podgora</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Podgoriza</placeName>
+                                    <placeName lang="slv">Podgorica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sagoriza</placeName>
+                                    <placeName lang="slv">Zagorica</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Widem</placeName>
                             <placeName lang="slv">Videm</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Hotschewje</placeName>
+                                    <placeName lang="slv">Hočevje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kleinilowagora</placeName>
+                                    <placeName lang="slv">Mala Ilova Gora</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Podpetsch</placeName>
+                                    <placeName lang="slv">Podpeč</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Ponique</placeName>
+                                    <placeName lang="slv">Ponikve</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sdenskawas</placeName>
+                                    <placeName lang="slv">Zdenska Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Widem</placeName>
+                                    <placeName lang="slv">Videm</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Wodize-Predstrug</placeName>
+                                    <placeName lang="slv">Vodice-Predstruga</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Zesta</placeName>
+                                    <placeName lang="slv">Cesta</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
@@ -1484,34 +2426,218 @@
                         <gemeinde>
                             <placeName lang="deu">Dane</placeName>
                             <placeName lang="slv">Dane</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Bukowiz</placeName>
+                                    <placeName lang="slv">Bukovica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Dane</placeName>
+                                    <placeName lang="slv">Dane</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sadule</placeName>
+                                    <placeName lang="slv">Zadole</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sajowiz</placeName>
+                                    <placeName lang="slv">Sajovec</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Gora</placeName>
                             <placeName lang="slv">Gora</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Gora</placeName>
+                                    <placeName lang="slv">Gora</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Großpölland</placeName>
                             <placeName lang="slv">Velike Poljane</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Dule</placeName>
+                                    <placeName lang="slv">Dule</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Großpölland</placeName>
+                                    <placeName lang="slv">Velike Poljane</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Orteneg</placeName>
+                                    <placeName lang="slv">Ortenek</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Schukou</placeName>
+                                    <placeName lang="slv">Žukovo</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Skrainek</placeName>
+                                    <placeName lang="slv">Skranjek</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Werch</placeName>
+                                    <placeName lang="slv">Verh</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Jurjowiz</placeName>
                             <placeName lang="slv">Jurjovica</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Friesach</placeName>
+                                    <placeName lang="slv">Breže</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Jurjowiz</placeName>
+                                    <placeName lang="slv">Jurjovica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Winkel</placeName>
+                                    <placeName lang="slv">Kot</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Laserbach</placeName>
                             <placeName lang="slv">Loški Potok</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Hrib</placeName>
+                                    <placeName lang="slv">Hrib</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Kleinlack</placeName>
+                                    <placeName lang="slv">Mali Log</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Mitterdorf</placeName>
+                                    <placeName lang="slv">Srednja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Retie</placeName>
+                                    <placeName lang="slv">Retije</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sigisdorf</placeName>
+                                    <placeName lang="slv">Šegova Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Tabor</placeName>
+                                    <placeName lang="slv">Tabor</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Traunik</placeName>
+                                    <placeName lang="slv">Travnik</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Niederdorf</placeName>
                             <placeName lang="slv">Dolenja Vas</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Büchelsdorf</placeName>
+                                    <placeName lang="slv">Prigorica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Blate</placeName>
+                                    <placeName lang="slv">Blato</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Deutschdorf</placeName>
+                                    <placeName lang="slv">Nemška Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Masern</placeName>
+                                    <placeName lang="slv">Gorčarice</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Masereben</placeName>
+                                    <placeName lang="slv">Gorčarske Ravne</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Niederdorf</placeName>
+                                    <placeName lang="slv">Dolenja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Rakitniz</placeName>
+                                    <placeName lang="slv">Rakitnica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Winkel bei Rakitniz</placeName>
+                                    <placeName lang="slv">Kot pri Rakitnici</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Reifniz</placeName>
                             <placeName lang="slv">Ribnica</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Krobatsch</placeName>
+                                    <placeName lang="slv">Horvača</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Lipowiz</placeName>
+                                    <placeName lang="slv">Lipovec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Makusche</placeName>
+                                    <placeName lang="slv">Makoša</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Niedergereuth</placeName>
+                                    <placeName lang="slv">Dolenje Laze</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Oberdorf</placeName>
+                                    <placeName lang="slv">Gorenja Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Otawiz</placeName>
+                                    <placeName lang="slv">Otavice</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Reifniz</placeName>
+                                    <placeName lang="slv">Ribnica</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Sapusche</placeName>
+                                    <placeName lang="slv">Zapuže</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Weikersdorf</placeName>
+                                    <placeName lang="slv">Goriča Vas</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Willingrain</placeName>
+                                    <placeName lang="slv">Breg</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Schuschie</placeName>
                             <placeName lang="slv">Sušje</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Schuschie</placeName>
+                                    <placeName lang="slv">Sušje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Slatenek</placeName>
+                                    <placeName lang="slv">Slatnik</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Slebitsch</placeName>
+                                    <placeName lang="slv">Žlebič</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde>
                             <placeName lang="deu">Soderschiz</placeName>
@@ -1582,6 +2708,48 @@
                         <gemeinde>
                             <placeName lang="deu">Strug</placeName>
                             <placeName lang="slv">Struge</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu">Kolenzdorf</placeName>
+                                    <placeName lang="slv">Kolenc</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Paka</placeName>
+                                    <placeName lang="slv">Paka</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Perzirkwi</placeName>
+                                    <placeName lang="slv">Pri Cirkvi</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Perlipe</placeName>
+                                    <placeName lang="slv">Perlipe</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Podtabor</placeName>
+                                    <placeName lang="slv">Podtabor</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Potiskauz</placeName>
+                                    <placeName lang="slv">Potiskavec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Raplou</placeName>
+                                    <placeName lang="slv">Raplovo</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Terschitsch</placeName>
+                                    <placeName lang="slv">Teršič</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Tissouz</placeName>
+                                    <placeName lang="slv">Tisovec</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu">Tschatesch</placeName>
+                                    <placeName lang="slv">Čateš</placeName>
+                                </ort>
+                            </orte>
                         </gemeinde>
                     </gemeinden>
                 </gerichtsBezirk>
