@@ -3557,7 +3557,7 @@
                                     <placeName lang="deu" key="3203478">Berganskoselo</placeName>
                                     <placeName lang="slv" key="3203478">Bregana</placeName>
                                 </ort>
-                                <!-- zapisana dva kraja z istim imenom, vendar drugični podatki za število hiš in prebivalcev -->
+                                <!-- zapisana dva kraja z istim imenom, vendar drugačni podatki za število hiš in prebivalcev -->
                                 <ort>
                                     <placeName lang="deu" key="3203383">Bresie</placeName>
                                     <placeName lang="slv" key="3203383">Brezje</placeName>
@@ -3607,7 +3607,7 @@
                                     <placeName lang="slv" key="3195860">Mala Dolina</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu" key="8989598">Kraschkavas</placeName>
+                                    <placeName lang="deu" key="8989598">Kraschkawas</placeName>
                                     <placeName lang="slv" key="8989598">Kraška Vas</placeName>
                                 </ort>
                                 <ort>
@@ -3667,8 +3667,12 @@
                                     <placeName lang="slv" key="3202844">Čateš</placeName>
                                 </ort>
                                 <ort>
+                                    <placeName lang="deu" key="3202844">Tscheden</placeName>
+                                    <placeName lang="slv" key="3202844">Čeden</placeName>
+                                </ort>
+                                <ort>
                                     <placeName lang="deu" key="3209350">Unterribenza</placeName>
-                                    <placeName lang="slv" key="3209350">Dolenja Ribniza</placeName>
+                                    <placeName lang="slv" key="3209350">Dolenja Ribnica</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu" key="8987404">Zerina</placeName>
@@ -3858,7 +3862,7 @@
                                     <placeName lang="slv" key="8988500">Jablanica</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu" key="8989204">Ivansche</placeName>
+                                    <placeName lang="deu" key="8989204">Iwansche</placeName>
                                     <placeName lang="slv" key="8989204">Ivanše</placeName>
                                 </ort>
                                 <ort>
@@ -3986,7 +3990,7 @@
                                     <placeName lang="slv">Dobrava</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu" key="3201890">Dobruškawas</placeName>
+                                    <placeName lang="deu" key="3201890">Dobruschkawas</placeName>
                                     <placeName lang="slv" key="3201890">Dobruška Vas</placeName>
                                 </ort>
                                 <ort>
@@ -4085,7 +4089,7 @@
                                     <placeName lang="slv" key="8989266">Goriška Gora</placeName>
                                 </ort>
                                 <ort>
-                                    <placeName lang="deu" key="8988273">Gorischkavas</placeName>
+                                    <placeName lang="deu" key="8988273">Gorischkawas</placeName>
                                     <placeName lang="slv" key="8988273">Goriška Vas</placeName>
                                 </ort>
                                 <ort>
@@ -4369,7 +4373,7 @@
                                 </ort>
                                 <ort>
                                     <placeName lang="deu" key="3188160">Großstermez</placeName>
-                                    <placeName lang="slv" key="3188160">Veliki Stermez</placeName>
+                                    <placeName lang="slv" key="3188160">Veliki Stermec</placeName>
                                 </ort>
                                 <ort>
                                     <placeName lang="deu" key="3198669">Jeuscheuz</placeName>
@@ -4550,7 +4554,7 @@
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Straßberg</placeName>
-                                    <placeName lang="slv">Strasperg</placeName>
+                                    <placeName lang="slv">Strasperg</placeName><!-- ali Stražperg? -->
                                 </ort>
                                 <ort>
                                     <placeName lang="deu">Zerouz</placeName>
