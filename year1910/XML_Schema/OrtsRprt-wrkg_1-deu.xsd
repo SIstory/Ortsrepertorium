@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:documentation xml:lang="sl">Andrej Pančur, Inštitut za novejšo zgodovino, Ljubljana, 2016-04-19.
+      XML shema za validacijo delovnih XML dokumentov, primernih za transkribiranje krajevnih repertorijev
+      avstrijskih dežel habsburške monarhije.</xs:documentation>
+    <xs:documentation xml:lang="sl">1.0 verzija</xs:documentation>
+    <xs:documentation xml:lang="en">This software is dual-licensed:
+      
+      1. Distributed under a Creative Commons Attribution-ShareAlike 4.0
+      Unported License http://creativecommons.org/licenses/by-sa/4.0/ 
+      
+      2. http://www.opensource.org/licenses/BSD-2-Clause
+      
+      All rights reserved.
+      
+      Redistribution and use in source and binary forms, with or without
+      modification, are permitted provided that the following conditions are
+      met:
+      
+      * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+      
+      * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+      
+      This software is provided by the copyright holders and contributors
+      "as is" and any express or implied warranties, including, but not
+      limited to, the implied warranties of merchantability and fitness for
+      a particular purpose are disclaimed. In no event shall the copyright
+      holder or contributors be liable for any direct, indirect, incidental,
+      special, exemplary, or consequential damages (including, but not
+      limited to, procurement of substitute goods or services; loss of use,
+      data, or profits; or business interruption) however caused and on any
+      theory of liability, whether in contract, strict liability, or tort
+      (including negligence or otherwise) arising in any way out of the use
+      of this software, even if advised of the possibility of such damage.
+      
+      Andrej Pančur, Inštitut za novejšo zgodovino, Ljubljana (Institute of contemporary history, Ljubljana)</xs:documentation>
+  </xs:annotation>
   <xs:element name="root">
     <xs:complexType>
       <xs:sequence>
@@ -8,6 +47,11 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="polBezirke">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">politische Bezirke</xs:documentation>
+      <xs:documentation xml:lang="sl">politični okraji</xs:documentation>
+      <xs:documentation xml:lang="en">political districts</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="polBezirk"/>
@@ -15,6 +59,11 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="polBezirk">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">politischer Bezirk</xs:documentation>
+      <xs:documentation xml:lang="sl">politični okraj</xs:documentation>
+      <xs:documentation xml:lang="en">political district</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
@@ -23,6 +72,11 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="gerichtsBezirke">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">Gerichtsbezirke</xs:documentation>
+      <xs:documentation xml:lang="sl">sodni okraji</xs:documentation>
+      <xs:documentation xml:lang="en">judicial districts</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="gerichtsBezirk"/>
@@ -30,6 +84,11 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="gerichtsBezirk">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">Gerichtsbezirk</xs:documentation>
+      <xs:documentation xml:lang="sl">sodni okraj</xs:documentation>
+      <xs:documentation xml:lang="en">judicial district</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
@@ -39,6 +98,11 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="gemeinden">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">Ortsgemeinden</xs:documentation>
+      <xs:documentation xml:lang="sl">krajevne občine</xs:documentation>
+      <xs:documentation xml:lang="en">local municipalities</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="gemeinde"/>
@@ -46,25 +110,42 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="gemeinde">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">Ortsgemeinde</xs:documentation>
+      <xs:documentation xml:lang="sl">krajevna občina</xs:documentation>
+      <xs:documentation xml:lang="en">local municipality</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
         <xs:element minOccurs="0" ref="orte"/>
       </xs:sequence>
-      <xs:attribute name="n" type="xs:integer"/>
+      <xs:attribute name="n" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">number of numbered list</xs:documentation>
+          <xs:documentation xml:lang="sl">številka iz številčnega seznama</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
       <xs:attribute name="ko" type="xs:string">
         <xs:annotation>
-          <xs:documentation>vpiši podatke o katastrski občini</xs:documentation>
+          <xs:documentation xml:lang="sl">vpiši podatke o katastrski občini</xs:documentation>
+          <xs:documentation xml:lang="en">data about cadastral community</xs:documentation>
         </xs:annotation>
       </xs:attribute>
       <xs:attribute name="koopomba" type="xs:string">
         <xs:annotation>
-          <xs:documentation>vpiši podatke o katastrski občini iz opombe</xs:documentation>
+          <xs:documentation xml:lang="sl">vpiši podatke o katastrski občini iz opombe</xs:documentation>
+          <xs:documentation xml:lang="en">data about cadastral community in note</xs:documentation>
         </xs:annotation>
       </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="orte">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">Ortschaften</xs:documentation>
+      <xs:documentation xml:lang="sl">kraji</xs:documentation>
+      <xs:documentation xml:lang="en">localities</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="ort"/>
@@ -72,26 +153,43 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="ort">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">Ortschaft</xs:documentation>
+      <xs:documentation xml:lang="sl">kraj</xs:documentation>
+      <xs:documentation xml:lang="en">locality</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
         <xs:element minOccurs="0" ref="geo"/>
         <xs:element minOccurs="0" ref="teile"/>
       </xs:sequence>
-      <xs:attribute name="n" type="xs:integer"/>
+      <xs:attribute name="n" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">number of numbered list</xs:documentation>
+          <xs:documentation xml:lang="sl">številka iz številčnega seznama</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
       <xs:attribute name="ko" type="xs:string">
         <xs:annotation>
-          <xs:documentation>vpiši podatke o katastrski občini</xs:documentation>
+          <xs:documentation xml:lang="sl">vpiši podatke o katastrski občini</xs:documentation>
+          <xs:documentation xml:lang="en">data about cadastral community</xs:documentation>
         </xs:annotation>
       </xs:attribute>
       <xs:attribute name="koopomba" type="xs:string">
         <xs:annotation>
-          <xs:documentation>vpiši podatke o katastrski občini iz opombe</xs:documentation>
+          <xs:documentation xml:lang="sl">vpiši podatke o katastrski občini iz opombe</xs:documentation>
+          <xs:documentation xml:lang="en">data about cadastral community in note</xs:documentation>
         </xs:annotation>
       </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="teile">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">Ortsbestandteile</xs:documentation>
+      <xs:documentation xml:lang="sl">krajevni deli</xs:documentation>
+      <xs:documentation xml:lang="en">locality parts</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="teil"/>
@@ -99,6 +197,11 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="teil">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">Ortsbestandteil</xs:documentation>
+      <xs:documentation xml:lang="sl">krajevni del</xs:documentation>
+      <xs:documentation xml:lang="en">locality part</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
@@ -111,38 +214,71 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="vrsta" type="xs:string"/>
-  <xs:element name="hise" type="xs:integer"/>
-  <xs:element name="prebivalci" type="xs:integer"/>
+  <xs:element name="vrsta" type="xs:string">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">vrsta kraja</xs:documentation>
+      <xs:documentation xml:lang="en">type of place</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="hise" type="xs:integer">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">število hiš</xs:documentation>
+      <xs:documentation xml:lang="en">number of houses</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="prebivalci" type="xs:integer">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">število prebivalcev</xs:documentation>
+      <xs:documentation xml:lang="en">population</xs:documentation>
+    </xs:annotation>
+  </xs:element>
   <xs:element name="placeName">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">place name</xs:documentation>
+      <xs:documentation xml:lang="sl">krajevno ime</xs:documentation>
+    </xs:annotation>
     <xs:complexType mixed="true">
-      <xs:attribute name="key" type="xs:integer"/>
+      <xs:attribute name="key" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation xml:lang="sl">geonames (http://www.geonames.org/) identifikator</xs:documentation>
+          <xs:documentation xml:lang="en">geonames (http://www.geonames.org/) identifier</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
       <xs:attribute name="lang">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">language</xs:documentation>
+          <xs:documentation xml:lang="sl">jezik</xs:documentation>
+        </xs:annotation>
         <xs:simpleType>
           <xs:restriction base="xs:language">
             <xs:enumeration value="slv">
               <xs:annotation>
-                <xs:documentation>slovenščina</xs:documentation>
+                <xs:documentation xml:lang="sl">slovenščina</xs:documentation>
+                <xs:documentation xml:lang="en">Slovenian</xs:documentation>
               </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="deu">
               <xs:annotation>
-                <xs:documentation>nemščina</xs:documentation>
+                <xs:documentation xml:lang="sl">nemščina</xs:documentation>
+                <xs:documentation xml:lang="en">German</xs:documentation>
               </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="ita">
               <xs:annotation>
-                <xs:documentation>italijanščina</xs:documentation>
+                <xs:documentation xml:lang="sl">italijanščina</xs:documentation>
+                <xs:documentation xml:lang="en">Italian</xs:documentation>
               </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="hun">
               <xs:annotation>
-                <xs:documentation>madžarščina</xs:documentation>
+                <xs:documentation xml:lang="sl">madžarščina</xs:documentation>
+                <xs:documentation xml:lang="en">Hungarian</xs:documentation>
               </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="hrv">
               <xs:annotation>
-                <xs:documentation>hrvaščina</xs:documentation>
+                <xs:documentation xml:lang="sl">hrvaščina</xs:documentation>
+                <xs:documentation xml:lang="en">Croatian</xs:documentation>
               </xs:annotation>
             </xs:enumeration>
           </xs:restriction>
@@ -150,5 +286,10 @@
       </xs:attribute>
     </xs:complexType>
   </xs:element>
-  <xs:element name="geo" type="xs:string"/>
+  <xs:element name="geo" type="xs:string">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">geografske koordinate</xs:documentation>
+      <xs:documentation xml:lang="en">geographic coordinates</xs:documentation>
+    </xs:annotation>
+  </xs:element>
 </xs:schema>
