@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt>
+                        <title xml:lang="sl">Shema TEI za krajevni repertorij za Gubernij v
+                              Ljubljani za leto 1817</title>
+                        <title xml:lang="en">The TEI Schema for Gazetteer for Government in
+                              Ljubljana 1817</title>
+                        <author>
+                              <name>Andrej Pančur</name>
+                        </author>
+                  </titleStmt>
+                  <editionStmt>
+                        <edition>1.0</edition>
+                  </editionStmt>
+                  <publicationStmt>
+                        <publisher><name xml:lang="sl">Inštitut za novejšo zgodovino</name><name
+                                    xml:lang="en">Institute of Contemporary History</name><ref
+                                    target="http://www.inz.si/">http://www.inz.si/</ref><address>
+                                    <addrLine>Kongresni trg 1</addrLine>
+                                    <addrLine>1000 Ljubljana</addrLine>
+                                    <addrLine>Slovenija</addrLine>
+                              </address><email>inz@inz.si</email></publisher>
+                        <pubPlace>https://github.com/SIstory/Ortsrepertorium</pubPlace>
+                        <availability status="free">
+                              <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+                        </availability>
+                        <date when="2017-05-18"/>
+                  </publicationStmt>
+                  <sourceDesc>
+                        <p xml:lang="sl">Originalno digitalno besedilo.</p>
+                        <p xml:lang="en">Born digital.</p>
+                  </sourceDesc>
+            </fileDesc>
+      </teiHeader>
+      <text>
+            <body>
+                  <head>Gazetteer for Government in Ljubljana 1817</head>
+                  <p>This TEI customization file specifies the schema for the transcription of
+                        Gazetteer for Government in Ljubljana 1817.</p>
+                  <schemaSpec ident="tei_OrtsRepertorium-1817" start="TEI">
+                        <!-- required modules -->
+                        <moduleRef key="tei"/>
+                        <moduleRef key="header"
+                              except="abstract biblFull cRefPattern calendar calendarDesc catRef correspAction correspContext correspDesc creation handNote interpretation listPrefixDef prefixDef refState refsDecl rendition scriptNote seriesStmt stdVals styleDefDecl typeNote xenoData"/>
+                        <moduleRef key="core"
+                              except="abbr add bibl biblScope binaryObject cb choice cit citedRange corr del distinct divGen emph expan foreign gap gb gloss graphic head headItem headLabel hi index item l label lb lg list listBibl measure measureGrp media meeting mentioned milestone num orig pb ptr q quote ref reg relatedItem rs said series sic soCalled sp speaker stage street teiCorpus term textLang time unclear"/>
+                        <moduleRef key="textstructure" include="TEI body docImprint docTitle front text titlePart"/>
+                        <!-- optional modules -->
+                        <moduleRef key="namesdates"
+                              include="listPlace place placeName population state"/>
+                        <elementSpec ident="place" module="namesdates" mode="change">
+                              <attList>
+                                    <attDef ident="type" mode="replace" usage="opt">
+                                          <valList type="closed">
+                                                <valItem ident="Provinz"/>
+                                                <valItem ident="Kreis"/>
+                                                <valItem ident="Section"/>
+                                                <valItem ident="Bezirksobrigkeit"/>
+                                          </valList>
+                                    </attDef>
+                                    <attDef ident="ana" mode="delete"/>
+                                    <attDef ident="atLeast" mode="delete"/>
+                                    <attDef ident="atMost" mode="delete"/>
+                                    <attDef ident="cert" mode="delete"/>
+                                    <attDef ident="change" mode="delete"/>
+                                    <attDef ident="confidence" mode="delete"/>
+                                    <attDef ident="copyOf" mode="delete"/>
+                                    <attDef ident="corresp" mode="delete"/>
+                                    <attDef ident="evidence" mode="delete"/>
+                                    <attDef ident="exclude" mode="delete"/>
+                                    <attDef ident="extent" mode="delete"/>
+                                    <attDef ident="facs" mode="delete"/>
+                                    <attDef ident="instant" mode="delete"/>
+                                    <attDef ident="max" mode="delete"/>
+                                    <attDef ident="min" mode="delete"/>
+                                    <attDef ident="next" mode="delete"/>
+                                    <attDef ident="precision" mode="delete"/>
+                                    <attDef ident="prev" mode="delete"/>
+                                    <attDef ident="quantity" mode="delete"/>
+                                    <attDef ident="rend" mode="delete"/>
+                                    <attDef ident="rendition" mode="delete"/>
+                                    <attDef ident="resp" mode="delete"/>
+                                    <attDef ident="sameAs" mode="delete"/>
+                                    <attDef ident="scope" mode="delete"/>
+                                    <attDef ident="select" mode="delete"/>
+                                    <attDef ident="sortKey" mode="delete"/>
+                                    <attDef ident="source" mode="delete"/>
+                                    <attDef ident="style" mode="delete"/>
+                                    <attDef ident="subtype" mode="delete"/>
+                                    <attDef ident="synch" mode="delete"/>
+                                    <attDef ident="unit" mode="delete"/>
+                                    <attDef ident="xml:base" mode="delete"/>
+                                    <attDef ident="xml:id" mode="delete"/>
+                                    <attDef ident="xml:lang" mode="delete"/>
+                                    <attDef ident="xml:space" mode="delete"/>
+                              </attList>
+                        </elementSpec>
+                        <elementSpec ident="listPlace" module="namesdates" mode="change">
+                              <attList>
+                                    <attDef ident="type" mode="replace" usage="opt">
+                                          <valList type="closed">
+                                                <valItem ident="Hauptgemeinden"/>
+                                                <valItem ident="Untergemeinden"/>
+                                                <valItem ident="Ortschaften"/>
+                                                <valItem ident="Vorstädte"/>
+                                          </valList>
+                                    </attDef>
+                                    <attDef ident="ana" mode="delete"/>
+                                    <attDef ident="cert" mode="delete"/>
+                                    <attDef ident="change" mode="delete"/>
+                                    <attDef ident="copyOf" mode="delete"/>
+                                    <attDef ident="corresp" mode="delete"/>
+                                    <attDef ident="default" mode="delete"/>
+                                    <attDef ident="exclude" mode="delete"/>
+                                    <attDef ident="facs" mode="delete"/>
+                                    <attDef ident="next" mode="delete"/>
+                                    <attDef ident="prev" mode="delete"/>
+                                    <attDef ident="rend" mode="delete"/>
+                                    <attDef ident="rendition" mode="delete"/>
+                                    <attDef ident="resp" mode="delete"/>
+                                    <attDef ident="sameAs" mode="delete"/>
+                                    <attDef ident="select" mode="delete"/>
+                                    <attDef ident="sortKey" mode="delete"/>
+                                    <attDef ident="source" mode="delete"/>
+                                    <attDef ident="style" mode="delete"/>
+                                    <attDef ident="subtype" mode="delete"/>
+                                    <attDef ident="synch" mode="delete"/>
+                                    <attDef ident="xml:base" mode="delete"/>
+                                    <attDef ident="xml:lang" mode="delete"/>
+                                    <attDef ident="xml:space" mode="delete"/>
+                              </attList>
+                        </elementSpec>
+                        <elementSpec ident="population" module="namesdates" mode="change">
+                              <attList>
+                                    <attDef ident="type" mode="replace" usage="req">
+                                          <valList type="closed">
+                                                <valItem ident="Seelen"/>
+                                          </valList>
+                                    </attDef>
+                                    <attDef ident="ana" mode="delete"/>
+                                    <attDef ident="atLeast" mode="delete"/>
+                                    <attDef ident="atMost" mode="delete"/>
+                                    <attDef ident="calendar" mode="delete"/>
+                                    <attDef ident="cert" mode="delete"/>
+                                    <attDef ident="change" mode="delete"/>
+                                    <attDef ident="confidence" mode="delete"/>
+                                    <attDef ident="copyOf" mode="delete"/>
+                                    <attDef ident="corresp" mode="delete"/>
+                                    <attDef ident="datingMethod" mode="delete"/>
+                                    <attDef ident="datingPoint" mode="delete"/>
+                                    <attDef ident="evidence" mode="delete"/>
+                                    <attDef ident="exclude" mode="delete"/>
+                                    <attDef ident="extent" mode="delete"/>
+                                    <attDef ident="facs" mode="delete"/>
+                                    <attDef ident="from" mode="delete"/>
+                                    <attDef ident="from-custom" mode="delete"/>
+                                    <attDef ident="from-iso" mode="delete"/>
+                                    <attDef ident="instant" mode="delete"/>
+                                    <attDef ident="key" mode="delete"/>
+                                    <attDef ident="max" mode="delete"/>
+                                    <attDef ident="min" mode="delete"/>
+                                    <attDef ident="n" mode="delete"/>
+                                    <attDef ident="next" mode="delete"/>
+                                    <attDef ident="notAfter" mode="delete"/>
+                                    <attDef ident="notAfter-custom" mode="delete"/>
+                                    <attDef ident="notAfter-iso" mode="delete"/>
+                                    <attDef ident="notBefore" mode="delete"/>
+                                    <attDef ident="notBefore-custom" mode="delete"/>
+                                    <attDef ident="notBefore-iso" mode="delete"/>
+                                    <attDef ident="nymRef" mode="delete"/>
+                                    <attDef ident="period" mode="delete"/>
+                                    <attDef ident="precision" mode="delete"/>
+                                    <attDef ident="prev" mode="delete"/>
+                                    <attDef ident="quantity" mode="delete"/>
+                                    <attDef ident="ref" mode="delete"/>
+                                    <attDef ident="rend" mode="delete"/>
+                                    <attDef ident="rendition" mode="delete"/>
+                                    <attDef ident="resp" mode="delete"/>
+                                    <attDef ident="role" mode="delete"/>
+                                    <attDef ident="sameAs" mode="delete"/>
+                                    <attDef ident="scope" mode="delete"/>
+                                    <attDef ident="select" mode="delete"/>
+                                    <attDef ident="source" mode="delete"/>
+                                    <attDef ident="style" mode="delete"/>
+                                    <attDef ident="subtype" mode="delete"/>
+                                    <attDef ident="synch" mode="delete"/>
+                                    <attDef ident="to" mode="delete"/>
+                                    <attDef ident="to-custom" mode="delete"/>
+                                    <attDef ident="to-iso" mode="delete"/>
+                                    <attDef ident="unit" mode="delete"/>
+                                    <attDef ident="when" mode="delete"/>
+                                    <attDef ident="when-custom" mode="delete"/>
+                                    <attDef ident="when-iso" mode="delete"/>
+                                    <attDef ident="xml:base" mode="delete"/>
+                                    <attDef ident="xml:id" mode="delete"/>
+                                    <attDef ident="xml:lang" mode="delete"/>
+                                    <attDef ident="xml:space" mode="delete"/>
+                              </attList>
+                        </elementSpec>
+                        <elementSpec ident="state" module="namesdates" mode="change">
+                              <attList>
+                                    <attDef ident="type" mode="replace" usage="req">
+                                          <valList type="closed">
+                                                <valItem ident="Häuser"/>
+                                          </valList>
+                                    </attDef>
+                                    <attDef ident="ana" mode="delete"/>
+                                    <attDef ident="atLeast" mode="delete"/>
+                                    <attDef ident="atMost" mode="delete"/>
+                                    <attDef ident="calendar" mode="delete"/>
+                                    <attDef ident="cert" mode="delete"/>
+                                    <attDef ident="change" mode="delete"/>
+                                    <attDef ident="confidence" mode="delete"/>
+                                    <attDef ident="copyOf" mode="delete"/>
+                                    <attDef ident="corresp" mode="delete"/>
+                                    <attDef ident="datingMethod" mode="delete"/>
+                                    <attDef ident="datingPoint" mode="delete"/>
+                                    <attDef ident="evidence" mode="delete"/>
+                                    <attDef ident="exclude" mode="delete"/>
+                                    <attDef ident="extent" mode="delete"/>
+                                    <attDef ident="facs" mode="delete"/>
+                                    <attDef ident="from" mode="delete"/>
+                                    <attDef ident="from-custom" mode="delete"/>
+                                    <attDef ident="from-iso" mode="delete"/>
+                                    <attDef ident="instant" mode="delete"/>
+                                    <attDef ident="key" mode="delete"/>
+                                    <attDef ident="max" mode="delete"/>
+                                    <attDef ident="min" mode="delete"/>
+                                    <attDef ident="n" mode="delete"/>
+                                    <attDef ident="next" mode="delete"/>
+                                    <attDef ident="notAfter" mode="delete"/>
+                                    <attDef ident="notAfter-custom" mode="delete"/>
+                                    <attDef ident="notAfter-iso" mode="delete"/>
+                                    <attDef ident="notBefore" mode="delete"/>
+                                    <attDef ident="notBefore-custom" mode="delete"/>
+                                    <attDef ident="notBefore-iso" mode="delete"/>
+                                    <attDef ident="nymRef" mode="delete"/>
+                                    <attDef ident="period" mode="delete"/>
+                                    <attDef ident="precision" mode="delete"/>
+                                    <attDef ident="prev" mode="delete"/>
+                                    <attDef ident="quantity" mode="delete"/>
+                                    <attDef ident="ref" mode="delete"/>
+                                    <attDef ident="rend" mode="delete"/>
+                                    <attDef ident="rendition" mode="delete"/>
+                                    <attDef ident="resp" mode="delete"/>
+                                    <attDef ident="role" mode="delete"/>
+                                    <attDef ident="sameAs" mode="delete"/>
+                                    <attDef ident="scope" mode="delete"/>
+                                    <attDef ident="select" mode="delete"/>
+                                    <attDef ident="source" mode="delete"/>
+                                    <attDef ident="style" mode="delete"/>
+                                    <attDef ident="subtype" mode="delete"/>
+                                    <attDef ident="synch" mode="delete"/>
+                                    <attDef ident="to" mode="delete"/>
+                                    <attDef ident="to-custom" mode="delete"/>
+                                    <attDef ident="to-iso" mode="delete"/>
+                                    <attDef ident="unit" mode="delete"/>
+                                    <attDef ident="when" mode="delete"/>
+                                    <attDef ident="when-custom" mode="delete"/>
+                                    <attDef ident="when-iso" mode="delete"/>
+                                    <attDef ident="xml:base" mode="delete"/>
+                                    <attDef ident="xml:id" mode="delete"/>
+                                    <attDef ident="xml:lang" mode="delete"/>
+                                    <attDef ident="xml:space" mode="delete"/>
+                              </attList>
+                        </elementSpec>
+                  </schemaSpec>
+            </body>
+      </text>
+</TEI>

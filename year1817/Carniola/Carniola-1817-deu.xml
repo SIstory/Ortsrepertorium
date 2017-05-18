@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/tei_OrtsRepertorium-1817.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Krajevni repertorij za Gubernij v Ljubljani za leto 1817</title>
+            <respStmt>
+               <resp>Prepis in kodiranje TEI</resp>
+               <name>Barbara Györfi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Prepis in kodiranje TEI</resp>
+               <name>Andrej Pančur</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <pubPlace>https://github.com/SIstory/Ortsrepertorium</pubPlace>
+            <availability>
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+            </availability>
+            <date when="2017"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct xml:lang="de">
+               <monogr>
+                  <title>Haupt - Ausweis über die Eintheilung des Laibacher Gouvernementsgebiethes in
+                     Provinzen, Kreise, Sektionen, Bezirks-Obrigkeiten, Hauptgemeinden, Untergemeinden und
+                     Ortschaften, nebst deren Häuser- und Seelenanzahl im Jahre 1817</title>
+                  <imprint>
+                     <pubPlace>Laibach</pubPlace>
+                     <publisher>Gedruckt mit Egerischen Schriften.</publisher>
+                     <date notBefore="1817"/>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:lang="de">
+      <front>
+         <docTitle>
+            <titlePart>Haupt - Ausweis über die Eintheilung des Laibacher Gouvernementsgebiethes in
+               Provinzen, Kreise, Sektionen, Bezirks-Obrigkeiten, Hauptgemeinden, Untergemeinden und
+               Ortschaften, nebst deren Häuser- und Seelenanzahl im Jahre 1817.</titlePart>
+         </docTitle>
+         <docImprint>
+            <pubPlace>Laibach</pubPlace>
+            <publisher>Gedruckt mit Egerischen Schriften.</publisher>
+         </docImprint>
+      </front>
+      <body>
+         <listPlace>
+            <place type="Provinz">
+               <placeName>Krain</placeName>
+               <listPlace>
+                  <place type="Kreis">
+                     <placeName>Laibach</placeName>
+                     <listPlace>
+                        <place type="Section" n="I.">
+                           <placeName>Laibach</placeName>
+                           <listPlace>
+                              <place type="Bezirksobrigkeit" n="1.">
+                                 <placeName>Magistrat Laibach</placeName>
+                                 <state type="Häuser">
+                                    <desc>866</desc>
+                                 </state>
+                                 <population type="Seelen">
+                                    <desc>9885</desc>
+                                 </population>
+                                 <listPlace type="Hauptgemeinden">
+                                    <place>
+                                       <placeName>Stadt Laibach (mit ihren Pomerio.)</placeName>
+                                       <state type="Häuser">
+                                          <desc>866</desc>
+                                       </state>
+                                       <population type="Seelen">
+                                          <desc>9855</desc>
+                                       </population>
+                                       <listPlace type="Untergemeinden">
+                                          <place>
+                                             <desc>Die Stadt für sich</desc>
+                                             <state type="Häuser">
+                                                <desc>308</desc>
+                                             </state>
+                                             <population type="Seelen">
+                                                <desc>4379</desc>
+                                             </population>
+                                          </place>
+                                          <place>
+                                             <desc>Vorstädte</desc>
+                                             <listPlace type="Vorstädte">
+                                                <place>
+                                                   <placeName>St. Peter</placeName>
+                                                   <state type="Häuser">
+                                                      <desc>146</desc>
+                                                   </state>
+                                                   <population type="Seelen">
+                                                      <desc>1455</desc>
+                                                   </population>
+                                                </place>
+                                                <place>
+                                                   <placeName>Pollana</placeName>
+                                                   <state type="Häuser">
+                                                      <desc>83</desc>
+                                                   </state>
+                                                   <population type="Seelen">
+                                                      <desc>935</desc>
+                                                   </population>
+                                                </place>
+                                                <place>
+                                                   <placeName>Gradische</placeName>
+                                                   <state type="Häuser">
+                                                      <desc>69</desc>
+                                                   </state>
+                                                   <population type="Seelen">
+                                                      <desc>760</desc>
+                                                   </population>
+                                                </place>
+                                                <place>
+                                                   <placeName>Kapuziner</placeName>
+                                                   <state type="Häuser">
+                                                      <desc>74</desc>
+                                                   </state>
+                                                   <population type="Seelen">
+                                                      <desc>977</desc>
+                                                   </population>
+                                                </place>
+                                                <place>
+                                                   <placeName>Karlstädter</placeName>
+                                                   <listPlace>
+                                                      <place>
+                                                         <desc>für sich</desc>
+                                                         <state type="Häuser">
+                                                            <desc>21</desc>
+                                                         </state>
+                                                         <population type="Seelen">
+                                                            <desc>193</desc>
+                                                         </population>
+                                                      </place>
+                                                      <place>
+                                                         <placeName>Hühnerdorf</placeName>
+                                                         <state type="Häuser">
+                                                            <desc>15</desc>
+                                                         </state>
+                                                         <population type="Seelen">
+                                                            <desc>70</desc>
+                                                         </population>
+                                                      </place>
+                                                   </listPlace>
+                                                </place>
+                                                <place>
+                                                   <placeName>Krakau</placeName>
+                                                   <state type="Häuser">
+                                                      <desc>73</desc>
+                                                   </state>
+                                                   <population type="Seelen">
+                                                      <desc>592</desc>
+                                                   </population>
+                                                </place>
+                                                <place>
+                                                   <placeName>Tirnau</placeName>
+                                                   <state type="Häuser">
+                                                      <desc>77</desc>
+                                                   </state>
+                                                   <population type="Seelen">
+                                                      <desc>524</desc>
+                                                   </population>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                       </listPlace>
+                                    </place>
+                                 </listPlace>
+                              </place>
+                              <place type="Bezirksobrigkeit" n="2.">
+                                 <placeName>Vereinigten Staatsherrschaften Thurn und Kaltenbrun</placeName>
+                                 <note>(Die erstere dem Provinzialfonde, die letztere dem Studienfonde gehörig.)</note>
+                                 <listPlace type="Hauptgemeinden">
+                                    <place>
+                                       <placeName>Laibach's Umgebung</placeName>
+                                       <listPlace type="Untergemeinden">
+                                          <place>
+                                             <placeName>Unterschischka</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Unterschischka</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                          <place>
+                                             <placeName>Orle</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Orle</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Sello bey Rudnig</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Dollenavaß</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Srednavaß</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Babnagoritza</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Rudnig</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                          <place>
+                                             <placeName>Weitsch</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Weitsch</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Gleinitz</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                          <place>
+                                             <placeName>Udmath</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Udmath</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                       </listPlace>
+                                    </place>
+                                    <place>
+                                       <placeName>Tschernutsch</placeName>
+                                       <listPlace type="Untergemeinden">
+                                          <place>
+                                             <placeName>Stoschze</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Mallavaß</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Stoschze</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Thomatschou</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Jarsche</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                          <place>
+                                             <placeName>Jeschza</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Jeschza</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Saule</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Kletsche</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                          <place>
+                                             <placeName>Gamling</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Untergamling</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Mittergamling</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Obergamling</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                          <place>
+                                             <placeName>Tschernutsch</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Tschernutsch</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Gmaina</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Podworst</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Dobrova</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                          <place>
+                                             <placeName>Nadgoritz</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Nadgoritz</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Brod</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Jescha</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                          <place>
+                                             <placeName>Podgoritz</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Podgoritz</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>St. Jakob</placeName>
+                                                </place>
+                                                <place>
+                                                   <placeName>Soteska</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                          <place>
+                                             <placeName>Dragomel</placeName>
+                                             <listPlace type="Ortschaften">
+                                                <place>
+                                                   <placeName>Beischeid zu Podgoriz</placeName>
+                                                </place>
+                                             </listPlace>
+                                          </place>
+                                       </listPlace>
+                                    </place>
+                                 </listPlace>
+                              </place>
+                           </listPlace>
+                        </place>
+                     </listPlace>
+                  </place>
+               </listPlace>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
