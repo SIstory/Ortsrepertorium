@@ -1278,7 +1278,7 @@
                 </gerichtsBezirk>
             </gerichtsBezirke>
         </polBezirk>
-        <polBezirk corresp="or1910:c.03">str. 14, spodaj
+        <polBezirk corresp="or1910:c.03">
             <placeName lang="deu" key="3197942">Gottschee</placeName>
             <placeName lang="slv" key="3197942">Kočevje</placeName>
             <gerichtsBezirke>
@@ -1287,11 +1287,11 @@
                     <placeName lang="slv" key="3197942">Kočevje</placeName>
                     <gemeinden>
                         <gemeinde corresp="or1910:c.030101">
-                            <placeName lang="deu" key="3189954">Altag</placeName>
+                            <placeName lang="deu" key="3189954">Altlag</placeName>
                             <placeName lang="slv" key="3189954">Stari Log</placeName>
                             <orte>
                                 <ort corresp="or1910:c.03010101">
-                                    <placeName lang="deu" key="3189954">Altag</placeName>
+                                    <placeName lang="deu" key="3189954">Altlag</placeName>
                                     <placeName lang="slv" key="3189954">Stari Log</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010102">
@@ -1324,7 +1324,7 @@
                             <orte>
                                 <ort corresp="or1910:c.03010201">
                                     <placeName lang="deu" key="3204858">Aibel</placeName>
-                                    <placeName lang="slv" key="3204858">Ajbelj</placeName>
+                                    <placeName lang="slv" key="3204858">Ajbel</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010202">
                                     <placeName lang="slv" key="3204544">Banja Loka</placeName>
@@ -1344,6 +1344,9 @@
                                     <placeName lang="deu" key="8989391">Dresnik</placeName>
                                     <placeName lang="slv" key="8989391">Drežnik</placeName>
                                 </ort>
+                                <ort>
+                                    <placeName lang="slv" key="8989417">Gorenji Potok</placeName>
+                                </ort>
                                 <ort corresp="or1910:c.03010205">
                                     <placeName lang="slv" key="8989404">Jesenov Vrt</placeName>
                                 </ort>
@@ -1359,13 +1362,9 @@
                                 <ort corresp="or1910:c.03010209">
                                     <placeName lang="slv" key="3194411">Nova Sela</placeName>
                                 </ort>
-                                <ort corresp="or1910:c.03010210">
-                                    <placeName lang="deu" key="8989417">Oberpotok</placeName>
-                                    <placeName lang="slv" key="8989417">Gorenji Potok</placeName>
-                                </ort>
                                 <ort corresp="or1910:c.03010211">
                                     <placeName lang="deu" key="8989301">Oberschaga</placeName>
-                                    <placeName lang="slv" key="8989301">Gorenja Žaga</placeName>
+                                    <placeName lang="slv" key="8989301">Žaga Gorenja</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0301021101">
                                             <placeName lang="slv">Loge</placeName>
@@ -1373,28 +1372,29 @@
                                         <teil corresp="or1910:c.0301021102">
                                             <placeName lang="deu" key="8989301"
                                                 >Oberschaga</placeName>
-                                            <placeName lang="slv" key="8989301">Gorenja
-                                                Žaga</placeName>
+                                            <placeName lang="slv" key="8989301">Žaga Gorenja</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
                                 <ort corresp="or1910:c.03010212">
-                                    <placeName lang="slv" key="3192916">Podstene</placeName>
+                                    <placeName lang="slv" key="3192916">Podstenje</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0301021201">
                                             <placeName lang="deu" key="8989676"
                                                 >Mitterpotok</placeName>
-                                            <placeName lang="slv" key="8989676">Srednji
-                                                Potok</placeName>
+                                            <placeName lang="slv" key="8989676">Potok Srednji</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301021202">
-                                            <placeName lang="slv" key="3192916">Podstene</placeName>
+                                            <placeName lang="slv" key="3192916">Podstenje</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301021203">
                                             <placeName lang="deu" key="8989675"
                                                 >Unterpotok</placeName>
-                                            <placeName lang="slv" key="8989675">Dolenji
-                                                Potok</placeName>
+                                            <placeName lang="slv" key="8989675">Potok Dolenji</placeName>
+                                        </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="8989679">Unterschaga</placeName>
+                                            <placeName lang="slv" key="8989679">Žaga Spodnja</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -1419,11 +1419,11 @@
                                 <ort corresp="or1910:c.03010216">
                                     <placeName lang="slv" key="8989674">Selo</placeName>
                                     <teile>
-                                        <teil corresp="or1910:c.0301021601">
-                                            <placeName lang="slv" key="8989674">Selo</placeName>
-                                        </teil>
                                         <teil corresp="or1910:c.0301021602">
                                             <placeName lang="slv" key="8989673">Lipovac</placeName>
+                                        </teil>
+                                        <teil corresp="or1910:c.0301021601">
+                                            <placeName lang="slv" key="8989674">Selo</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -1439,7 +1439,7 @@
                                 </ort>
                                 <ort corresp="or1910:c.03010220">
                                     <placeName lang="deu" key="8989679">Unterschaga</placeName>
-                                    <placeName lang="slv" key="8989679">Spodnja Žaga</placeName>
+                                    <placeName lang="slv" key="8989679">Žaga Spodnja</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0301022001">
                                             <placeName lang="slv">Lobič</placeName>
@@ -1447,11 +1447,14 @@
                                         <teil corresp="or1910:c.0301022002">
                                             <placeName lang="slv">Reber</placeName>
                                         </teil>
+                                        <teil>
+                                            <placeName lang="deu" key="8989675">Unterpotok</placeName>
+                                            <placeName lang="slv" key="8989675">Potok Dolenji</placeName>
+                                        </teil>
                                         <teil corresp="or1910:c.0301022003">
                                             <placeName lang="deu" key="8989679"
                                                 >Unterschaga</placeName>
-                                            <placeName lang="slv" key="8989679">Spodnja
-                                                Žaga</placeName>
+                                            <placeName lang="slv" key="8989679">Žaga Spodnja</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -1492,6 +1495,7 @@
                                     <placeName lang="deu" key="8989340">Boden</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010402">
+                                    <placeName lang="deu" key="8989402">Delatsch</placeName>
                                     <placeName lang="slv" key="8989402">Delač</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010403">
@@ -1504,7 +1508,7 @@
                                     <placeName lang="slv" key="8989437">Gladloka</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010406">
-                                    <placeName lang="slv" key="8989694">Grivac</placeName>
+                                    <placeName lang="slv" key="8989694">Grivač</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010407">
                                     <placeName lang="slv" key="8989668">Hrib</placeName>
@@ -1546,10 +1550,10 @@
                                     </teile>
                                 </ort>
                                 <ort corresp="or1910:c.03010414">
-                                    <placeName lang="slv">Oškert-Gotenc</placeName>
+                                    <placeName lang="slv">Oškert-Gotenec</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0301041401">
-                                            <placeName lang="slv" key="8989284">Gotenc</placeName>
+                                            <placeName lang="slv" key="8989284">Gotenec</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301041402">
                                             <placeName lang="slv" key="8989172">Oškert</placeName>
@@ -1564,6 +1568,7 @@
                                     <placeName lang="slv" key="8989710">Petrina</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010417">
+                                    <placeName lang="deu" key="8989173">Pirtsche</placeName>
                                     <placeName lang="slv" key="8989173">Pirče</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010418">
@@ -1576,6 +1581,7 @@
                                     <placeName lang="slv" key="3191284">Sapnik</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010421">
+                                    <placeName lang="deu" key="8989063">Slauskilas</placeName>
                                     <placeName lang="slv" key="8989063">Slavski Laz</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03010422">
@@ -1618,6 +1624,15 @@
                         <gemeinde corresp="or1910:c.030106">
                             <placeName lang="deu" key="3197943">Gottschee</placeName>
                             <placeName lang="slv" key="3197943">Kočevje</placeName>
+                            <orte>
+                                <ort>
+                                    <placeName lang="deu" key="3197943">Gottschee</placeName>
+                                    <placeName lang="slv" key="3197943">Kočevje</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="deu" key="3194979">Mooswald</placeName><!-- verjetno Mlaka pri Kočevju -->
+                                </ort>
+                            </orte>
                         </gemeinde>
                         <gemeinde corresp="or1910:c.030107">
                             <placeName lang="deu" key="3197992">Graflinden</placeName>
@@ -1767,21 +1782,20 @@
                                 </ort>
                                 <ort corresp="or1910:c.03011204">
                                     <placeName lang="deu" key="3194394">Neuloschin</placeName>
-                                    <placeName lang="slv" key="3194394">Nove Ložine</placeName>
+                                    <placeName lang="slv" key="3194394">Ložine Nove</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011205">
                                     <placeName lang="deu" key="3201773">Niederloschin</placeName>
-                                    <placeName lang="slv" key="3201773">Dolenje Ložine</placeName>
+                                    <placeName lang="slv" key="3201773">Ložine Dolenje</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011206">
                                     <placeName lang="deu" key="3200111">Oberloschin</placeName>
-                                    <placeName lang="slv" key="3200111">Gorenje Ložine</placeName>
+                                    <placeName lang="slv" key="3200111">Ložine Gorenje</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0301120601">
                                             <placeName lang="deu" key="3200111"
                                                 >Oberloschin</placeName>
-                                            <placeName lang="slv" key="3200111">Gorenje
-                                                Ložine</placeName>
+                                            <placeName lang="slv" key="3200111">Ložine Gorenje</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301120602">
                                             <placeName lang="deu">Schweinberg</placeName>
@@ -1794,7 +1808,7 @@
                                     <teile>
                                         <teil corresp="or1910:c.0301120701">
                                             <placeName lang="deu" key="3218578">Beim
-                                                Brunnwirt</placeName>
+                                                Brunnwirth</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301120702">
                                             <placeName lang="deu" key="8986987">Obrern</placeName>
@@ -1845,8 +1859,7 @@
                                 </ort>
                                 <ort corresp="or1910:c.03011304">
                                     <placeName lang="deu" key="3194683">Oberfliegendorf</placeName>
-                                    <placeName lang="slv" key="3194683">Gorenja Turkova
-                                        Draga</placeName>
+                                    <placeName lang="slv" key="3194683">Turkova Draga Gorenja</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011305">
                                     <placeName lang="deu" key="3194793">Obermösel</placeName>
@@ -1866,10 +1879,8 @@
                                     <placeName lang="deu" key="3192028">Reinthal</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011310">
-                                    <placeName lang="deu" key="10941991"
-                                        >Unterfliegendorf</placeName>
-                                    <placeName lang="slv" key="10941991">Dolenja Turkova
-                                        Draga</placeName>
+                                    <placeName lang="deu" key="10941991">Unterfliegendorf</placeName>
+                                    <placeName lang="slv" key="10941991">Turkova Draga Dolenja</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0301131001">
                                             <placeName lang="deu" key="8989403">Beim
@@ -1878,8 +1889,7 @@
                                         <teil corresp="or1910:c.0301131002">
                                             <placeName lang="deu" key="10941991"
                                                 >Unterfliegendorf</placeName>
-                                            <placeName lang="slv" key="10941991">Dolenja Turkova
-                                                Draga</placeName>
+                                            <placeName lang="slv" key="10941991">Turkova Draga Dolenja</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301131003">
                                             <placeName lang="deu">Wilpen</placeName>
@@ -1891,7 +1901,7 @@
                                 </ort>
                                 <ort corresp="or1910:c.03011311">
                                     <placeName lang="deu" key="3190683">Unterskrill</placeName>
-                                    <placeName lang="slv" key="3190683">Dolenje Zdihovo</placeName>
+                                    <placeName lang="slv" key="3190683">Zdihovo Dolenje</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011312">
                                     <placeName lang="deu" key="10941992">Verderb</placeName>
@@ -1900,9 +1910,6 @@
                                     <placeName lang="deu" key="8989383">Verdreng</placeName>
                                 </ort>
                             </orte>
-                        </gemeinde>
-                        <gemeinde corresp="or1910:c.030114">
-                            <placeName lang="deu" key="3195923">Mooswald</placeName>
                         </gemeinde>
                         <gemeinde corresp="or1910:c.030115">
                             <placeName lang="deu" key="3203683">Morobitz</placeName>
@@ -1913,7 +1920,7 @@
                                     <placeName lang="slv" key="10942106">Ravne</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011502">
-                                    <placeName lang="deu" key="10942105">Inlauf</placeName>
+                                    <placeName lang="deu" key="10942105">Innlauf</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011503">
                                     <placeName lang="deu" key="3203683">Morobitz</placeName>
@@ -1958,8 +1965,7 @@
                                 </ort>
                                 <ort corresp="or1910:c.03011607">
                                     <placeName lang="deu" key="3203069">Mitterbuchberg</placeName>
-                                    <placeName lang="slv" key="3203069">Srednja Bukova
-                                        Gora</placeName>
+                                    <placeName lang="slv" key="3203069">Bukova Gora Srednja</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011608">
                                     <placeName lang="deu" key="3197723">Nesselthal</placeName>
@@ -1971,17 +1977,15 @@
                                 </ort>
                                 <ort corresp="or1910:c.03011610">
                                     <placeName lang="deu" key="3203069">Oberbuchberg</placeName>
-                                    <placeName lang="slv" key="3203069">Gorenja Bukova
-                                        Gora</placeName>
+                                    <placeName lang="slv" key="3203069">Bukova Gora Gorenja</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011611">
                                     <placeName lang="deu" key="3194539">Oberdeutschau</placeName>
-                                    <placeName lang="slv" key="3194539">Gorenja Loka</placeName>
+                                    <placeName lang="slv" key="3194539">Loka Gorenja</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011612">
                                     <placeName lang="deu" key="10942284">Oberkatzendorf</placeName>
-                                    <placeName lang="slv" key="10942284">Gorenji
-                                        Mačkovec</placeName>
+                                    <placeName lang="slv" key="10942284">Mačkovec Gorenji</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011613">
                                     <placeName lang="deu" key="3192036">Reichenau</placeName>
@@ -2006,8 +2010,7 @@
                                 </ort>
                                 <ort corresp="or1910:c.03011619">
                                     <placeName lang="deu" key="3203069">Unterbuchberg</placeName>
-                                    <placeName lang="slv" key="3203069">Dolenja Bukova
-                                        Gora</placeName>
+                                    <placeName lang="slv" key="3203069">Bukova Gora Dolenja</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011620">
                                     <placeName lang="deu" key="3192915">Untersteinwand</placeName>
@@ -2038,10 +2041,10 @@
                                                 Kot</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301170202">
-                                            <placeName lang="slv" key="10942278">Na
-                                                Hribu</placeName>
+                                            <placeName lang="slv" key="10942278">Hribe</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301170203">
+                                            <placeName lang="deu" key="10942279">Preiche</placeName>
                                             <placeName lang="slv" key="10942279">Preska</placeName>
                                         </teil>
                                     </teile>
@@ -2056,7 +2059,7 @@
                                     <teile>
                                         <teil corresp="or1910:c.0301170401">
                                             <placeName lang="deu" key="3190133"
-                                                >Mittergraß</placeName>
+                                                >Mittergras</placeName>
                                             <placeName lang="slv" key="3190133">Srednja
                                                 Vas</placeName>
                                         </teil>
@@ -2087,24 +2090,27 @@
                                 </ort>
                                 <ort corresp="or1910:c.03011803">
                                     <placeName lang="deu" key="3219091">Grintouz</placeName>
-                                    <placeName lang="slv" key="3219091">Grintovc</placeName>
+                                    <placeName lang="slv" key="3219091">Grintovec</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011804">
+                                    <placeName lang="deu" key="8989706">Krischmane</placeName>
                                     <placeName lang="slv" key="8989706">Križmane</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011805">
+                                    <placeName lang="deu" key="8989010">Loschez</placeName>
                                     <placeName lang="slv" key="8989010">Ložec</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011806">
+                                    <placeName lang="deu" key="8989711">Malinschek</placeName>
                                     <placeName lang="slv" key="8989711">Malinšek</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011807">
                                     <placeName lang="deu" key="8989294">Mertouz</placeName>
-                                    <placeName lang="slv" key="8989294">Mrtovc</placeName>
+                                    <placeName lang="slv" key="8989294">Mrtovec</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011808">
-                                    <placeName lang="deu" key="3186495">Oberčačič</placeName>
-                                    <placeName lang="slv" key="3186495">Zgornji Čačič</placeName>
+                                    <placeName lang="deu" key="3186495">Obertschatschitsch</placeName>
+                                    <placeName lang="slv" key="3186495">Čačič Zgornji</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011809">
                                     <placeName lang="deu" key="3193930">Ossiunitz</placeName>
@@ -2126,10 +2132,8 @@
                                     <placeName lang="slv" key="3202413">Črni Potok</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0301181301">
-                                            <placeName lang="deu" key="3202413"
-                                                >Schwarzenbach</placeName>
-                                            <placeName lang="slv" key="3202413">Črni
-                                                Potok</placeName>
+                                            <placeName lang="deu" key="3202413">Schwarzenbach</placeName>
+                                            <placeName lang="slv" key="3202413">Črni Potok</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301181302">
                                             <placeName lang="slv" key="10942281">Vice</placeName>
@@ -2143,6 +2147,7 @@
                                     <placeName lang="slv" key="8989419">Srobotnik</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011816">
+                                    <placeName lang="deu" key="8989702">Stroitsch</placeName>
                                     <placeName lang="slv" key="8989702">Strojč</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011817">
@@ -2150,8 +2155,8 @@
                                     <placeName lang="slv" key="8989276">Žurge</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011818">
-                                    <placeName lang="deu" key="3190201">Unterčačič</placeName>
-                                    <placeName lang="slv" key="3190201">Spodnji Čačič</placeName>
+                                    <placeName lang="deu" key="3190201">Untertschatschitsch</placeName>
+                                    <placeName lang="slv" key="3190201">Čačič Spodnji</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03011819">
                                     <placeName lang="deu" key="8989331">Weißsenbach</placeName>
@@ -2244,10 +2249,8 @@
                                             <placeName lang="slv">Glažuta</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0301220202">
-                                            <placeName lang="deu" key="3192938"
-                                                >Merleinsrauth</placeName>
-                                            <placeName lang="slv" key="3192938"
-                                                >Podpreska</placeName>
+                                            <placeName lang="deu" key="3192938">Merleinsrauth</placeName>
+                                            <placeName lang="slv" key="3192938">Podpreska</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -2267,11 +2270,11 @@
                             <orte>
                                 <ort corresp="or1910:c.03012301">
                                     <placeName lang="deu" key="3201782">Niedertiefenbach</placeName>
-                                    <placeName lang="slv" key="3201782">Dolenja Briga</placeName>
+                                    <placeName lang="slv" key="3201782">Briga Dolenja</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03012302">
                                     <placeName lang="deu" key="3200279">Obertiefenbach</placeName>
-                                    <placeName lang="slv" key="3200279">Gorenja Briga</placeName>
+                                    <placeName lang="slv" key="3200279">Briga Gorenja</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03012303">
                                     <placeName lang="deu" key="10942285">Presuln</placeName>
@@ -2327,7 +2330,7 @@
                                 </ort>
                                 <ort corresp="or1910:c.03012505">
                                     <placeName lang="deu" key="8989326">Unterwilpen</placeName>
-                                    <placeName lang="slv" key="8989326">Dolenja Bilpa</placeName>
+                                    <placeName lang="slv" key="8989326">Bilpa Dolenja</placeName>
                                     <placeName lang="deu" key="8989326">Wildbach</placeName>
                                     <placeName lang="slv" key="8989326">Bilpa</placeName>
                                 </ort>
@@ -2337,7 +2340,7 @@
                 </gerichtsBezirk>
                 <gerichtsBezirk corresp="or1910:c.0302">
                     <placeName lang="deu" key="3239062">Großlaschitz</placeName>
-                    <placeName lang="slv" key="3239062">Velike Lašče</placeName>
+                    <placeName lang="slv" key="3239062">Lašče Velike</placeName>
                     <gemeinden>
                         <gemeinde corresp="or1910:c.030201">
                             <placeName lang="deu" key="3188618">Auersperg</placeName>
@@ -2366,21 +2369,18 @@
                                 </ort>
                                 <ort corresp="or1910:c.03020105">
                                     <placeName lang="deu" key="3188041">Großlotschnik</placeName>
-                                    <placeName lang="slv" key="3188041">Veliki Ločnik</placeName>
+                                    <placeName lang="slv" key="3188041">Ločnik Veliki</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020106">
                                     <placeName lang="deu" key="3188026">Großosolnik</placeName>
-                                    <placeName lang="slv" key="3188026">Veliki Osolnik</placeName>
+                                    <placeName lang="slv" key="3188026">Osolnik Veliki</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0302010601">
-                                            <placeName lang="deu" key="3188026"
-                                                >Großosolnik</placeName>
-                                            <placeName lang="slv" key="3188026">Veliki
-                                                Osolnik</placeName>
+                                            <placeName lang="deu" key="3188026">Großosolnik</placeName>
+                                            <placeName lang="slv" key="3188026">Osolnik Veliki</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0302010602">
                                             <placeName lang="slv">Pri Opekarnici</placeName>
-                                            <placeName lang="slv">Pri Ceglinci</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -2389,15 +2389,15 @@
                                 </ort>
                                 <ort corresp="or1910:c.03020108">
                                     <placeName lang="deu" key="8987095">Kleinlaschitz</placeName>
-                                    <placeName lang="slv" key="8987095">Male Lašče</placeName>
+                                    <placeName lang="slv" key="8987095">Lašče Male</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020109">
                                     <placeName lang="deu" key="3195676">Kleinlotschnik</placeName>
-                                    <placeName lang="slv" key="3195676">Mali Ločnik</placeName>
+                                    <placeName lang="slv" key="3195676">Ločnik Mali</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020110">
                                     <placeName lang="deu" key="3195646">Kleinosolnik</placeName>
-                                    <placeName lang="slv" key="3195646">Mali Osolnik</placeName>
+                                    <placeName lang="slv" key="3195646">Osolnik Mali</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020111">
                                     <placeName lang="slv" key="8988536">Knej</placeName>
@@ -2432,17 +2432,192 @@
                                 </ort>
                             </orte>
                         </gemeinde>
+                        <gemeinde corresp="or1910:c.030207">
+                            <placeName lang="deu" key="8988236">Gregor, Sct.</placeName>
+                            <placeName lang="slv" key="8988236">Sv. Gregor</placeName>
+                            <orte>
+                                <ort corresp="or1910:c.03020701">
+                                    <placeName lang="slv" key="8989115">Andol</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020702">
+                                    <placeName lang="deu" key="8989116">Brinoschitz</placeName>
+                                    <placeName lang="slv" key="8989116">Brinošica</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020703">
+                                    <placeName lang="slv" key="10942596">Brlog</placeName><!-- del -->
+                                </ort>
+                                <ort corresp="or1910:c.03020704">
+                                    <placeName lang="deu">Bukowitz</placeName>
+                                    <placeName lang="slv">Bukovica</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020706">
+                                    <placeName lang="slv" key="8989372">Finkovo</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020707">
+                                    <placeName lang="slv" key="8989332">Gašpinovo</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020708">
+                                    <placeName lang="slv" key="8989013">Graben</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020709">
+                                    <placeName lang="slv" key="8989296">Grebenc</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020732">
+                                    <placeName lang="deu" key="8988236">Gregor, Sct.</placeName>
+                                    <placeName lang="slv" key="8988236">Sv. Gregor</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020710">
+                                    <placeName lang="deu" key="3188166">Großsliwitz</placeName>
+                                    <placeName lang="slv" key="3188166">Slivica Velika</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020711">
+                                    <placeName lang="deu" key="3200906">Höflern</placeName>
+                                    <placeName lang="slv" key="3200906">Dvorska Vas</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020712">
+                                    <placeName lang="slv" key="8989117">Hojče</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020713">
+                                    <placeName lang="slv" key="8988765">Hudi Konec</placeName><!-- del -->
+                                </ort>
+                                <ort corresp="or1910:c.03020714">
+                                    <placeName lang="slv" key="8988929">Junče</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020715">
+                                    <placeName lang="deu" key="3195794">Kleinsliwitz</placeName>
+                                    <placeName lang="slv" key="3195794">Slivica Mala</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020716">
+                                    <placeName lang="slv" key="8989282">Kot</placeName>
+                                </ort>
+                                <ort>
+                                    <placeName lang="slv">Kožarji</placeName><!-- Podkraj? -->
+                                </ort>
+                                <ort corresp="or1910:c.03020718">
+                                    <placeName lang="slv" key="8989138">Krnče</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020719">
+                                    <placeName lang="slv" key="8989311">Levstike</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020720">
+                                    <placeName lang="slv" key="3195443">Marolče</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020721">
+                                    <placeName lang="slv" key="8989037">Maršiče</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020722">
+                                    <placeName lang="slv" key="8989099">Medvedjek</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020723">
+                                    <placeName lang="slv" key="3194361">Novi Pot</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020724">
+                                    <placeName lang="deu" key="8989631">Oberpölland</placeName>
+                                    <placeName lang="slv" key="8989631">Podpoljane Gorenje</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020725">
+                                    <placeName lang="slv" key="8989277">Perovo</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020726">
+                                    <placeName lang="slv" key="8989147">Podkraj</placeName><!-- Podkraj = Kožarji? -->
+                                    <placeName lang="slv" key="8989147">Kožarji</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020727">
+                                    <placeName lang="slv" key="8989671">Pogled</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020728">
+                                    <placeName lang="slv" key="8988604">Prapreče</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020729">
+                                    <placeName lang="slv" key="8988258">Prelesje</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020730">
+                                    <placeName lang="slv" key="8989264">Pusti Hrib</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020731">
+                                    <placeName lang="deu" key="8989333">Rigl</placeName>
+                                    <placeName lang="slv" key="8989333">Rigelj</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020733">
+                                    <placeName lang="deu" key="8988955">Schwarzenbach</placeName>
+                                    <placeName lang="slv" key="8988955">Črni Potok</placeName>
+                                    <teile>
+                                        <teil corresp="or1910:c.0302073301">
+                                            <placeName lang="deu" key="8988955">Schwarzenbach</placeName>
+                                            <placeName lang="slv" key="8988955">Črni Potok</placeName>
+                                        </teil>
+                                        <teil corresp="or1910:c.0302073302">
+                                            <placeName lang="slv">Žgajnarji</placeName>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort corresp="or1910:c.03020734">
+                                    <placeName lang="slv" key="8989603">Škrlovica</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020705">
+                                    <placeName lang="deu" key="8989012">Tscherntsche</placeName>
+                                    <placeName lang="slv" key="8989012">Črnče</placeName>
+                                    <teile>
+                                        <teil corresp="or1910:c.0302070501">
+                                            <placeName lang="slv">Breg</placeName>
+                                        </teil>
+                                        <teil corresp="or1910:c.0302070502">
+                                            <placeName lang="deu" key="8989012">Tscherntsche</placeName>
+                                            <placeName lang="slv" key="8989012">Črnče</placeName>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort corresp="or1910:c.03020735">
+                                    <placeName lang="deu" key="8988301">Unterpölland</placeName>
+                                    <placeName lang="slv" key="8988301">Podpoljane Dolenje</placeName>
+                                    <teile>
+                                        <teil corresp="or1910:c.0302073501">
+                                            <placeName lang="slv">Močila</placeName>
+                                        </teil>
+                                        <teil corresp="or1910:c.0302073502">
+                                            <placeName lang="deu" key="8988301">Unterpölland</placeName>
+                                            <placeName lang="slv" key="8988301">Podpoljane Dolenje</placeName>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort corresp="or1910:c.03020736">
+                                    <placeName lang="slv" key="8989139">Vintarji</placeName>
+                                    <teile>
+                                        <teil corresp="or1910:c.0302073601">
+                                            <placeName lang="slv">Puhovo</placeName>
+                                        </teil>
+                                        <teil corresp="or1910:c.0302073602">
+                                            <placeName lang="slv" key="8989139">Vintarji</placeName>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort corresp="or1910:c.03020737">
+                                    <placeName lang="slv" key="8989188">Zadnike</placeName>
+                                    <teile>
+                                        <teil corresp="or1910:c.0302073701">
+                                            <placeName lang="slv">Avžlje</placeName>
+                                        </teil>
+                                        <teil corresp="or1910:c.0302073702">
+                                            <placeName lang="slv" key="8989188">Zadnike</placeName>
+                                        </teil>
+                                    </teile>
+                                </ort>
+                                <ort corresp="or1910:c.03020738">
+                                    <placeName lang="slv" key="8989265">Zlati Rep</placeName>
+                                </ort>
+                            </orte>
+                        </gemeinde>
                         <gemeinde corresp="or1910:c.030202">
                             <placeName lang="deu" key="3188128">Großlaschitz</placeName>
-                            <placeName lang="slv" key="3188128">Velike Lašče</placeName>
+                            <placeName lang="slv" key="3188128">Lašče Velike</placeName>
                             <orte>
                                 <ort corresp="or1910:c.03020201">
                                     <placeName lang="deu" key="3188128">Großlaschitz</placeName>
-                                    <placeName lang="slv" key="3188128">Velike Lašče</placeName>
+                                    <placeName lang="slv" key="3188128">Lašče Velike</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020202">
                                     <placeName lang="deu" key="3200083">Oberretje</placeName>
-                                    <placeName lang="slv" key="3200083">Gorenje Retje</placeName>
+                                    <placeName lang="slv" key="3200083">Retje Gorenje</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020203">
                                     <placeName lang="slv" key="8988376">Srobotnik</placeName>
@@ -2452,11 +2627,12 @@
                                 </ort>
                                 <ort corresp="or1910:c.03020205">
                                     <placeName lang="deu" key="3201770">Unterretje</placeName>
-                                    <placeName lang="slv" key="3201770">Dolenje Retje</placeName>
+                                    <placeName lang="slv" key="3201770">Retje Dolenje</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
                         <gemeinde corresp="or1910:c.030203">
+                            <placeName lang="deu" key="3197818">Kompole</placeName>
                             <placeName lang="slv" key="3197818">Kompolje</placeName>
                             <orte>
                                 <ort>
@@ -2465,6 +2641,7 @@
                                             <placeName lang="slv">Brezje</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0302030002">
+                                            <placeName lang="deu" key="3197818">Kompole</placeName>
                                             <placeName lang="slv" key="3197818">Kompolje</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0302030003">
@@ -2475,6 +2652,7 @@
                             </orte>
                         </gemeinde>
                         <gemeinde corresp="or1910:c.030204">
+                            <placeName lang="deu" key="3195997">Luschari</placeName>
                             <placeName lang="slv" key="3195997">Lužarji</placeName>
                             <orte>
                                 <ort corresp="or1910:c.03020401">
@@ -2489,7 +2667,7 @@
                                     <placeName lang="slv" key="8989632">Brankovo</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020404">
-                                    <placeName lang="slv" key="10942534">Brlog</placeName>
+                                    <placeName lang="slv" key="10942534">Brlog</placeName><!-- del -->
                                 </ort>
                                 <ort corresp="or1910:c.03020405">
                                     <placeName lang="slv" key="8989164">Grm</placeName>
@@ -2513,8 +2691,7 @@
                                         </teil>
                                         <teil corresp="or1910:c.0302040902">
                                             <placeName lang="deu" key="8988933">Kaplanau</placeName>
-                                            <placeName lang="slv" key="8988933"
-                                                >Kaplanovo</placeName>
+                                            <placeName lang="slv" key="8988933">Kaplanovo</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -2523,13 +2700,11 @@
                                     <placeName lang="slv" key="8988585">Karlovica</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0302041001">
-                                            <placeName lang="deu" key="8988585"
-                                                >Karlowitz</placeName>
-                                            <placeName lang="slv" key="8988585"
-                                                >Karlovica</placeName>
+                                            <placeName lang="deu" key="8988585">Karlowitz</placeName>
+                                            <placeName lang="slv" key="8988585">Karlovica</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0302041002">
-                                            <placeName lang="slv">Kolpa</placeName>
+                                            <placeName lang="slv">Koupa</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -2543,11 +2718,12 @@
                                     <placeName lang="slv" key="8988825">Logarji</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020414">
+                                    <placeName lang="deu" key="3195997">Luschari</placeName>
                                     <placeName lang="slv" key="3195997">Lužarji</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020415">
                                     <placeName lang="deu" key="8989358">Oberkalische</placeName>
-                                    <placeName lang="slv" key="8989358">Gorenje Kališe</placeName>
+                                    <placeName lang="slv" key="8989358">Kališe Gorenje</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020416">
                                     <placeName lang="slv" key="8988913">Opalkovo</placeName>
@@ -2565,7 +2741,8 @@
                                     <placeName lang="slv" key="8989336">Plosovo</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020418">
-                                    <placeName lang="slv" key="8989146">Podkogel</placeName>
+                                    <placeName lang="deu" key="8989146">Podkogel</placeName>
+                                    <placeName lang="slv" key="8989146">Podkogelj</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020419">
                                     <placeName lang="slv" key="8989018">Podsmreka</placeName>
@@ -2596,8 +2773,7 @@
                                         </teil>
                                         <teil corresp="or1910:c.0302042302">
                                             <placeName lang="deu" key="8989047">Posnikou</placeName>
-                                            <placeName lang="slv" key="8989047"
-                                                >Poznikovo</placeName>
+                                            <placeName lang="slv" key="8989047">Poznikovo</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -2619,7 +2795,7 @@
                                 </ort>
                                 <ort corresp="or1910:c.03020429">
                                     <placeName lang="deu" key="8989678">Unterkalische</placeName>
-                                    <placeName lang="slv" key="8989678">Dolenje Kališe</placeName>
+                                    <placeName lang="slv" key="8989678">Kališe Dolenje</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020430">
                                     <placeName lang="slv" key="8989166">Žaga</placeName>
@@ -2708,7 +2884,7 @@
                                             <placeName lang="slv" key="8989665">Pečke</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0302061202">
-                                            <placeName lang="slv" key="8988553">Strletje</placeName>
+                                            <placeName lang="slv" key="8988553">Štrletje</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
@@ -2731,7 +2907,7 @@
                                     <placeName lang="slv" key="8988710">Selo</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0302061801">
-                                            <placeName lang="slv" key="3194585">Naredi</placeName>
+                                            <placeName lang="slv" key="3194585">Narede</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0302061802">
                                             <placeName lang="slv" key="8988710">Selo</placeName>
@@ -2742,6 +2918,7 @@
                                     <placeName lang="slv" key="8988796">Tomažin</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020620">
+                                    <placeName lang="deu" key="8989100">Usmane</placeName>
                                     <placeName lang="slv" key="8989100">Uzmane</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020621">
@@ -2757,193 +2934,10 @@
                                 </ort>
                             </orte>
                         </gemeinde>
-                        <gemeinde corresp="or1910:c.030207">
-                            <placeName lang="deu" key="8988236">Sankt Gregor</placeName>
-                            <placeName lang="slv" key="8988236">Sveti Gregor</placeName>
-                            <orte>
-                                <ort corresp="or1910:c.03020701">
-                                    <placeName lang="slv" key="8989115">Andol</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020702">
-                                    <placeName lang="deu" key="8989116">Brinoschitz</placeName>
-                                    <placeName lang="slv" key="8989116">Brinošica</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020703">
-                                    <placeName lang="slv" key="10942596">Brlog</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020704">
-                                    <placeName lang="deu">Bukowitz</placeName>
-                                    <placeName lang="slv">Bukovica</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020705">
-                                    <placeName lang="slv" key="8989012">Črnče</placeName>
-                                    <teile>
-                                        <teil corresp="or1910:c.0302070501">
-                                            <placeName lang="slv">Breg</placeName>
-                                        </teil>
-                                        <teil corresp="or1910:c.0302070502">
-                                            <placeName lang="slv">Črnče</placeName>
-                                        </teil>
-                                    </teile>
-                                </ort>
-                                <ort corresp="or1910:c.03020706">
-                                    <placeName lang="slv" key="8989372">Finkovo</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020707">
-                                    <placeName lang="slv" key="8989332">Gašpinovo</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020708">
-                                    <placeName lang="slv" key="8989013">Graben</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020709">
-                                    <placeName lang="slv" key="8989296">Grebene</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020710">
-                                    <placeName lang="deu" key="3188166">Großsliwitz</placeName>
-                                    <placeName lang="slv" key="3188166">Velika Slivica</placeName>
-                                    <placeName lang="slv" key="3188166">Velika Slevica</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020711">
-                                    <placeName lang="deu" key="3200906">Höflern</placeName>
-                                    <placeName lang="slv" key="3200906">Dvorska Vas</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020712">
-                                    <placeName lang="slv" key="8989117">Hojče</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020713">
-                                    <placeName lang="slv" key="8988765">Hudi Konec</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020714">
-                                    <placeName lang="slv" key="8988929">Junče</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020715">
-                                    <placeName lang="deu" key="3195794">Kleinsliwitz</placeName>
-                                    <placeName lang="slv" key="3195794">Mala Slivica</placeName>
-                                    <placeName lang="slv" key="3195794">Mala Slevica</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020716">
-                                    <placeName lang="slv" key="8989282">Kot</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020717">
-                                    <placeName lang="slv" key="8989392">Kotel</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020718">
-                                    <placeName lang="slv" key="8989138">Krnče</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020719">
-                                    <placeName lang="slv" key="8989311">Levstike</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020720">
-                                    <placeName lang="slv" key="3195443">Marolče</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020721">
-                                    <placeName lang="slv" key="8989037">Maršiči</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020722">
-                                    <placeName lang="slv" key="8989099">Medvedjek</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020723">
-                                    <placeName lang="slv" key="3194361">Novi Pot</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020724">
-                                    <placeName lang="deu" key="8989631">Oberpölland</placeName>
-                                    <placeName lang="slv" key="8989631">Gorenje
-                                        Podpoljane</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020725">
-                                    <placeName lang="slv" key="8989277">Perovo</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020726">
-                                    <placeName lang="slv" key="8989147">Podkraj</placeName>
-                                    <placeName lang="slv" key="8989147">Kožarji</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020727">
-                                    <placeName lang="slv" key="8989671">Pogled</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020728">
-                                    <placeName lang="slv" key="8988604">Prapreče</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020729">
-                                    <placeName lang="slv" key="8988258">Prelesje</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020730">
-                                    <placeName lang="slv" key="8989264">Pusti Hrib</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020731">
-                                    <placeName lang="deu" key="8989333">Rigl</placeName>
-                                    <placeName lang="slv" key="8989333">Rigelj</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020732">
-                                    <placeName lang="deu" key="8988236">Sankt Gregor</placeName>
-                                    <placeName lang="slv" key="8988236">Sveti Gregor</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020733">
-                                    <placeName lang="deu" key="8988955">Schwarzenbach</placeName>
-                                    <placeName lang="slv" key="8988955">Črni Potok</placeName>
-                                    <teile>
-                                        <teil corresp="or1910:c.0302073301">
-                                            <placeName lang="deu" key="8988955"
-                                                >Schwarzenbach</placeName>
-                                            <placeName lang="slv" key="8988955">Črni
-                                                Potok</placeName>
-                                        </teil>
-                                        <teil corresp="or1910:c.0302073302">
-                                            <placeName lang="slv">Žganjarji</placeName>
-                                        </teil>
-                                    </teile>
-                                </ort>
-                                <ort corresp="or1910:c.03020734">
-                                    <placeName lang="slv" key="8989603">Škrlovica</placeName>
-                                </ort>
-                                <ort corresp="or1910:c.03020735">
-                                    <placeName lang="deu" key="8988301">Unterpölland</placeName>
-                                    <placeName lang="slv" key="8988301">Dolenje
-                                        Podpoljane</placeName>
-                                    <teile>
-                                        <teil corresp="or1910:c.0302073501">
-                                            <placeName lang="slv">Močila</placeName>
-                                        </teil>
-                                        <teil corresp="or1910:c.0302073502">
-                                            <placeName lang="deu" key="8988301"
-                                                >Unterpölland</placeName>
-                                            <placeName lang="slv" key="8988301">Dolenje
-                                                Podpoljane</placeName>
-                                        </teil>
-                                    </teile>
-                                </ort>
-                                <ort corresp="or1910:c.03020736">
-                                    <placeName lang="slv" key="8989139">Vintarji</placeName>
-                                    <teile>
-                                        <teil corresp="or1910:c.0302073601">
-                                            <placeName lang="slv">Puhovo</placeName>
-                                        </teil>
-                                        <teil corresp="or1910:c.0302073602">
-                                            <placeName lang="slv" key="8989139">Vintarji</placeName>
-                                        </teil>
-                                    </teile>
-                                </ort>
-                                <ort corresp="or1910:c.03020737">
-                                    <placeName lang="slv" key="8989188">Zadnike</placeName>
-                                    <teile>
-                                        <teil corresp="or1910:c.0302073701">
-                                            <placeName lang="slv">Avžlje</placeName>
-                                        </teil>
-                                        <teil corresp="or1910:c.0302073702">
-                                            <placeName lang="slv" key="8989188">Zadnike</placeName>
-                                        </teil>
-                                    </teile>
-                                </ort>
-                                <ort corresp="or1910:c.03020738">
-                                    <placeName lang="slv" key="8989265">Zlati Rep</placeName>
-                                </ort>
-                            </orte>
-                        </gemeinde>
                         <gemeinde corresp="or1910:c.030208">
+                            <placeName lang="deu" key="3187813">Widem</placeName>
                             <placeName lang="slv" key="3187813">Videm</placeName>
                             <orte>
-                                <ort corresp="or1910:c.03020801">
-                                    <placeName lang="slv" key="3202657">Cesta</placeName>
-                                </ort>
                                 <ort corresp="or1910:c.03020802">
                                     <placeName lang="slv" key="3199366">Hočevje</placeName>
                                 </ort>
@@ -2957,23 +2951,28 @@
                                     <placeName lang="deu" key="3192742">Ponique</placeName>
                                     <placeName lang="slv" key="3192742">Ponikve</placeName>
                                 </ort>
-                                <ort corresp="or1910:c.03020806">
-                                    <placeName lang="slv" key="3187813">Videm</placeName>
+                                <ort corresp="or1910:c.03020808">
+                                    <placeName lang="deu" key="3186667">Sdenskawas</placeName>
+                                    <placeName lang="slv" key="3186667">Zdenska Vas</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03020807">
                                     <placeName lang="slv">Vodice-Predstrug</placeName>
                                     <teile>
                                         <teil corresp="or1910:c.0302080701">
-                                            <placeName lang="slv" key="8987116"
-                                                >Predstrug</placeName>
+                                            <placeName lang="slv" key="8987116">Predstrug</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0302080702">
                                             <placeName lang="slv" key="8989178">Vodice</placeName>
                                         </teil>
                                     </teile>
                                 </ort>
-                                <ort corresp="or1910:c.03020808">
-                                    <placeName lang="slv" key="3186667">Zdenska Vas</placeName>
+                                <ort corresp="or1910:c.03020806">
+                                    <placeName lang="deu" key="3187813">Widem</placeName>
+                                    <placeName lang="slv" key="3187813">Videm</placeName>
+                                </ort>
+                                <ort corresp="or1910:c.03020801">
+                                    <placeName lang="deu" key="3202657">Zesta</placeName>
+                                    <placeName lang="slv" key="3202657">Cesta</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
@@ -3001,6 +3000,9 @@
                                     <placeName lang="deu" key="8987472">Sajowitz</placeName>
                                     <placeName lang="slv" key="8987472">Sajevec</placeName>
                                 </ort>
+                                <ort corresp="or1910:c.03030609">
+                                    <placeName lang="slv" key="3186947">Zadolje</placeName>
+                                </ort>
                             </orte>
                         </gemeinde>
                         <gemeinde corresp="or1910:c.030302">
@@ -3014,11 +3016,11 @@
                                         <teil corresp="or1910:c.0303020002">
                                             <placeName lang="slv" key="8989224">Janeže</placeName>
                                         </teil>
-                                        <teil corresp="or1910:c.0303020003">
-                                            <placeName lang="slv" key="8988667">Kračale</placeName>
-                                        </teil>
                                         <teil corresp="or1910:c.0303020004">
                                             <placeName lang="slv" key="8988460">Kržeti</placeName>
+                                        </teil>
+                                        <teil corresp="or1910:c.0303020003">
+                                            <placeName lang="slv" key="8988667">Kračale</placeName>
                                         </teil>
                                         <teil corresp="or1910:c.0303020005">
                                             <placeName lang="slv" key="8988863">Petrinci</placeName>
@@ -3029,14 +3031,14 @@
                         </gemeinde>
                         <gemeinde corresp="or1910:c.030303">
                             <placeName lang="deu" key="3188124">Großpölland</placeName>
-                            <placeName lang="slv" key="3188124">Velike Poljane</placeName>
+                            <placeName lang="slv" key="3188124">Poljane Velike</placeName>
                             <orte>
                                 <ort corresp="or1910:c.03030301">
                                     <placeName lang="slv" key="8989385">Dole</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03030302">
                                     <placeName lang="deu" key="3188124">Großpölland</placeName>
-                                    <placeName lang="slv" key="3188124">Velike Poljane</placeName>
+                                    <placeName lang="slv" key="3188124">Poljane Velike</placeName>
                                 </ort>
                                 <ort corresp="or1910:c.03030303">
                                     <placeName lang="deu" key="3193957">Ortenegg</placeName>
@@ -3052,7 +3054,7 @@
                                     <placeName lang="slv" key="8989278">Žukovo</placeName>
                                 </ort>
                             </orte>
-                        </gemeinde>
+                        </gemeinde>str. 30
                         <gemeinde corresp="or1910:c.030304">
                             <placeName lang="deu" key="3198541">Jurjowitz</placeName>
                             <placeName lang="slv" key="3198541">Jurjevica</placeName>
@@ -28957,6 +28959,29 @@
                                 </ort>
                                 <ort corresp="or1910:c.12022104">
                                     <placeName lang="slv" key="8988689">Zorence</placeName>
+                                </ort>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <ort corresp="or1910:c.03020717">
+                                    <placeName lang="slv" key="8989392">Kotel</placeName>
+                                </ort>
+                              
+                                <gemeinde corresp="or1910:c.030114">
+                                    <placeName lang="deu" key="3195923">Mooswald</placeName><!-- Mahovnik, pri Kočevju -->
+                                </gemeinde>
+                                
+                                <ort corresp="or1910:c.03010210">
+                                    <placeName lang="deu" key="8989417">Oberpotok</placeName>
+                                    <placeName lang="slv" key="8989417">Gorenji Potok</placeName>
                                 </ort>
                             </orte>
                         </gemeinde>
