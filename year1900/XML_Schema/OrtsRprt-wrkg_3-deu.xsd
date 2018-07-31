@@ -39,6 +39,7 @@
       
       Andrej Pančur, Inštitut za novejšo zgodovino, Ljubljana (Institute of contemporary history, Ljubljana)</xs:documentation>
   </xs:annotation>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
   <xs:element name="root">
     <xs:complexType>
       <xs:sequence>
@@ -82,6 +83,7 @@
           </xs:restriction>
         </xs:simpleType>
       </xs:attribute>
+      <xs:attribute ref="xml:id"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="gerichtsBezirke">
@@ -121,6 +123,7 @@
           </xs:restriction>
         </xs:simpleType>
       </xs:attribute>
+      <xs:attribute ref="xml:id"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="gemeinden">
@@ -165,6 +168,7 @@
           </xs:restriction>
         </xs:simpleType>
       </xs:attribute>
+      <xs:attribute ref="xml:id"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="orte">
@@ -184,6 +188,48 @@
       <xs:documentation xml:lang="de">Ortschaft</xs:documentation>
       <xs:documentation xml:lang="sl">kraj</xs:documentation>
       <xs:documentation xml:lang="en">locality</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="teile"/>
+        <xs:element minOccurs="0" ref="ort-teile"/>
+      </xs:sequence>
+      <xs:attribute name="n" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">number of numbered list</xs:documentation>
+          <xs:documentation xml:lang="sl">številka iz številčnega seznama</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="corresp">
+        <xs:annotation>
+          <xs:documentation>Ustrezna krajevna enota v ostalih krajevnih repertorijih (Ortsrepertorium)</xs:documentation>
+        </xs:annotation>
+        <xs:simpleType>
+          <xs:restriction>
+            <xs:simpleType>
+              <xs:list itemType="xs:anyURI"/>
+            </xs:simpleType>
+            <xs:minLength value="1"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute ref="xml:id"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ort-teile">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">IZJEMA: vmesna stopnja med kraji in deli krajev (primerjaj Kamnik)</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ort-teil"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ort-teil">
+    <xs:annotation>
+      <xs:documentation xml:lang="sl">IZJEMA: vmesna stopnja med kraji in deli krajev (primerjaj Kamnik)</xs:documentation>
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
@@ -209,6 +255,7 @@
           </xs:restriction>
         </xs:simpleType>
       </xs:attribute>
+      <xs:attribute ref="xml:id"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="teile">
@@ -246,6 +293,7 @@
           </xs:restriction>
         </xs:simpleType>
       </xs:attribute>
+      <xs:attribute ref="xml:id"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="placeName">
