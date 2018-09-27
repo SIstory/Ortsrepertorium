@@ -143,6 +143,8 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
+        <xs:element minOccurs="0" ref="type"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="house"/>
         <xs:element minOccurs="0" ref="orte"/>
       </xs:sequence>
       <xs:attribute name="corresp">
@@ -222,6 +224,7 @@
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="placeName"/>
         <xs:element minOccurs="0" ref="type"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="house"/>
       </xs:sequence>
       <xs:attribute name="corresp">
         <xs:annotation>
