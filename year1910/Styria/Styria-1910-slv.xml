@@ -3,6 +3,22 @@
  xsi:noNamespaceSchemaLocation="../XML_Schema/OrtsRprt-wrkg_1-slv.xsd">
    <polOkraji>
       <polOkraj>
+         <placeName lang="slv">Gradec</placeName>
+         <placeName lang="deu">Graz</placeName>
+      </polOkraj>
+      <polOkraj>
+         <placeName lang="slv">Celje</placeName>
+         <placeName lang="deu">Cilli</placeName>
+      </polOkraj>
+      <polOkraj>
+         <placeName lang="slv">Maribor</placeName>
+         <placeName lang="deu">Marburg</placeName>
+      </polOkraj>
+      <polOkraj>
+         <placeName lang="slv">Ptuj</placeName>
+         <placeName lang="deu">Pettau</placeName>
+      </polOkraj>
+      <polOkraj>
          <placeName lang="slv">Brežice</placeName>
          <placeName lang="deu">Rann</placeName>
          <sodniOkraji>
