@@ -1720,6 +1720,7 @@
                                 <ort xml:id="c.03010705" corresp="or1900:c.03011605">
                                     <placeName lang="deu" key="3188927">Grass, Ober-</placeName>
                                     <placeName lang="slv" key="3188927">Trava</placeName>
+                                    <type>vas</type>
                                 </ort>
                             </orte>
                         </gemeinde>
@@ -2508,14 +2509,14 @@
                             </orte>
                         </gemeinde>
                         <gemeinde xml:id="c.030119" corresp="or1900:c.030119">
-                            <placeName lang="deu">Schwarzenbach</placeName>
+                            <placeName lang="deu" key="3202412">Schwarzenbach</placeName>
                             <orte>
                                 <ort xml:id="c.03011901" corresp="or1900:c.03011901">
-                                    <placeName lang="deu">Hasenfeld</placeName>
+                                    <placeName lang="deu" key="3186867">Hasenfeld</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.03011902" corresp="or1900:c.03011902">
-                                    <placeName lang="deu">Schwarzenbach</placeName>
+                                    <placeName lang="deu" key="3202412">Schwarzenbach</placeName>
                                     <type>vas</type>
                                 </ort>
                             </orte>
@@ -4255,7 +4256,7 @@
                                             <type>zaselje</type>
                                         </teil>
                                         <teil xml:id="c.0401022102" corresp="or1900:c.040102250005">
-                                            <placeName lang="slv">Zavratec</placeName>
+                                            <placeName lang="slv" key="3186707">Zavratec</placeName>
                                             <type>vas</type>
                                         </teil>
                                     </teile>
@@ -6363,7 +6364,7 @@
                                             <type>vas</type>
                                         </teil>
                                         <teil xml:id="c.0404020503" corresp="or1900:c.040402030004">
-                                            <placeName lang="slv">Hinje</placeName>
+                                            <placeName lang="slv" key="8989600">Hinje</placeName>
                                             <type>soseska</type>
                                         </teil>
                                         <teil xml:id="c.0404020504" corresp="or1900:c.040402030003">
@@ -6420,7 +6421,7 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.04040213" corresp="or1900:c.04040211">
-                                    <placeName lang="slv">Podboršt</placeName>
+                                    <placeName lang="slv" key="8987829">Podboršt</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.04040214" corresp="or1900:c.04040212">
@@ -6428,7 +6429,7 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.04040215" corresp="or1900:c.04040213">
-                                    <placeName lang="deu">Steingrab</placeName>
+                                    <placeName lang="deu" key="8988567">Steingrab</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.04040216" corresp="or1900:c.04040214">
@@ -6447,7 +6448,7 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.04040302" corresp="or1900:c.04040302">
-                                    <placeName lang="slv">Bruniška Gora</placeName>
+                                    <placeName lang="slv" key="3203200">Bruniška Gora</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.04040303" corresp="or1900:c.04040303">
@@ -6521,11 +6522,11 @@
                                     <placeName lang="slv">Gabrije</placeName>
                                     <teile>
                                         <teil xml:id="c.0404040101" corresp="or1900:c.040404010003">
-                                            <placeName lang="slv">Gabrije</placeName>
+                                            <placeName lang="slv" key="8988642">Gabrije</placeName>
                                             <type>vas</type>
                                         </teil>
                                         <teil xml:id="c.0404040102" corresp="or1900:c.040404010004">
-                                            <placeName lang="slv">Jelovec</placeName>
+                                            <placeName lang="slv" key="8988717">Jelovec</placeName>
                                             <type>zaselje</type>
                                         </teil>
                                         <teil xml:id="c.0404040103" corresp="or1900:c.040404010006">
@@ -6673,8 +6674,8 @@
                                     </teile>
                                 </ort>
                                 <ort xml:id="c.04040407" corresp="or1900:c.04040407">
-                                    <placeName lang="deu">Savenstein, Ober-</placeName>
-                                    <placeName lang="slv">Boštanj Gorenji</placeName>
+                                    <placeName lang="deu" key="3203629">Savenstein, Ober-</placeName>
+                                    <placeName lang="slv" key="3203629">Boštanj Gorenji</placeName>
                                     <teile>
                                         <teil xml:id="c.0404040701" corresp="or1900:c.040404090002">
                                             <placeName lang="slv">Grahovice</placeName>
@@ -6685,8 +6686,8 @@
                                             <type>zaselje</type>
                                         </teil>
                                         <teil xml:id="c.0404040703" corresp="or1900:c.040404070001">
-                                            <placeName lang="deu">Savenstein, Ober-</placeName>
-                                            <placeName lang="slv">Boštanj Gorenji</placeName>
+                                            <placeName lang="deu" key="3203629">Savenstein, Ober-</placeName>
+                                            <placeName lang="slv" key="3203629">Boštanj Gorenji</placeName>
                                             <type>vas</type>
                                         </teil>
                                     </teile>
@@ -6717,7 +6718,7 @@
                                     <house xml:id="c.040404090001" corresp="or1900:c.040404080002">Gomila</house>
                                 </ort>
                                 <ort xml:id="c.04040410" corresp="or1900:c.04040410">
-                                    <placeName lang="slv">Vrh</placeName>
+                                    <placeName lang="slv" key="8987261">Vrh</placeName>
                                     <teile>
                                         <teil xml:id="c.0404041001" corresp="or1900:c.040404100002">
                                             <placeName lang="slv">Dobje</placeName>
@@ -6768,7 +6769,7 @@
                                             <type>soseska</type>
                                         </teil>
                                         <teil xml:id="c.0404041013" corresp="or1900:c.040404100027">
-                                            <placeName lang="slv">Vrh</placeName>
+                                            <placeName lang="slv" key="8987261">Vrh</placeName>
                                             <type>vas s p. h.</type>
                                             <house xml:id="c.040404100001" corresp="or1900:c.040404100004">Drča</house>
                                             <house xml:id="c.040404100002">Jelovec</house>
@@ -6818,12 +6819,11 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010104">
-                                    <placeName lang="slv">Gabrška Gora</placeName>
+                                    <placeName lang="slv" key="3200775">Gabrška Gora</placeName>
                                     <type>vas</type>
-                           <!-- obstaja naselje, najdi št. -->
                                 </ort>
                                 <ort xml:id="c.05010105" corresp="or1900:c.05010106">
-                                    <placeName lang="deu">Jartschinbrd und Kriv</placeName>
+                                    <placeName lang="deu">Jartschinbrd und Kriv</placeName><!-- Jarčje Brdo, Krivo brdo -->
                                     <placeName lang="slv">Jarče in Krivo Brdo</placeName>
                                     <type>vas</type>
                                 </ort>
@@ -6836,7 +6836,7 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010108" corresp="or1900:c.05010109">
-                                    <placeName lang="deu">Kobilze und Lom</placeName>
+                                    <placeName lang="deu">Kobilze und Lom</placeName><!-- Zakobiljek, Lom nad Volčo -->
                                     <placeName lang="slv">Zakobiljek in Lom</placeName>
                                     <type>vas</type>
                                 </ort>
@@ -6858,7 +6858,7 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010113" corresp="or1900:c.05010114">
-                                    <placeName lang="slv" key="8988399">Podobenim</placeName>
+                                    <placeName lang="deu" key="8988399">Podobenim</placeName>
                                     <placeName lang="slv" key="8988399">Podobeno</placeName>
                                     <type>vas</type>
                                 </ort>
@@ -6871,11 +6871,11 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010116" corresp="or1900:c.05010118">
-                                    <placeName lang="slv">Ravan Dolenja</placeName>
+                                    <placeName lang="slv" key="3201853">Ravan Dolenja</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010117" corresp="or1900:c.05010117">
-                                    <placeName lang="slv">Ravan Zgornja</placeName>
+                                    <placeName lang="slv" key="3200386">Ravan Zgornja</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010118" corresp="or1900:c.05010116">
@@ -6884,8 +6884,8 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010119" corresp="or1900:c.05010119">
-                                    <placeName lang="deu">Woutschach</placeName>
-                                    <placeName lang="slv">Volče</placeName>
+                                    <placeName lang="deu" key="3187431">Woutschach</placeName>
+                                    <placeName lang="slv" key="3187431">Volče</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010120" corresp="or1900:c.05010120">
@@ -7002,7 +7002,7 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010218" corresp="or1900:c.05010219">
-                                    <placeName lang="slv">Stari Dvor</placeName>
+                                    <placeName lang="slv">Stari Dvor</placeName><!-- del Škofje Loke -->
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010219" corresp="or1900:c.05010220">
@@ -7140,8 +7140,8 @@
                                     </teile>
                                 </ort>
                                 <ort xml:id="c.05010310" corresp="or1900:c.05010805">
-                                    <placeName lang="deu">Filipp und Jakob, St.</placeName>
-                                    <placeName lang="slv">Filip in Jakob Sv.</placeName>
+                                    <placeName lang="deu" key="8989357">Filipp und Jakob, St.</placeName><!-- Valterski vrh -->
+                                    <placeName lang="slv" key="8989357">Filip in Jakob Sv.</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010311" corresp="or1900:c.05010806">
@@ -7159,16 +7159,16 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010314" corresp="or1900:c.05010809">
-                                    <placeName lang="slv">Hosta</placeName>
+                                    <placeName lang="slv" key="8987895">Hosta</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010315" corresp="or1900:c.05010810">
-                                    <placeName lang="slv">Log</placeName>
+                                    <placeName lang="slv" key="3196285">Log</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010316" corresp="or1900:c.05010811">
-                                    <placeName lang="deu">Oswald, St.</placeName>
-                                    <placeName lang="slv">Ožbolt Sv.</placeName>
+                                    <placeName lang="deu" key="8988080">Oswald, St.</placeName>
+                                    <placeName lang="slv" key="8988080">Ožbolt Sv.</placeName>
                                     <type>vas s p. h.</type>
                                     <house xml:id="c.050103160001" corresp="or1900:c.050108110001">Fojke Spodnje</house>
                                     <house xml:id="c.050103160002" corresp="or1900:c.050108110002">Fojke Zgornje (2)</house>
@@ -7322,7 +7322,7 @@
                                     <house xml:id="c.050105070001" corresp="or1900:c.050105080002">Toplice</house>
                                 </ort>
                                 <ort xml:id="c.05010508" corresp="or1900:c.05010509">
-                                    <placeName lang="slv">Koprivnik</placeName>
+                                    <placeName lang="slv" key="8987834">Koprivnik</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010509" corresp="or1900:c.05010510">
@@ -7342,11 +7342,11 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010513" corresp="or1900:c.05010514">
-                                    <placeName lang="slv">Mrzli Vrh</placeName>
+                                    <placeName lang="slv">Mrzli Vrh</placeName><!-- 2 vasi, brez označebe -->
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010514" corresp="or1900:c.05010516">
-                                    <placeName lang="slv">Novine</placeName>
+                                    <placeName lang="slv">Novine</placeName><!-- Novaki? -->
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010515" corresp="or1900:c.05010501">
@@ -7399,17 +7399,17 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010526" corresp="or1900:c.05010526">
-                                    <placeName lang="slv">Zavoden</placeName>
+                                    <placeName lang="slv" key="3190296">Zavoden</placeName>
                                     <type>vas</type>
                                 </ort>
                             </orte>
                         </gemeinde>
                         <gemeinde xml:id="c.050106" corresp="or1900:c.050106">
-                            <placeName lang="deu">Pölland</placeName>
-                            <placeName lang="slv">Poljane</placeName>
+                            <placeName lang="deu" key="3192813">Pölland</placeName>
+                            <placeName lang="slv" key="3192813">Poljane</placeName>
                             <orte>
                                 <ort xml:id="c.05010601" corresp="or1900:c.05010601">
-                                    <placeName lang="deu">Dobje und Predmost</placeName>
+                                    <placeName lang="deu">Dobje und Predmost</placeName><!-- 2 vasi -->
                                     <placeName lang="slv">Dobje in Predmost</placeName>
                                     <type>vas</type>
                                 </ort>
@@ -7434,18 +7434,18 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010607" corresp="or1900:c.05010607">
-                                    <placeName lang="slv">Log</placeName>
+                                    <placeName lang="slv" key="8987539">Log</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010608" corresp="or1900:c.05010608">
-                                    <placeName lang="deu">Pölland</placeName>
-                                    <placeName lang="slv">Poljane</placeName>
+                                    <placeName lang="deu" key="3192813">Pölland</placeName>
+                                    <placeName lang="slv" key="3192813">Poljane</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010609" corresp="or1900:c.05010609">
-                                    <placeName lang="deu">Sabatberg</placeName>
-                                    <placeName lang="slv">Bukov Vrh</placeName>
-                                    <placeName lang="slv">Sabota Sv.</placeName>
+                                    <placeName lang="deu" key="3203017">Sabatberg</placeName><!-- Bukov vrh -->
+                                    <placeName lang="slv" key="3203017">Bukov Vrh</placeName>
+                                    <placeName lang="slv" key="3203017">Sabota Sv.</placeName>
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010610" corresp="or1900:c.05010610">
@@ -7462,7 +7462,7 @@
                                     <type>vas</type>
                                 </ort>
                                 <ort xml:id="c.05010613" corresp="or1900:c.05010613">
-                                    <placeName lang="deu" key="8988885">Wisokim</placeName>
+                                    <placeName lang="deu" key="8988885">Wisokim</placeName><!-- Bukov vrh nad Visokim -->
                                     <placeName lang="slv" key="8988885">Visoko</placeName>
                                     <type>vas</type>
                                 </ort>
