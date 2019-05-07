@@ -28,7 +28,7 @@
                   <title>Haupt - Ausweis über die Eintheilung des Laibacher Gouvernementsgebiethes
                      in Provinzen, Kreise, Sektionen, Bezirks-Obrigkeiten, Hauptgemeinden,
                      Untergemeinden und Ortschaften, nebst deren Häuser- und Seelenanzahl im Jahre
-                     1817</title>
+                     1817.</title>
                   <imprint>
                      <pubPlace>Laibach</pubPlace>
                      <publisher>Gedruckt mit Egerischen Schriften.</publisher>
@@ -54,16 +54,16 @@
       <body>
          <listPlace>
             <place type="Provinz">
-               <placeName>Krain</placeName>
+               <placeName>Krain.</placeName>
                <listPlace>
                   <place type="Kreis">
-                     <placeName>Laibach</placeName>
+                     <placeName>Laibach.</placeName>
                      <listPlace>
                         <place type="Section" n="I.">
-                           <placeName>Laibach</placeName>
+                           <placeName>Laibach.</placeName>
                            <listPlace>
                               <place type="Bezirksobrigkeit" n="1.">
-                                 <placeName>Magistrat Laibach</placeName>
+                                 <placeName>Magistrat Laibach.</placeName>
                                  <state type="Häuser">
                                     <desc>866</desc>
                                  </state>
@@ -177,7 +177,7 @@
                               </place>
                               <place type="Bezirksobrigkeit" n="2.">
                                  <placeName>Vereinigten Staatsherrschaften Thurn und
-                                    Kaltenbrun</placeName>
+                                    Kaltenbrun.</placeName>
                                  <note>(Die erstere dem Provinzialfonde, die letztere dem
                                     Studienfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
@@ -615,8 +615,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="3">
-                                 <placeName>Herrschaft Sonnegg</placeName>
+                              <place type="Bezirksobrigkeit" n="3.">
+                                 <placeName>Herrschaft Sonnegg.</placeName>
                                  <note>(Inhaber: Graf Weikhard v. Auersberg.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -774,10 +774,10 @@
                            </listPlace>
                         </place>
                         <place type="Section" n="II.">
-                           <placeName>Kreuz</placeName>
+                           <placeName>Kreuz.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="4">
-                                 <placeName>Herrschaft Kreuz</placeName>
+                              <place type="Bezirksobrigkeit" n="4.">
+                                 <placeName>Herrschaft Kreuz.</placeName>
                                  <note>(Inhaber: Alois Freyherr v. Apfalterer.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -1071,8 +1071,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="5">
-                                 <placeName>Staatsherrschaft Minkendorf</placeName>
+                              <place type="Bezirksobrigkeit" n="5.">
+                                 <placeName>Staatsherrschaft Minkendorf.</placeName>
                                  <note>(Dem kaiserl. königl. Religionsfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -1500,8 +1500,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="6">
-                                 <placeName>Gut Kreutberg</placeName>
+                              <place type="Bezirksobrigkeit" n="6.">
+                                 <placeName>Gut Kreutberg.</placeName>
                                  <note>(Inhaber: Joseph Graf v. Thurn.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -1751,8 +1751,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="7">
-                                 <placeName>Herrschaft Egg bey Podpetsch</placeName>
+                              <place type="Bezirksobrigkeit" n="7.">
+                                 <placeName>Herrschaft Egg bey Podpetsch.</placeName>
                                  <note>(Inhaber: Dr. Johann Burger.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -2073,8 +2073,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="8">
-                                 <placeName>Herrschaft Ponovitsch</placeName>
+                              <place type="Bezirksobrigkeit" n="8.">
+                                 <placeName>Herrschaft Ponovitsch.</placeName>
                                  <note>(Inhaber: Daniel Freyherr v. Wolkensberg.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -2340,9 +2340,10 @@
                            </listPlace>
                         </place>
                         <place type="Section" n="III.">
+                          <placeName>Laak.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="9">
-                                 <placeName>Staatsherrschaft Laak</placeName>
+                              <place type="Bezirksobrigkeit" n="9.">
+                                 <placeName>Staatsherrschaft Laak.</placeName>
                                  <note>(Dem kaiserl. königl. Kameralfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -2899,7 +2900,6 @@
                                                 </place>
                                                 <place>
                                                   <placeName>Hobousche Vik. Neuoßlitz</placeName>
-                                                  <!-- str. 19, PREVERITI -->
                                                 </place>
                                                 <place>
                                                   <placeName>Neuoßlitz</placeName>
@@ -3161,8 +3161,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="10">
-                                 <placeName>Herrschaft Görtschach</placeName>
+                              <place type="Bezirksobrigkeit" n="10.">
+                                 <placeName>Herrschaft Görtschach.</placeName>
                                  <note>(Zur Dotation des Laibacher Bisthums gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -3279,7 +3279,6 @@
                                           </place>
                                           <place>
                                              <placeName>Zeyer</placeName>
-                                             <!-- str. 20, PREVERITI -->
                                              <listPlace type="Ortschaften">
                                                 <place>
                                                   <placeName>Doll</placeName>
@@ -3393,10 +3392,10 @@
                            </listPlace>
                         </place>
                         <place type="Section" n="IV.">
-                           <placeName>Krainburg</placeName>
+                           <placeName>Krainburg.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="11">
-                                 <placeName>Herrschaft Flödnig</placeName>
+                              <place type="Bezirksobrigkeit" n="11.">
+                                 <placeName>Herrschaft Flödnig.</placeName>
                                  <note>(Inhaber: Franz Freyherr v. Lazarini.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -3573,8 +3572,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="12">
-                                 <placeName>Herrschaft Kieselstein in Krainburg</placeName>
+                              <place type="Bezirksobrigkeit" n="12.">
+                                 <placeName>Herrschaft Kieselstein in Krainburg.</placeName>
                                  <note>(Inhaber: Natalis v. Pagliarucci.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -3904,8 +3903,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="13">
-                                 <placeName>Staatsherrschaft Michelstetten</placeName>
+                              <place type="Bezirksobrigkeit" n="13.">
+                                 <placeName>Staatsherrschaft Michelstetten.</placeName>
                                  <note>(Dem kaiserl. königl. Religionsfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -4196,9 +4195,9 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="14">
-                                 <placeName>Herrschaft Neumarktl</placeName>
-                                 <note>(Inhaber: Se. Exzellenz der Feldmarschall Lieutenant Graf v.
+                              <place type="Bezirksobrigkeit" n="14.">
+                                 <placeName>Herrschaft Neumarktl.</placeName>
+                                 <note>(Inhaber: Se. Exzellenz der Feldmarschall-Lieutenant Graf v.
                                     Radetzky.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -4353,10 +4352,10 @@
                            </listPlace>
                         </place>
                         <place type="Section" n="V.">
-                           <placeName>Veldes</placeName>
+                           <placeName>Veldes.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="15">
-                                 <placeName>Herrschaft Radmannsdorf</placeName>
+                              <place type="Bezirksobrigkeit" n="15.">
+                                 <placeName>Herrschaft Radmannsdorf.</placeName>
                                  <note>(Inhaber: Karl Graf v. Thurn.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -4680,8 +4679,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="16">
-                                 <placeName>Staatsherrschaft Veldes</placeName>
+                              <place type="Bezirksobrigkeit" n="16.">
+                                 <placeName>Staatsherrschaft Veldes.</placeName>
                                  <note>(Dem kaiserl. königl. Kameralfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -4921,8 +4920,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="17">
-                                 <placeName>Herrschaft Weißenfels</placeName>
+                              <place type="Bezirksobrigkeit" n="17.">
+                                 <placeName>Herrschaft Weißenfels.</placeName>
                                  <note>(Inhaber: Franz Kooß.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -5068,16 +5067,16 @@
                            </listPlace>
                         </place>
                      </listPlace>
-                     <!-- gap: spuščena tabela z sumarnimi statističnimi podatki za Kreis Laibach -->
+                     <!-- gap: spuščena tabela z sumarnimi statističnimi podatki za Kreis Laibach, str. 29 -->
                   </place>
                   <place type="Kreis">
-                     <placeName>Neustadtl</placeName>
+                     <placeName>Neustadtl.</placeName>
                      <listPlace>
                         <place type="Section" n="I.">
-                           <placeName>Neustadtl</placeName>
+                           <placeName>Neustadtl.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="1">
-                                 <placeName>Staatsherrschaft Neustadtl</placeName>
+                              <place type="Bezirksobrigkeit" n="1.">
+                                 <placeName>Staatsherrschaft Neustadtl.</placeName>
                                  <note>(Dem kaiserl. königl. Religionsfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -5551,8 +5550,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="2">
-                                 <placeName>Staatsherrschaft Rupertshof</placeName>
+                              <place type="Bezirksobrigkeit" n="2.">
+                                 <placeName>Staatsherrschaft Rupertshof.</placeName>
                                  <note>(Dem kaiserl. königl. Religionsfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -6008,8 +6007,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="3">
-                                 <placeName>Herrschaft Treffen</placeName>
+                              <place type="Bezirksobrigkeit" n="3.">
+                                 <placeName>Herrschaft Treffen.</placeName>
                                  <note>(Inhaber: Johann Nep. Baraga's Erben.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -6124,7 +6123,6 @@
                                                 </place>
                                                 <place>
                                                   <placeName>Zhistagoritza</placeName>
-                                                  <!-- str. 34, PREVERITI -->
                                                 </place>
                                                 <place>
                                                   <placeName>Kaltlaken</placeName>
@@ -6144,14 +6142,13 @@
                                                   <placeName>Rapelgeschieß</placeName>
                                                 </place>
                                                 <place>
-                                                  <placeName>Blattn</placeName>
+                                                  <placeName>Blattu</placeName>
                                                 </place>
                                                 <place>
                                                   <placeName>Schwarzenbach</placeName>
                                                 </place>
                                                 <place>
-                                                  <placeName>Krenßberg</placeName>
-                                                  <!-- str. 34, PREVERITI -->
+                                                  <placeName>Kreutzberg</placeName>
                                                 </place>
                                                 <place>
                                                   <placeName>Kreutzdorf</placeName>
@@ -6446,8 +6443,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="4">
-                                 <placeName>Herrschaft Seisenberg</placeName>
+                              <place type="Bezirksobrigkeit" n="4.">
+                                 <placeName>Herrschaft Seisenberg.</placeName>
                                  <note>(Inhaber: Wilhelm Fürst v. Auersperg.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -6873,10 +6870,10 @@
                            </listPlace>
                         </place>
                         <place type="Section" n="II.">
-                           <placeName>Landstraß</placeName>
+                           <placeName>Landstraß.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="5">
-                                 <placeName>Staatsherrschaft Landstraß</placeName>
+                              <place type="Bezirksobrigkeit" n="5.">
+                                 <placeName>Staatsherrschaft Landstraß.</placeName>
                                  <note>(Dem kaiserl. königl. Kameralfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -7419,8 +7416,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="6">
-                                 <placeName>Herrschaft Thurnamhart</placeName>
+                              <place type="Bezirksobrigkeit" n="6.">
+                                 <placeName>Herrschaft Thurnamhart.</placeName>
                                  <note>(Inhaber: Alexander Graf v. Auersperg.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -8028,8 +8025,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="7">
-                                 <placeName>Herrschaft Nassenfuß</placeName>
+                              <place type="Bezirksobrigkeit" n="7.">
+                                 <placeName>Herrschaft Nassenfuß.</placeName>
                                  <note>(Inhaber: Ludwig Freyherr v. Mandel.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -8367,8 +8364,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="8">
-                                 <placeName>Herrschaft Sauenstein</placeName>
+                              <place type="Bezirksobrigkeit" n="8.">
+                                 <placeName>Herrschaft Sauenstein.</placeName>
                                  <note>(Inhaber: Vinzenz v. Klosenau.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -8594,10 +8591,10 @@
                            </listPlace>
                         </place>
                         <place type="Section" n="III.">
-                           <placeName>Weixelberg</placeName>
+                           <placeName>Weixelberg.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="9">
-                                 <placeName>Gut Neudegg</placeName>
+                              <place type="Bezirksobrigkeit" n="9.">
+                                 <placeName>Gut Neudegg.</placeName>
                                  <note>(Inhaber: Joseph Edler v. Kalchberg.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -8876,8 +8873,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="10">
-                                 <placeName>Herrschaft Thurn bey Gallenstein</placeName>
+                              <place type="Bezirksobrigkeit" n="10.">
+                                 <placeName>Herrschaft Thurn bey Gallenstein.</placeName>
                                  <note>(Inhaber: Freyherr Karl Zois v. Edlstein.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -9170,8 +9167,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="11">
-                                 <placeName>Herrschaft Weixelberg</placeName>
+                              <place type="Bezirksobrigkeit" n="11.">
+                                 <placeName>Herrschaft Weixelberg.</placeName>
                                  <note>(Inhaber: Wilhelm Fürst v. Auersperg.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -9618,8 +9615,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="12">
-                                 <placeName>Staatsherrschaft Sittich</placeName>
+                              <place type="Bezirksobrigkeit" n="12.">
+                                 <placeName>Staatsherrschaft Sittich.</placeName>
                                  <note>(Dem kaiserl. königl. Religionsfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -10103,8 +10100,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="13">
-                                 <placeName>Graffschaft Auersperg</placeName>
+                              <place type="Bezirksobrigkeit" n="13.">
+                                 <placeName>Graffschaft Auersperg.</placeName>
                                  <note>(Inhaber: Weikhard Graf v. Auersperg.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -10440,10 +10437,10 @@
                            </listPlace>
                         </place>
                         <place type="Section" n="IV.">
-                           <placeName>Gottschee</placeName>
+                           <placeName>Gottschee.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="14">
-                                 <placeName>Herrschaft Reifnitz</placeName>
+                              <place type="Bezirksobrigkeit" n="14.">
+                                 <placeName>Herrschaft Reifnitz.</placeName>
                                  <note>(Inhaber: Anton Rudesch.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -10993,8 +10990,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="15">
-                                 <placeName>Herzogthum Gottschee</placeName>
+                              <place type="Bezirksobrigkeit" n="15.">
+                                 <placeName>Herzogthum Gottschee.</placeName>
                                  <note>(Inhaber: Fürst Wilhelm v. Auersperg.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -11960,10 +11957,10 @@
                            </listPlace>
                         </place>
                         <place type="Section" n="V.">
-                           <placeName>Krupp</placeName>
+                           <placeName>Krupp.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="16">
-                                 <placeName>Herrschaft Pölland</placeName>
+                              <place type="Bezirksobrigkeit" n="16.">
+                                 <placeName>Herrschaft Pölland.</placeName>
                                  <note>(Inhaber: Fürst Wilhelm v. Auersperg.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -12187,8 +12184,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="17">
-                                 <placeName>Herrschaft Krupp</placeName>
+                              <place type="Bezirksobrigkeit" n="17.">
+                                 <placeName>Herrschaft Krupp.</placeName>
                                  <note>(Inhaber: Alois Freyherr v. Apfalterer.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -12931,18 +12928,18 @@
                                  </listPlace>
                               </place>
                            </listPlace>
-                           <!-- gap: spuščena tabela z sumarnimi statističnimi podatki za Kreis Neustadtl -->
+                           <!-- gap: spuščena tabela z sumarnimi statističnimi podatki za Kreis Neustadtl, str. 64 -->
                         </place>
                      </listPlace>
                   </place>
                   <place type="Kreis">
-                     <placeName>Adelsberg</placeName>
+                     <placeName>Adelsberg.</placeName>
                      <listPlace>
                         <place type="Section" n="I.">
-                           <placeName>Planina</placeName>
+                           <placeName>Planina.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="1">
-                                 <placeName>Staatsherrschaft Freudenthal</placeName>
+                              <place type="Bezirksobrigkeit" n="1.">
+                                 <placeName>Staatsherrschaft Freudenthal.</placeName>
                                  <note>(Dem kaiserl. königl. Religionsfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -13288,8 +13285,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="2">
-                                 <placeName>Herrschaft Loitsch</placeName>
+                              <place type="Bezirksobrigkeit" n="2.">
+                                 <placeName>Herrschaft Loitsch.</placeName>
                                  <note>(Inhaber: Michael Graf v. Coronini.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -13373,8 +13370,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="3">
-                                 <placeName>Staatsherrschaft Idria</placeName>
+                              <place type="Bezirksobrigkeit" n="3.">
+                                 <placeName>Staatsherrschaft Idria.</placeName>
                                  <note>(Dem kaiserl. königl. montanistischen Ärario gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -13617,8 +13614,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="4">
-                                 <placeName>Herrschaft Haasberg</placeName>
+                              <place type="Bezirksobrigkeit" n="4.">
+                                 <placeName>Herrschaft Haasberg.</placeName>
                                  <note>(Inhaber: Michael Graf v. Coronini.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -13803,8 +13800,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="5">
-                                 <placeName>Herrschaft Schneeberg</placeName>
+                              <place type="Bezirksobrigkeit" n="5.">
+                                 <placeName>Herrschaft Schneeberg.</placeName>
                                  <note>(Inhaber: Alois Graf Lichtenbergische Erben.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -14246,10 +14243,10 @@
                            </listPlace>
                         </place>
                         <place type="Section" n="II.">
-                           <placeName>Adelsberg</placeName>
+                           <placeName>Adelsberg.</placeName>
                            <listPlace>
-                              <place type="Bezirksobrigkeit" n="6">
-                                 <placeName>Staatsherrschaft Adelsberg</placeName>
+                              <place type="Bezirksobrigkeit" n="6.">
+                                 <placeName>Staatsherrschaft Adelsberg.</placeName>
                                  <note>(Dem kaiserl. königl. Bankalfonde gehörig.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -14446,8 +14443,8 @@
                                     </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="7">
-                                 <placeName>Herrschaft Senosetsch</placeName>
+                              <place type="Bezirksobrigkeit" n="7.">
+                                 <placeName>Herrschaft Senosetsch.</placeName>
                                  <note>(Inhaber: Fürst Franz Seraphin v. Porzia.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -14680,8 +14677,8 @@
                                    </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="8">
-                                 <placeName>Herrschaft Prem</placeName>
+                              <place type="Bezirksobrigkeit" n="8.">
+                                 <placeName>Herrschaft Prem.</placeName>
                                  <note>(Inhaber: Fürst Franz Seraphin v. Porzia.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -14901,8 +14898,8 @@
                                    </place>
                                  </listPlace>
                               </place>
-                              <place type="Bezirksobrigkeit" n="9">
-                                 <placeName>Herrschaft Wipbach</placeName>
+                              <place type="Bezirksobrigkeit" n="9.">
+                                 <placeName>Herrschaft Wipbach.</placeName>
                                  <note>(Inhaber: Graf Thadeus Lanthierische Erben.)</note>
                                  <listPlace type="Hauptgemeinden">
                                     <place>
@@ -14939,7 +14936,7 @@
                                               <placeName>Losche</placeName>
                                             </place>
                                             <place>
-                                              <placeName>Nianzhe</placeName><!-- PREVERITI, STR. 74 -->
+                                              <placeName>Manzhe</placeName>
                                             </place>
                                           </listPlace>
                                         </place>
@@ -15194,16 +15191,16 @@
                </listPlace>
             </place>
             <place type="Provinz">
-              <placeName>Kärnthen</placeName>
+              <placeName>Kärnthen.</placeName>
               <listPlace>
                 <place type="Kreis">
-                  <placeName>Villach</placeName>
+                  <placeName>Villach.</placeName>
                   <listPlace>
                     <place type="Section" n="I.">
-                      <placeName>Villach</placeName>
+                      <placeName>Villach.</placeName>
                       <listPlace>
-                        <place type="Bezirksobrigkeit" n="1">
-                          <placeName>Staatsherrschaft Burgamt Villach</placeName>
+                        <place type="Bezirksobrigkeit" n="1.">
+                          <placeName>Staatsherrschaft Burgamt Villach.</placeName>
                           <note>(Dem kaiserl. königl. Bankalfonde gehörig.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -15349,8 +15346,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="2">
-                          <placeName>Herrschaft Rosegg</placeName>
+                        <place type="Bezirksobrigkeit" n="2.">
+                          <placeName>Herrschaft Rosegg.</placeName>
                           <note>(Inhaber: Franz Orsini Fürst zu Rosenberg.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -15860,8 +15857,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="3">
-                          <placeName>Herrschaft Federaun zu Tarvis</placeName>
+                        <place type="Bezirksobrigkeit" n="3.">
+                          <placeName>Herrschaft Federaun zu Tarvis.</placeName>
                           <note>(Inhaber: Ritter v. Stahlbergische Erben.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -15983,8 +15980,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="4">
-                          <placeName>Staatsherrschaft Arnoldstein</placeName>
+                        <place type="Bezirksobrigkeit" n="4.">
+                          <placeName>Staatsherrschaft Arnoldstein.</placeName>
                           <note>(Dem kaiserl. königl. Religionsfonde gehörig.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -16198,11 +16195,11 @@
                         </place>
                       </listPlace>
                     </place>
-                    <place type="Section" n="II">
-                      <placeName>Feldkirchen</placeName>
+                    <place type="Section" n="II.">
+                      <placeName>Feldkirchen.</placeName>
                       <listPlace>
-                        <place type="Bezirksobrigkeit" n="5">
-                          <placeName>Staatsherrschaft Ossiach zu Feldkirchen</placeName>
+                        <place type="Bezirksobrigkeit" n="5.">
+                          <placeName>Staatsherrschaft Ossiach zu Feldkirchen.</placeName>
                           <note>(Dem kaiserl. königl. Religionsfonde gehörig.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -16817,8 +16814,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="6">
-                          <placeName>Herrschaft Landskron</placeName>
+                        <place type="Bezirksobrigkeit" n="6.">
+                          <placeName>Herrschaft Landskron.</placeName>
                           <note>(Inhaber: Johann Duklas Graf v. Dietrichstein.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -17213,8 +17210,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="7">
-                          <placeName>Staatsherrschaft Millstatt</placeName>
+                        <place type="Bezirksobrigkeit" n="7.">
+                          <placeName>Staatsherrschaft Millstatt.</placeName>
                           <note>(Dem kaiserl. königl. Grätzer Studienfonde gehörig.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -17579,8 +17576,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="8">
-                          <placeName>Herrschaft Paternion</placeName>
+                        <place type="Bezirksobrigkeit" n="8.">
+                          <placeName>Herrschaft Paternion.</placeName>
                           <note>(Inhaber: Grafen v. Widmann.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -17880,12 +17877,12 @@
                         </place>
                       </listPlace>
                     </place>
-                    <place type="Section" n="3">
-                      <placeName>Gmünd</placeName>
+                    <place type="Section" n="III.">
+                      <placeName>Gmünd.</placeName>
                       <listPlace>
-                        <place type="Bezirksobrigkeit" n="9">
-                          <placeName>Herrschaft Gmünd</placeName>
-                          <note>(Inhaber: Hieronimus Graf v. Lodron)</note>
+                        <place type="Bezirksobrigkeit" n="9.">
+                          <placeName>Herrschaft Gmünd.</placeName>
+                          <note>(Inhaber: Hieronimus Graf v. Lodron.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
                               <placeName>Gmünd</placeName>
@@ -18294,8 +18291,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="10">
-                          <placeName>Spittal</placeName>
+                        <place type="Bezirksobrigkeit" n="10.">
+                          <placeName>Spittal.</placeName>
                           <note>(Inhaber: Franz Seraphin Fürst v. Porzia.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -18689,8 +18686,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="11">
-                          <placeName>Herrschaft Obervellach</placeName>
+                        <place type="Bezirksobrigkeit" n="11.">
+                          <placeName>Herrschaft Obervellach.</placeName>
                           <note>(Inhaber: Freyherr v. Sternbach.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -18856,8 +18853,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="12">
-                          <placeName>Staatsherrschaft Stall</placeName>
+                        <place type="Bezirksobrigkeit" n="12.">
+                          <placeName>Staatsherrschaft Stall.</placeName>
                           <note>(Dem kaiserl. königl. Kameralfonde gehörig.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -19149,10 +19146,10 @@
                       </listPlace>
                     </place>
                     <place type="Section" n="IV.">
-                      <placeName>St. Hermagor</placeName>
+                      <placeName>St. Hermagor.</placeName>
                       <listPlace>
-                        <place type="Bezirksobrigkeit" n="13">
-                          <placeName>Herrschaft Greifenburg</placeName>
+                        <place type="Bezirksobrigkeit" n="13.">
+                          <placeName>Herrschaft Greifenburg.</placeName>
                           <note>(Inhaber: Franz Orsini Fürst zu Rosenberg.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -19533,8 +19530,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="14">
-                          <placeName>Herrschaft Kötschach</placeName>
+                        <place type="Bezirksobrigkeit" n="14.">
+                          <placeName>Herrschaft Kötschach.</placeName>
                           <note>(Inhaber: Franz Seraphin Fürst v. Porzia.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -19905,8 +19902,8 @@
                             </place>
                           </listPlace>
                         </place>
-                        <place type="Bezirksobrigkeit" n="15">
-                          <placeName>Herrschaft Grünburg zu Möderndorf</placeName>
+                        <place type="Bezirksobrigkeit" n="15.">
+                          <placeName>Herrschaft Grünburg zu Möderndorf.</placeName>
                           <note>(Inhaber: Franz Seraphin Fürst v. Porzia.)</note>
                           <listPlace type="Hauptgemeinden">
                             <place>
@@ -20318,6 +20315,7 @@
                                     </place>
                                   </listPlace>
                                 </place>
+                                <!-- gap: spuščena tabela z sumarnimi statističnimi podatki za Kreis Villach, str. 99 -->
                               </listPlace>
                             </place>
                           </listPlace>
